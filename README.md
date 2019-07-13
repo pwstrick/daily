@@ -27,8 +27,6 @@
 
 投稿方式是先加微信号freedom20180706或扫描下面的二维码，请求中需注明“投稿”。
 
-![微信账号](https://github.com/pwstrick/daily/raw/master/assets/img/qrcode.jpg)
-
 <img src="https://github.com/pwstrick/daily/raw/master/assets/img/qrcode.jpg" width="200" />
 
 我还建立了一个微信前端交流群，如要进群，可在加好友后和我说一下。
