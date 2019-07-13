@@ -1,6 +1,6 @@
 ## 综合
 
-<img src="https://github.com/pwstrick/daily/blob/master/assets/img/book/1.jpg" height=“100" />
+<img src="https://github.com/pwstrick/daily/raw/master/assets/img/book/1.jpg" height=“100" />
 
 <img src="https://github.com/pwstrick/daily/raw/master/assets/img/qrcode.jpg" width="200" />
 
