@@ -1,8 +1,18 @@
 ## 前端
 [《指尖上行 移动前端开发进阶之路》](https://book.douban.com/subject/27149862/) [书摘](https://www.cnblogs.com/strick/p/9342415.html)
+[《前端工程化体系设计与实践》](https://book.douban.com/subject/27605366/) [书摘](https://www.cnblogs.com/strick/p/9203338.html)
+[《前端架构设计》](https://book.douban.com/subject/27019706/) [书摘](https://www.cnblogs.com/strick/p/8611077.html)
 
 ## 面试
 [《剑指Offer：名企面试官精讲典型编程题》](https://book.douban.com/subject/27008702/) [书摘](https://www.cnblogs.com/strick/p/9908591.html)
+
+## 算法
+[《枕边算法书》](https://book.douban.com/subject/30163021/) [书摘](https://www.cnblogs.com/strick/p/9324530.html)
+
+[《编程之美》](https://book.douban.com/subject/3004255/) [书摘](https://www.cnblogs.com/strick/p/9324530.html)
+
+## 项目管理
+[《写给大家看的项目管理书》](https://book.douban.com/subject/26638046/) [书摘](https://www.cnblogs.com/strick/p/8460929.html)
 
 ## 数学
 [《程序员的数学思维修炼（趣味解读）》](https://book.douban.com/subject/25854719/) [书摘](https://www.cnblogs.com/strick/p/9378124.html)
@@ -13,7 +23,6 @@
 
 
 ## 综合
-
 [《程序员健康指南》](https://book.douban.com/subject/25981248/) [书摘](https://www.cnblogs.com/strick/p/10836794.html)
 
 [《软技能 代码之外的生存指南》](https://book.douban.com/subject/26835090/) [书摘](https://www.cnblogs.com/strick/p/9851665.html)
@@ -30,5 +39,4 @@
 
 
 ## 营销
-
 [《网络营销决胜武器(第2版)》](https://book.douban.com/subject/26415532/) [书摘](https://www.cnblogs.com/strick/p/9824965.html)
