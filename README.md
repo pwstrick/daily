@@ -12,7 +12,7 @@
 
 每周五更新。
 
-[2019年](https://github.com/pwstrick/daily/tree/master/article/2019)
+[2019年](https://github.com/pwstrick/daily/blob/master/article/2019.md)
 
 ## 书籍分享
 
