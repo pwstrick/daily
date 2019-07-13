@@ -1,6 +1,10 @@
 ## JavaScript
 [《JavaScript忍者秘籍》](https://book.douban.com/subject/26638316/) [书摘](https://www.cnblogs.com/strick/p/6048862.html)
 
+[《你不知道的JavaScript》系列](https://book.douban.com/subject/26351021/) [书摘](https://www.cnblogs.com/strick/category/872767.html)
+
+
+
 ## 前端
 [《指尖上行 移动前端开发进阶之路》](https://book.douban.com/subject/27149862/) [书摘](https://www.cnblogs.com/strick/p/9342415.html)
 
@@ -9,6 +13,8 @@
 [《前端架构设计》](https://book.douban.com/subject/27019706/) [书摘](https://www.cnblogs.com/strick/p/8611077.html)
 
 [《渐进增强——跨平台用户体验设计》](https://book.douban.com/subject/27070181/) [书摘](https://www.cnblogs.com/strick/p/7011220.html)
+
+## 网络
 
 ## 面试
 [《剑指Offer：名企面试官精讲典型编程题》](https://book.douban.com/subject/27008702/) [书摘](https://www.cnblogs.com/strick/p/9908591.html)
