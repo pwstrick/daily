@@ -113,6 +113,10 @@
 ## 面试
 [《剑指Offer：名企面试官精讲典型编程题》](https://book.douban.com/subject/27008702/) [书摘](https://www.cnblogs.com/strick/p/9908591.html)
 
+[《前端程序员面试笔试宝典》](https://book.douban.com/subject/30324146/) 
+
+[《前端程序员面试笔试真题库》](https://book.douban.com/subject/30357905/) 
+
 ## 性能
 [《高性能JavaScript》](https://book.douban.com/subject/5362856/) [书摘](https://www.cnblogs.com/strick/p/6769634.html)
 
