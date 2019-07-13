@@ -194,3 +194,5 @@
 
 ## 营销
 [《网络营销决胜武器(第2版)》](https://book.douban.com/subject/26415532/) [书摘](https://www.cnblogs.com/strick/p/9824965.html)
+
+[《网络营销创意三十六计》](https://book.douban.com/subject/27044446/) 
