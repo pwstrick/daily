@@ -4,9 +4,7 @@
 这是一份我从各种途径搜集到的前端面试题目清单。  
 经过自己的梳理分类以及文字加工，力求做到覆盖面广、可读性高。  
 题目不仅涉及到了目前流行的HTML5、ES6、React、Webpack等内容，还包括通用的网络和软技能。  
-后面将持续更新，对题目保持补充，在相应的issue中可对该题进行交流。
-
-**希望这些题目能帮助到你**。  
+后面将持续更新，对题目保持补充，在相应的issue中可对该题进行交流。**希望这些题目能帮助到你**。  
 
 1. [HTML（包括HTML5，共有79道）](https://github.com/pwstrick/daily/blob/master/interview/html.md)
 2. [CSS（包括CSS3，共有98道）](https://github.com/pwstrick/daily/blob/master/interview/css.md)
