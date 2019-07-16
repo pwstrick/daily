@@ -104,5 +104,6 @@
 96. What salary gure do you have in mind?
 97. Would you be willing to accept a lower salary for a training period of six months?
 98. What kind of benets are you looking for?
-99. How important is salary to you? 100. How do you feel about working overtime?
+99. How important is salary to you? 
+100. How do you feel about working overtime?
 101. What do you expect to be earning in ve years?
