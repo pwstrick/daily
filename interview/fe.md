@@ -1,9 +1,9 @@
-°üº¬ËùÓĞ²»ÊôÓÚÆäËüÀà±ğµÄÌâÄ¿¡£
+åŒ…å«æ‰€æœ‰ä¸å±äºå…¶å®ƒç±»åˆ«çš„é¢˜ç›®ã€‚
 
-1. [Ç°¶ËÎªÊ²Ã´Ìá³«Ä£¿é»¯¿ª·¢£¿](https://github.com/pwstrick/daily/issues/434)
-2. [Ê²Ã´ÊÇMVVMÄ£Ê½£¿](https://github.com/pwstrick/daily/issues/435)
-3. [ÒÆ¶¯¶ËµÄÆÁÄ»ÖÖÀàÖÚ¶à£¬ÄãÊÇÔõÃ´ÊÊÅäËüÃÇµÄ£¿](https://github.com/pwstrick/daily/issues/436)
-4. [Ê²Ã´ÊÇÃô½İÈí¼ş£¿](https://github.com/pwstrick/daily/issues/437)
-5. [¼«ÏŞ±à³ÌXPµÄºËĞÄË¼ÏëÊÇÊ²Ã´£¿](https://github.com/pwstrick/daily/issues/438)
-6. [Èí¼şµÄÁù´óÖÊÁ¿ÌØĞÔÊÇÖ¸Ê²Ã´£¿](https://github.com/pwstrick/daily/issues/439)
-7. [Ê²Ã´ÊÇÉè¼ÆÄ£Ê½£¿ÓĞÄÄĞ©³£¼ûµÄÉè¼ÆÄ£Ê½£¿](https://github.com/pwstrick/daily/issues/440)
+1. [å‰ç«¯ä¸ºä»€ä¹ˆæå€¡æ¨¡å—åŒ–å¼€å‘ï¼Ÿ](https://github.com/pwstrick/daily/issues/434)
+2. [ä»€ä¹ˆæ˜¯MVVMæ¨¡å¼ï¼Ÿ](https://github.com/pwstrick/daily/issues/435)
+3. [ç§»åŠ¨ç«¯çš„å±å¹•ç§ç±»ä¼—å¤šï¼Œä½ æ˜¯æ€ä¹ˆé€‚é…å®ƒä»¬çš„ï¼Ÿ](https://github.com/pwstrick/daily/issues/436)
+4. [ä»€ä¹ˆæ˜¯æ•æ·è½¯ä»¶ï¼Ÿ](https://github.com/pwstrick/daily/issues/437)
+5. [æé™ç¼–ç¨‹XPçš„æ ¸å¿ƒæ€æƒ³æ˜¯ä»€ä¹ˆï¼Ÿ](https://github.com/pwstrick/daily/issues/438)
+6. [è½¯ä»¶çš„å…­å¤§è´¨é‡ç‰¹æ€§æ˜¯æŒ‡ä»€ä¹ˆï¼Ÿ](https://github.com/pwstrick/daily/issues/439)
+7. [ä»€ä¹ˆæ˜¯è®¾è®¡æ¨¡å¼ï¼Ÿæœ‰å“ªäº›å¸¸è§çš„è®¾è®¡æ¨¡å¼ï¼Ÿ](https://github.com/pwstrick/daily/issues/440)

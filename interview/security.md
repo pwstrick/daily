@@ -1,3 +1,3 @@
-1. [什么叫点击劫持？对这种攻击有什么解决办法？](https://github.com/pwstrick/daily/issues/441)
-2. [XSS是什么？对这种攻击有哪些防范办法？](https://github.com/pwstrick/daily/issues/442)
-3. [请简单解释一下CSRF的攻击原理和防御手段。](https://github.com/pwstrick/daily/issues/443)
+1. [浠�涔堝彨鐐瑰嚮鍔寔锛熷杩欑鏀诲嚮鏈変粈涔堣В鍐冲姙娉曪紵](https://github.com/pwstrick/daily/issues/441)
+2. [XSS鏄粈涔堬紵瀵硅繖绉嶆敾鍑绘湁鍝簺闃茶寖鍔炴硶锛焆(https://github.com/pwstrick/daily/issues/442)
+3. [璇风畝鍗曡В閲婁竴涓婥SRF鐨勬敾鍑诲師鐞嗗拰闃插尽鎵嬫銆俔(https://github.com/pwstrick/daily/issues/443)
