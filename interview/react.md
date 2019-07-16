@@ -84,3 +84,7 @@
 84. [如何使用Hooks获取数据?](https://github.com/pwstrick/daily/issues/432)
 85. [Hooks是否涵盖了类的所有用例?](https://github.com/pwstrick/daily/issues/433)
 
+## 思维导图
+![React](https://github.com/pwstrick/daily/blob/master/assets/img/mind/React.png)
+
+参考资料：[React躬行记](https://zhuanlan.zhihu.com/c_1106570474259271680)

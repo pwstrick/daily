@@ -51,3 +51,5 @@
 51. [IP地址200.5.6.4属于哪一类地址？](https://github.com/pwstrick/daily/issues/631)
 52. [可以显示源机器与目标机器之间的路由数量，以及各路由之间的RTT的是哪个命令？](https://github.com/pwstrick/daily/issues/632)
 
+## 思维导图
+![Network](https://github.com/pwstrick/daily/blob/master/assets/img/mind/Network.png)

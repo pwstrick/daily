@@ -208,4 +208,5 @@ for (var i = 0; i < 3; i++) {
 103. [请解释JSONP的工作原理，并用代码描述其过程。](https://github.com/pwstrick/daily/issues/347)
 104. [如何用jQuery来创建插件？](https://github.com/pwstrick/daily/issues/348)
 
-
+## 思维导图
+![JavaScript](https://github.com/pwstrick/daily/blob/master/assets/img/mind/JavaScript.png)

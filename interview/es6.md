@@ -68,7 +68,10 @@
 65. [如何将Map转换成数组？](https://github.com/pwstrick/daily/issues/166)
 66. [yield和return有哪些区别？](https://github.com/pwstrick/daily/issues/167)
 
+## 思维导图
+![ES6](https://github.com/pwstrick/daily/blob/master/assets/img/mind/ES6.png)
 
+参考资料：[ES6躬行记](https://www.kancloud.cn/pwstrick/fe-questions/1094971)
 
 
 

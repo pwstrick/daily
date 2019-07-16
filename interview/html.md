@@ -77,3 +77,6 @@
 77. [用meta元素的两种声明方式，把当前HTML文档中的内容用UTF-8进行编码。](https://github.com/pwstrick/daily/issues/243)
 78. [如何用iframe元素实现无刷新文件上传。](https://github.com/pwstrick/daily/issues/244)
 79. [用canvas元素画一个蓝底白字的矩形按钮。](https://github.com/pwstrick/daily/issues/245)
+
+## 思维导图
+![HTML](https://github.com/pwstrick/daily/blob/master/assets/img/mind/HTML.png)
