@@ -87,4 +87,4 @@
 ## 思维导图
 ![React](https://github.com/pwstrick/daily/blob/master/assets/img/mind/React.png)
 
-参考资料：[React躬行记](https://zhuanlan.zhihu.com/c_1106570474259271680)
+参考资料：[React躬行记](https://zhuanlan.zhihu.com/pwreact)
