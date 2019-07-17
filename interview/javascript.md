@@ -207,6 +207,16 @@ for (var i = 0; i < 3; i++) {
 102. [不借助第三方类库，请实现一次简单的Ajax请求。](https://github.com/pwstrick/daily/issues/346)
 103. [请解释JSONP的工作原理，并用代码描述其过程。](https://github.com/pwstrick/daily/issues/347)
 104. [如何用jQuery来创建插件？](https://github.com/pwstrick/daily/issues/348)
+105. [两次输出各是什么？](https://github.com/pwstrick/daily/issues/729)
+```javascript
+     for (var i = 0; i < 3; i++) {
+       setTimeout(() => console.log(i), 1)
+     }
+     
+     for (let i = 0; i < 3; i++) {
+       setTimeout(() => console.log(i), 1)
+     }
+```
 
 ## 思维导图
 ![JavaScript](https://github.com/pwstrick/daily/blob/master/assets/img/mind/JavaScript.png)

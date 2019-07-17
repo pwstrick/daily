@@ -68,6 +68,33 @@
 65. [如何将Map转换成数组？](https://github.com/pwstrick/daily/issues/166)
 66. [yield和return有哪些区别？](https://github.com/pwstrick/daily/issues/167)
 
+67. [下面代码的输出是什么？](https://github.com/pwstrick/daily/issues/728)
+```javascript
+    function sayHi() {
+      console.log(name);
+      console.log(age);
+      var name = "Lydia";
+      let age = 21;
+    }
+    sayHi();
+```
+
+68. [下面代码的输出是什么？](https://github.com/pwstrick/daily/issues/730)
+```javascript
+const shape = {
+  radius: 10,
+  diameter() {
+    return this.radius * 2
+  },
+  perimeter: () => 2 * Math.PI * this.radius
+}
+
+shape.diameter()
+shape.perimeter()
+```
+
+
+
 ## 思维导图
 ![ES6](https://github.com/pwstrick/daily/blob/master/assets/img/mind/ES6.png)
 
