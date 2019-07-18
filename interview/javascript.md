@@ -342,8 +342,8 @@ machine('ygy').waitFirst(5).do('eat').execute();
 127. [递归和迭代的区别是什么，各有什么优缺点？](https://github.com/pwstrick/daily/issues/823)
 128. [实现一个类型判断函数，需要鉴别出基本类型、function、null、NaN、数组、对象？](https://github.com/pwstrick/daily/issues/825)
 129. [什么是节流和抖动？](https://github.com/pwstrick/daily/issues/827)
-129. [深拷贝和浅拷贝有什么区别？](https://github.com/pwstrick/daily/issues/828)
-130. [如何实现对一个DOM元素的深拷贝，包括元素的绑定事件？](https://github.com/pwstrick/daily/issues/833)
+130. [深拷贝和浅拷贝有什么区别？](https://github.com/pwstrick/daily/issues/828)
+131. [如何实现对一个DOM元素的深拷贝，包括元素的绑定事件？](https://github.com/pwstrick/daily/issues/833)
 
 
 ## 思维导图
