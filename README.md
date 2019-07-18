@@ -47,8 +47,8 @@
 
 我还建立了一个微信前端交流群，如要进群，可在加好友后和我说一下。
 
-## 前端技术栈
+## 前端技能图谱
 下图引用自[roadmap.sh](https://roadmap.sh/frontend)。
 
-<img src="https://github.com/pwstrick/daily/raw/master/assets/img/qrcode.jpg" width="100%" />
+<img src="https://github.com/pwstrick/daily/raw/master/assets/img/fe-transparent.png" width="100%" />
 
