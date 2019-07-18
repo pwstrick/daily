@@ -218,5 +218,133 @@ for (var i = 0; i < 3; i++) {
      }
 ```
 
+106. [下面代码的输出是什么？](https://github.com/pwstrick/daily/issues/737)
+```javascript
+function Person(firstName, lastName) {
+  this.firstName = firstName;
+  this.lastName = lastName;
+}
+
+const lydia = new Person("Lydia", "Hallie");
+const sarah = Person("Sarah", "Smith");
+
+console.log(lydia);
+console.log(sarah);
+```
+
+107. [当我们这样做时会发生什么？](https://github.com/pwstrick/daily/issues/738)
+```javascript
+function bark() {
+  console.log("Woof!");
+}
+bark.animal = "dog";
+```
+
+108. [事件传播的三个阶段是什么？](https://github.com/pwstrick/daily/issues/739)
+109. [所有对象都有原型，这句描述是否正确？](https://github.com/pwstrick/daily/issues/740)
+
+110. [下面代码的输出是什么？](https://github.com/pwstrick/daily/issues/741)
+```javascript
+let number = 0;
+console.log(number++);
+console.log(++number);
+console.log(number);
+```
+
+111. [下面代码的输出是什么？](https://github.com/pwstrick/daily/issues/743)
+```javascript
+function checkAge(data) {
+  if (data === { age: 18 }) {
+    console.log("You are an adult!");
+  } else if (data == { age: 18 }) {
+    console.log("You are still an adult.");
+  } else {
+    console.log(`Hmm.. You don't have an age I guess`);
+  }
+}
+checkAge({ age: 18 });
+```
+
+112. [下面代码的输出是什么？](https://github.com/pwstrick/daily/issues/745)
+```javascript
+function getAge() {
+  "use strict";
+  age = 21;
+  console.log(age);
+}
+getAge();
+```
+
+113. [cool_secret可以访问多长时间？](https://github.com/pwstrick/daily/issues/746)
+```javascript
+sessionStorage.setItem("cool_secret", 123);
+```
+
+114. [JavaScript全局执行上下文为你创建了全局对象和this关键字，这句话是否正确？](https://github.com/pwstrick/daily/issues/749)
+115. [单击按钮时event.target指向的是哪个元素？](https://github.com/pwstrick/daily/issues/753)
+```html
+<div onclick="console.log('first div')">
+  <div onclick="console.log('second div')">
+    <button onclick="console.log('button')">
+      Click!
+    </button>
+  </div>
+</div>
+```
+
+116. [单击下面的html片段打印的内容是什么？](https://github.com/pwstrick/daily/issues/754)
+```html
+<div onclick="console.log('div')">
+  <p onclick="console.log('p')">
+    Click here!
+  </p>
+</div>
+```
+
+117. [下面这些值哪些是假值？](https://github.com/pwstrick/daily/issues/757)
+```javascript
+0;
+new Number(0);
+("");
+(" ");
+new Boolean(false);
+undefined;
+```
+
+118. [前端的requestAnimationFrame了解吗？有使用过吗？请说一下使用场景。](https://github.com/pwstrick/daily/issues/768)
+119. [对前后端跨域可以说一下吗？有碰到过跨域问题吗？如何解决跨域的？](https://github.com/pwstrick/daily/issues/769)
+120. [闭包为什么会造成内存泄漏？](https://github.com/pwstrick/daily/issues/784)
+121. [请讲一下JavaScript的垃圾回收机制。](https://github.com/pwstrick/daily/issues/785)
+122. [求一个对象的层级数，用递归和循环分别实现。](https://github.com/pwstrick/daily/issues/799)
+123. [实现下面这道题中的machine函数。](https://github.com/pwstrick/daily/issues/800)
+```javascript
+function machine() {
+    
+}
+machine('ygy').execute() 
+// start ygy
+machine('ygy').do('eat').execute(); 
+// start ygy
+// ygy eat
+machine('ygy').wait(5).do('eat').execute();
+// start ygy
+// wait 5s（这里等待了5s）
+// ygy eat
+machine('ygy').waitFirst(5).do('eat').execute();
+// wait 5s
+// start ygy
+// ygy eat
+```
+
+124. [lodash和ramda的区别是什么？](https://github.com/pwstrick/daily/issues/809)
+125. [字符串和new String出来的字符串有啥区别？](https://github.com/pwstrick/daily/issues/810)
+126. [JS如何判断网页中图片加载成功或者失败？](https://github.com/pwstrick/daily/issues/822)
+127. [递归和迭代的区别是什么，各有什么优缺点？](https://github.com/pwstrick/daily/issues/823)
+128. [实现一个类型判断函数，需要鉴别出基本类型、function、null、NaN、数组、对象？](https://github.com/pwstrick/daily/issues/825)
+129. [什么是节流和抖动？](https://github.com/pwstrick/daily/issues/827)
+129. [深拷贝和浅拷贝有什么区别？](https://github.com/pwstrick/daily/issues/828)
+130. [如何实现对一个DOM元素的深拷贝，包括元素的绑定事件？](https://github.com/pwstrick/daily/issues/833)
+
+
 ## 思维导图
 ![JavaScript](https://github.com/pwstrick/daily/blob/master/assets/img/mind/JavaScript.png)

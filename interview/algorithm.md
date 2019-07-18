@@ -87,3 +87,8 @@
 87. [如何在大量的数据中找出不重复的整数。](https://github.com/pwstrick/daily/issues/578)  
 88. [如何在大量的数据中判断一个数是否存在。](https://github.com/pwstrick/daily/issues/579)  
 89. [如何从5亿个数中找出中位数。](https://github.com/pwstrick/daily/issues/580)  
+89. [简单讲一下关于加密算法相关的内容。](https://github.com/pwstrick/daily/issues/774)
+90. [请实现几个你所知的排序算法。](https://github.com/pwstrick/daily/issues/787)
+91. [简要介绍一下RSA。](https://github.com/pwstrick/daily/issues/832)
+92. [介绍一下KMP算法？](https://github.com/pwstrick/daily/issues/835)
+

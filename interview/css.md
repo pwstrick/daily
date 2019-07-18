@@ -96,6 +96,8 @@
 96. [用CSS中的表格盒类型（即把display属性设为表格相关的盒类型）实现元素的垂直居中。](https://github.com/pwstrick/daily/issues/99)
 97. [用伸缩盒实现子元素的水平和垂直居中。](https://github.com/pwstrick/daily/issues/100)
 98. [如何让一个浮动中的元素水平居中？](https://github.com/pwstrick/daily/issues/101)
+99. [如何实现一个自适应的正方形？](https://github.com/pwstrick/daily/issues/841)
+100. [CSS3动画如何实现暂停？](https://github.com/pwstrick/daily/issues/843)
 
 ## 思维导图
 ![CSS](https://github.com/pwstrick/daily/blob/master/assets/img/mind/CSS.png)

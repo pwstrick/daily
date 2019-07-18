@@ -93,5 +93,16 @@
 93. [在为期N个月的试用期，你是否能接受降低工资？](https://github.com/pwstrick/daily/issues/725)
 94. [你会寻求哪些福利？](https://github.com/pwstrick/daily/issues/726)
 95. [你预期在未来5年内，薪资水平达到多少？](https://github.com/pwstrick/daily/issues/727)
-
+96. [你最近有比较感兴趣的、主要研究的技术吗？为什么感兴趣？](https://github.com/pwstrick/daily/issues/802)
+97. [你对团队的要求是怎么样的？你毕业这一年多收获最大的是什么？](https://github.com/pwstrick/daily/issues/803)
+98. [说一下你做过最有成长的一个项目，简单总结一下。](https://github.com/pwstrick/daily/issues/772)
+99. [在之前工作中做的项目中有收获的，系统描述一下收获了什么？](https://github.com/pwstrick/daily/issues/781)
+100. [你工作以来，在项目中遇到的印象深刻的问题有哪些？有没有在项目实践过一些自己的想法和新技术？](https://github.com/pwstrick/daily/issues/796)
+101. [你说你学习能力强，那你毕业这一年多来，你都是怎么熟悉业务和项目的？有系统的看完过哪本书？](https://github.com/pwstrick/daily/issues/798)
+102. [你们团队中的每个成员都是什么角色？你在里面扮演什么角色？](https://github.com/pwstrick/daily/issues/806)
+103. [你觉得你最擅长的技术是哪一块？](https://github.com/pwstrick/daily/issues/817)
+104. [从你的项目中随便找一个，说一说这个项目解决了哪方面的问题，业务或者技术上的都行。](https://github.com/pwstrick/daily/issues/818)
+105. [为什么只在上家公司呆了一年多就出来找工作了？](https://github.com/pwstrick/daily/issues/819)
+106. [你最近有看过什么书？最近在研究的技术是什么？](https://github.com/pwstrick/daily/issues/820)
+107. [打算定居在一线城市还是回老家的城市发展？](https://github.com/pwstrick/daily/issues/821)
 

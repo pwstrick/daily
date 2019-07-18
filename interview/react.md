@@ -83,6 +83,16 @@
 83. [需要用Hooks重写所有类组件吗?](https://github.com/pwstrick/daily/issues/431)
 84. [如何使用Hooks获取数据?](https://github.com/pwstrick/daily/issues/432)
 85. [Hooks是否涵盖了类的所有用例?](https://github.com/pwstrick/daily/issues/433)
+86. [说一下Vue和React的认识，做一个简单的对比。](https://github.com/pwstrick/daily/issues/778)
+87. [React-Router的内部原理是怎么样的？](https://github.com/pwstrick/daily/issues/790)
+88. [Redux这一类的工具在解决什么问题？它的本质原理是怎样的？](https://github.com/pwstrick/daily/issues/793)
+89. [看到你用过MobX，说一下MobX的优势和实现原理。](https://github.com/pwstrick/daily/issues/795)
+90. [如果我需要上传一个文件，前端展示进度条，用setState会导致合并更新，你有什么好办法？](https://github.com/pwstrick/daily/issues/811)
+91. [有状态组件和无状态组件，有人说有状态的更好复用，有人说无状态的更好复用，你平时写的时候是怎么分的？](https://github.com/pwstrick/daily/issues/812)
+92. [React组件是怎么响应数据的变化从而更新的？](https://github.com/pwstrick/daily/issues/813)
+93. [虚拟DOM相比真实DOM，为什么会带来性能上的优化？](https://github.com/pwstrick/daily/issues/814)
+
+
 
 ## 思维导图
 ![React](https://github.com/pwstrick/daily/blob/master/assets/img/mind/React.png)

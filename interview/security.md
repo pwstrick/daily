@@ -1,3 +1,7 @@
 1. [什么叫点击劫持？对这种攻击有什么解决办法？](https://github.com/pwstrick/daily/issues/441)
 2. [XSS是什么？对这种攻击有哪些防范办法？](https://github.com/pwstrick/daily/issues/442)
 3. [请简单解释一下CSRF的攻击原理和防御手段。](https://github.com/pwstrick/daily/issues/443)
+4. [什么是重放攻击？解决方案有哪些？](https://github.com/pwstrick/daily/issues/764)
+5. [简要介绍一下DNS劫持和DNS污染？](https://github.com/pwstrick/daily/issues/848)
+6. [简要介绍一下SQL注入？](https://github.com/pwstrick/daily/issues/849)
+7. [请讲一下内容安全策略( CSP ) 。](https://github.com/pwstrick/daily/issues/850)

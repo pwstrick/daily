@@ -93,6 +93,194 @@ shape.diameter()
 shape.perimeter()
 ```
 
+69. [哪个选项是不正确的？](https://github.com/pwstrick/daily/issues/731)
+```javascript
+const bird = {
+  size: "small"
+};
+const mouse = {
+  name: "Mickey",
+  small: true
+};
+```
+A: mouse.bird.size  
+B: mouse[bird.size]  
+C: mouse[bird["size"]]  
+D: All of them are valid  
+
+70. [下面代码的输出是什么？](https://github.com/pwstrick/daily/issues/732)
+```javascript
+let c = { greeting: "Hey!" };
+let d;
+
+d = c;
+c.greeting = "Hello";
+console.log(d.greeting);
+```
+
+71. [下面代码的输出是什么？](https://github.com/pwstrick/daily/issues/733)
+```javascript
+let a = 3;
+let b = new Number(3);
+let c = 3;
+
+console.log(a == b);
+console.log(a === b);
+console.log(b === c);
+```
+
+72. [下面代码的输出是什么？](https://github.com/pwstrick/daily/issues/734)
+```javascript
+class Chameleon {
+  static colorChange(newColor) {
+    this.newColor = newColor;
+  }
+
+  constructor({ newColor = "green" } = {}) {
+    this.newColor = newColor;
+  }
+}
+
+const freddie = new Chameleon({ newColor: "purple" });
+freddie.colorChange("orange");
+```
+
+73. [下面代码的输出是什么？](https://github.com/pwstrick/daily/issues/735)
+```javascript
+let greeting;
+greetign = {};
+console.log(greetign);
+```
+
+74. [下面代码的输出是什么？](https://github.com/pwstrick/daily/issues/736)
+```javascript
+function Person(firstName, lastName) {
+  this.firstName = firstName;
+  this.lastName = lastName;
+}
+
+const member = new Person("Lydia", "Hallie");
+Person.getFullName = () => this.firstName + this.lastName;
+
+console.log(member.getFullName());
+```
+
+75. [下面代码的输出是什么？](https://github.com/pwstrick/daily/issues/742)
+```javascript
+function getPersonInfo(one, two, three) {
+  console.log(one);
+  console.log(two);
+  console.log(three);
+}
+const person = "Lydia";
+const age = 21;
+getPersonInfo`${person} is ${age} years old`;
+```
+
+76. [下面代码的输出是什么？](https://github.com/pwstrick/daily/issues/744)
+```javascript
+function getAge(...args) {
+  console.log(typeof args);
+}
+getAge(21);
+```
+
+77. [下面代码的输出是什么？](https://github.com/pwstrick/daily/issues/747)
+```javascript
+const obj = { 1: "a", 2: "b", 3: "c" };
+const set = new Set([1, 2, 3, 4, 5]);
+
+obj.hasOwnProperty("1");
+obj.hasOwnProperty(1);
+set.has("1");
+set.has(1);
+```
+
+78. [下面代码的输出是什么？](https://github.com/pwstrick/daily/issues/748)
+```javascript
+const obj = { a: "one", b: "two", a: "three" };
+console.log(obj);
+```
+
+79. [下面代码的输出是什么？](https://github.com/pwstrick/daily/issues/750)
+```javascript
+for (let i = 1; i < 5; i++) {
+  if (i === 3) continue;
+  console.log(i);
+}
+```
+
+80. [下面代码的输出是什么？](https://github.com/pwstrick/daily/issues/751)
+```javascript
+String.prototype.giveLydiaPizza = () => {
+  return "Just give Lydia pizza already!";
+};
+const name = "Lydia";
+name.giveLydiaPizza();
+```
+
+81. [下面代码的输出是什么？](https://github.com/pwstrick/daily/issues/752)
+```javascript
+const foo = () => console.log("First");
+const bar = () => setTimeout(() => console.log("Second"));
+const baz = () => console.log("Third");
+bar();
+foo();
+baz();
+```
+
+82. [下面代码的输出是什么？](https://github.com/pwstrick/daily/issues/755)
+```javascript
+const person = { name: "Lydia" };
+function sayHi(age) {
+  console.log(`${this.name} is ${age}`);
+}
+sayHi.call(person, 21);
+sayHi.bind(person, 21);
+```
+
+83. [下面代码的输出是什么？](https://github.com/pwstrick/daily/issues/756)
+```javascript
+function sayHi() {
+  return (() => 0)();
+}
+typeof sayHi();
+```
+
+84. [下面代码的输出是什么？](https://github.com/pwstrick/daily/issues/758)
+```javascript
+const numbers = [1, 2, 3];
+numbers[10] = 11;
+console.log(numbers);
+```
+
+85. [下面代码的输出是什么？](https://github.com/pwstrick/daily/issues/759)
+```javascript
+(() => {
+  let x, y;
+  try {
+    throw new Error();
+  } catch (x) {
+    (x = 1), (y = 2);
+    console.log(x);
+  }
+  console.log(x);
+  console.log(y);
+})();
+```
+
+86. [下面代码的输出是什么？](https://github.com/pwstrick/daily/issues/760)
+```javascript
+[[0, 1], [2, 3]].reduce(
+  (acc, cur) => {
+    return acc.concat(cur);
+  },
+  [1, 2]
+);
+```
+
+87. [如何实现Promise？](https://github.com/pwstrick/daily/issues/782)
+88. [箭头函数和普通函数有什么区别？](https://github.com/pwstrick/daily/issues/805)
 
 
 ## 思维导图

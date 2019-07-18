@@ -50,6 +50,12 @@
 50. [网络安全控制技术有哪些？](https://github.com/pwstrick/daily/issues/630)
 51. [IP地址200.5.6.4属于哪一类地址？](https://github.com/pwstrick/daily/issues/631)
 52. [可以显示源机器与目标机器之间的路由数量，以及各路由之间的RTT的是哪个命令？](https://github.com/pwstrick/daily/issues/632)
+53. [什么是弱网？弱网测试的目的是什么？](https://github.com/pwstrick/daily/issues/765)
+54. [DNS的作用有哪些？](https://github.com/pwstrick/daily/issues/808)
+55. [简要介绍一下Socket通信协议。](https://github.com/pwstrick/daily/issues/844)
+56. [什么是正向代理？什么是反向代理？](https://github.com/pwstrick/daily/issues/845)
+57. [端口号的作用是什么？](https://github.com/pwstrick/daily/issues/846)
+
 
 ## 思维导图
 ![Network](https://github.com/pwstrick/daily/blob/master/assets/img/mind/Network.png)
