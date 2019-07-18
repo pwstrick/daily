@@ -344,6 +344,11 @@ machine('ygy').waitFirst(5).do('eat').execute();
 129. [什么是节流和抖动？](https://github.com/pwstrick/daily/issues/827)
 130. [深拷贝和浅拷贝有什么区别？](https://github.com/pwstrick/daily/issues/828)
 131. [如何实现对一个DOM元素的深拷贝，包括元素的绑定事件？](https://github.com/pwstrick/daily/issues/833)
+132. [用代码模拟出apply()、call()和bind()三个函数。](https://github.com/pwstrick/daily/issues/854)
+133. [用代码模拟instanceof运算符。](https://github.com/pwstrick/daily/issues/855)
+134. [实现一个简单的路由。](https://github.com/pwstrick/daily/issues/856)
+135. [封装鼠标拖拽的功能。](https://github.com/pwstrick/daily/issues/857)
+136. [如何让两个非常大的数字相加？](https://github.com/pwstrick/daily/issues/859)
 
 
 ## 思维导图

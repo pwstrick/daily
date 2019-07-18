@@ -91,4 +91,4 @@
 91. [请实现几个你所知的排序算法。](https://github.com/pwstrick/daily/issues/787)
 92. [简要介绍一下RSA。](https://github.com/pwstrick/daily/issues/832)
 93. [介绍一下KMP算法？](https://github.com/pwstrick/daily/issues/835)
-
+94. [如何实现深度优先搜索和广度优先搜索？](https://github.com/pwstrick/daily/issues/853)

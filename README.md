@@ -8,14 +8,14 @@
 
 1. [HTML（包括HTML5，共有79道）](https://github.com/pwstrick/daily/blob/master/interview/html.md)
 2. [CSS（包括CSS3，共有100道）](https://github.com/pwstrick/daily/blob/master/interview/css.md)
-3. [JavaScript（131道）](https://github.com/pwstrick/daily/blob/master/interview/javascript.md)
+3. [JavaScript（136道）](https://github.com/pwstrick/daily/blob/master/interview/javascript.md)
 4. [ES6（88道）](https://github.com/pwstrick/daily/blob/master/interview/es6.md)
 5. [React（93道）](https://github.com/pwstrick/daily/blob/master/interview/react.md)
 6. [网络（57道）](https://github.com/pwstrick/daily/blob/master/interview/network.md)
 7. [工具（包括webpack、Git等，共54道）](https://github.com/pwstrick/daily/blob/master/interview/tool.md)
-8. [算法（93道）](https://github.com/pwstrick/daily/blob/master/interview/algorithm.md)
+8. [算法（94道）](https://github.com/pwstrick/daily/blob/master/interview/algorithm.md)
 9. [安全（7道）](https://github.com/pwstrick/daily/blob/master/interview/security.md)
-10. [性能（10道）](https://github.com/pwstrick/daily/blob/master/interview/performance.md)
+10. [性能（12道）](https://github.com/pwstrick/daily/blob/master/interview/performance.md)
 11. [软技能（107道）](https://github.com/pwstrick/daily/blob/master/interview/skill.md)
 12. [前端（18道）](https://github.com/pwstrick/daily/blob/master/interview/fe.md)
 13. [Node.js（12道）](https://github.com/pwstrick/daily/blob/master/interview/nodejs.md)
@@ -47,8 +47,8 @@
 
 我还建立了一个微信前端交流群，如要进群，可在加好友后和我说一下。
 
+## 前端技术栈
+下图引用自[roadmap.sh](https://roadmap.sh/frontend)。
 
-
-
-
+<img src="https://github.com/pwstrick/daily/raw/master/assets/img/qrcode.jpg" width="100%" />
 

@@ -8,3 +8,5 @@
 8. [将静态资源放在其他域名的目的是什么？](https://github.com/pwstrick/daily/issues/830)
 9. [Canvas性能优化的方法有哪些？](https://github.com/pwstrick/daily/issues/834)
 10. [重绘和回流（重排）是什么，如何避免？](https://github.com/pwstrick/daily/issues/842)
+11. [如何优化网页的动画？](https://github.com/pwstrick/daily/issues/858)
+12. [大量数据滚动加载如何保证性能。](https://github.com/pwstrick/daily/issues/860)
