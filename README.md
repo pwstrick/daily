@@ -50,5 +50,5 @@
 ## 前端技能图谱
 下图引用自[roadmap.sh](https://roadmap.sh/frontend)。
 
-<img src="https://github.com/pwstrick/daily/raw/master/assets/img/fe-transparent.png" width="600" />
+<img src="https://github.com/pwstrick/daily/raw/master/assets/img/fe-transparent.png" />
 
