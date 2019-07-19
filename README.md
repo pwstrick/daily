@@ -14,7 +14,7 @@
 6. [网络（57道）](https://github.com/pwstrick/daily/blob/master/interview/network.md)
 7. [工具（包括webpack、Git等，共54道）](https://github.com/pwstrick/daily/blob/master/interview/tool.md)
 8. [算法（94道）](https://github.com/pwstrick/daily/blob/master/interview/algorithm.md)
-9. [安全（7道）](https://github.com/pwstrick/daily/blob/master/interview/security.md)
+9. [安全（88道）](https://github.com/pwstrick/daily/blob/master/interview/security.md)
 10. [性能（12道）](https://github.com/pwstrick/daily/blob/master/interview/performance.md)
 11. [软技能（107道）](https://github.com/pwstrick/daily/blob/master/interview/skill.md)
 12. [前端（18道）](https://github.com/pwstrick/daily/blob/master/interview/fe.md)
@@ -25,6 +25,7 @@
 分享与面试相关的文章，不定期更新。
 
 [2019年](https://github.com/pwstrick/daily/blob/master/article/2019.md)
+[GitHub或网络上优秀的面试项目（题量众多，内容饱满）](https://github.com/pwstrick/daily/blob/master/article/github.md)
 
 ## 书籍分享
 
@@ -48,6 +49,7 @@
 我还建立了一个微信前端交流群，如要进群，可在加好友后和我说一下。
 
 ## 前端技能图谱
+[Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)（[前端开发者手册2019](https://www.yuque.com/ysfe/ykx/fedhb)）
 下图引用自[roadmap.sh](https://roadmap.sh/frontend)。
 
 <img src="https://github.com/pwstrick/daily/raw/master/assets/img/fe-transparent.png" />

@@ -5,3 +5,4 @@
 5. [简要介绍一下DNS劫持和DNS污染？](https://github.com/pwstrick/daily/issues/848)
 6. [简要介绍一下SQL注入？](https://github.com/pwstrick/daily/issues/849)
 7. [请讲一下内容安全策略( CSP ) 。](https://github.com/pwstrick/daily/issues/850)
+8. [如何阻止用户访问我网站的非公开部分？](https://github.com/pwstrick/daily/issues/861)
