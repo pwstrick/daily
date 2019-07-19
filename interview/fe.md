@@ -18,3 +18,5 @@
 16. [听说过UMD吗？可以简要介绍一下吗？](https://github.com/pwstrick/daily/issues/839)
 17. [依赖注入的原理什么？如何实现一个简单的依赖注入？](https://github.com/pwstrick/daily/issues/847)
 18. [进程和线程的区别？](https://github.com/pwstrick/daily/issues/851)
+19. [测试自己的代码有哪些优缺点？](https://github.com/pwstrick/daily/issues/862)
+20. [单元测试和集成测试有哪些区别？](https://github.com/pwstrick/daily/issues/863)

@@ -10,3 +10,4 @@
 10. [重绘和回流（重排）是什么，如何避免？](https://github.com/pwstrick/daily/issues/842)
 11. [如何优化网页的动画？](https://github.com/pwstrick/daily/issues/858)
 12. [大量数据滚动加载如何保证性能。](https://github.com/pwstrick/daily/issues/860)
+13. [可以通过哪些方式改善网站的滚动性能？](https://github.com/pwstrick/daily/issues/864)
