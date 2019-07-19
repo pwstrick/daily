@@ -25,7 +25,7 @@
 分享与面试相关的文章，不定期更新。
 
 [2019年](https://github.com/pwstrick/daily/blob/master/article/2019.md)  
-[GitHub或网络上优秀的面试项目（题量众多，内容饱满）](https://github.com/pwstrick/daily/blob/master/article/github.md)
+[GitHub或网络上优秀的面试项目](https://github.com/pwstrick/daily/blob/master/article/github.md)（题量众多，内容饱满）
 
 ## 书籍分享
 
