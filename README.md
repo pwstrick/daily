@@ -49,7 +49,7 @@
 我还建立了一个微信前端交流群，如要进群，可在加好友后和我说一下。
 
 ## 前端技能图谱
-[Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)（[前端开发者手册2019](https://www.yuque.com/ysfe/ykx/fedhb)）
+[Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)（[前端开发者手册2019](https://www.yuque.com/ysfe/ykx/fedhb)）  
 下图引用自[roadmap.sh](https://roadmap.sh/frontend)。
 
 <img src="https://github.com/pwstrick/daily/raw/master/assets/img/fe-transparent.png" />
