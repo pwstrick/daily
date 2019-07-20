@@ -8,6 +8,7 @@
 7. [JavaScript进阶问题列表](https://github.com/lydiahallie/javascript-questions/blob/master/README-zh_CN.md)
 8. [前端面试手册](https://github.com/yangshun/front-end-interview-handbook/blob/master/Translations/Chinese/README.md)
 9. [React面试304问](https://github.com/semlinker/reactjs-interview-questions)
+10. [前端开发面试题大收集](https://github.com/paddingme/Front-end-Web-Development-Interview-Question)
 
 ## 英文
 1. [Awesome JavaScript Interviews（优秀的JavaScript面试）](https://github.com/rohan-paul/Awesome-JavaScript-Interviews)
