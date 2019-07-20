@@ -20,3 +20,4 @@
 18. [进程和线程的区别？](https://github.com/pwstrick/daily/issues/851)
 19. [测试自己的代码有哪些优缺点？](https://github.com/pwstrick/daily/issues/862)
 20. [单元测试和集成测试有哪些区别？](https://github.com/pwstrick/daily/issues/863)
+21. [单元测试编写有哪些原则？](https://github.com/pwstrick/daily/issues/867)

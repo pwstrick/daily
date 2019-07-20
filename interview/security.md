@@ -6,3 +6,5 @@
 6. [简要介绍一下SQL注入？](https://github.com/pwstrick/daily/issues/849)
 7. [请讲一下内容安全策略( CSP ) 。](https://github.com/pwstrick/daily/issues/850)
 8. [如何阻止用户访问我网站的非公开部分？](https://github.com/pwstrick/daily/issues/861)
+9. [如何预防中间人攻击？](https://github.com/pwstrick/daily/issues/865)
+10. [如何应对浏览劫持？](https://github.com/pwstrick/daily/issues/866)
