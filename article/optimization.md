@@ -17,3 +17,4 @@
 
 ## 工具
 1. [WebPageTest系列](https://www.cnblogs.com/strick/category/980651.html)
+2. [使用Webpack优化你的第三方库](https://juejin.im/post/5d3cfeaa518825720651913e)
