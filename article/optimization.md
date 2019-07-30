@@ -11,10 +11,10 @@
 
 ## webpack
 1. [前端必懂的webpack优化](https://juejin.im/post/5d372851f265da1ba915bf78)
+2. [使用Webpack优化你的第三方库](https://juejin.im/post/5d3cfeaa518825720651913e)
 
 ## 网络
 1. [前端性能优化的另一种方式——HTTP2.0](https://www.cnblogs.com/strick/p/5658280.html)
 
 ## 工具
 1. [WebPageTest系列](https://www.cnblogs.com/strick/category/980651.html)
-2. [使用Webpack优化你的第三方库](https://juejin.im/post/5d3cfeaa518825720651913e)
