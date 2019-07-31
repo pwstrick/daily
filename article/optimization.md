@@ -2,6 +2,7 @@
 1. [实践一下前端性能分析](https://www.cnblogs.com/strick/p/5475758.html)
 2. [前端学Serverless系列--性能调优](https://juejin.im/post/5d3acbe96fb9a07eba2c83ea)
 3. [前端页面性能参数搜集](https://www.cnblogs.com/strick/p/5750022.html)
+4. [你必须懂的前端性能优化](https://segmentfault.com/a/1190000019897234)
 
 ## JavaScript
 1. [图片预加载与懒加载](https://www.cnblogs.com/strick/p/5372694.html)
