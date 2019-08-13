@@ -11,6 +11,9 @@
 3. [JavaScript性能优化 DOM编程](https://www.cnblogs.com/strick/p/6769634.html)
 4. [Canvas的一个性能研究：到底怎么影响我们的Canvas性能](https://juejin.im/post/5d398289e51d45108c59a63f)
 
+## Vue
+1. [提升90%加载速度——vuecli下的首屏性能优化](https://segmentfault.com/a/1190000019499007)
+
 ## webpack
 1. [前端必懂的webpack优化](https://juejin.im/post/5d372851f265da1ba915bf78)
 2. [使用Webpack优化你的第三方库](https://juejin.im/post/5d3cfeaa518825720651913e)
