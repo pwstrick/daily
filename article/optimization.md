@@ -3,6 +3,7 @@
 2. [前端学Serverless系列--性能调优](https://juejin.im/post/5d3acbe96fb9a07eba2c83ea)
 3. [前端页面性能参数搜集](https://www.cnblogs.com/strick/p/5750022.html)
 4. [你必须懂的前端性能优化](https://segmentfault.com/a/1190000019897234)
+5. [谈谈Web应用中的图片优化技巧及反思](https://segmentfault.com/a/1190000020047949)
 
 ## JavaScript
 1. [图片预加载与懒加载](https://www.cnblogs.com/strick/p/5372694.html)
