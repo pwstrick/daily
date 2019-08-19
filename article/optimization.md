@@ -12,6 +12,9 @@
 3. [JavaScript性能优化 DOM编程](https://www.cnblogs.com/strick/p/6769634.html)
 4. [Canvas的一个性能研究：到底怎么影响我们的Canvas性能](https://juejin.im/post/5d398289e51d45108c59a63f)
 
+## React
+1. [浅谈React性能优化的方向](https://juejin.im/post/5d045350f265da1b695d5bf2)
+
 ## Vue
 1. [提升90%加载速度——vuecli下的首屏性能优化](https://segmentfault.com/a/1190000019499007)
 
