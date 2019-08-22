@@ -5,6 +5,7 @@
 4. [你必须懂的前端性能优化](https://segmentfault.com/a/1190000019897234)
 5. [谈谈Web应用中的图片优化技巧及反思](https://segmentfault.com/a/1190000020047949)
 6. [前端项目优化-Web开发常用优化方案、Vue&React项目优化](https://www.cnblogs.com/cmk1018/p/11360143.html)
+7. [关于前端优化的一些方案](https://juejin.im/post/5d5d1081e51d4561f17a50c1)
 
 ## JavaScript
 1. [图片预加载与懒加载](https://www.cnblogs.com/strick/p/5372694.html)
