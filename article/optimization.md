@@ -15,6 +15,7 @@
 
 ## React
 1. [浅谈React性能优化的方向](https://juejin.im/post/5d045350f265da1b695d5bf2)
+2. [React性能优化的8种方式了解一下](https://juejin.im/post/5d63311be51d45620821ced8)
 
 ## Vue
 1. [提升90%加载速度——vuecli下的首屏性能优化](https://segmentfault.com/a/1190000019499007)
@@ -22,6 +23,7 @@
 ## webpack
 1. [前端必懂的webpack优化](https://juejin.im/post/5d372851f265da1ba915bf78)
 2. [使用Webpack优化你的第三方库](https://juejin.im/post/5d3cfeaa518825720651913e)
+3. [Webpack优化——将你的构建效率提速翻倍](https://juejin.im/post/5d614dc96fb9a06ae3726b3e)
 
 ## 网络
 1. [前端性能优化的另一种方式——HTTP2.0](https://www.cnblogs.com/strick/p/5658280.html)
