@@ -19,7 +19,7 @@
 4. [30 seconds of code（30秒面试题系列）](https://github.com/30-seconds/30-seconds-of-code)
 5. [Cracking the front-end interview（出色的前端面试）](https://www.freecodecamp.org/news/cracking-the-front-end-interview-9a34cd46237/)
 6. [questions to ask prospective employers（面试时可提的问题）](https://github.com/Twipped/InterviewThis)
-
+7. [Tech Interview Handbook（技术面试手册）](https://yangshun.github.io/tech-interview-handbook)
 
 
 
