@@ -39,3 +39,4 @@
 39. [如何开启Vuex的严格模式？它有什么作用？](https://github.com/pwstrick/daily/issues/907)
 40. [Vuex的Mutation和Action有哪些区别？](https://github.com/pwstrick/daily/issues/908)
 41. [请谈谈你对Vuex的理解。](https://github.com/pwstrick/daily/issues/909)
+42. [Vue为什么要求在组件的模板中只能有一个根元素？](https://github.com/pwstrick/daily/issues/910)
