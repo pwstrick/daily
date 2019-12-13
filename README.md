@@ -43,7 +43,7 @@
 单词来源于《计算机专业英语（第3版）》。
 
 * [文章中使用到的词汇表](https://github.com/pwstrick/daily/blob/master/book/computer/1.md)
-* [附录中的专业英语词汇表](ttps://github.com/pwstrick/daily/blob/master/book/computer/2.md)
+* [附录中的专业英语词汇表](https://github.com/pwstrick/daily/blob/master/book/computer/2.md)
 
 <img src="https://github.com/pwstrick/daily/raw/master/assets/img/computer-en-cover.jpg" />
 
