@@ -38,6 +38,15 @@
 
 <img src="https://github.com/pwstrick/daily/raw/master/assets/img/101-interview-cover.png" width="200" />
 
+## 英语单词
+
+单词来源于《计算机专业英语（第3版）》。
+
+<img src="https://github.com/pwstrick/daily/raw/master/assets/img/computer-en-cover.jpg" />
+
+* [文章中的单词](https://github.com/pwstrick/daily/blob/master/book/computer/1.md)
+
+
 ## 欢迎大家踊跃分享
 如果你也有前端面试题，或者有好的与面试相关的文章，都可以向我投稿。
 
