@@ -18,7 +18,7 @@
 11. [软技能（107道）](https://github.com/pwstrick/daily/blob/master/interview/skill.md)
 12. [前端（21道）](https://github.com/pwstrick/daily/blob/master/interview/fe.md)
 13. [Node.js（12道）](https://github.com/pwstrick/daily/blob/master/interview/nodejs.md)
-14. [TypeScript（2道）](https://github.com/pwstrick/daily/blob/master/interview/ts.md)
+14. [TypeScript（15道）](https://github.com/pwstrick/daily/blob/master/interview/ts.md)
 15. [Vue（42道）](https://github.com/pwstrick/daily/blob/master/interview/vue.md)
 
 ## 文章集锦
