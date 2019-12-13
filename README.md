@@ -42,9 +42,11 @@
 
 单词来源于《计算机专业英语（第3版）》。
 
+* [文章中的单词](https://github.com/pwstrick/daily/blob/master/book/computer/1.md)
+
 <img src="https://github.com/pwstrick/daily/raw/master/assets/img/computer-en-cover.jpg" />
 
-* [文章中的单词](https://github.com/pwstrick/daily/blob/master/book/computer/1.md)
+
 
 
 ## 欢迎大家踊跃分享
