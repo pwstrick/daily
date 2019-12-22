@@ -13,3 +13,5 @@
 13. [命名空间和模块有哪些区别？](https://github.com/pwstrick/daily/issues/921)
 14. [什么是装饰器？](https://github.com/pwstrick/daily/issues/922)
 15. [装饰器的执行顺序是怎么样的？](https://github.com/pwstrick/daily/issues/923)
+
+参考资料：[TypeScript躬行记](https://www.kancloud.cn/pwstrick/fe-questions/1437676)

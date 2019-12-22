@@ -52,3 +52,5 @@
 52. [简要介绍一下gulp的底层实现原理？](https://github.com/pwstrick/daily/issues/837)
 53. [百度的构建工具FIS你了解吗？](https://github.com/pwstrick/daily/issues/840)
 54. [用过JSBridge吗？你们是如何封装JSBridge的？](https://github.com/pwstrick/daily/issues/852)
+
+参考资料：[前端利器躬行记](https://www.kancloud.cn/pwstrick/fe-questions/1280317)

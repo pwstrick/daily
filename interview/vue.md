@@ -40,3 +40,5 @@
 40. [Vuex的Mutation和Action有哪些区别？](https://github.com/pwstrick/daily/issues/908)
 41. [请谈谈你对Vuex的理解。](https://github.com/pwstrick/daily/issues/909)
 42. [Vue为什么要求在组件的模板中只能有一个根元素？](https://github.com/pwstrick/daily/issues/910)
+
+参考资料：[Vue躬行记](https://www.kancloud.cn/pwstrick/fe-questions/1371058)
