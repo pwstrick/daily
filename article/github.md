@@ -22,6 +22,8 @@
 6. [questions to ask prospective employers（面试时可提的问题）](https://github.com/Twipped/InterviewThis)
 7. [Tech Interview Handbook（技术面试手册）](https://yangshun.github.io/tech-interview-handbook)
 
+## 网盘
+1. [前端面试资料合集（有些资料略老，可选择性阅读）](https://pan.baidu.com/s/160pw7WI0AtfD-vmsC_i_XA) \[密码：a7em\]
 
 
 
