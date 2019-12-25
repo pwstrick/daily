@@ -3,7 +3,7 @@
 LeetCode中的题目按真实面试中的出现频率降序排列。
 
 | Row 1 | Row 2 |  Row 3 | Row 4 |
-| ------------- | ------------- | ------------- | ------------- |
+| :-------------: | :-------------: | :-------------: | :-------------: |
 | [栈](https://github.com/pwstrick/daily/blob/master/article/leetcode/stack.md) | [堆](https://github.com/pwstrick/daily/blob/master/article/leetcode/heap.md) | [贪心算法](https://github.com/pwstrick/daily/blob/master/article/leetcode/greedy.md) | [排序](https://github.com/pwstrick/daily/blob/master/article/leetcode/sort.md) |
 | [位运算](https://github.com/pwstrick/daily/blob/master/article/leetcode/bit-manipulation.md) | [树](https://github.com/pwstrick/daily/blob/master/article/leetcode/tree.md) | [深度优先搜索](https://github.com/pwstrick/daily/blob/master/article/leetcode/depth-first-search.md) | [广度优先搜索](https://github.com/pwstrick/daily/blob/master/article/leetcode/breadth-first-search.md) |
 | [并查集](https://github.com/pwstrick/daily/blob/master/article/leetcode/union-find.md) | [图](https://github.com/pwstrick/daily/blob/master/article/leetcode/graph.md) | [设计](https://github.com/pwstrick/daily/blob/master/article/leetcode/design.md) | [拓扑排序](https://github.com/pwstrick/daily/blob/master/article/leetcode/topological-sort.md) |
