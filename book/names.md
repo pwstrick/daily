@@ -53,7 +53,17 @@
 
 [《React进阶之路》](https://book.douban.com/subject/30210697/) 
 
-[《深入浅出React和Redux》](https://book.douban.com/subject/27033213/) 
+[《深入浅出React和Redux》](https://book.douban.com/subject/27033213/)
+
+## Vue.js
+[《Vue.js前端开发 快速入门与专业应用》](https://book.douban.com/subject/26994869/)
+
+[《Vue.js快跑：构建触手可及的高性能Web应用》](https://book.douban.com/subject/30391161/)
+
+[《Vue.js权威指南》](https://book.douban.com/subject/26869340/)
+
+## TypeScript
+[《Learning TypeScript中文版》](https://book.douban.com/subject/26906857/)
 
 ## 前端
 [《指尖上行 移动前端开发进阶之路》](https://book.douban.com/subject/27149862/) [书摘](https://www.cnblogs.com/strick/p/9342415.html)
@@ -77,6 +87,8 @@
 [《瞬间之美 Web界面设计如何让用户心动》](https://book.douban.com/subject/3886044/) 
 
 [《Web表单设计 点石成金的艺术》](https://book.douban.com/subject/4886100/)  
+
+[《前端架构：从入门到微前端》](https://book.douban.com/subject/33477112/)
 
 ## Node.js
 [《Node.js实战》](https://book.douban.com/subject/25867920/) 
