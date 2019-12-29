@@ -129,6 +129,10 @@
 
 [《前端程序员面试笔试真题库》](https://book.douban.com/subject/30357905/) 
 
+[《前端程序员面试笔试真题与解析》](https://book.douban.com/subject/33393624/)
+
+[《前端程序员面试算法宝典》](https://book.douban.com/subject/34451262/)
+
 ## 性能
 [《高性能JavaScript》](https://book.douban.com/subject/5362856/) [书摘](https://www.cnblogs.com/strick/p/6769634.html)
 
