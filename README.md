@@ -34,13 +34,10 @@
 在下面目录中的书都是我以前浏览过的，有些是精读过的，有些是粗读过的，有些是翻过页的，其中有些还有专门的书摘。
 
 * [书籍目录](https://github.com/pwstrick/daily/blob/master/book/names.md)
-
-2019年翻译的英文面试书籍《[101 Toughest Interview Questions](https://github.com/pwstrick/daily/blob/master/book/contents.md)》
+* 2019年翻译的英文面试书籍《[101 Toughest Interview Questions](https://github.com/pwstrick/daily/blob/master/book/contents.md)》
+* 2020年正在翻译的英文面试书籍《[The Interview Book: How to prepare and perform at your best in any interview](https://github.com/pwstrick/daily/blob/master/book/prepare.md)》
 
 <img src="https://github.com/pwstrick/daily/raw/master/assets/img/101-interview-cover.png" width="200" />
-
-2020年正在翻译的英文面试书籍《[The Interview Book: How to prepare and perform at your best in any interview](https://github.com/pwstrick/daily/blob/master/book/prepare.md)》
-
 <img src="https://github.com/pwstrick/daily/raw/master/assets/img/how-to-prepare-in-interview.png" width="200" />
 
 ## 英语单词
