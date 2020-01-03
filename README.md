@@ -37,8 +37,10 @@
 * 2019年翻译的英文面试书籍《[101 Toughest Interview Questions](https://github.com/pwstrick/daily/blob/master/book/contents.md)》
 * 2020年正在翻译的英文面试书籍《[The Interview Book: How to prepare and perform at your best in any interview](https://github.com/pwstrick/daily/blob/master/book/prepare.md)》
 
+<p>
 <img src="https://github.com/pwstrick/daily/raw/master/assets/img/101-interview-cover.png" width="200" />
 <img src="https://github.com/pwstrick/daily/raw/master/assets/img/how-to-prepare-in-interview.png" width="200" />
+</p>
 
 ## 英语单词
 
