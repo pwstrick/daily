@@ -1,7 +1,9 @@
-## 面试书：如何在任何面试中做好最佳准备和表现
+## 面试书：如何对面试进行准备并保证在面试时有最佳的表现
 
-### Part 1 Planning, preparation and organisation: a winning strategy
-* 01、 Why are interviews so important?
+* [如何阅读本书](https://github.com/pwstrick/daily/blob/master/book/prepare/read.md)
+
+### Part 1 计划，准备，组织：一个成功的策略
+* 01、 为什么面试如此重要？
 * 02、 Researching the job
 * 03、 Researching the organisation
 * 04、 Mental preparation
