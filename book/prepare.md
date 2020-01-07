@@ -3,7 +3,7 @@
 * [如何阅读本书](https://github.com/pwstrick/daily/blob/master/book/prepare/read.md)
 
 ### Part 1 计划，准备，组织：一个成功的策略
-* 01、 为什么面试如此重要？
+* 01、 [为什么面试如此重要？](https://github.com/pwstrick/daily/blob/master/book/prepare/1.md)
 * 02、 Researching the job
 * 03、 Researching the organisation
 * 04、 Mental preparation
