@@ -5,7 +5,7 @@
 ### Part 1 计划，准备，组织：一个成功的策略
 * 01、 [为什么面试如此重要？](https://github.com/pwstrick/daily/blob/master/book/prepare/1.md)
 * 02、 [研究求职信息](https://github.com/pwstrick/daily/blob/master/book/prepare/2.md)
-* 03、 Researching the organisation
+* 03、 [研究公司背景](https://github.com/pwstrick/daily/blob/master/book/prepare/3.md)
 * 04、 Mental preparation
 * 05、 Presentation
 * 06、 Body language
