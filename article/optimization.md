@@ -21,6 +21,7 @@
 ## React
 1. [浅谈React性能优化的方向](https://juejin.im/post/5d045350f265da1b695d5bf2)
 2. [React性能优化的8种方式了解一下](https://juejin.im/post/5d63311be51d45620821ced8)
+3. [ReactNative性能优化指南](https://juejin.im/post/5e1676e16fb9a04847095b12)
 
 ## Vue
 1. [提升90%加载速度——vuecli下的首屏性能优化](https://segmentfault.com/a/1190000019499007)
