@@ -7,8 +7,8 @@
 * 02、 [研究求职信息](https://github.com/pwstrick/daily/blob/master/book/prepare/2.md)
 * 03、 [研究公司背景](https://github.com/pwstrick/daily/blob/master/book/prepare/3.md)
 * 04、 [心理建设](https://github.com/pwstrick/daily/blob/master/book/prepare/4.md)
-* 05、 Presentation
-* 06、 Body language
+* 05、 [仪表](https://github.com/pwstrick/daily/blob/master/book/prepare/5.md)
+* 06、 [肢体语言](https://github.com/pwstrick/daily/blob/master/book/prepare/5.md)
 * 07、 The big day
 * 08、 First impressions count
 
