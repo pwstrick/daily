@@ -8,7 +8,7 @@
 * 03、 [研究公司背景](https://github.com/pwstrick/daily/blob/master/book/prepare/3.md)
 * 04、 [心理建设](https://github.com/pwstrick/daily/blob/master/book/prepare/4.md)
 * 05、 [仪表](https://github.com/pwstrick/daily/blob/master/book/prepare/5.md)
-* 06、 [肢体语言](https://github.com/pwstrick/daily/blob/master/book/prepare/5.md)
+* 06、 [肢体语言](https://github.com/pwstrick/daily/blob/master/book/prepare/6.md)
 * 07、 The big day
 * 08、 First impressions count
 
