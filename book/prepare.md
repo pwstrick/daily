@@ -9,7 +9,7 @@
 * 04、 [心理建设](https://github.com/pwstrick/daily/blob/master/book/prepare/4.md)
 * 05、 [仪表](https://github.com/pwstrick/daily/blob/master/book/prepare/5.md)
 * 06、 [肢体语言](https://github.com/pwstrick/daily/blob/master/book/prepare/6.md)
-* 07、 The big day
+* 07、 [面试当天](https://github.com/pwstrick/daily/blob/master/book/prepare/7.md)
 * 08、 First impressions count
 
 ### Part 2 Interview scenarios: expect the unexpected
