@@ -12,6 +12,7 @@
 11. [前端开发面试题大收集](https://github.com/paddingme/Front-end-Web-Development-Interview-Question)
 12. [前端面试与进阶指南](https://github.com/xiaomuzhu/front-end-interview)
 13. [142张现场纸质面试题集合](https://github.com/ifyouremember/Interview)
+14. [前端小智面试系列](https://github.com/qq449245884/xiaozhi#%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95-%E7%B3%BB%E5%88%97)
 
 ## 英文
 1. [Awesome JavaScript Interviews（优秀的JavaScript面试）](https://github.com/rohan-paul/Awesome-JavaScript-Interviews)
