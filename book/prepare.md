@@ -10,10 +10,10 @@
 * 05、 [仪表](https://github.com/pwstrick/daily/blob/master/book/prepare/5.md)
 * 06、 [肢体语言](https://github.com/pwstrick/daily/blob/master/book/prepare/6.md)
 * 07、 [面试当天](https://github.com/pwstrick/daily/blob/master/book/prepare/7.md)
-* 08、 First impressions count
+* 08、 [第一印象](https://github.com/pwstrick/daily/blob/master/book/prepare/8.md)
 
-### Part 2 Interview scenarios: expect the unexpected
-* 09、 Basic principles
+### Part 2 面试方式：出乎意料
+* 09、 [基本原则](https://github.com/pwstrick/daily/blob/master/book/prepare/9.md)
 * 10、 Classic one-on-one interviews
 * 11、 Panel interviews
 * 12、 Competency-based, behavioural and situational interviews
