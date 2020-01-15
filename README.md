@@ -39,8 +39,8 @@
 * 2020年正在翻译的英文面试书籍《[The Interview Book: How to prepare and perform at your best in any interview](https://github.com/pwstrick/daily/blob/master/book/prepare.md)》
 
 <p>
-<img src="https://github.com/pwstrick/daily/raw/master/assets/img/101-interview-cover.png" width="200" />
-<img src="https://github.com/pwstrick/daily/raw/master/assets/img/how-to-prepare-in-interview.png" width="200" />
+<img src="https://github.com/pwstrick/daily/raw/master/assets/img/cover/101-interview-cover.png" width="200" />
+<img src="https://github.com/pwstrick/daily/raw/master/assets/img/cover/how-to-prepare-in-interview.png" width="200" />
 </p>
 
 ## 英语单词
@@ -50,7 +50,7 @@
 * [文章中使用到的词汇表](https://github.com/pwstrick/daily/blob/master/book/computer/1.md)
 * [附录中的专业英语词汇表](https://github.com/pwstrick/daily/blob/master/book/computer/2.md)
 
-<img src="https://github.com/pwstrick/daily/raw/master/assets/img/computer-en-cover.jpg" />
+<img src="https://github.com/pwstrick/daily/raw/master/assets/img/cover/computer-en-cover.jpg" />
 
 
 
@@ -70,5 +70,5 @@
 * [Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)（[前端开发者手册2019](https://www.yuque.com/ysfe/ykx/fedhb)）  
 * 下图引用自[roadmap.sh](https://roadmap.sh/frontend)。
 
-<img src="https://github.com/pwstrick/daily/raw/master/assets/img/fe-transparent.png" />
+<img src="https://github.com/pwstrick/daily/raw/master/assets/img/skill/2020.png" />
 
