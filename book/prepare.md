@@ -14,8 +14,8 @@
 
 ### Part 2 面试方式：出乎意料
 * 09、 [基本原则](https://github.com/pwstrick/daily/blob/master/book/prepare/9.md)
-* 10、 Classic one-on-one interviews
-* 11、 Panel interviews
+* 10、 [经典模式：一对一面试](https://github.com/pwstrick/daily/blob/master/book/prepare/10.md)
+* 11、 [小组面试](https://github.com/pwstrick/daily/blob/master/book/prepare/11.md)
 * 12、 Competency-based, behavioural and situational interviews
 * 13、 Psychometric and aptitude tests
 * 14、 Presentations
