@@ -16,7 +16,7 @@
 * 09、 [基本原则](https://github.com/pwstrick/daily/blob/master/book/prepare/9.md)
 * 10、 [经典模式：一对一面试](https://github.com/pwstrick/daily/blob/master/book/prepare/10.md)
 * 11、 [小组面试](https://github.com/pwstrick/daily/blob/master/book/prepare/11.md)
-* 12、 Competency-based, behavioural and situational interviews
+* 12、 [以能力，行为方式为考察点结合情景问答的面试](https://github.com/pwstrick/daily/blob/master/book/prepare/12.md)
 * 13、 Psychometric and aptitude tests
 * 14、 Presentations
 * 15、 Group interviews
