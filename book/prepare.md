@@ -18,7 +18,7 @@
 * 11、 [小组面试](https://github.com/pwstrick/daily/blob/master/book/prepare/11.md)
 * 12、 [以能力，行为方式为考察点结合情景问答的面试](https://github.com/pwstrick/daily/blob/master/book/prepare/12.md)
 * 13、 [心理测验和能力测验](https://github.com/pwstrick/daily/blob/master/book/prepare/13.md)
-* 14、 Presentations
+* 14、 [演讲](https://github.com/pwstrick/daily/blob/master/book/prepare/14.md)
 * 15、 Group interviews
 * 16、 Distance interviews
 
