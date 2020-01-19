@@ -17,6 +17,7 @@
 3. [JavaScript性能优化 DOM编程](https://www.cnblogs.com/strick/p/6769634.html)
 4. [Canvas的一个性能研究：到底怎么影响我们的Canvas性能](https://juejin.im/post/5d398289e51d45108c59a63f)
 5. [100万个成员的数组取第一个和最后一个有性能差距吗?](https://juejin.im/post/5d75a5266fb9a06b1a56b137)
+6. [讲讲PWA](https://segmentfault.com/a/1190000012353473)
 
 ## React
 1. [浅谈React性能优化的方向](https://juejin.im/post/5d045350f265da1b695d5bf2)
