@@ -18,6 +18,7 @@
 4. [Canvas的一个性能研究：到底怎么影响我们的Canvas性能](https://juejin.im/post/5d398289e51d45108c59a63f)
 5. [100万个成员的数组取第一个和最后一个有性能差距吗?](https://juejin.im/post/5d75a5266fb9a06b1a56b137)
 6. [讲讲PWA](https://segmentfault.com/a/1190000012353473)
+7. [你以为什么是perfomance之前端基础性能监测](https://juejin.im/post/5e26c8cf5188254d9032a62c)
 
 ## React
 1. [浅谈React性能优化的方向](https://juejin.im/post/5d045350f265da1b695d5bf2)
@@ -34,6 +35,7 @@
 
 ## 网络
 1. [前端性能优化的另一种方式——HTTP2.0](https://www.cnblogs.com/strick/p/5658280.html)
+2. [从优化到面试装逼指南——网络系列](https://juejin.im/post/5defb2866fb9a01631780d29)
 
 ## 工具
 1. [WebPageTest系列](https://www.cnblogs.com/strick/category/980651.html)
