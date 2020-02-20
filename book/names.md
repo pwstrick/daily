@@ -20,6 +20,8 @@
 
 [《CSS权威指南（第三版）》](https://book.douban.com/subject/2308234/)  
 
+[《CSS权威指南（第四版）》](https://book.douban.com/subject/33398314/)  
+
 [《高流量网站CSS开发技术》](https://book.douban.com/subject/25719314/) 
 
 [《CSS重构：样式表性能调优》](https://book.douban.com/subject/27179964/) [书摘](https://www.cnblogs.com/strick/p/12312262.html)
