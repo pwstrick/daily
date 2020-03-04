@@ -22,8 +22,8 @@
 * 15、 [群面](https://github.com/pwstrick/daily/blob/master/book/prepare/15.md)
 * 16、 [远程面试](https://github.com/pwstrick/daily/blob/master/book/prepare/16.md)
 
-### Part 3 Assessment centres
-* 17、 Assessment centres
+### Part 3 评估中心
+* 17、 [评估中心](https://github.com/pwstrick/daily/blob/master/book/prepare/17.md)
 
 ### Part 4 Interview questions - and their answers!
 * 18、 Basic principles
