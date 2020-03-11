@@ -25,8 +25,8 @@
 ### Part 3 评估中心
 * 17、 [评估中心](https://github.com/pwstrick/daily/blob/master/book/prepare/17.md)
 
-### Part 4 Interview questions - and their answers!
-* 18、 Basic principles
+### Part 4 面试问题 - 及其答案！
+* 18、 [基本原则](https://github.com/pwstrick/daily/blob/master/book/prepare/18.md)
 * 19、 The ten questions you're most likely to be asked
 * 20、 Forty classic questions you must be prepared for
 * 21、 Illegal questions - and how to dodge them
