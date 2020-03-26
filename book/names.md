@@ -127,6 +127,8 @@
 
 [《wireshark网络分析的艺术》](https://book.douban.com/subject/26710788/) 
 
+[《Serverless架构：从原理、设计到项目实战》](https://book.douban.com/subject/34879023/) 
+
 ## 测试
 [《测试驱动的JavaScript开发》](https://book.douban.com/subject/10483528/) 
 
