@@ -96,7 +96,7 @@
 
 [《Web表单设计 点石成金的艺术》](https://book.douban.com/subject/4886100/)  
 
-[《前端架构：从入门到微前端》](https://book.douban.com/subject/33477112/)
+[《前端架构：从入门到微前端》](https://book.douban.com/subject/33477112/) [书摘](https://www.cnblogs.com/strick/p/12576909.html)
 
 [《前端技术架构与工程》](https://book.douban.com/subject/34919554/)
 
