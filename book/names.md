@@ -26,6 +26,10 @@
 
 [《CSS重构：样式表性能调优》](https://book.douban.com/subject/27179964/) [书摘](https://www.cnblogs.com/strick/p/12312262.html)
 
+[《精通CSS 高级Web标准解决方案（第三版）》](https://book.douban.com/subject/30450258/)
+
+[《CSS3艺术 网页设计案例实战》](https://book.douban.com/subject/34932891/) 
+
 ## JavaScript
 [《JavaScript忍者秘籍》](https://book.douban.com/subject/26638316/) [书摘](https://www.cnblogs.com/strick/p/6048862.html)
 
@@ -94,8 +98,12 @@
 
 [《前端架构：从入门到微前端》](https://book.douban.com/subject/33477112/)
 
+[《前端技术架构与工程》](https://book.douban.com/subject/34919554/)
+
 ## Node.js
 [《Node.js实战》](https://book.douban.com/subject/25867920/) 
+
+[《狼书（卷1）：更了不起的Node.js》](https://book.douban.com/subject/33950116/)
 
 ## 工具
 [《Fiddler调试权威指南》](https://book.douban.com/subject/25835263/)
