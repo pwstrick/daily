@@ -55,7 +55,7 @@
 ## 前端躬行记
 古语云：“纸上得来终觉浅，绝知此事要躬行”。的确，不管看了多少本书，如果自己不实践，那么就很难领会其中的精髓。为此，开辟了《[前端躬行记](https://www.kancloud.cn/pwstrick/fe-questions/1094971)》系列，包括ES6、React、Vue.js、TypeScript和利器等，将相关知识系统的记录下来，以便自己翻阅，也希望能帮助到广大网友。
 
-<img src="https://github.com/pwstrick/daily/raw/master/assets/img/fe-questions.png" width="200" />
+<img src="https://github.com/pwstrick/daily/raw/master/assets/img/cover/fe-questions.png" width="200" />
 
 ## 欢迎大家踊跃分享
 如果你也有前端面试题，或者有好的与面试相关的文章，都可以向我投稿。
