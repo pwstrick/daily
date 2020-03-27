@@ -105,6 +105,8 @@
 
 [《狼书（卷1）：更了不起的Node.js》](https://book.douban.com/subject/33950116/)
 
+[《狼书（卷2）：Node.js Web应用开发》](https://book.douban.com/subject/34933584/)
+
 ## 工具
 [《Fiddler调试权威指南》](https://book.douban.com/subject/25835263/)
 
