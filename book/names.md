@@ -107,6 +107,12 @@
 
 [《狼书（卷2）：Node.js Web应用开发》](https://book.douban.com/subject/34933584/)
 
+[Node.js硬实战：115个核心技巧](https://book.douban.com/subject/26937390/)
+
+[Node.js实战（第2版）](https://book.douban.com/subject/30288107/)
+
+[新时期的Node.js入门](https://book.douban.com/subject/30170564/)
+
 ## 工具
 [《Fiddler调试权威指南》](https://book.douban.com/subject/25835263/)
 
