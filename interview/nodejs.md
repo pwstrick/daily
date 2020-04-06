@@ -10,3 +10,6 @@
 10. [nodejs的运行原理，有哪些优缺点？对nodejs怎样的看法？](https://github.com/pwstrick/daily/issues/788)
 11. [如何实现断点续传？](https://github.com/pwstrick/daily/issues/789)
 12. [nodejs的事件循环怎么理解？事件循环里各个阶段是怎样的？](https://github.com/pwstrick/daily/issues/791)
+13. [Node有哪些全局变量？](https://github.com/pwstrick/daily/issues/924)
+14. [EventEmitter是什么？有哪些典型的应用场景？](https://github.com/pwstrick/daily/issues/925)
+15. [Stream是什么？有哪些典型应用场景？](https://github.com/pwstrick/daily/issues/926)
