@@ -15,6 +15,7 @@
 14. [前端小智面试系列](https://github.com/qq449245884/xiaozhi#%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95-%E7%B3%BB%E5%88%97)
 15. [大前端吊打面试官系列](https://github.com/luxiangqiang/Web-interview)
 16. [每日一题](https://github.com/shfshanyue/Daily-Question)
+17. [手撕LeetCode题目，扒各种算法套路](https://github.com/labuladong/fucking-algorithm)
 
 ## 英文
 1. [Awesome JavaScript Interviews（优秀的JavaScript面试）](https://github.com/rohan-paul/Awesome-JavaScript-Interviews)
