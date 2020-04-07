@@ -13,3 +13,6 @@
 13. [Node有哪些全局变量？](https://github.com/pwstrick/daily/issues/924)
 14. [EventEmitter是什么？有哪些典型的应用场景？](https://github.com/pwstrick/daily/issues/925)
 15. [Stream是什么？有哪些典型应用场景？](https://github.com/pwstrick/daily/issues/926)
+16. [在文件系统中，readFile()和createReadStream()有哪些区别？](https://github.com/pwstrick/daily/issues/927)
+17. [在文件系统中，stat()和fstat()有哪些区别？](https://github.com/pwstrick/daily/issues/928)
+18. [在文件系统中，watch()和watchFile()有哪些区别？](https://github.com/pwstrick/daily/issues/929)
