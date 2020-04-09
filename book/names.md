@@ -212,6 +212,9 @@
 
 [《图解网站分析：让流量倍增的网站优化方法》](https://book.douban.com/subject/26148605/) [书摘](https://www.cnblogs.com/strick/p/12287065.html)
 
+## 编译
+[两周自制脚本语言](https://book.douban.com/subject/25908672/) [书摘](http://www.pwstrick.com/archives/717/)
+
 ## 综合
 [《程序员健康指南》](https://book.douban.com/subject/25981248/) [书摘](https://www.cnblogs.com/strick/p/10836794.html)
 
