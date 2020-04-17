@@ -55,7 +55,8 @@
 55. [简要介绍一下Socket通信协议。](https://github.com/pwstrick/daily/issues/844)
 56. [什么是正向代理？什么是反向代理？](https://github.com/pwstrick/daily/issues/845)
 57. [端口号的作用是什么？](https://github.com/pwstrick/daily/issues/846)
-
+58. [请谈谈你对no-store和no-cache的理解。](https://github.com/pwstrick/daily/issues/933)
+59. [强缓存和协商缓存是指什么？](https://github.com/pwstrick/daily/issues/940)
 
 ## 思维导图
 ![Network](https://github.com/pwstrick/daily/blob/master/assets/img/mind/Network.png)

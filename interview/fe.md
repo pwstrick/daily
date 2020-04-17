@@ -22,3 +22,6 @@
 20. [单元测试和集成测试有哪些区别？](https://github.com/pwstrick/daily/issues/863)
 21. [单元测试编写有哪些原则？](https://github.com/pwstrick/daily/issues/867)
 22. [前端渲染与后端渲染相比，有哪些优缺点？](https://github.com/pwstrick/daily/issues/868)
+23. [开发过程中遇到了哪些移动端兼容问题？你是怎么解决的？](https://github.com/pwstrick/daily/issues/930)
+24. [项目开发时，有没有遇到比较困难的点？你又是怎么解决的？](https://github.com/pwstrick/daily/issues/931)
+25. [移动端和PC端有哪些区别？](https://github.com/pwstrick/daily/issues/938)

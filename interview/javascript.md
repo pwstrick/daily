@@ -349,7 +349,8 @@ machine('ygy').waitFirst(5).do('eat').execute();
 134. [实现一个简单的路由。](https://github.com/pwstrick/daily/issues/856)
 135. [封装鼠标拖拽的功能。](https://github.com/pwstrick/daily/issues/857)
 136. [如何让两个非常大的数字相加？](https://github.com/pwstrick/daily/issues/859)
-
+137. [宏任务和微任务是指什么？](https://github.com/pwstrick/daily/issues/939)
+138. [实现预加载和懒加载。](https://github.com/pwstrick/daily/issues/945)
 
 ## 思维导图
 ![JavaScript](https://github.com/pwstrick/daily/blob/master/assets/img/mind/JavaScript.png)

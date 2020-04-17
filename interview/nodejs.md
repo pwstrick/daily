@@ -16,3 +16,4 @@
 16. [在文件系统中，readFile()和createReadStream()有哪些区别？](https://github.com/pwstrick/daily/issues/927)
 17. [在文件系统中，stat()和fstat()有哪些区别？](https://github.com/pwstrick/daily/issues/928)
 18. [在文件系统中，watch()和watchFile()有哪些区别？](https://github.com/pwstrick/daily/issues/929)
+19. [如何解决模块循环引用？](https://github.com/pwstrick/daily/issues/943)

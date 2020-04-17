@@ -91,7 +91,12 @@
 91. [有状态组件和无状态组件，有人说有状态的更好复用，有人说无状态的更好复用，你平时写的时候是怎么分的？](https://github.com/pwstrick/daily/issues/812)
 92. [React组件是怎么响应数据的变化从而更新的？](https://github.com/pwstrick/daily/issues/813)
 93. [虚拟DOM相比真实DOM，为什么会带来性能上的优化？](https://github.com/pwstrick/daily/issues/814)
-
+94. [setState()方法为什么是异步的？](https://github.com/pwstrick/daily/issues/934)
+95. [Mobx的原理是什么？](https://github.com/pwstrick/daily/issues/935)
+96. [Diff算法具体是如何执行的？](https://github.com/pwstrick/daily/issues/936)
+97. [React Hooks有什么优势？](https://github.com/pwstrick/daily/issues/937)
+98. [React封装组件需要注意什么？](https://github.com/pwstrick/daily/issues/941)
+99. [React组件有哪些通信方式？](https://github.com/pwstrick/daily/issues/942)
 
 
 ## 思维导图
