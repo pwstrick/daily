@@ -98,6 +98,7 @@
 98. [React封装组件需要注意什么？](https://github.com/pwstrick/daily/issues/941)
 99. [React组件有哪些通信方式？](https://github.com/pwstrick/daily/issues/942)
 100. [React和Vue的异同点有哪些？](https://github.com/pwstrick/daily/issues/946)
+101. [Redux的原理是什么？](https://github.com/pwstrick/daily/issues/947)
 
 ## 思维导图
 ![React](https://github.com/pwstrick/daily/blob/master/assets/img/mind/React.png)
