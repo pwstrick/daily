@@ -25,3 +25,4 @@
 23. [开发过程中遇到了哪些移动端兼容问题？你是怎么解决的？](https://github.com/pwstrick/daily/issues/930)
 24. [项目开发时，有没有遇到比较困难的点？你又是怎么解决的？](https://github.com/pwstrick/daily/issues/931)
 25. [移动端和PC端有哪些区别？](https://github.com/pwstrick/daily/issues/938)
+26. [前端路由的原理是怎么样的？](https://github.com/pwstrick/daily/issues/952)

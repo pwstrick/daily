@@ -26,7 +26,7 @@
 26. [webpack的runtime和manifest有什么作用？](https://github.com/pwstrick/daily/issues/469)
 27. [webpack中的Source Map有什么功能？](https://github.com/pwstrick/daily/issues/470)
 28. [webpack-dev-server有什么作用？](https://github.com/pwstrick/daily/issues/471)
-29. [webpack中的模块热替换是指什么？](https://github.com/pwstrick/daily/issues/472)
+29. [webpack中的模块热替换是指什么？原理是怎么样的？](https://github.com/pwstrick/daily/issues/472)
 30. [如何理解webpack中的Tree Shaking？](https://github.com/pwstrick/daily/issues/473)
 31. [如何清理webpack输出目录中的文件？](https://github.com/pwstrick/daily/issues/474)
 32. [webpack-merge插件有什么作用？](https://github.com/pwstrick/daily/issues/475)
@@ -54,5 +54,9 @@
 54. [用过JSBridge吗？你们是如何封装JSBridge的？](https://github.com/pwstrick/daily/issues/852)
 55. [你有没有对webpack进行过优化？](https://github.com/pwstrick/daily/issues/932)
 56. [npm多版本如何管理？](https://github.com/pwstrick/daily/issues/944)
+57. [webpack与gulp的不同有哪些？](https://github.com/pwstrick/daily/issues/948)
+58. [webpack的加载器和插件有什么不同？](https://github.com/pwstrick/daily/issues/949)
+59. [webpack的构建流程是怎么样的？](https://github.com/pwstrick/daily/issues/950)
+60. [Babel的原理是什么?](https://github.com/pwstrick/daily/issues/951)
 
 参考资料：[前端利器躬行记](https://www.kancloud.cn/pwstrick/fe-questions/1280317)
