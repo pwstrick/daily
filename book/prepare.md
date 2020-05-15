@@ -30,7 +30,7 @@
 * 19、 [最常遇到的10个问题](https://github.com/pwstrick/daily/blob/master/book/prepare/19.md)
 * 20、 [40个你必须准备的经典问题](https://github.com/pwstrick/daily/blob/master/book/prepare/20.md)
 * 21、 [违法问题——以及如何规避这些问题](https://github.com/pwstrick/daily/blob/master/book/prepare/21.md)
-* 22、 Special cases: from school leavers to retirees
+* 22、 [特例：从离校生到退休人员](https://github.com/pwstrick/daily/blob/master/book/prepare/22.md)
 * 23、 Yet more questions
 
 ### Part 5 Ending the interview
