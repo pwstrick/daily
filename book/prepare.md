@@ -33,8 +33,8 @@
 * 22、 [特例：从离校生到退休人员](https://github.com/pwstrick/daily/blob/master/book/prepare/22.md)
 * 23、 [其它问题](https://github.com/pwstrick/daily/blob/master/book/prepare/23.md)
 
-### Part 5 Ending the interview
-* 24、 Your own questions
+### Part 5 结束面试
+* 24、 [你的提问](https://github.com/pwstrick/daily/blob/master/book/prepare/24.md)
 
 ### Part 6 The 15 most common interview mistakes
 * 25、 How to avoid them
