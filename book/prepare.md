@@ -39,8 +39,8 @@
 ### Part 6 面试中15个最常见的错误
 * 25、 [如何避免常见错误](https://github.com/pwstrick/daily/blob/master/book/prepare/25.md)
 
-### Part 7 After the interview: closing the deal
-* 26、 Following up
+### Part 7 面试后：完成“交易”
+* 26、 [跟进](https://github.com/pwstrick/daily/blob/master/book/prepare/26.md)
 * 27、 Negotiating the offer
 * 28、 References
 * 29、 Resigning
