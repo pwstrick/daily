@@ -36,8 +36,8 @@
 ### Part 5 结束面试
 * 24、 [你的提问](https://github.com/pwstrick/daily/blob/master/book/prepare/24.md)
 
-### Part 6 The 15 most common interview mistakes
-* 25、 How to avoid them
+### Part 6 面试中15个最常见的错误
+* 25、 [如何避免常见错误](https://github.com/pwstrick/daily/blob/master/book/prepare/25.md)
 
 ### Part 7 After the interview: closing the deal
 * 26、 Following up
