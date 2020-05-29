@@ -7,6 +7,12 @@
 
 [《HTML5权威指南》](https://book.douban.com/subject/25786074/) 
 
+[《SVG动画 用复杂交互动画改善用户体验》](https://book.douban.com/subject/30239781/) 
+
+[《SVG精髓（第2版）》](https://book.douban.com/subject/26640057/) 
+
+[《深入理解SVG》](https://book.douban.com/subject/27191977/) 
+
 ## CSS
 [《精彩绝伦的CSS》](https://book.douban.com/subject/10793898/)
 
