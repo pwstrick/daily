@@ -41,8 +41,8 @@
 
 ### Part 7 面试后：完成“交易”
 * 26、 [跟进](https://github.com/pwstrick/daily/blob/master/book/prepare/26.md)
-* 27、 Negotiating the offer
-* 28、 References
+* 27、 [谈判](https://github.com/pwstrick/daily/blob/master/book/prepare/27.md)
+* 28、 [举荐信](https://github.com/pwstrick/daily/blob/master/book/prepare/28.md)
 * 29、 Resigning
 * 30、 Handling rejection
 * 31、 Your new job
