@@ -43,9 +43,9 @@
 * 26、 [跟进](https://github.com/pwstrick/daily/blob/master/book/prepare/26.md)
 * 27、 [谈判](https://github.com/pwstrick/daily/blob/master/book/prepare/27.md)
 * 28、 [举荐信](https://github.com/pwstrick/daily/blob/master/book/prepare/28.md)
-* 29、 Resigning
-* 30、 Handling rejection
+* 29、 [辞职](https://github.com/pwstrick/daily/blob/master/book/prepare/29.md)
+* 30、 [面试落选](https://github.com/pwstrick/daily/blob/master/book/prepare/30.md)
 * 31、 Your new job
 
-### Part 8 My five top tips for interview success
-* 32、 How to guarantee interview success
+### Part 8 成功面试的五大技巧
+* 32、 [如何保证面试成功](https://github.com/pwstrick/daily/blob/master/book/prepare/32.md)
