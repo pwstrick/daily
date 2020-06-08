@@ -45,7 +45,7 @@
 * 28、 [举荐信](https://github.com/pwstrick/daily/blob/master/book/prepare/28.md)
 * 29、 [辞职](https://github.com/pwstrick/daily/blob/master/book/prepare/29.md)
 * 30、 [面试落选](https://github.com/pwstrick/daily/blob/master/book/prepare/30.md)
-* 31、 Your new job
+* 31、 [新工作](https://github.com/pwstrick/daily/blob/master/book/prepare/31.md)
 
 ### Part 8 成功面试的五大技巧
 * 32、 [如何保证面试成功](https://github.com/pwstrick/daily/blob/master/book/prepare/32.md)
