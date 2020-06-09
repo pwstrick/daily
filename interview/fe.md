@@ -26,3 +26,6 @@
 24. [项目开发时，有没有遇到比较困难的点？你又是怎么解决的？](https://github.com/pwstrick/daily/issues/931)
 25. [移动端和PC端有哪些区别？](https://github.com/pwstrick/daily/issues/938)
 26. [前端路由的原理是怎么样的？](https://github.com/pwstrick/daily/issues/952)
+27. [你对前端现状的看法。](https://github.com/pwstrick/daily/issues/954)
+28. [你遇到过哪些瓶颈？](https://github.com/pwstrick/daily/issues/955)
+29. [你和别人相比，你的优势是什么？](https://github.com/pwstrick/daily/issues/956)

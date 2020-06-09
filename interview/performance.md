@@ -11,3 +11,4 @@
 11. [如何优化网页的动画？](https://github.com/pwstrick/daily/issues/858)
 12. [大量数据滚动加载如何保证性能。](https://github.com/pwstrick/daily/issues/860)
 13. [可以通过哪些方式改善网站的滚动性能？](https://github.com/pwstrick/daily/issues/864)
+14. [如何解决白屏？](https://github.com/pwstrick/daily/issues/953)
