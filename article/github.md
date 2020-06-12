@@ -10,7 +10,7 @@
 9. [前端面试手册](https://github.com/yangshun/front-end-interview-handbook/blob/master/Translations/Chinese/README.md)
 10. [React面试304问](https://github.com/semlinker/reactjs-interview-questions)
 11. [前端开发面试题大收集](https://github.com/paddingme/Front-end-Web-Development-Interview-Question)
-12. [前端面试与进阶指南](https://github.com/xiaomuzhu/front-end-interview)
+12. [前端面试与进阶指南](https://www.cxymsg.com/)
 13. [142张现场纸质面试题集合](https://github.com/ifyouremember/Interview)
 14. [前端小智面试系列](https://github.com/qq449245884/xiaozhi#%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95-%E7%B3%BB%E5%88%97)
 15. [大前端吊打面试官系列](https://github.com/luxiangqiang/Web-interview)
