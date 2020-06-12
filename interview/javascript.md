@@ -357,6 +357,8 @@ machine('ygy').waitFirst(5).do('eat').execute();
 142. [模拟Object.create()方法。](https://github.com/pwstrick/daily/issues/967)
 143. [实现JSON.parse()方法。](https://github.com/pwstrick/daily/issues/968)
 144. [setTimeout背后的原理是怎么样的？](https://github.com/pwstrick/daily/issues/969)
+145. [如果实现前端截图？](https://github.com/pwstrick/daily/issues/970)
+146. [setTimeOut 和 setInterval 底层有哪些区别？](https://github.com/pwstrick/daily/issues/971)
 
 ## 思维导图
 ![JavaScript](https://github.com/pwstrick/daily/blob/master/assets/img/mind/JavaScript.png)
