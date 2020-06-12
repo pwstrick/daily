@@ -29,3 +29,5 @@
 27. [你对前端现状的看法。](https://github.com/pwstrick/daily/issues/954)
 28. [你遇到过哪些瓶颈？](https://github.com/pwstrick/daily/issues/955)
 29. [你和别人相比，你的优势是什么？](https://github.com/pwstrick/daily/issues/956)
+30. [SPA渲染的优缺点。](https://github.com/pwstrick/daily/issues/965)
+31. [小程序的底层实现是怎么样的？](https://github.com/pwstrick/daily/issues/966)

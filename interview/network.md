@@ -57,6 +57,10 @@
 57. [端口号的作用是什么？](https://github.com/pwstrick/daily/issues/846)
 58. [请谈谈你对no-store和no-cache的理解。](https://github.com/pwstrick/daily/issues/933)
 59. [强缓存和协商缓存是指什么？](https://github.com/pwstrick/daily/issues/940)
+60. [当一个网站突然不能访问时，你能想到哪些原因？](https://github.com/pwstrick/daily/issues/959)
+61. [负载均衡的原理是什么？](https://github.com/pwstrick/daily/issues/960)
+62. [CDN原理是什么？](https://github.com/pwstrick/daily/issues/961)
+63. [DNS查询过程是怎么样的？](https://github.com/pwstrick/daily/issues/962)
 
 ## 思维导图
 ![Network](https://github.com/pwstrick/daily/blob/master/assets/img/mind/Network.png)

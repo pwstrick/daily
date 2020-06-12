@@ -351,6 +351,9 @@ machine('ygy').waitFirst(5).do('eat').execute();
 136. [如何让两个非常大的数字相加？](https://github.com/pwstrick/daily/issues/859)
 137. [宏任务和微任务是指什么？](https://github.com/pwstrick/daily/issues/939)
 138. [实现预加载和懒加载。](https://github.com/pwstrick/daily/issues/945)
+139. [如何用Ajax实现大文件上传？](https://github.com/pwstrick/daily/issues/958)
+140. [如何用JavaScript实现两个大数的相加？](https://github.com/pwstrick/daily/issues/963)
+141. [ES6的模块和CommonJS模块的对比](https://github.com/pwstrick/daily/issues/964)
 
 ## 思维导图
 ![JavaScript](https://github.com/pwstrick/daily/blob/master/assets/img/mind/JavaScript.png)
