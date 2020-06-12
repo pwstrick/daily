@@ -7,7 +7,7 @@
 
 1. [HTML（包括HTML5，共有79道）](https://github.com/pwstrick/daily/blob/master/interview/html.md)
 2. [CSS（包括CSS3，共有100道）](https://github.com/pwstrick/daily/blob/master/interview/css.md)
-3. [JavaScript（141道）](https://github.com/pwstrick/daily/blob/master/interview/javascript.md)
+3. [JavaScript（144道）](https://github.com/pwstrick/daily/blob/master/interview/javascript.md)
 4. [ES6（88道）](https://github.com/pwstrick/daily/blob/master/interview/es6.md)
 5. [React（101道）](https://github.com/pwstrick/daily/blob/master/interview/react.md)
 6. [网络（63道）](https://github.com/pwstrick/daily/blob/master/interview/network.md)

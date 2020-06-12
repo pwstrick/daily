@@ -354,6 +354,9 @@ machine('ygy').waitFirst(5).do('eat').execute();
 139. [如何用Ajax实现大文件上传？](https://github.com/pwstrick/daily/issues/958)
 140. [如何用JavaScript实现两个大数的相加？](https://github.com/pwstrick/daily/issues/963)
 141. [ES6的模块和CommonJS模块的对比](https://github.com/pwstrick/daily/issues/964)
+142. [模拟Object.create()方法。](https://github.com/pwstrick/daily/issues/967)
+143. [实现JSON.parse()方法。](https://github.com/pwstrick/daily/issues/968)
+144. [setTimeout背后的原理是怎么样的？](https://github.com/pwstrick/daily/issues/969)
 
 ## 思维导图
 ![JavaScript](https://github.com/pwstrick/daily/blob/master/assets/img/mind/JavaScript.png)
