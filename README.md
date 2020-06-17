@@ -16,7 +16,7 @@
 9. [安全（10道）](https://github.com/pwstrick/daily/blob/master/interview/security.md)
 10. [性能（14道）](https://github.com/pwstrick/daily/blob/master/interview/performance.md)
 11. [软技能（107道）](https://github.com/pwstrick/daily/blob/master/interview/skill.md)
-12. [前端（31道）](https://github.com/pwstrick/daily/blob/master/interview/fe.md)
+12. [前端（32道）](https://github.com/pwstrick/daily/blob/master/interview/fe.md)
 13. [Node.js（19道）](https://github.com/pwstrick/daily/blob/master/interview/nodejs.md)
 14. [TypeScript（15道）](https://github.com/pwstrick/daily/blob/master/interview/ts.md)
 15. [Vue（42道）](https://github.com/pwstrick/daily/blob/master/interview/vue.md)

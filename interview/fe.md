@@ -31,3 +31,4 @@
 29. [你和别人相比，你的优势是什么？](https://github.com/pwstrick/daily/issues/956)
 30. [SPA渲染的优缺点。](https://github.com/pwstrick/daily/issues/965)
 31. [小程序的底层实现是怎么样的？](https://github.com/pwstrick/daily/issues/966)
+32. [JSBridge的原理是什么？](https://github.com/pwstrick/daily/issues/975)
