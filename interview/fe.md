@@ -32,3 +32,4 @@
 30. [SPA渲染的优缺点。](https://github.com/pwstrick/daily/issues/965)
 31. [小程序的底层实现是怎么样的？](https://github.com/pwstrick/daily/issues/966)
 32. [JSBridge的原理是什么？](https://github.com/pwstrick/daily/issues/975)
+33. [观察者和发布-订阅的区别？](https://github.com/pwstrick/daily/issues/976)

@@ -361,6 +361,7 @@ machine('ygy').waitFirst(5).do('eat').execute();
 146. [setTimeOut 和 setInterval 底层有哪些区别？](https://github.com/pwstrick/daily/issues/971)
 147. [在CORS跨域请求时，什么情况下会发两次请求？](https://github.com/pwstrick/daily/issues/972)
 148. [在CORS跨域请求时，需要携带cookie，得做哪些配置？](https://github.com/pwstrick/daily/issues/973)
+149. [如何实现并发请求？](https://github.com/pwstrick/daily/issues/977)
 
 ## 思维导图
 ![JavaScript](https://github.com/pwstrick/daily/blob/master/assets/img/mind/JavaScript.png)
