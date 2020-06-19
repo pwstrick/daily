@@ -11,6 +11,7 @@
 10. [征服这道题，让你好好准备面试](https://juejin.im/post/5d8f137ae51d4578045a3531)
 11. [从8道面试题看浏览器渲染过程与性能优化](https://juejin.im/post/5e143104e51d45414a4715f7)
 12. [2020前端性能优化清单](https://mp.weixin.qq.com/s/d9J-_aF9K8QTUtemol-EfQ)
+13. [最强前端性能优化，Google已经为你准备好了](https://zhuanlan.zhihu.com/p/67134654)
 
 ## JavaScript
 1. [图片预加载与懒加载](https://www.cnblogs.com/strick/p/5372694.html)
