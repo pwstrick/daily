@@ -13,4 +13,4 @@
 13. [可以通过哪些方式改善网站的滚动性能？](https://github.com/pwstrick/daily/issues/864)
 14. [如何解决白屏？](https://github.com/pwstrick/daily/issues/953)
 15. [白屏怎么计算？](https://github.com/pwstrick/daily/issues/978)
-16. [FP、FCP和FMP是指什么？如何计算？](https://github.com/pwstrick/daily/issues/979)
+16. [FP和FCP是指什么？如何计算？](https://github.com/pwstrick/daily/issues/979)
