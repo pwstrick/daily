@@ -281,7 +281,7 @@ console.log(numbers);
 
 87. [如何实现Promise？](https://github.com/pwstrick/daily/issues/782)
 88. [箭头函数和普通函数有什么区别？](https://github.com/pwstrick/daily/issues/805)
-
+89. [async/await的原理是什么？](https://github.com/pwstrick/daily/issues/980)
 
 ## 思维导图
 ![ES6](https://github.com/pwstrick/daily/blob/master/assets/img/mind/ES6.png)
