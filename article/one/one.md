@@ -7,7 +7,7 @@
 
 [一句话算法](https://github.com/pwstrick/daily/blob/master/article/one/one.md)选取的题目来源于[力扣](https://leetcode-cn.com/)、[牛客网](https://www.nowcoder.com/)、《[前端程序员算法宝典](https://book.douban.com/subject/34451262/)》、《[剑指offer](https://book.douban.com/subject/27008702/)》、[小浩算法](https://www.geekxh.com)、技术博文等渠道。
 
-每个问题后会给出至少一种解题思路，具体的代码实现可点击题目链接。
+每个问题后会给出至少一种解题思路，部分给出了具体的代码实现，其标题可点击。
 
 ### 经典算法
 1. 斐波纳数
