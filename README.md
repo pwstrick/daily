@@ -66,8 +66,6 @@
 
 [一句话算法](https://github.com/pwstrick/daily/blob/master/article/one/one.md)选取的题目来源于[力扣](https://leetcode-cn.com/)、[牛客网](https://www.nowcoder.com/)、《[前端程序员算法宝典](https://book.douban.com/subject/34451262/)》、技术博文等渠道。
 
-注意，本系列不会给出具体的代码实现。
-
 ## 欢迎大家踊跃分享
 如果你也有前端面试题，或者有好的与面试相关的文章，都可以向我投稿。
 
