@@ -178,6 +178,10 @@
 
 [《JavaScript性能优化 度量、监控与可视化》](https://book.douban.com/subject/25854153/)  
 
+[《Web性能实战》](https://book.douban.com/subject/35083270/)
+
+[《Web前端性能优化》](https://book.douban.com/subject/35022948/)
+
 ## 算法
 [《枕边算法书》](https://book.douban.com/subject/30163021/) [书摘](https://www.cnblogs.com/strick/p/9324530.html)
 
