@@ -5,4 +5,6 @@
 
 [一句话算法](https://github.com/pwstrick/daily/blob/master/article/one/one.md)选取的题目来源于[力扣](https://leetcode-cn.com/)、[牛客网](https://www.nowcoder.com/)、《[前端程序员算法宝典](https://book.douban.com/subject/34451262/)》、技术博文等渠道。
 
-
+### 链表
+1. 找出链表倒数第N个元素
+	* 使用两个指针，相距N-1个元素
