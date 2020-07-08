@@ -35,8 +35,9 @@ LeetCode中的题目按真实面试中的出现频率降序排列。
 | [剑指 Offer 59 - I. 滑动窗口的最大值](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/) | [单调队列](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/solution/mian-shi-ti-59-i-hua-dong-chuang-kou-de-zui-da-1-6/) | [查看](https://github.com/pwstrick/daily/issues/1017) |
 
 ### 排序
+排序好后再做比对。
 | 题目 | 思路 | 实现  |
 | :------------- | :-------------: | :-------------: |
 | [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) | [字母排序](https://leetcode-cn.com/problems/valid-anagram/solution/you-xiao-de-zi-mu-yi-wei-ci-by-leetcode/) | [查看](https://github.com/pwstrick/daily/issues/1018) |
 | [349. 两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/) |  | [查看](https://github.com/pwstrick/daily/issues/1019) |
-
+| [350. 两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | [排序](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/solution/liang-ge-shu-zu-de-jiao-ji-ii-by-leetcode/) | [查看](https://github.com/pwstrick/daily/issues/1020) |
