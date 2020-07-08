@@ -19,6 +19,7 @@ LeetCode中的题目按真实面试中的出现频率降序排列。
 从简单题开始刷，题目太长和超过5分钟不能理解题目含义的直接跳过。
 
 ### 栈
+用栈做中转，当满足某个条件时，进栈或出栈，很多时候结果就存放在栈中。
 | 题目 | 思路 | 实现  |
 | :------------- | :-------------: | :-------------: |
 [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | [辅助栈](https://leetcode-cn.com/problems/valid-parentheses/solution/zhu-bu-fen-xi-tu-jie-zhan-zhan-shi-zui-biao-zhun-d/) | [查看](https://github.com/pwstrick/daily/issues/1012) |
