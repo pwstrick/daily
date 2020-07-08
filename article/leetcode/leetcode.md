@@ -35,9 +35,17 @@ LeetCode中的题目按真实面试中的出现频率降序排列。
 | [剑指 Offer 59 - I. 滑动窗口的最大值](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/) | [单调队列](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/solution/mian-shi-ti-59-i-hua-dong-chuang-kou-de-zui-da-1-6/) | [查看](https://github.com/pwstrick/daily/issues/1017) |
 
 ### 排序
-排序好后再做比对。
+排序好后再做比对或计算。
 | 题目 | 思路 | 实现  |
 | :------------- | :-------------: | :-------------: |
 | [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) | [字母排序](https://leetcode-cn.com/problems/valid-anagram/solution/you-xiao-de-zi-mu-yi-wei-ci-by-leetcode/) | [查看](https://github.com/pwstrick/daily/issues/1018) |
 | [349. 两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/) |  | [查看](https://github.com/pwstrick/daily/issues/1019) |
-| [350. 两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | [排序](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/solution/liang-ge-shu-zu-de-jiao-ji-ii-by-leetcode/) | [查看](https://github.com/pwstrick/daily/issues/1020) |
+| [350. 两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | [数字排序](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/solution/liang-ge-shu-zu-de-jiao-ji-ii-by-leetcode/) | [查看](https://github.com/pwstrick/daily/issues/1020) |
+| [922. 按奇偶排序数组 II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/) | [双指针](https://leetcode-cn.com/problems/sort-array-by-parity-ii/solution/an-qi-ou-pai-xu-shu-zu-ii-by-leetcode/) | [查看](https://github.com/pwstrick/daily/issues/1021) |
+| [976. 三角形的最大周长](https://leetcode-cn.com/problems/largest-perimeter-triangle/) | [数字排序](https://leetcode-cn.com/problems/largest-perimeter-triangle/solution/san-jiao-xing-de-zui-da-zhou-chang-by-leetcode/) | [查看](https://github.com/pwstrick/daily/issues/1022) |
+| [1122. 数组的相对排序](https://leetcode-cn.com/problems/relative-sort-array/) | [计数排序](https://leetcode-cn.com/problems/relative-sort-array/solution/ming-que-bi-jiao-fang-shi-hou-xiang-zen-yao-pai-ji/) | [查看](https://github.com/pwstrick/daily/issues/1023) |
+| [1356. 根据数字二进制下 1 的数目排序](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/) | 自定义排序规则 | [查看](https://github.com/pwstrick/daily/issues/1024) |
+| [1491. 去掉最低工资和最高工资后的工资平均值](https://leetcode-cn.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) |  | [查看](https://github.com/pwstrick/daily/issues/1025) |
+| [1502. 判断能否形成等差数列](https://leetcode-cn.com/problems/can-make-arithmetic-progression-from-sequence/) |  | [查看](https://github.com/pwstrick/daily/issues/1026) |
+
+
