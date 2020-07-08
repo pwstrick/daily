@@ -29,6 +29,12 @@
 * [前端优化](https://github.com/pwstrick/daily/blob/master/article/optimization.md)
 * [GitHub或网络上优秀的面试项目](https://github.com/pwstrick/daily/blob/master/article/github.md)（题量众多，内容饱满）
 
+## 算法
+算法包括用一句话描述的算法思路，LeetCode中的题目出现频率以及刷题列表（包含思路和实现）。
+
+* [一句话算法](https://github.com/pwstrick/daily/blob/master/article/one/one.md)
+* [LeetCode](https://github.com/pwstrick/daily/blob/master/article/leetcode/leetcode.md)
+
 ## 书籍分享
 
 在下面目录中的书都是我以前浏览过的，有些是精读过的，有些是粗读过的，有些是翻过页的，其中有些还有专门的书摘。
@@ -55,12 +61,6 @@
 古语云：“纸上得来终觉浅，绝知此事要躬行”。的确，不管看了多少本书，如果自己不实践，那么就很难领会其中的精髓。为此，开辟了《[前端躬行记](https://www.kancloud.cn/pwstrick/fe-questions/1094971)》系列，包括ES6、React、Vue.js、TypeScript和利器等，将相关知识系统的记录下来，以便自己翻阅，也希望能帮助到广大网友。
 
 <img src="https://github.com/pwstrick/daily/raw/master/assets/img/cover/fe-questions.png" width="200" />
-
-## 算法
-算法包括用一句话描述的算法思路，LeetCode中的题目出现频率以及刷题列表（包含思路和实现）。
-
-* [一句话算法](https://github.com/pwstrick/daily/blob/master/article/one/one.md)
-* [LeetCode](https://github.com/pwstrick/daily/blob/master/article/leetcode/leetcode.md)
 
 ## 欢迎大家踊跃分享
 如果你也有前端面试题，或者有好的与面试相关的文章，都可以向我投稿。
