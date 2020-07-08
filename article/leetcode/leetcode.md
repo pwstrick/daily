@@ -48,4 +48,14 @@ LeetCode中的题目按真实面试中的出现频率降序排列。
 | [1491. 去掉最低工资和最高工资后的工资平均值](https://leetcode-cn.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) |  | [查看](https://github.com/pwstrick/daily/issues/1025) |
 | [1502. 判断能否形成等差数列](https://leetcode-cn.com/problems/can-make-arithmetic-progression-from-sequence/) |  | [查看](https://github.com/pwstrick/daily/issues/1026) |
 
+### 位运算
+| 题目 | 思路 | 实现  |
+| :------------- | :-------------: | :-------------: |
+| [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/) | 异或 | [查看](https://github.com/pwstrick/daily/issues/1027) |
+| [169. 多数元素](https://leetcode-cn.com/problems/majority-element/) |  | [查看](https://github.com/pwstrick/daily/issues/1028) |
+| [191. 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/submissions/) | 二进制 | [查看](https://github.com/pwstrick/daily/issues/1029) |
+| [231. 2的幂](https://leetcode-cn.com/problems/power-of-two/) |  | [查看](https://github.com/pwstrick/daily/issues/1030) |
+| [268. 缺失数字](https://leetcode-cn.com/problems/missing-number/) | 减法 | [查看](https://github.com/pwstrick/daily/issues/1031) |
+| [371. 两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers/) | [位运算](https://leetcode-cn.com/problems/sum-of-two-integers/solution/wei-yun-suan-xiang-jie-yi-ji-zai-python-zhong-xu-y/) | [查看](https://github.com/pwstrick/daily/issues/1032) |
+| [389. 找不同](https://leetcode-cn.com/problems/find-the-difference/) | 异或 | [查看](https://github.com/pwstrick/daily/issues/1033) |
 
