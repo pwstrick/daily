@@ -1,4 +1,4 @@
-## LeetCode
+## 题目出现频率
 
 LeetCode中的题目按真实面试中的出现频率降序排列。
 
@@ -15,3 +15,8 @@ LeetCode中的题目按真实面试中的出现频率降序排列。
 | [回溯算法](https://github.com/pwstrick/daily/blob/master/article/leetcode/backtracking.md) | [Random](https://github.com/pwstrick/daily/blob/master/article/leetcode/random.md) | [Rejection Sampling](https://github.com/pwstrick/daily/blob/master/article/leetcode/rejection-sampling.md) | [Sliding Window](https://github.com/pwstrick/daily/blob/master/article/leetcode/sliding-window.md) |
 | [Ordered Map](https://github.com/pwstrick/daily/blob/master/article/leetcode/ordered-map.md) | [Line Sweep](https://github.com/pwstrick/daily/blob/master/article/leetcode/line-sweep.md) | &nbsp; | &nbsp; |
 
+## 刷题记录
+### 栈
+| 题目 | 思路 | 代码  |
+| :-------------: | :-------------: | :-------------: |
+[20.有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | [辅助栈](https://leetcode-cn.com/problems/valid-parentheses/solution/zhu-bu-fen-xi-tu-jie-zhan-zhan-shi-zui-biao-zhun-d/) | [查看](https://github.com/pwstrick/daily/issues/1012) |
