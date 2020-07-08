@@ -16,7 +16,7 @@ LeetCode中的题目按真实面试中的出现频率降序排列。
 | [Ordered Map](https://github.com/pwstrick/daily/blob/master/article/leetcode/ordered-map.md) | [Line Sweep](https://github.com/pwstrick/daily/blob/master/article/leetcode/line-sweep.md) | &nbsp; | &nbsp; |
 
 ## 刷题记录
-从简单题开始刷，题目太长和超过5分钟不能理解题目含义的直接跳过。
+从简单题开始刷，给自己点信心，题目太长和超过5分钟不能理解题目含义的直接跳过。
 
 ### 栈
 用栈做中转，当满足某个条件时，进栈或出栈，很多时候结果就存放在栈中。
@@ -27,3 +27,11 @@ LeetCode中的题目按真实面试中的出现频率降序排列。
 | [682. 棒球比赛](https://leetcode-cn.com/problems/baseball-game/) | [辅助栈](https://leetcode-cn.com/problems/baseball-game/solution/bang-qiu-bi-sai-by-leetcode/) | [查看](https://github.com/pwstrick/daily/issues/1014) |
 | [844. 比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/) | [辅助栈](https://leetcode-cn.com/problems/backspace-string-compare/solution/bi-jiao-han-tui-ge-de-zi-fu-chuan-by-leetcode/) | [查看](https://github.com/pwstrick/daily/issues/1015) |
 | [1047. 删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/) | [辅助栈](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/solution/shan-chu-zi-fu-chuan-zhong-de-suo-you-xiang-lin-zh/) | [查看](https://github.com/pwstrick/daily/issues/1016) |
+
+### 队列
+和栈类似，也是做中转，当满足某个条件时，进队或出队，很多时候结果就存放在队列中。
+| 题目 | 思路 | 实现  |
+| :------------- | :-------------: | :-------------: |
+| [剑指 Offer 59 - I. 滑动窗口的最大值](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/) | [单调队列](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/solution/mian-shi-ti-59-i-hua-dong-chuang-kou-de-zui-da-1-6/) | [查看](https://github.com/pwstrick/daily/issues/1017) |
+
+
