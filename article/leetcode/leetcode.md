@@ -16,6 +16,8 @@ LeetCode中的题目按真实面试中的出现频率降序排列。
 | [Ordered Map](https://github.com/pwstrick/daily/blob/master/article/leetcode/ordered-map.md) | [Line Sweep](https://github.com/pwstrick/daily/blob/master/article/leetcode/line-sweep.md) | &nbsp; | &nbsp; |
 
 ## 刷题记录
+从简单题开始刷，题目太长和超过5分钟不能理解题目含义的直接跳过。
+
 ### 栈
 | 题目 | 思路 | 实现  |
 | :------------- | :-------------: | :-------------: |
@@ -23,3 +25,4 @@ LeetCode中的题目按真实面试中的出现频率降序排列。
 | [496. 下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/) | [单调栈](https://leetcode-cn.com/problems/next-greater-element-i/solution/xia-yi-ge-geng-da-yuan-su-i-by-leetcode/) | [查看](https://github.com/pwstrick/daily/issues/1013) |
 | [682. 棒球比赛](https://leetcode-cn.com/problems/baseball-game/) | [辅助栈](https://leetcode-cn.com/problems/baseball-game/solution/bang-qiu-bi-sai-by-leetcode/) | [查看](https://github.com/pwstrick/daily/issues/1014) |
 | [844. 比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/) | [辅助栈](https://leetcode-cn.com/problems/backspace-string-compare/solution/bi-jiao-han-tui-ge-de-zi-fu-chuan-by-leetcode/) | [查看](https://github.com/pwstrick/daily/issues/1015) |
+| [1047. 删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/) | [辅助栈](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/solution/shan-chu-zi-fu-chuan-zhong-de-suo-you-xiang-lin-zh/) | [查看](https://github.com/pwstrick/daily/issues/1016) |
