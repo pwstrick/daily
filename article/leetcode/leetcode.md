@@ -21,4 +21,5 @@ LeetCode中的题目按真实面试中的出现频率降序排列。
 | :------------- | :-------------: | :-------------: |
 [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | [辅助栈](https://leetcode-cn.com/problems/valid-parentheses/solution/zhu-bu-fen-xi-tu-jie-zhan-zhan-shi-zui-biao-zhun-d/) | [查看](https://github.com/pwstrick/daily/issues/1012) |
 | [496. 下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/) | [单调栈](https://leetcode-cn.com/problems/next-greater-element-i/solution/xia-yi-ge-geng-da-yuan-su-i-by-leetcode/) | [查看](https://github.com/pwstrick/daily/issues/1013) |
-| [682. 棒球比赛](https://leetcode-cn.com/problems/baseball-game/) | [栈](https://leetcode-cn.com/problems/baseball-game/solution/bang-qiu-bi-sai-by-leetcode/) | [查看](https://github.com/pwstrick/daily/issues/1014) |
+| [682. 棒球比赛](https://leetcode-cn.com/problems/baseball-game/) | [辅助栈](https://leetcode-cn.com/problems/baseball-game/solution/bang-qiu-bi-sai-by-leetcode/) | [查看](https://github.com/pwstrick/daily/issues/1014) |
+| [844. 比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/) | [辅助栈](https://leetcode-cn.com/problems/backspace-string-compare/solution/bi-jiao-han-tui-ge-de-zi-fu-chuan-by-leetcode/) | [查看](https://github.com/pwstrick/daily/issues/1015) |
