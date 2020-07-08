@@ -28,7 +28,6 @@
 * [2020年](https://github.com/pwstrick/daily/blob/master/article/2020.md)
 * [前端优化](https://github.com/pwstrick/daily/blob/master/article/optimization.md)
 * [GitHub或网络上优秀的面试项目](https://github.com/pwstrick/daily/blob/master/article/github.md)（题量众多，内容饱满）
-* [LeetCode](https://github.com/pwstrick/daily/blob/master/article/leetcode/leetcode.md)
 
 ## 书籍分享
 
@@ -57,14 +56,9 @@
 
 <img src="https://github.com/pwstrick/daily/raw/master/assets/img/cover/fe-questions.png" width="200" />
 
-## 一句话算法
-本系列搜集的并不是完整的算法题，而是从算法题中萃取出来的算法关键点的思路。
-
-很多人平时并不会刷题，而如果只在面试前临时刷题，只能是找找感觉，像我这样记性不好的人没过多久就又会忘记。
-
-但是如果只是记住关键点，就简单很多，在遇到算法题后，适当的做分解，就能有大致地思路，茅塞顿开，大概率就能把题解出来。
-
-[一句话算法](https://github.com/pwstrick/daily/blob/master/article/one/one.md)选取的题目来源于[力扣](https://leetcode-cn.com/)、[牛客网](https://www.nowcoder.com/)、《[前端程序员算法宝典](https://book.douban.com/subject/34451262/)》、技术博文等渠道。
+## 算法
+* [一句话算法](https://github.com/pwstrick/daily/blob/master/article/one/one.md)
+* [LeetCode](https://github.com/pwstrick/daily/blob/master/article/leetcode/leetcode.md)
 
 ## 欢迎大家踊跃分享
 如果你也有前端面试题，或者有好的与面试相关的文章，都可以向我投稿。
