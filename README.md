@@ -57,6 +57,8 @@
 <img src="https://github.com/pwstrick/daily/raw/master/assets/img/cover/fe-questions.png" width="200" />
 
 ## 算法
+算法包括用一句话描述的算法思路，LeetCode中的题目出现频率以及刷题列表（包含思路和实现）。
+
 * [一句话算法](https://github.com/pwstrick/daily/blob/master/article/one/one.md)
 * [LeetCode](https://github.com/pwstrick/daily/blob/master/article/leetcode/leetcode.md)
 
