@@ -18,6 +18,6 @@ LeetCode中的题目按真实面试中的出现频率降序排列。
 ## 刷题记录
 ### 栈
 | 题目 | 思路 | 实现  |
-| :-------------: | :-------------: | :-------------: |
+| :------------- | :-------------: | :-------------: |
 [20.有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | [辅助栈](https://leetcode-cn.com/problems/valid-parentheses/solution/zhu-bu-fen-xi-tu-jie-zhan-zhan-shi-zui-biao-zhun-d/) | [查看](https://github.com/pwstrick/daily/issues/1012) |
 | [496. 下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/) | [单调栈](https://leetcode-cn.com/problems/next-greater-element-i/solution/xia-yi-ge-geng-da-yuan-su-i-by-leetcode/) | [查看](https://github.com/pwstrick/daily/issues/1013) |
