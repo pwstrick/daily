@@ -49,6 +49,7 @@ LeetCode中的题目按真实面试中的出现频率降序排列。
 | [1502. 判断能否形成等差数列](https://leetcode-cn.com/problems/can-make-arithmetic-progression-from-sequence/) |  | [查看](https://github.com/pwstrick/daily/issues/1026) |
 
 ### 位运算
+使用异或、与、非等位运算符解决各类计算。
 | 题目 | 思路 | 实现  |
 | :------------- | :-------------: | :-------------: |
 | [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/) | 异或 | [查看](https://github.com/pwstrick/daily/issues/1027) |
@@ -56,6 +57,18 @@ LeetCode中的题目按真实面试中的出现频率降序排列。
 | [191. 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/submissions/) | 二进制 | [查看](https://github.com/pwstrick/daily/issues/1029) |
 | [231. 2的幂](https://leetcode-cn.com/problems/power-of-two/) |  | [查看](https://github.com/pwstrick/daily/issues/1030) |
 | [268. 缺失数字](https://leetcode-cn.com/problems/missing-number/) | 减法 | [查看](https://github.com/pwstrick/daily/issues/1031) |
-| [371. 两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers/) | [位运算](https://leetcode-cn.com/problems/sum-of-two-integers/solution/wei-yun-suan-xiang-jie-yi-ji-zai-python-zhong-xu-y/) | [查看](https://github.com/pwstrick/daily/issues/1032) |
+| [371. 两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers/) | [异或+移位+与](https://leetcode-cn.com/problems/sum-of-two-integers/solution/wei-yun-suan-xiang-jie-yi-ji-zai-python-zhong-xu-y/) | [查看](https://github.com/pwstrick/daily/issues/1032) |
 | [389. 找不同](https://leetcode-cn.com/problems/find-the-difference/) | 异或 | [查看](https://github.com/pwstrick/daily/issues/1033) |
+| [461. 汉明距离](https://leetcode-cn.com/problems/hamming-distance/) | [异或](https://leetcode-cn.com/problems/hamming-distance/solution/yi-ming-ju-chi-by-leetcode/) | [查看](https://github.com/pwstrick/daily/issues/1034) |
+
+### 树
+可以用递归遍历二叉树，添加各种边界条件。
+| 题目 | 思路 | 实现  |
+| :------------- | :-------------: | :-------------: |
+| [100. 相同的树](https://leetcode-cn.com/problems/same-tree/) | [递归](https://leetcode-cn.com/problems/same-tree/solution/hua-jie-suan-fa-100-xiang-tong-de-shu-by-guanpengc/) | [查看](https://github.com/pwstrick/daily/issues/1035) |
+| [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) | [递归](https://leetcode-cn.com/problems/symmetric-tree/solution/dong-hua-yan-shi-101-dui-cheng-er-cha-shu-by-user7/) | [查看](https://github.com/pwstrick/daily/issues/1036) |
+| [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [递归](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/solution/er-cha-shu-de-zui-da-shen-du-by-leetcode/) | [查看](https://github.com/pwstrick/daily/issues/1037) |
+| [107. 二叉树的层次遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/) | [BFS+辅助栈](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/solution/shi-yong-zhan-jin-xing-zhong-zhuan-by-liu-lang-xi-/) | [查看](https://github.com/pwstrick/daily/issues/1038) |
+| [110. 平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/) | [两次递归](https://leetcode-cn.com/problems/balanced-binary-tree/solution/ping-heng-er-cha-shu-by-leetcode/) | [查看](https://github.com/pwstrick/daily/issues/1039) |
+
 
