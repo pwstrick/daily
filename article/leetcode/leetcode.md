@@ -70,5 +70,31 @@ LeetCode中的题目按真实面试中的出现频率降序排列。
 | [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [递归](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/solution/er-cha-shu-de-zui-da-shen-du-by-leetcode/) | [查看](https://github.com/pwstrick/daily/issues/1037) |
 | [107. 二叉树的层次遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/) | [BFS+辅助栈](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/solution/shi-yong-zhan-jin-xing-zhong-zhuan-by-liu-lang-xi-/) | [查看](https://github.com/pwstrick/daily/issues/1038) |
 | [110. 平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/) | [两次递归](https://leetcode-cn.com/problems/balanced-binary-tree/solution/ping-heng-er-cha-shu-by-leetcode/) | [查看](https://github.com/pwstrick/daily/issues/1039) |
+| [112. 路径总和](https://leetcode-cn.com/problems/path-sum/) | [减法递归](https://leetcode-cn.com/problems/path-sum/solution/lu-jing-zong-he-by-leetcode-solution/) | [查看](https://github.com/pwstrick/daily/issues/1040) |
 
+### 递归
+| 题目 | 思路 | 实现  |
+| :------------- | :-------------: | :-------------: |
+| [783. 二叉搜索树节点最小距离](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/) | [中序遍历](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/solution/er-cha-sou-suo-shu-jie-dian-zui-xiao-ju-chi-by-lee/) | [查看](https://github.com/pwstrick/daily/issues/1041) |
+| [938. 二叉搜索树的范围和](https://leetcode-cn.com/problems/range-sum-of-bst/) | [DFS](https://leetcode-cn.com/problems/range-sum-of-bst/solution/hua-jie-suan-fa-938-er-cha-sou-suo-shu-de-fan-wei-/) | [查看](https://github.com/pwstrick/daily/issues/1042) |
+| [1137. 第 N 个泰波那契数](https://leetcode-cn.com/problems/n-th-tribonacci-number/) | 递归+缓存 | [查看](https://github.com/pwstrick/daily/issues/1043) |
+| [剑指 Offer 10- II. 青蛙跳台阶问题](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/) | 递归 | [查看](https://github.com/pwstrick/daily/issues/1044) |
+
+### 链表
+| 题目 | 思路 | 实现  |
+| :------------- | :-------------: | :-------------: |
+| [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | [双指针](https://leetcode-cn.com/problems/linked-list-cycle/solution/huan-xing-lian-biao-by-leetcode/) | [查看](https://github.com/pwstrick/daily/issues/1045) |
+| [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [双指针](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/solution/xiang-jiao-lian-biao-by-leetcode/) | [查看](https://github.com/pwstrick/daily/issues/1046) |
+| [876. 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) | [双指针](https://leetcode-cn.com/problems/middle-of-the-linked-list/solution/lian-biao-de-zhong-jian-jie-dian-by-leetcode-solut/) | [查看](https://github.com/pwstrick/daily/issues/1047) |
+
+### 字符串
+| 题目 | 思路 | 实现  |
+| :------------- | :-------------: | :-------------: |
+| [14. 最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) | 遍历 | [查看](https://github.com/pwstrick/daily/issues/1048) |
+| [680. 验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/) | [双指针](https://leetcode-cn.com/problems/valid-palindrome-ii/solution/shan-chu-zuo-zhi-huo-you-zhi-zhen-zi-fu-pan-duan-s/) | [查看](https://github.com/pwstrick/daily/issues/1049) |
+
+### 数组
+| 题目 | 思路 | 实现  |
+| :------------- | :-------------: | :-------------: |
+| [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | 双重循环或[动态规划](https://leetcode-cn.com/problems/maximum-subarray/solution/zui-da-zi-xu-he-by-leetcode-solution/) | [查看](https://github.com/pwstrick/daily/issues/1050) |
 
