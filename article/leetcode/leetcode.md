@@ -98,3 +98,9 @@ LeetCode中的题目按真实面试中的出现频率降序排列。
 | :------------- | :-------------: | :-------------: |
 | [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | 双重循环或[动态规划](https://leetcode-cn.com/problems/maximum-subarray/solution/zui-da-zi-xu-he-by-leetcode-solution/) | [查看](https://github.com/pwstrick/daily/issues/1050) |
 
+### 动态规划
+| 题目 | 思路 | 实现  |
+| :------------- | :-------------: | :-------------: |
+| [198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/) | [dp[n] = max(dp[n-1], dp[n-2]+num)](https://leetcode-cn.com/problems/house-robber/solution/hua-jie-suan-fa-198-da-jia-jie-she-by-guanpengchn/) | [查看](https://github.com/pwstrick/daily/issues/1051) |
+| [746. 使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | [dp[i] = min(dp[i-2], dp[i-1]) + cost[i]](https://leetcode-cn.com/problems/min-cost-climbing-stairs/solution/yi-bu-yi-bu-tui-dao-dong-tai-gui-hua-de-duo-chong-/) | [查看](https://github.com/pwstrick/daily/issues/1052) |
+
