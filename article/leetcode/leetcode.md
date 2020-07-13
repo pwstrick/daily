@@ -18,6 +18,9 @@ LeetCode中的题目按真实面试中的出现频率降序排列。
 ## GitHub刷题库
 * [LeetCode算法模版](https://github.com/greyireland/algorithm-pattern)
 * [LeetCode顺序刷题](https://github.com/wind-liang/leetcode)
+* [LeetCode动画思路](https://github.com/MisterBooo/LeetCodeAnimation)
+* [算法小抄](https://github.com/labuladong/fucking-algorithm)
+* [LeetCode题解](https://github.com/azl397985856/leetcode)
 
 ## 刷题记录
 从简单题开始刷，给自己点信心，题目太长和超过5分钟不能理解题目含义的直接跳过。
