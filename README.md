@@ -80,4 +80,4 @@
 <img src="https://github.com/pwstrick/daily/raw/master/assets/img/skill/2020.png" />
 
 ## 欢迎打赏
-<img src="https://github.com/pwstrick/daily/raw/master/assets/img/pay.png" width="400" />
+<img src="https://github.com/pwstrick/daily/raw/master/assets/img/pay.jpg" width="400" />
