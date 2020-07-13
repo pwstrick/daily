@@ -15,6 +15,10 @@ LeetCode中的题目按真实面试中的出现频率降序排列。
 | [回溯算法](https://github.com/pwstrick/daily/blob/master/article/leetcode/backtracking.md) | [Random](https://github.com/pwstrick/daily/blob/master/article/leetcode/random.md) | [Rejection Sampling](https://github.com/pwstrick/daily/blob/master/article/leetcode/rejection-sampling.md) | [Sliding Window](https://github.com/pwstrick/daily/blob/master/article/leetcode/sliding-window.md) |
 | [Ordered Map](https://github.com/pwstrick/daily/blob/master/article/leetcode/ordered-map.md) | [Line Sweep](https://github.com/pwstrick/daily/blob/master/article/leetcode/line-sweep.md) | &nbsp; | &nbsp; |
 
+## GitHub刷题库
+* [LeetCode算法模版](https://github.com/greyireland/algorithm-pattern)
+* [LeetCode顺序刷题](https://github.com/wind-liang/leetcode)
+
 ## 刷题记录
 从简单题开始刷，给自己点信心，题目太长和超过5分钟不能理解题目含义的直接跳过。
 
