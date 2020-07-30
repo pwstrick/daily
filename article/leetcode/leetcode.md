@@ -105,10 +105,18 @@ LeetCode中的题目按真实面试中的出现频率降序排列。
 | :------------- | :-------------: | :-------------: |
 | [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | 双重循环或[动态规划](https://leetcode-cn.com/problems/maximum-subarray/solution/zui-da-zi-xu-he-by-leetcode-solution/) | [查看](https://github.com/pwstrick/daily/issues/1050) |
 
+### 贪心算法
+| 题目 | 思路 | 实现  |
+| :------------- | :-------------: | :-------------: |
+| [435. 无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals/) | 按终点排序 | [查看](https://github.com/pwstrick/daily/issues/1053) |
+| [455. 分发饼干](https://leetcode-cn.com/problems/assign-cookies/) | 升序 | [查看](https://github.com/pwstrick/daily/issues/1054) |
+| [860. 柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/) | 用最大面值找零 | [查看](https://github.com/pwstrick/daily/issues/1055) |
+
 ### 动态规划
 | 题目 | 思路 | 实现  |
 | :------------- | :-------------: | :-------------: |
 | [198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/) | [dp[n] = max(dp[n-1], dp[n-2] + nums[n])](https://leetcode-cn.com/problems/house-robber/solution/hua-jie-suan-fa-198-da-jia-jie-she-by-guanpengchn/) | [查看](https://github.com/pwstrick/daily/issues/1051) |
 | [746. 使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | [dp[n] = min(dp[n-2], dp[n-1]) + cost[n]](https://leetcode-cn.com/problems/min-cost-climbing-stairs/solution/yi-bu-yi-bu-tui-dao-dong-tai-gui-hua-de-duo-chong-/) | [查看](https://github.com/pwstrick/daily/issues/1052) |
-
-
+| [1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/) | dp[i][j] = (dp[i-1][j-1] + 1) \| max(dp[i-1][j], dp[i][j-1]) | [查看](https://github.com/pwstrick/daily/issues/1056) |
+| [300. 最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | dp[i][i] = 1 \| max(dp[i][j]) + 1 | [查看](https://github.com/pwstrick/daily/issues/1057) |
+| [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/) | dp[i][j] = min(dp[i-1][j], dp[i][j - coins[i]] + 1) | [查看](https://github.com/pwstrick/daily/issues/1058) |
