@@ -24,6 +24,7 @@ LeetCode中的题目按真实面试中的出现频率降序排列。
 
 ## 刷题记录
 从简单题开始刷，给自己点信心，题目太长和超过5分钟不能理解题目含义的直接跳过。
+再根据题解数量，先刷题解多的算法题。
 
 ### 栈
 用栈做中转，当满足某个条件时，进栈或出栈，很多时候结果就存放在栈中。
@@ -78,6 +79,11 @@ LeetCode中的题目按真实面试中的出现频率降序排列。
 | [107. 二叉树的层次遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/) | [BFS+辅助栈](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/solution/shi-yong-zhan-jin-xing-zhong-zhuan-by-liu-lang-xi-/) | [查看](https://github.com/pwstrick/daily/issues/1038) |
 | [110. 平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/) | [两次递归](https://leetcode-cn.com/problems/balanced-binary-tree/solution/ping-heng-er-cha-shu-by-leetcode/) | [查看](https://github.com/pwstrick/daily/issues/1039) |
 | [112. 路径总和](https://leetcode-cn.com/problems/path-sum/) | [减法递归](https://leetcode-cn.com/problems/path-sum/solution/lu-jing-zong-he-by-leetcode-solution/) | [查看](https://github.com/pwstrick/daily/issues/1040) |
+| [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | 辅助队列 | [查看](https://github.com/pwstrick/daily/issues/1063) |
+| [98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) | 中序遍历 | [查看](https://github.com/pwstrick/daily/issues/1064) |
+| [199. 二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/) | BFS+取最后一个结点 | [查看](https://github.com/pwstrick/daily/issues/1065) |
+| [103. 二叉树的锯齿形层次遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/) | BFS | [查看](https://github.com/pwstrick/daily/issues/1066) |
+| [113. 路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/) | DFS+回溯 | [查看](https://github.com/pwstrick/daily/issues/1067) |
 
 ### 递归
 | 题目 | 思路 | 实现  |
@@ -105,12 +111,20 @@ LeetCode中的题目按真实面试中的出现频率降序排列。
 | :------------- | :-------------: | :-------------: |
 | [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | 双重循环或[动态规划](https://leetcode-cn.com/problems/maximum-subarray/solution/zui-da-zi-xu-he-by-leetcode-solution/) | [查看](https://github.com/pwstrick/daily/issues/1050) |
 
+### 回溯
+| 题目 | 思路 | 实现  |
+| :------------- | :-------------: | :-------------: |
+| [17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | [回溯模板](https://www.cnblogs.com/strick/p/13384038.html) | [查看](https://github.com/pwstrick/daily/issues/1059) |
+| [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/) | 递归加左括号或加右括号 | [查看](https://github.com/pwstrick/daily/issues/1060) |
+
 ### 贪心算法
 | 题目 | 思路 | 实现  |
 | :------------- | :-------------: | :-------------: |
 | [435. 无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals/) | 按终点排序 | [查看](https://github.com/pwstrick/daily/issues/1053) |
-| [455. 分发饼干](https://leetcode-cn.com/problems/assign-cookies/) | 升序 | [查看](https://github.com/pwstrick/daily/issues/1054) |
+| [455. 分发饼干](https://leetcode-cn.com/problems/assign-cookies/) | 将饼干大小和孩子需求升序 | [查看](https://github.com/pwstrick/daily/issues/1054) |
 | [860. 柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/) | 用最大面值找零 | [查看](https://github.com/pwstrick/daily/issues/1055) |
+| [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/) | 计算各个位置的最远距离 | [查看](https://github.com/pwstrick/daily/issues/1061) |
+| [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | 今天的股价 - 昨天的股价 | [查看](https://github.com/pwstrick/daily/issues/1062) |
 
 ### 动态规划
 | 题目 | 思路 | 实现  |
