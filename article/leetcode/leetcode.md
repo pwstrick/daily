@@ -115,7 +115,7 @@ LeetCode中的题目按真实面试中的出现频率降序排列。
 | 题目 | 思路 | 实现  |
 | :------------- | :-------------: | :-------------: |
 | [17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | [回溯模板](https://www.cnblogs.com/strick/p/13384038.html) | [查看](https://github.com/pwstrick/daily/issues/1059) |
-| [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/) | 递归加左括号或加右括号 | [查看](https://github.com/pwstrick/daily/issues/1060) |
+| [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/) | [递归加左括号或加右括号](https://leetcode-cn.com/problems/generate-parentheses/solution/gua-hao-sheng-cheng-by-leetcode-solution/) | [查看](https://github.com/pwstrick/daily/issues/1060) |
 
 ### 贪心算法
 | 题目 | 思路 | 实现  |
@@ -124,7 +124,7 @@ LeetCode中的题目按真实面试中的出现频率降序排列。
 | [455. 分发饼干](https://leetcode-cn.com/problems/assign-cookies/) | 将饼干大小和孩子需求升序 | [查看](https://github.com/pwstrick/daily/issues/1054) |
 | [860. 柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/) | 用最大面值找零 | [查看](https://github.com/pwstrick/daily/issues/1055) |
 | [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/) | 计算各个位置的最远距离 | [查看](https://github.com/pwstrick/daily/issues/1061) |
-| [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | 今天的股价 - 昨天的股价 | [查看](https://github.com/pwstrick/daily/issues/1062) |
+| [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [今天的股价 - 昨天的股价](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/solution/tan-xin-suan-fa-by-liweiwei1419-2/) | [查看](https://github.com/pwstrick/daily/issues/1062) |
 
 ### 动态规划
 | 题目 | 思路 | 实现  |
