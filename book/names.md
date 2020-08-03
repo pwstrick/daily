@@ -161,6 +161,8 @@
 
 [《前端程序员面试算法宝典》](https://book.douban.com/subject/34451262/)
 
+[《程序员面试金典（第6版）》](https://book.douban.com/subject/34813624/)
+
 ## 性能
 [《高性能JavaScript》](https://book.douban.com/subject/5362856/) [书摘](https://www.cnblogs.com/strick/p/6769634.html)
 
@@ -190,6 +192,10 @@
 [《写给大家看的算法书》](https://book.douban.com/subject/26821588/) [书摘](https://www.cnblogs.com/strick/p/6428476.html)
 
 [《学习JavaScript数据结构与算法》](https://book.douban.com/subject/26639401/) 
+
+[《算法（第4版）》](https://book.douban.com/subject/19952400/)
+
+[《图解算法》](https://book.douban.com/subject/26979890/)
 
 ## 安全
 [《白帽子讲web安全》](https://book.douban.com/subject/10546925/) [书摘](https://www.cnblogs.com/strick/p/6349911.html)
