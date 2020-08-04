@@ -84,6 +84,7 @@ LeetCode中的题目按真实面试中的出现频率降序排列。
 | [199. 二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/) | BFS+取最后一个结点 | [查看](https://github.com/pwstrick/daily/issues/1065) |
 | [103. 二叉树的锯齿形层次遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/) | BFS | [查看](https://github.com/pwstrick/daily/issues/1066) |
 | [113. 路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/) | DFS+回溯 | [查看](https://github.com/pwstrick/daily/issues/1067) |
+| [105. 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | 前序+中序 | [查看](https://github.com/pwstrick/daily/issues/1068) |
 
 ### 递归
 | 题目 | 思路 | 实现  |
