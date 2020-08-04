@@ -85,6 +85,7 @@ LeetCode中的题目按真实面试中的出现频率降序排列。
 | [103. 二叉树的锯齿形层次遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/) | BFS | [查看](https://github.com/pwstrick/daily/issues/1066) |
 | [113. 路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/) | DFS+回溯 | [查看](https://github.com/pwstrick/daily/issues/1067) |
 | [105. 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | 前序+中序 | [查看](https://github.com/pwstrick/daily/issues/1068) |
+| [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/) | 递归+左右结点互换 | [查看](https://github.com/pwstrick/daily/issues/1069) |
 
 ### 递归
 | 题目 | 思路 | 实现  |
@@ -135,3 +136,5 @@ LeetCode中的题目按真实面试中的出现频率降序排列。
 | [1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/) | dp[i][j] = (dp[i-1][j-1] + 1) \| max(dp[i-1][j], dp[i][j-1]) | [查看](https://github.com/pwstrick/daily/issues/1056) |
 | [300. 最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | dp[i][i] = 1 \| max(dp[i][j]) + 1 | [查看](https://github.com/pwstrick/daily/issues/1057) |
 | [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/) | dp[i][j] = min(dp[i-1][j], dp[i][j - coins[i]] + 1) | [查看](https://github.com/pwstrick/daily/issues/1058) |
+| [120. 三角形最小路径和](https://leetcode-cn.com/problems/triangle/) | dp[i][j] = min(dp[i-1][j], dp[i-1][j-1]) + triangle[i][j] | [查看](https://github.com/pwstrick/daily/issues/1070) |
+
