@@ -87,6 +87,7 @@ LeetCode中的题目按真实面试中的出现频率降序排列。
 | [105. 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | 前序+中序 | [查看](https://github.com/pwstrick/daily/issues/1068) |
 | [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/) | 递归+左右结点互换 | [查看](https://github.com/pwstrick/daily/issues/1069) |
 | [96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/) | [卡塔兰数](https://leetcode-cn.com/problems/unique-binary-search-trees/solution/bu-tong-de-er-cha-sou-suo-shu-by-leetcode-solution/) | [查看](https://github.com/pwstrick/daily/issues/1071) |
+| [236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 递归 | [查看](https://github.com/pwstrick/daily/issues/1072) |
 
 ### 递归
 | 题目 | 思路 | 实现  |
