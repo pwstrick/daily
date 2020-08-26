@@ -3,6 +3,7 @@
 ## 一、Chrome架构
 
 **1）进程架构**
+
 &emsp;&emsp;Chrome打开一个页面会启动4个进程：网络进程、GPU进程、浏览器主进程和渲染进程。
 
 &emsp;&emsp;最新的 Chrome 浏览器包括：1 个浏览器（Browser）主进程、1 个 GPU 进程、1 个网络（NetWork）进程、多个渲染进程和多个插件进程。
