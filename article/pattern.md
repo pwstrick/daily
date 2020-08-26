@@ -1,4 +1,4 @@
-&emsp;&emsp;《[设计模式之美](https://time.geekbang.org/column/intro/250)》是极客时间上的一个代码学习系列，在学习之后特在此做记录和总结。
+《[设计模式之美](https://time.geekbang.org/column/intro/250)》是极客时间上的一个代码学习系列，在学习之后特在此做记录和总结。
 
 ## 一、设计原则
 
