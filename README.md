@@ -29,6 +29,7 @@
 * [前端优化](https://github.com/pwstrick/daily/blob/master/article/optimization.md)
 * [GitHub或网络上优秀的面试项目](https://github.com/pwstrick/daily/blob/master/article/github.md)（题量众多，内容饱满）
 * [设计模式](https://github.com/pwstrick/daily/blob/master/article/pattern.md)
+* [浏览器原理](https://github.com/pwstrick/daily/blob/master/article/browser.md)
 
 ## 算法
 算法包括用一句话描述的算法思路，LeetCode中的题目出现频率以及刷题列表（包含思路和实现）。
