@@ -104,7 +104,7 @@
 
 ## 三、创建型设计模式
 
-**1）单例设计模式（Singleton Design Pattern）**
+**1）单例模式（Singleton Design Pattern）**
 
 &emsp;&emsp;一个类只允许创建一个对象（或者实例），那这个类就是一个单例类。用来创建全局唯一的对象。
 
@@ -118,7 +118,7 @@
 
 &emsp;&emsp;建造者模式是用来创建复杂对象，可以通过设置不同的可选参数，“定制化”地创建不同的对象。
 
-**4）原型设计模式（Prototype Design Pattern）**
+**4）原型模式（Prototype Design Pattern）**
 
 &emsp;&emsp;基于原型来创建对象的方式。利用对已有对象（原型）进行复制（或者叫拷贝）的方式来创建新对象，以达到节省创建时间的目的。
 
