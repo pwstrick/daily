@@ -28,7 +28,7 @@
 * [2020年](https://github.com/pwstrick/daily/blob/master/article/2020.md)
 * [前端优化](https://github.com/pwstrick/daily/blob/master/article/optimization.md)
 * [GitHub或网络上优秀的面试项目](https://github.com/pwstrick/daily/blob/master/article/github.md)（题量众多，内容饱满）
-* [设计模式](https://github.com/pwstrick/daily/blob/master/article/pattern.md)
+* [设计模式之美](https://github.com/pwstrick/daily/blob/master/article/pattern.md)
 * [浏览器原理](https://github.com/pwstrick/daily/blob/master/article/browser.md)
 
 ## 算法
@@ -37,6 +37,7 @@
 * [一句话算法](https://github.com/pwstrick/daily/blob/master/article/one/one.md)
 * [LeetCode](https://github.com/pwstrick/daily/blob/master/article/leetcode/leetcode.md)
 * [算法躬行记](https://www.kancloud.cn/pwstrick/fe-questions/1867914)
+* [数据结构与算法之美](https://github.com/pwstrick/daily/blob/master/article/nice.md)
 
 ## 书籍分享
 
