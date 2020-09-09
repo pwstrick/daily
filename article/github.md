@@ -18,6 +18,7 @@
 17. [手撕LeetCode题目，扒各种算法套路](https://github.com/labuladong/fucking-algorithm)
 18. [如何通过饿了么Node.js面试](https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn)
 19. [Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
+20. [简单的React](https://github.com/hujiulong/simple-react/tree/chapter-4)
 
 ## 英文
 1. [Awesome JavaScript Interviews（优秀的JavaScript面试）](https://github.com/rohan-paul/Awesome-JavaScript-Interviews)
