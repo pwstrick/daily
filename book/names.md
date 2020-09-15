@@ -202,6 +202,10 @@
 
 [《Web前端黑客技术揭秘》](https://book.douban.com/subject/20451827/) [书摘](https://www.cnblogs.com/strick/p/6349911.html)
 
+[《黑客攻防技术宝典 浏览器实战篇》](https://book.douban.com/subject/26880889/)
+
+[《黑客攻防技术宝典 Web实战篇》](https://book.douban.com/subject/10793814/)
+
 ## 设计模式
 [《JavaScript设计模式》](https://book.douban.com/subject/26589719/) [书摘](https://www.cnblogs.com/strick/p/5980539.html)
 
