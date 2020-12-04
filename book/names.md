@@ -266,3 +266,8 @@
 [《网络营销决胜武器(第2版)》](https://book.douban.com/subject/26415532/) [书摘](https://www.cnblogs.com/strick/p/9824965.html)
 
 [《网络营销创意三十六计》](https://book.douban.com/subject/27044446/) 
+
+## 电子游戏攻略和杂志
+
+在网上搜集和购买的游戏攻略和杂志，包括掌机王SP、电子游戏软件等，还有些绝版的FC、MD、SFC等游戏分享，以及PS2、PS3、PSV等游戏介绍，[网盘地址](https://pan.baidu.com/s/17RZZGLvNsk1g-SaTqxS4Ng)【pnst】。
+
