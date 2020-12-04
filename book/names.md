@@ -269,5 +269,7 @@
 
 ## 电子游戏攻略和杂志
 
-在网上搜集和购买的游戏攻略和杂志，包括掌机王SP、电子游戏软件等，还有些绝版的FC、MD、SFC等游戏分享，以及PS2、PS3、PSV等游戏介绍，[网盘地址](https://pan.baidu.com/s/17RZZGLvNsk1g-SaTqxS4Ng)【pnst】。
+在网上搜集和购买的游戏攻略和杂志，包括掌机王SP、电子游戏软件等。
+
+还有些绝版的FC、MD、SFC等游戏分享，以及PS2、PS3、PSV等游戏介绍，[网盘地址](https://pan.baidu.com/s/17RZZGLvNsk1g-SaTqxS4Ng)【pnst】。
 
