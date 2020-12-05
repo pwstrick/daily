@@ -287,5 +287,5 @@
 
 在网上搜集的蓝光特摄剧奥特曼，包括所有的昭和系列，以及迪迦和梦比优斯，[网盘地址](https://pan.baidu.com/s/1Wr53nq71F3IlKDkjoufynA)【密码：5dja】
 
-在网上搜集的国产剧，包括康熙王朝、太极宗师、汉武大帝、火蓝刀锋、86版西游记，[网盘地址](https://pan.baidu.com/s/1zOI3x3rSj-J2WnQ3B_xOdg)【密码：pvnh】
+在网上搜集的国产剧，包括康熙王朝、太极宗师、汉武大帝（陈宝国版）、火蓝刀锋、86版西游记，[网盘地址](https://pan.baidu.com/s/1zOI3x3rSj-J2WnQ3B_xOdg)【密码：pvnh】
 
