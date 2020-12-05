@@ -277,7 +277,7 @@
 
 假如在找某本电子书，可将名字到我邮箱（pwstrick@163.com），我有的话会转发给你。
 
-之前在网上购买过[800G的电子书](https://pan.baidu.com/s/11Ndzaep5Ckp1rr5E5T6Ogg)（密码：gbic），内容巨多，包含txt、pdf、mobi等格式。
+之前在网上购买过[800G的电子书](https://pan.baidu.com/s/11Ndzaep5Ckp1rr5E5T6Ogg)（密码：gbic），内容巨多，种类也很杂，并且包含txt、pdf、mobi等格式。
 
 相当于一个小型图书馆，不过没有详细的目录，有需要的可自行根据书名查找。
 
