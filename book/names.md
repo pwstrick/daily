@@ -273,7 +273,19 @@
 
 ## 电子游戏攻略和杂志
 
+接下来这些是自己的一些兴趣爱好，也分享出来，独乐乐不如众乐乐，喜欢的可以自己去下载。
+
 在网上搜集和购买的游戏攻略和杂志，包括掌机王SP、电子游戏软件等。
 
-还有些绝版的FC、MD、SFC等游戏分享，以及PS2、PS3、PSV等游戏介绍，[网盘地址](https://pan.baidu.com/s/17RZZGLvNsk1g-SaTqxS4Ng)【pnst】。
+还有些绝版的FC、MD、SFC等游戏分享，以及PS2、PS3、PSV等游戏介绍，[网盘地址](https://pan.baidu.com/s/17RZZGLvNsk1g-SaTqxS4Ng)【密码：pnst】
+
+## 漫画、动画和连续剧
+
+在网上搜集和购买的漫画，包括七龙珠（全彩）、海贼王（全彩）、中华小当家，[网盘地址](https://pan.baidu.com/s/1aYGzf17gOSLIKBFUylSKTw)【密码：tras】
+
+在网上搜集和购买的动画，包括火影忍者、龙珠（辽艺配音）、灌篮高手（高清）、数码宝贝，[网盘地址](https://pan.baidu.com/s/1iq5-mq883OEUsbbi54gUwQ)【密码：d8fj】
+
+在网上搜集的蓝光特摄剧奥特曼，包括所有的昭和系列，以及迪迦和梦比优斯，[网盘地址](https://pan.baidu.com/s/1Wr53nq71F3IlKDkjoufynA)【密码：5dja】
+
+在网上搜集的国产剧，包括康熙王朝、太极宗师、汉武大帝、火蓝刀锋、86版西游记，[网盘地址](https://pan.baidu.com/s/1zOI3x3rSj-J2WnQ3B_xOdg)【密码：pvnh】
 
