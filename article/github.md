@@ -19,6 +19,9 @@
 18. [如何通过饿了么Node.js面试](https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn)
 19. [Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
 20. [简单的React](https://github.com/hujiulong/simple-react/tree/chapter-4)
+21. [Interview Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
+22. [前端硬核面试专题](https://github.com/biaochenxuying/blog/blob/master/interview/fe-interview.md)
+23. [前端知识每日3+1](https://github.com/haizlin/fe-interview)
 
 ## 英文
 1. [Awesome JavaScript Interviews（优秀的JavaScript面试）](https://github.com/rohan-paul/Awesome-JavaScript-Interviews)
