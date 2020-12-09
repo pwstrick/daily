@@ -22,6 +22,8 @@
 21. [Interview Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
 22. [前端硬核面试专题](https://github.com/biaochenxuying/blog/blob/master/interview/fe-interview.md)
 23. [前端知识每日3+1](https://github.com/haizlin/fe-interview)
+24. [Front-End-Interview-Notebook](https://github.com/CavsZhouyou/Front-End-Interview-Notebook)
+25. [前端面试](https://github.com/lgwebdream/FE-Interview)
 
 ## 英文
 1. [Awesome JavaScript Interviews（优秀的JavaScript面试）](https://github.com/rohan-paul/Awesome-JavaScript-Interviews)
