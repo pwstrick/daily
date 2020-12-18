@@ -24,6 +24,7 @@
 23. [前端知识每日3+1](https://github.com/haizlin/fe-interview)
 24. [Front-End-Interview-Notebook](https://github.com/CavsZhouyou/Front-End-Interview-Notebook)
 25. [前端面试](https://github.com/lgwebdream/FE-Interview)
+26. [Nodejs学习笔记](https://github.com/chyingp/nodejs-learning-guide)
 
 ## 英文
 1. [Awesome JavaScript Interviews（优秀的JavaScript面试）](https://github.com/rohan-paul/Awesome-JavaScript-Interviews)
