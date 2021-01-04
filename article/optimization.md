@@ -14,6 +14,7 @@
 13. [从8道面试题看浏览器渲染过程与性能优化](https://juejin.im/post/5e143104e51d45414a4715f7)
 14. [2020前端性能优化清单](https://cloud.tencent.com/developer/article/1621632)
 15. [最强前端性能优化，Google已经为你准备好了](https://zhuanlan.zhihu.com/p/67134654)
+16. [拯救你的年底KPI：前端性能优化](https://juejin.cn/post/6911472693405548557)
 
 ## JavaScript
 1. [图片预加载与懒加载](https://www.cnblogs.com/strick/p/5372694.html)
@@ -29,6 +30,9 @@
 2. [React性能优化的8种方式了解一下](https://juejin.im/post/5d63311be51d45620821ced8)
 3. [ReactNative性能优化指南](https://juejin.im/post/5e1676e16fb9a04847095b12)
 4. [PureComponent 与 memo 存在的意义](https://juejin.im/post/5e440327e51d4527214ba686)
+5. [React 优化技巧在 Web 版光线追踪里的应用(上)](https://juejin.cn/post/6909716626736676878)
+6. [React 优化技巧在 Web 版光线追踪里的应用(中)](https://juejin.cn/post/6911508764063432712)
+7. [React优化技巧在Web版光线追踪里的应用(下) ](https://juejin.cn/post/6913790120990769160)
 
 ## Vue
 1. [提升90%加载速度——vuecli下的首屏性能优化](https://segmentfault.com/a/1190000019499007)
