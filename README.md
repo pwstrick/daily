@@ -26,6 +26,7 @@
 
 * [2019年](https://github.com/pwstrick/daily/blob/master/article/2019.md)
 * [2020年](https://github.com/pwstrick/daily/blob/master/article/2020.md)
+* [2021年](https://github.com/pwstrick/daily/blob/master/article/2021.md)
 * [前端优化](https://github.com/pwstrick/daily/blob/master/article/optimization.md)
 * [GitHub或网络上优秀的面试项目](https://github.com/pwstrick/daily/blob/master/article/github.md)（题量众多，内容饱满）
 * [设计模式之美](https://github.com/pwstrick/daily/blob/master/article/pattern.md)
