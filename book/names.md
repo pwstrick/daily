@@ -59,7 +59,6 @@
 
 [《深入理解ES6》](https://book.douban.com/subject/27072230/) 
 
-
 ## React
 [《React状态管理与同构实战》](https://book.douban.com/subject/30290509/) 
 
@@ -221,6 +220,8 @@
 [《从程序员到项目经理》](https://book.douban.com/subject/25758064/) [书摘](https://www.cnblogs.com/strick/p/5109560.html)
 
 [《IT项目经理成长手记》](https://book.douban.com/subject/20502598/) 
+
+[《凤凰项目：一个IT运维的传奇故事》](https://book.douban.com/subject/34820436/) [书摘](https://www.cnblogs.com/strick/p/14143349.html)
 
 ## 数学
 [《程序员的数学思维修炼（趣味解读）》](https://book.douban.com/subject/25854719/) [书摘](https://www.cnblogs.com/strick/p/9378124.html)
