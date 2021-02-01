@@ -25,6 +25,11 @@
 24. [Front-End-Interview-Notebook](https://github.com/CavsZhouyou/Front-End-Interview-Notebook)
 25. [前端面试](https://github.com/lgwebdream/FE-Interview)
 26. [Nodejs学习笔记](https://github.com/chyingp/nodejs-learning-guide)
+27. [前端进阶之道](https://yuchengkai.cn/docs/frontend/)
+28. [前端进阶之路](http://interview.poetries.top/)
+29. [前端开发面试题及答案](https://github.com/HerbertKarajan/Fe-Interview-questions)
+30. [前端面试常考问题整理](https://github.com/poetries/FE-Interview-Questions)
+31. [前端开发资源汇总](https://github.com/FrontEndGitHub/FrontEndGitHub#%E9%9D%A2%E8%AF%95%E4%B8%93%E9%A2%98)
 
 ## 英文
 1. [Awesome JavaScript Interviews（优秀的JavaScript面试）](https://github.com/rohan-paul/Awesome-JavaScript-Interviews)
