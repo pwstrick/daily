@@ -4,9 +4,53 @@
 
 ## JavaScript
 
-## JavaScript Array Tricks
+## 数组技巧
+1. [uniqueElements](https://www.30secondsofcode.org/js/s/unique-elements)（查找数组中的所有唯一值）
+2. [compact](https://www.30secondsofcode.org/js/s/compact)（从数组中删除假值）
+3. [any](https://www.30secondsofcode.org/js/s/any)（检查所提供的回调函数是否对集合中的至少一个元素返回 true）
+4. [all](https://www.30secondsofcode.org/js/s/all)（检查所提供的回调函数是否对集合中的所有元素返回 true）
+5. [none](https://www.30secondsofcode.org/js/s/none)（检查提供的回调函数是否对集合中的所有元素返回 false）
+6. [difference](https://www.30secondsofcode.org/js/s/difference)（计算两个数组之间的差，并且不过滤重复值）
+7. [union](https://www.30secondsofcode.org/js/s/union)（计算两个数组的并集）
+8. [intersection](https://www.30secondsofcode.org/js/s/intersection)（计算两个数组的交集）
+9. [head](https://www.30secondsofcode.org/js/s/head)（返回数组的头）
+10. [tail](https://www.30secondsofcode.org/js/s/tail)（返回数组中除第一个元素外的所有元素）
+11. [last](https://www.30secondsofcode.org/js/s/last)（返回数组中的最后一个元素）
+12. [flatten](https://www.30secondsofcode.org/js/s/flatten)（将数组扁平化到指定深度）
 
-## JavaScript Algorithms
+## 算法
+1. [kMeans](https://www.30secondsofcode.org/js/s/k-means)（使用 k-means 聚类算法将给定数据分组为 k 个聚类）
+2. [kNearestNeighbors](https://www.30secondsofcode.org/js/s/k-nearest-neighbors)（使用 k 最近邻算法对相对于标记数据集的数据点进行分类）
+3. [quickSort](https://www.30secondsofcode.org/js/s/quick-sort)（使用 quicksort 算法对数字数组进行排序）
+4. [indexOfSubstrings](https://www.30secondsofcode.org/js/s/index-of-substrings)（查找给定字符串中子字符串的所有索引）
+5. [luhnCheck](https://www.30secondsofcode.org/js/s/luhn-check)（Luhn算法的实现，用于验证各种标识号，例如信用卡号，IMEI编号，国家提供商标识号等）
+6. [bucketSort](https://www.30secondsofcode.org/js/s/bucket-sort)（使用存储桶排序算法对数字数组进行排序）
+7. [heapSort](https://www.30secondsofcode.org/js/s/heapsort)（使用堆排序算法对数字数组进行排序）
+8. [selectionSort](https://www.30secondsofcode.org/js/s/selection-sort)（使用选择排序算法对数字数组进行排序）
+9. [permutations](https://www.30secondsofcode.org/js/s/permutations)（生成数组元素的所有排列（包含重复项））
+10. [caesarCipher](https://www.30secondsofcode.org/js/s/caesar-cipher)（使用 Caesar 密码对给定的字符串进行加密或解密）
+11. [primes](https://www.30secondsofcode.org/js/s/primes)（使用 Eratosthenes 筛子产生最多给定数的素数）
+12. [countSubstrings](https://www.30secondsofcode.org/js/s/count-substrings)（计算给定字符串中子字符串的出现次数）
+13. [euclideanDistance](https://www.30secondsofcode.org/js/s/euclidean-distance)（计算任意数量维度中两点之间的距离）
+14. [insertionSort](https://www.30secondsofcode.org/js/s/insertion-sort)（使用插入排序算法对数字数组进行排序）
+15. [mergeSort](https://www.30secondsofcode.org/js/s/merge-sort)（使用合并排序算法对数字数组进行排序）
+16. [arithmeticProgression](https://www.30secondsofcode.org/js/s/arithmetic-progression)（以等差数列创建一个数字数组，从给定的正整数开始，直至指定的限制）
+17. [gcd](https://www.30secondsofcode.org/js/s/gcd)（计算两个或多个数字/数组之间的最大公约数）
+18. [bubbleSort](https://www.30secondsofcode.org/js/s/bubble-sort)（使用冒泡排序算法对数字数组进行排序）
+19. [geometricProgression](https://www.30secondsofcode.org/js/s/geometric-progression)（初始化一个数组，该数组包含指定范围内的数字，其中开始和结束均包括在内，并且两项之间的比率为 step。如果 step 等于1，则返回错误）
+20. [levenshteinDistance](https://www.30secondsofcode.org/js/s/levenshtein-distance)（使用 Levenshtein 距离算法计算两个字符串之间的差异）
+21. [powerset](https://www.30secondsofcode.org/js/s/powerset)（返回给定数字数组的幂集）
+22. [binarySearch](https://www.30secondsofcode.org/js/s/binary-search)（使用二进制搜索算法在排序数组中查找给定元素的索引）
+23. [fibonacci](https://www.30secondsofcode.org/js/s/fibonacci)（生成一个包含斐波那契序列的数组，直到第n个项）
+24. [linearSearch](https://www.30secondsofcode.org/js/s/linear-search)（使用线性搜索算法查找数组中给定元素的第一个索引）
+25. [primeFactors](https://www.30secondsofcode.org/js/s/prime-factors)（使用试除法找到给定数的素数）
+26. [vectorDistance](https://www.30secondsofcode.org/js/s/vector-distance)（计算两个向量之间的距离）
+27. [lcm](https://www.30secondsofcode.org/js/s/lcm)（计算两个或多个数字的最小公倍数）
+28. [hammingDistance](https://www.30secondsofcode.org/js/s/hamming-distance)（计算两个值之间的汉明距离）
+29. [binomialCoefficient](https://www.30secondsofcode.org/js/s/binomial-coefficient)（计算从 n 个项目中选择 k 个项目（无重复且无顺序）的方式数量）
+30. [factorial](https://www.30secondsofcode.org/js/s/factorial)（计算数字的阶乘）
+31. [distance](https://www.30secondsofcode.org/js/s/distance)（计算两点之间的距离）
+32. [isPrime](https://www.30secondsofcode.org/js/s/is-prime)（检查提供的整数是否为质数）
 
 ## CSS
 #### 1）动画
@@ -130,7 +174,7 @@
 16. [usePrevious](https://www.30secondsofcode.org/react/s/use-previous)（存储先前的 state 或 props）
 17. [useToggler](https://www.30secondsofcode.org/react/s/use-toggler)（提供一个布尔状态变量，可以在其两个状态之间切换）
 
-#### 2）Components
+#### 2）组件
 1. [TagInput](https://www.30secondsofcode.org/react/s/tag-input)（标签输入字段）
 2. [MultiselectCheckbox](https://www.30secondsofcode.org/react/s/multiselect-checkbox)（渲染一个复选框列表，该列表使用回调函数将其选定的一个或多个值传递给父组件）
 3. [LimitedWordTextarea](https://www.30secondsofcode.org/react/s/limited-word-textarea)（具有字数限制的 textarea 组件）
@@ -165,12 +209,12 @@
 32. [Mailto](https://www.30secondsofcode.org/react/s/mailto)（一个设置为发送电子邮件的链接（mailto：链接））
 33. [Callto](https://www.30secondsofcode.org/react/s/callto)（呈现一个格式设置为呼叫电话号码的链接（电话：链接））
 
-#### 3）Rendering
+#### 3）渲染
 1. [React 渲染基础](https://www.30secondsofcode.org/blog/s/react-rendering-basics)（深入了解React的渲染过程，并了解流行的JavaScript框架背后的基础知识）
 2. [React 渲染优化](https://www.30secondsofcode.org/blog/s/react-rendering-optimization)（深入研究React的渲染过程，并了解如何进行小而强大的调整以优化性能）
 3. [React 渲染状态](https://www.30secondsofcode.org/blog/s/react-rendering-state)（深入研究React的渲染过程并了解Context API和Redux在其中的作用）
 
-#### 4）Testing
+#### 4）测试
 1. [一种测试有状态 React 组件的方法](https://www.30secondsofcode.org/blog/s/testing-stateful-ui-components)
 2. [测试使用React Testing库异步更新的 React 组件](https://www.30secondsofcode.org/blog/s/testing-async-react-components)
 3. [使用React Testing Library测试Redux连接的组件](https://www.30secondsofcode.org/blog/s/testing-redux-connected-components)
