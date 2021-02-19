@@ -1,4 +1,4 @@
-内容来自于国外的《[30 seconds of code](https://www.30secondsofcode.org)》，只翻译了其中的标题，可对其做个整体了解，内容可用 Google 翻译，大体都能看懂。
+内容来自于国外的《[30 seconds of code](https://www.30secondsofcode.org)》，只翻译了简单的描述，可对其做个整体了解，内容可用 Google 翻译，大体都能看懂。
 
 与 [Underscore.js](https://underscorejs.org/) 和 [Lodash.js](https://lodash.com/docs/) 不同，30 seconds of code 中的代码片段都是各自独立的，可直接引用，也更容易吸收学习。
 
@@ -13,6 +13,25 @@
 ## CSS Centering
 
 ## Node.js
+1. [hashNode](https://www.30secondsofcode.org/js/s/hash-node)（使用SHA-256算法为值创建哈希并返回一个 Promise 对象）
+2. [isDuplexStream](https://www.30secondsofcode.org/js/s/is-duplex-stream)（检查给定的参数是否为双工（可读和可写）流）
+3. [isWritableStream](https://www.30secondsofcode.org/js/s/is-writable-stream)（检查给定的参数是否为可写流）
+4. [isReadableStream](https://www.30secondsofcode.org/js/s/is-readable-stream)（检查给定参数是否为可读流）
+5. [readFileLines](https://www.30secondsofcode.org/js/s/read-file-lines)（返回指定文件中的行数组）
+6. [UUIDGeneratorNode](https://www.30secondsofcode.org/js/s/uuid-generator-node)（在NodeJS中生成一个UUID）
+7. [isBrowser](https://www.30secondsofcode.org/js/s/is-browser)（确定当前运行时环境是否是浏览器，以便前端模块可以在服务器（节点）上运行而不会引发错误）
+8. [JSONToFile](https://www.30secondsofcode.org/js/s/json-to-file)（将JSON对象写入文件）
+9. [Tip: 使用Chrome开发人员工具调试 Node.js](https://www.30secondsofcode.org/blog/s/nodejs-chrome-debugging)
+10. [colorize](https://www.30secondsofcode.org/js/s/colorize)（在文本中添加特殊字符以在控制台中以彩色打印（与console.log()组合））
+11. [isNode](https://www.30secondsofcode.org/js/s/is-node)（确定当前运行时环境是否为Node.js）
+12. [isStream](https://www.30secondsofcode.org/js/s/is-stream)（检查给定参数是否为流）
+13. [hasFlags](https://www.30secondsofcode.org/js/s/has-flags)（检查当前进程的参数是否包含指定的标志）
+14. [btoa](https://www.30secondsofcode.org/js/s/btoa)（从String对象创建一个base-64编码的ASCII字符串，其中字符串中的每个字符都被视为二进制数据的字节）
+15. [untildify](https://www.30secondsofcode.org/js/s/untildify)（将波浪号路径转换为绝对路径）
+16. [isTravisCI](https://www.30secondsofcode.org/js/s/is-travis-ci)（检查当前环境是否为Travis CI）
+17. [atob](https://www.30secondsofcode.org/js/s/atob)（解码已使用base-64编码的数据字符串）
+18. [requireUncached](https://www.30secondsofcode.org/js/s/require-uncached)（从缓存中删除模块后加载模块（如果存在））
+19. [createDirIfNotExists](https://www.30secondsofcode.org/js/s/create-dir-if-not-exists)（创建目录（如果不存在））
 
 ## React Hooks
 1. [usePersistedState](https://www.30secondsofcode.org/react/s/use-persisted-state)（返回持久存储在localStorage中的状态值，以及用于更新它的函数）
@@ -50,7 +69,7 @@
 14. [Tip: React 有条件的 className、空字符串和 null](https://www.30secondsofcode.org/blog/s/react-conditional-classname)
 15. [Carousel](https://www.30secondsofcode.org/react/s/carousel)（轮播组件）
 16. [如何在React中设置选择输入的值？](https://www.30secondsofcode.org/blog/s/react-selected-option)
-17. [PropTypesobjectOf() VS PropTypes.shape()](https://www.30secondsofcode.org/blog/s/react-proptypes-objectof-vs-shape)
+17. [PropTypes.objectOf() VS PropTypes.shape()](https://www.30secondsofcode.org/blog/s/react-proptypes-objectof-vs-shape)
 18. [Select](https://www.30secondsofcode.org/react/s/select)（一个不受控制的\<select>元素，该元素使用回调函数将其值传递给父组件）
 19. [Toggle](https://www.30secondsofcode.org/react/s/toggle)（切换组件）
 20. [LimitedTextarea](https://www.30secondsofcode.org/react/s/limited-textarea)（具有字符数限制的textarea组件）
@@ -69,18 +88,12 @@
 33. [Callto](https://www.30secondsofcode.org/react/s/callto)（呈现一个格式设置为呼叫电话号码的链接（电话：链接））
 
 ## React Rendering
+1. [React 渲染基础](https://www.30secondsofcode.org/blog/s/react-rendering-basics)（深入了解React的渲染过程，并了解流行的JavaScript框架背后的基础知识）
+2. [React 渲染优化](https://www.30secondsofcode.org/blog/s/react-rendering-optimization)（深入研究React的渲染过程，并了解如何进行小而强大的调整以优化性能）
+3. [React 渲染状态](https://www.30secondsofcode.org/blog/s/react-rendering-state)（深入研究React的渲染过程并了解Context API和Redux在其中的作用）
 
 ## React Testing
-
-
-
-
-
-
-
-
-
-
-
-
+1. [一种测试有状态 React 组件的方法](https://www.30secondsofcode.org/blog/s/testing-stateful-ui-components)
+2. [测试使用React Testing库异步更新的 React 组件](https://www.30secondsofcode.org/blog/s/testing-async-react-components)
+3. [使用React Testing Library测试Redux连接的组件](https://www.30secondsofcode.org/blog/s/testing-redux-connected-components)
 
