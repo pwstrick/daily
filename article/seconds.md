@@ -6,6 +6,67 @@
 
 ## JavaScript
 #### 1）字符串
+1. [如何将可迭代对象转换为数组？](https://www.30secondsofcode.org/blog/s/javascript-iterable-to-array)
+2. [JSONtoCSV](https://www.30secondsofcode.org/js/s/jso-nto-csv)（将对象数组转换为仅包含指定列的逗号分隔值（CSV）字符串）
+3. [CSVToJSON](https://www.30secondsofcode.org/js/s/csv-to-json)（将逗号分隔值（CSV）字符串转换为2D对象数组。字符串的第一行用作标题行）
+4. [正则表达式备忘单](https://www.30secondsofcode.org/blog/s/regexp-cheatsheet)
+5. [toTitleCase](https://www.30secondsofcode.org/js/s/to-title-case)（将字符串转换为标题的大小写）
+6. [6种JavaScript正则表达式功能](https://www.30secondsofcode.org/blog/s/6-javascript-regexp-tricks)
+7. [extendHex](https://www.30secondsofcode.org/js/s/extend-hex)（将 3 位数颜色代码扩展为 6 位数颜色代码）
+8. [mapString](https://www.30secondsofcode.org/js/s/map-string)（创建一个新字符串，其结果是在给定字符串中的每个字符上调用提供的函数）
+9. [toCamelCase](https://www.30secondsofcode.org/js/s/to-camel-case)（将字符串转换为驼峰式）
+10. [toSnakeCase](https://www.30secondsofcode.org/js/s/to-snake-case)（将字符串转换为蛇形）
+11. [isAnagram](https://www.30secondsofcode.org/js/s/is-anagram)（检查一个字符串是否是另一个字符串的字谜（不区分大小写，忽略空格，标点符号和特殊字符））
+12. [swapCase](https://www.30secondsofcode.org/js/s/swap-case)（创建一个字符串，将大写字符转换为小写，反之亦然）
+13. [arrayToCSV](https://www.30secondsofcode.org/js/s/array-to-csv)（将2D数组转换为逗号分隔值（CSV）字符串）
+14. [stringPermutations](https://www.30secondsofcode.org/js/s/string-permutations)（生成字符串的所有排列（包含重复项））
+15. [toKebabCase](https://www.30secondsofcode.org/js/s/to-kebab-case)（将字符串转换为烤肉串式）
+16. [words](https://www.30secondsofcode.org/js/s/words)（将给定的字符串转换为单词数组）
+17. [decapitalize](https://www.30secondsofcode.org/js/s/decapitalize)（将字符串的首字母大写）
+18. [hexToRGB](https://www.30secondsofcode.org/js/s/hex-to-rgb)（如果提供了 alpha 值，则将颜色代码转换为 rgb() 或 rgba() 字符串）
+19. [toRomanNumeral](https://www.30secondsofcode.org/js/s/to-roman-numeral)（将整数转换为其罗马数字表示形式。接受介于1和3999之间的值（包括两者））
+20. [reverseNumber](https://www.30secondsofcode.org/js/s/reverse-number)（倒数）
+21. [sortCharactersInString](https://www.30secondsofcode.org/js/s/sort-characters-in-string)（按字母顺序对字符串中的字符进行排序）
+22. [capitalize](https://www.30secondsofcode.org/js/s/capitalize)（大写字符串的第一个字母）
+23. [CSVToArray](https://www.30secondsofcode.org/js/s/csv-to-array)（将逗号分隔值（CSV）字符串转换为2D数组）
+24. [reverseString](https://www.30secondsofcode.org/js/s/reverse-string)（反转字符串）
+25. [size](https://www.30secondsofcode.org/js/s/size)（获取数组，对象或字符串的大小）
+26. [isEmpty](https://www.30secondsofcode.org/js/s/is-empty)（检查 a 值是否为空对象/集合，没有可枚举的属性或任何不视为集合的类型）
+27. [pluralize](https://www.30secondsofcode.org/js/s/pluralize)（根据输入的数字返回单词的单数或复数形式，并使用可选的字典（如果提供））
+28. [URLJoin](https://www.30secondsofcode.org/js/s/url-join)（将所有给定的URL段连接在一起，然后规范化结果URL）
+29. [prettyBytes](https://www.30secondsofcode.org/js/s/pretty-bytes)（将以字节为单位的数字转换为人类可读的字符串）
+30. [randomAlphaNumeric](https://www.30secondsofcode.org/js/s/random-alpha-numeric)（生成具有指定长度的随机字符串）
+31. [RGBToHex](https://www.30secondsofcode.org/js/s/rgb-to-hex)（将 RGB 分量的值转换为十六进制颜色代码）
+32. [sample](https://www.30secondsofcode.org/js/s/sample)（从数组中获取随机元素）
+33. [removeNonASCII](https://www.30secondsofcode.org/js/s/remove-non-ascii)（删除不可打印的ASCII字符）
+34. [slugify](https://www.30secondsofcode.org/js/s/slugify)（将字符串转换为URL友好的段）
+35. [wordWrap](https://www.30secondsofcode.org/js/s/word-wrap)（使用换行符将字符串包装为给定数量的字符）
+36. [capitalizeEveryWord](https://www.30secondsofcode.org/js/s/capitalize-every-word)（将字符串中每个单词的首字母大写）
+37. [escapeRegExp](https://www.30secondsofcode.org/js/s/escape-reg-exp)（转义要在正则表达式中使用的字符串）
+38. [normalizeLineEndings](https://www.30secondsofcode.org/js/s/normalize-line-endings)（规范化字符串中的行尾）
+39. [removeAccents](https://www.30secondsofcode.org/js/s/remove-accents)（从字符串中删除重音）
+40. [splitLines](https://www.30secondsofcode.org/js/s/split-lines)（将多行字符串拆分为行数组）
+41. [toCharArray](https://www.30secondsofcode.org/js/s/to-char-array)（将字符串转换为字符数组）
+42. [compactWhitespace](https://www.30secondsofcode.org/js/s/compact-whitespace)（压缩字符串中的空格）
+43. [mask](https://www.30secondsofcode.org/js/s/mask)（用指定的掩码字符替换除最后一个字符以外的所有字符）
+44. [removeWhitespace](https://www.30secondsofcode.org/js/s/remove-whitespace)（返回删除了空格的字符串）
+45. [expandTabs](https://www.30secondsofcode.org/js/s/expand-tabs)（将制表符转换为空格，其中每个制表符对应于计数空格）
+46. [isAlpha](https://www.30secondsofcode.org/js/s/is-alpha)（检查字符串是否仅包含字母字符）
+47. [isAlphaNumeric](https://www.30secondsofcode.org/js/s/is-alpha-numeric)（检查字符串是否仅包含字母数字字符）
+48. [stripHTMLTags](https://www.30secondsofcode.org/js/s/strip-html-tags)（从字符串中删除 HTML / XML 标签）
+49. [truncateStringAtWhitespace](https://www.30secondsofcode.org/js/s/truncate-string-at-whitespace)（将字符串截断到指定长度，并在可能的情况下使用空格）
+50. [byteSize](https://www.30secondsofcode.org/js/s/byte-size)（返回字符串的长度（以字节为单位））
+51. [fromCamelCase](https://www.30secondsofcode.org/js/s/from-camel-case)（从驼峰式转换字符串）
+52. [toCurrency](https://www.30secondsofcode.org/js/s/to-currency)（接受数字并以指定的货币格式返回）
+53. [containsWhitespace](https://www.30secondsofcode.org/js/s/contains-whitespace)（检查给定的字符串是否包含任何空格字符）
+54. [pad](https://www.30secondsofcode.org/js/s/pad)（如果字符串短于指定的长度，则在两侧用指定的字符填充字符串）
+55. [formatNumber](https://www.30secondsofcode.org/js/s/format-number)（使用本地号码格式顺序格式化号码）
+56. [indentString](https://www.30secondsofcode.org/js/s/indent-string)（缩进提供的字符串中的每一行）
+57. [truncateString](https://www.30secondsofcode.org/js/s/truncate-string)（将字符串截断到指定长度）
+58. [isString](https://www.30secondsofcode.org/js/s/is-string)（检查给定参数是否为字符串，仅适用于原始数据类型）
+59. [padNumber](https://www.30secondsofcode.org/js/s/pad-number)（将给定数字填充到指定长度）
+60. [isLowerCase](https://www.30secondsofcode.org/js/s/is-lower-case)（检查字符串是否为小写）
+61. [isUpperCase](https://www.30secondsofcode.org/js/s/is-upper-case)（检查字符串是否为大写）
 
 #### 2）对象
 
@@ -82,6 +143,40 @@
 #### 4）Math
 
 #### 5）类型
+1. [如何使用布尔函数？](https://www.30secondsofcode.org/blog/s/javascript-boolean-function)
+2. [声明提升是指什么](https://www.30secondsofcode.org/blog/s/javascript-variable-hoisting)
+3. [如何使用可选的链接和无效合并？](https://www.30secondsofcode.org/blog/s/javascript-nullish-coalescing-optional-chaining)（ES2020 中的概念）
+4. [了解JavaScript变量和作用域](https://www.30secondsofcode.org/blog/s/javascript-variable-scope)
+5. [equals](https://www.30secondsofcode.org/js/s/equals)（在两个值之间进行深度比较以确定它们是否等效）
+6. [isDuplexStream](https://www.30secondsofcode.org/js/s/is-duplex-stream)
+7. [isWritableStream](https://www.30secondsofcode.org/js/s/is-writable-stream)
+8. [isEmpty](https://www.30secondsofcode.org/js/s/is-empty)
+9. [isPromiseLike](https://www.30secondsofcode.org/js/s/is-promise-like)（检查对象是否看起来像一个Promise）
+10. [isReadableStream](https://www.30secondsofcode.org/js/s/is-readable-stream)
+11. [相等运算符之间有什么区别？](https://www.30secondsofcode.org/blog/s/javascript-equality)
+12. [isAsyncFunction](https://www.30secondsofcode.org/js/s/is-async-function)
+13. [isGeneratorFunction](https://www.30secondsofcode.org/js/s/is-generator-function)
+14. [isArrayLike](https://www.30secondsofcode.org/js/s/is-array-like)（检查所提供的参数是否类似于数组（即可迭代））
+15. [isStream](https://www.30secondsofcode.org/js/s/is-stream)
+16. [coalesceFactory](https://www.30secondsofcode.org/js/s/coalesce-factory)
+17. [isValidJSON](https://www.30secondsofcode.org/js/s/is-valid-json)
+18. [is](https://www.30secondsofcode.org/js/s/is)（检查提供的值是否为指定类型）
+19. [getType](https://www.30secondsofcode.org/js/s/get-type)（返回值的本地类型）
+20. [isPlainObject](https://www.30secondsofcode.org/js/s/is-plain-object)（检查提供的值是否是由Object构造函数创建的对象）
+21. [isPrimitive](https://www.30secondsofcode.org/js/s/is-primitive)（检查传递的值是否为原始值）
+22. [castArray](https://www.30secondsofcode.org/js/s/cast-array)（如果提供的值不是一个，则将其强制转换为数组）
+23. [cloneRegExp](https://www.30secondsofcode.org/js/s/clone-reg-exp)（克隆正则表达式）
+24. [coalesce](https://www.30secondsofcode.org/js/s/coalesce)（返回第一个已定义的非空参数）
+25. [isFunction](https://www.30secondsofcode.org/js/s/is-function)
+26. [isObject](https://www.30secondsofcode.org/js/s/is-object)
+27. [isObjectLike](https://www.30secondsofcode.org/js/s/is-object-like)（检查值是否类似于对象）
+28. [isString](https://www.30secondsofcode.org/js/s/is-string)
+29. [isBoolean](https://www.30secondsofcode.org/js/s/is-boolean)
+30. [isNumber](https://www.30secondsofcode.org/js/s/is-number)
+31. [isSymbol](https://www.30secondsofcode.org/js/s/is-symbol)
+32. [isNil](https://www.30secondsofcode.org/js/s/is-nil)（检查指定的值是否为 null 或 undefined）
+33. [isNull](https://www.30secondsofcode.org/js/s/is-null)
+34. [isUndefined](https://www.30secondsofcode.org/js/s/is-undefined)
 
 #### 6）日期
 1. [formatDuration](https://www.30secondsofcode.org/js/s/format-duration)（返回人类可读格式的给定毫秒数）
