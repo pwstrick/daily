@@ -52,7 +52,7 @@
 16. [如何在React中设置选择输入的值？](https://www.30secondsofcode.org/blog/s/react-selected-option)
 17. [PropTypesobjectOf() VS PropTypes.shape()](https://www.30secondsofcode.org/blog/s/react-proptypes-objectof-vs-shape)
 18. [Select](https://www.30secondsofcode.org/react/s/select)（一个不受控制的<select>元素，该元素使用回调函数将其值传递给父组件）
-19. [Toggle](https://www.30secondsofcode.org/react/s/toggle)（切换组件）
+20. [Toggle](https://www.30secondsofcode.org/react/s/toggle)（切换组件）
 20. [LimitedTextarea](https://www.30secondsofcode.org/react/s/limited-textarea)（具有字符数限制的textarea组件）
 21. [Loader](https://www.30secondsofcode.org/react/s/loader)（渲染旋转加载程序组件）
 22. [Tooltip](https://www.30secondsofcode.org/react/s/tooltip)（工具提示组件）
