@@ -1,4 +1,4 @@
-内容来自于国外的《[30 seconds of code](https://www.30secondsofcode.org)》，只翻译了简单的描述，可对其做个整体了解，内容可用 Google 翻译，大体都能看懂。
+内容来自于国外的《[30 seconds of code](https://www.30secondsofcode.org)》，只翻译了其中的标题和简短描述，可对其做个整体了解，内容可用 Google 翻译，大体都能看懂。
 
 与 [Underscore.js](https://underscorejs.org/) 和 [Lodash.js](https://lodash.com/docs/) 不同，30 seconds of code 中的代码片段都是各自独立的，可直接引用，也更容易吸收学习。
 
@@ -10,7 +10,11 @@
 
 ## CSS
 
-## CSS Centering
+## CSS 居中
+1. [Flexbox](https://www.30secondsofcode.org/css/s/flexbox-centering)（使用 Flexbox 将子元素在父元素中水平和垂直居中）
+2. [Grid](https://www.30secondsofcode.org/css/s/grid-centering)（使用网格将子元素在父元素内水平和垂直居中）
+3. [Transform](https://www.30secondsofcode.org/css/s/transform-centering)（使用CSS transform将子元素在其父元素内垂直和水平居中）
+4. [Display Table](https://www.30secondsofcode.org/css/s/display-table-centering)（使用 display:table 将子元素在其父元素内垂直和水平居中）
 
 ## Node.js
 1. [hashNode](https://www.30secondsofcode.org/js/s/hash-node)（使用SHA-256算法为值创建哈希并返回一个 Promise 对象）
