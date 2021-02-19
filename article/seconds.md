@@ -56,17 +56,17 @@
 20. [LimitedTextarea](https://www.30secondsofcode.org/react/s/limited-textarea)（具有字符数限制的textarea组件）
 21. [Loader](https://www.30secondsofcode.org/react/s/loader)（渲染旋转加载程序组件）
 22. [Tooltip](https://www.30secondsofcode.org/react/s/tooltip)（工具提示组件）
-23. 
-24. 
-25. 
-26. 
-27. 
-28. 
-29. 
-30. 
-31. 
-32. 
-33. 
+23. [AutoLink](https://www.30secondsofcode.org/react/s/auto-link)（将字符串呈现为纯文本，并将URL转换为适当的链接元素）
+24. [Collapse](https://www.30secondsofcode.org/react/s/collapse)（渲染具有可折叠内容的组件）
+25. [DataList](https://www.30secondsofcode.org/react/s/data-list)（从数组中渲染元素列表）
+26. [ControlledInput](https://www.30secondsofcode.org/react/s/controlled-input)（呈现一个受控的\<input>元素，该元素使用回调函数来通知其父组件有关值更新的信息）
+27. [UncontrolledInput](https://www.30secondsofcode.org/react/s/uncontrolled-input)（呈现一个不受控制的\<input>元素，该元素使用回调函数来通知其父组件有关值更新的信息）
+28. [Slider](https://www.30secondsofcode.org/react/s/slider)（渲染一个不受控制的范围输入元素，该元素使用回调函数将其值传递给父组件）
+29. [DataTable](https://www.30secondsofcode.org/react/s/data-table)（可动态创建行的表格）
+30. [PasswordRevealer](https://www.30secondsofcode.org/react/s/password-revealer)（使用显示按钮呈现密码输入字段）
+31. [TextArea](https://www.30secondsofcode.org/react/s/text-area)（呈现一个不受控制的\<textarea>元素，该元素使用回调函数将其值传递给父组件）
+32. [Mailto](https://www.30secondsofcode.org/react/s/mailto)（一个设置为发送电子邮件的链接（mailto：链接））
+33. [Callto](https://www.30secondsofcode.org/react/s/callto)（呈现一个格式设置为呼叫电话号码的链接（电话：链接））
 
 ## React Rendering
 
