@@ -1,4 +1,4 @@
-内容来自于国外的《[30 seconds of code](https://www.30secondsofcode.org)》，收录了 700 多个实用的代码片段。
+内容来自于国外的《[30 seconds of code](https://www.30secondsofcode.org)》，收录了 700 多个实用的代码片段，除了代码有启发性之外，命名也具有参考价值。
 
 目前只翻译了标题和简短描述，可对该系列做个整体了解，点击标题可进入详细内容，使用 Google 翻译就能大体理解其含义。
 
@@ -207,6 +207,68 @@
 68. [when](https://www.30secondsofcode.org/js/s/when)（返回一个函数，该函数接受一个参数，如果不正确，则运行回调，如果错误，则返回）
 
 #### 4）Math
+1. [sumPower](https://www.30secondsofcode.org/js/s/sum-power)（计算从开始到结束（包括两个端点）的所有数字的幂和）
+2. [averageBy](https://www.30secondsofcode.org/js/s/average-by)（使用提供的函数将每个元素映射到一个值后，计算数组的平均值）
+3. [sumBy](https://www.30secondsofcode.org/js/s/sum-by)（使用提供的函数将每个元素映射到值后，计算数组的总和）
+4. [cartesianProduct](https://www.30secondsofcode.org/js/s/cartesian-product)（计算两个数组的笛卡尔积）
+5. [digitize](https://www.30secondsofcode.org/js/s/digitize)（将数字转换为数字数组，必要时删除其符号）
+6. [accumulate](https://www.30secondsofcode.org/js/s/accumulate)（创建一个部分和数组）
+7. [maxN](https://www.30secondsofcode.org/js/s/max-n)（从提供的数组中返回 n 个最大元素）
+8. [minN](https://www.30secondsofcode.org/js/s/min-n)（返回提供的数组中的 n 个最小元素）
+9. [sortedIndexBy](https://www.30secondsofcode.org/js/s/sorted-index-by)（根据提供的迭代器函数，找到应将值插入数组以保持其排序顺序的最低索引）
+10. [fibonacci](https://www.30secondsofcode.org/js/s/fibonacci)（生成一个包含斐波那契序列的数组，直到第 n 个项）
+11. [xProd](https://www.30secondsofcode.org/js/s/x-prod)（通过从数组中创建每个可能的对，在提供的两个数组中创建一个新数组）
+12. [maxBy](https://www.30secondsofcode.org/js/s/max-by)（使用提供的函数将每个元素映射到一个值后，返回数组的最大值）
+13. [minBy](https://www.30secondsofcode.org/js/s/min-by)（使用提供的函数将每个元素映射到一个值后，返回数组的最小值）
+14. [randomIntArrayInRange](https://www.30secondsofcode.org/js/s/random-int-array-in-range)（生成指定范围内 n 个随机整数的数组）
+15. [sdbm](https://www.30secondsofcode.org/js/s/sdbm)（将输入字符串哈希为整数）
+16. [symmetricDifference](https://www.30secondsofcode.org/js/s/symmetric-difference)（返回两个数组之间的对称差，而不会过滤出重复的值）
+17. [standardDeviation](https://www.30secondsofcode.org/js/s/standard-deviation)（计算数字数组的标准差）
+18. [weightedAverage](https://www.30secondsofcode.org/js/s/weighted-average)（计算两个或多个数字的加权平均值）
+19. [uniqueSymmetricDifference](https://www.30secondsofcode.org/js/s/unique-symmetric-difference)（返回两个数组之间的唯一对称差异，不包含两个数组中的重复值）
+20. [percentile](https://www.30secondsofcode.org/js/s/percentile)（计算给定数组中小于或等于给定值的数字的百分比）
+21. [prod](https://www.30secondsofcode.org/js/s/prod)（计算两个或多个数字/数组的乘积）
+22. [vectorAngle](https://www.30secondsofcode.org/js/s/vector-angle)（计算两个向量之间的角度（θ））
+23. [sortedIndex](https://www.30secondsofcode.org/js/s/sorted-index)（查找应将值插入数组以保持其排序顺序的最低索引）
+24. [average](https://www.30secondsofcode.org/js/s/average)（计算两个或多个数字的平均值）
+25. [median](https://www.30secondsofcode.org/js/s/median)（计算数字数组的中位数）
+26. [similarity](https://www.30secondsofcode.org/js/s/similarity)（返回同时出现在两个数组中的元素数组）
+27. [sum](https://www.30secondsofcode.org/js/s/sum)（计算两个或多个数字/数组的总和）
+28. [randomIntegerInRange](https://www.30secondsofcode.org/js/s/random-integer-in-range)（生成指定范围内的随机整数）
+29. [randomNumberInRange](https://www.30secondsofcode.org/js/s/random-number-in-range)（生成指定范围内的随机数）
+30. [HSBToRGB](https://www.30secondsofcode.org/js/s/hsb-to-rgb)（将 HSB 颜色元组转换为 RGB 格式）
+31. [HSLToRGB](https://www.30secondsofcode.org/js/s/hsl-to-rgb)（将 HSL 颜色元组转换为 RGB 格式）
+32. [randomHexColorCode](https://www.30secondsofcode.org/js/s/random-hex-color-code)（生成随机的十六进制颜色代码）
+33. [RGBToHSB](https://www.30secondsofcode.org/js/s/rgb-to-hsb)（将 RGB 颜色元组转换为 HSB 格式）
+34. [RGBToHSL](https://www.30secondsofcode.org/js/s/rgb-to-hsl)（将 RGB 颜色元组转换为 HSL 格式）
+35. [toOrdinalSuffix](https://www.30secondsofcode.org/js/s/to-ordinal-suffix)（接受数字并将其作为字符串返回，并带有正确的序号指示符后缀）
+36. [mapNumRange](https://www.30secondsofcode.org/js/s/map-num-range)（将数字从一个范围映射到另一个范围）
+37. [divmod](https://www.30secondsofcode.org/js/s/divmod)（返回由给定数字的商和余数组成的数组）
+38. [factorial](https://www.30secondsofcode.org/js/s/factorial)（计算数字的阶乘）
+39. [midpoint](https://www.30secondsofcode.org/js/s/midpoint)（计算两对 (x, y) 点之间的中点）
+40. [toDecimalMark](https://www.30secondsofcode.org/js/s/to-decimal-mark)（将数字转换为小数点格式的字符串）
+41. [validateNumber](https://www.30secondsofcode.org/js/s/validate-number)（检查给定值是否为数字）
+42. [distance](https://www.30secondsofcode.org/js/s/distance)（计算两点之间的距离）
+43. [isPrime](https://www.30secondsofcode.org/js/s/is-prime)（检查提供的整数是否为质数）
+44. [randomBoolean](https://www.30secondsofcode.org/js/s/random-boolean)（产生一个随机的布尔值）
+45. [round](https://www.30secondsofcode.org/js/s/round)（将数字四舍五入到指定位数）
+46. [clampNumber](https://www.30secondsofcode.org/js/s/clamp-number)（在指定区间内根据条件返回一个数字）
+47. [copySign](https://www.30secondsofcode.org/js/s/copy-sign)（返回第一个数字的绝对值，第二个的符号）
+48. [inRange](https://www.30secondsofcode.org/js/s/in-range)（检查给定数字是否在给定范围内）
+49. [isNegativeZero](https://www.30secondsofcode.org/js/s/is-negative-zero)（检查给定值是否等于负零（-0））
+50. [isNumber](https://www.30secondsofcode.org/js/s/is-number)（检查给定参数是否为数字）
+51. [logBase](https://www.30secondsofcode.org/js/s/log-base)（计算给定基数中给定数字的对数）
+52. [sumN](https://www.30secondsofcode.org/js/s/sum-n)（对 1 到 n 之间的所有数字求和）
+53. [isPowerOfTen](https://www.30secondsofcode.org/js/s/is-power-of-ten)（检查给定数字是否为10的幂）
+54. [nthRoot](https://www.30secondsofcode.org/js/s/nth-root)（计算给定数字的第 n 个根）
+55. [approximatelyEqual](https://www.30secondsofcode.org/js/s/approximately-equal)（检查两个数字是否彼此相等）
+56. [degreesToRads](https://www.30secondsofcode.org/js/s/degrees-to-rads)（将角度从度转换为弧度）
+57. [isDivisible](https://www.30secondsofcode.org/js/s/is-divisible)（检查第一个数字参数是否可被第二个参数整除）
+58. [isEven](https://www.30secondsofcode.org/js/s/is-even)（检查给定数字是否为偶数）
+59. [isOdd](https://www.30secondsofcode.org/js/s/is-odd)（检查给定数字是否为奇数）
+60. [isPowerOfTwo](https://www.30secondsofcode.org/js/s/is-power-of-two)（检查给定数字是否为 2 的幂）
+61. [radsToDegrees](https://www.30secondsofcode.org/js/s/rads-to-degrees)（将角度从弧度转换为度）
+62. [toSafeInteger](https://www.30secondsofcode.org/js/s/to-safe-integer)（将值转换为安全整数）
 
 #### 5）类型
 1. [如何使用布尔函数？](https://www.30secondsofcode.org/blog/s/javascript-boolean-function)
