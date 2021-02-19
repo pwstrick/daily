@@ -9,7 +9,7 @@
 ## JavaScript Algorithms
 
 ## CSS
-### 1）动画
+#### 1）动画
 
 ## CSS 居中
 1. [Flexbox](https://www.30secondsofcode.org/css/s/flexbox-centering)（使用 Flexbox 将子元素在父元素中水平和垂直居中）
