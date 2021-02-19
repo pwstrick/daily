@@ -69,6 +69,72 @@
 61. [isUpperCase](https://www.30secondsofcode.org/js/s/is-upper-case)（检查字符串是否为大写）
 
 #### 2）对象
+1. [代码剖析-循环，数组 Reduce 和链式](https://www.30secondsofcode.org/blog/s/code-anatomy-chaining-reduce-for-loop)
+2. [什么是迭代器？在哪里可以使用它们？](https://www.30secondsofcode.org/blog/s/javascript-iterators)
+3. [for ... in，for ... of和forEach之间有什么区别？](https://www.30secondsofcode.org/blog/s/javascript-for-in-for-of-foreach)
+4. [如何克隆对象？](https://www.30secondsofcode.org/blog/s/javascript-shallow-deep-clone)（了解JavaScript如何处理可变数据（例如对象和数组），并了解浅层克隆和深层克隆的工作方式）
+5. [get](https://www.30secondsofcode.org/js/s/get)（从对象检索给定选择器指示的一组属性）
+6. [如何使用解构赋值语法？](https://www.30secondsofcode.org/blog/s/javascript-destructuring-assignment)
+7. [renameKeys](https://www.30secondsofcode.org/js/s/rename-keys)（用提供的值替换多个对象键的名称）
+8. [如何深度冻结对象？](https://www.30secondsofcode.org/blog/s/javascript-deep-freeze-object)（了解可变性在JavaScript中的工作原理，其对对象的应用程序以及如何正确冻结它们以使其不可变）
+9. [compactObject](https://www.30secondsofcode.org/js/s/compact-object)（从对象或数组中深度删除所有假值）
+10. [countBy](https://www.30secondsofcode.org/js/s/count-by)（根据给定的函数对数组的元素进行分组，并返回每组中元素的计数）
+11. [groupBy](https://www.30secondsofcode.org/js/s/group-by)（根据给定函数对数组的元素进行分组）
+12. [queryStringToObject](https://www.30secondsofcode.org/js/s/query-string-to-object)（从给定的查询字符串或URL生成对象）
+13. [deepMapKeys](https://www.30secondsofcode.org/js/s/deep-map-keys)（深度映射对象的键）
+14. [mapKeys](https://www.30secondsofcode.org/js/s/map-keys)（使用提供的函数映射对象的键，生成一个新对象）
+15. [mapObject](https://www.30secondsofcode.org/js/s/map-object)（使用函数将数组的值映射到对象）
+16. [mapValues](https://www.30secondsofcode.org/js/s/map-values)（使用提供的函数映射对象的值，并使用相同的键生成一个新对象）
+17. [omitBy](https://www.30secondsofcode.org/js/s/omit-by)（省略与给定函数为其返回falsy的对象的键对应的键值对）
+18. [pickBy](https://www.30secondsofcode.org/js/s/pick-by)（创建一个对象，该对象由属性组成，给定的函数返回 true）
+19. [flattenObject](https://www.30secondsofcode.org/js/s/flatten-object)（使用键的路径扁平化对象）
+20. [invertKeyValues](https://www.30secondsofcode.org/js/s/invert-key-values)（反转对象的键值对，而无需对其进行突变）
+21. [partition](https://www.30secondsofcode.org/js/s/partition)（将元素分为两个数组，具体取决于每个元素提供的函数的真实性）
+22. [deepGet](https://www.30secondsofcode.org/js/s/deep-get)（根据 keys 数组获取嵌套 JSON 对象中的目标值）
+23. [dig](https://www.30secondsofcode.org/js/s/dig)（根据给定的键获取嵌套 JSON 对象中的目标值）
+24. [frequencies](https://www.30secondsofcode.org/js/s/frequencies)（创建一个对象，将数组的唯一值作为键，并将其频率作为值）
+25. [functions](https://www.30secondsofcode.org/js/s/functions)（从对象自己的（并且可以继承）可枚举的属性中获取函数属性名称的数组）
+26. [hasKey](https://www.30secondsofcode.org/js/s/has-key)（检查目标值是否存在于 JSON 对象中）
+27. [nest](https://www.30secondsofcode.org/js/s/nest)（以递归方式将彼此链接的对象嵌套在一个平面数组中）
+28. [omit](https://www.30secondsofcode.org/js/s/omit)（从对象中省略与给定键对应的键值对）
+29. [orderBy](https://www.30secondsofcode.org/js/s/order-by)（按属性和顺序对对象数组进行排序）
+30. [pick](https://www.30secondsofcode.org/js/s/pick)（从对象中选择与给定键对应的键值对）
+31. [walkThrough](https://www.30secondsofcode.org/js/s/walk-through)（创建一个生成器，遍历给定对象的所有键）
+32. [findKey](https://www.30secondsofcode.org/js/s/find-key)（查找满足所提供测试功能的第一个键。 否则返回undefined）
+33. [findLastKey](https://www.30secondsofcode.org/js/s/find-last-key)（查找满足所提供测试功能的最后一个键。 否则返回undefined）
+34. [forOwn](https://www.30secondsofcode.org/js/s/for-own)（遍历对象的所有自身属性，为每个对象运行一个回调）
+35. [forOwnRight](https://www.30secondsofcode.org/js/s/for-own-right)（反向迭代对象的所有自身属性，为每个对象运行一个回调）
+36. [merge](https://www.30secondsofcode.org/js/s/merge)（通过两个或多个对象的组合创建一个新对象）
+37. [objectToQueryString](https://www.30secondsofcode.org/js/s/object-to-query-string)（从给定对象的键值对生成查询字符串）
+38. [orderWith](https://www.30secondsofcode.org/js/s/order-with)（根据提供的顺序数组，按属性排序对象的数组）
+39. [partitionBy](https://www.30secondsofcode.org/js/s/partition-by)（将 fn 应用于数组中的每个值，每次提供的函数返回新值时将其拆分）
+40. [stringifyCircularJSON](https://www.30secondsofcode.org/js/s/stringify-circular-json)（将包含循环引用的 JSON 对象序列化为 JSON 格式）
+41. [toPairs](https://www.30secondsofcode.org/js/s/to-pairs)（从对象或其他可迭代对象创建键值对数组的数组）
+42. [transform](https://www.30secondsofcode.org/js/s/transform)（对一个累加器和对象中的每个键应用一个函数（从左到右））
+43. [unflattenObject](https://www.30secondsofcode.org/js/s/unflatten-object)（使用键的路径展开对象）
+44. [formToObject](https://www.30secondsofcode.org/js/s/form-to-object)（将一组表单元素编码为一个对象）
+45. [lowercaseKeys](https://www.30secondsofcode.org/js/s/lowercase-keys)（从指定的对象创建一个新的对象，其中所有键都小写）
+46. [deepFreeze](https://www.30secondsofcode.org/js/s/deep-freeze)（深度冻结对象）
+47. [defaults](https://www.30secondsofcode.org/js/s/defaults)（为未定义对象中的所有属性分配默认值）
+48. [zipObject](https://www.30secondsofcode.org/js/s/zip-object)（将属性与值，给定的有效属性标识符数组和值数组相关联）
+49. [equals](https://www.30secondsofcode.org/js/s/equals)（在两个值之间进行深度比较以确定它们是否等效）
+50. [matchesWith](https://www.30secondsofcode.org/js/s/matches-with)（根据提供的函数比较两个对象，以确定第一个对象是否包含与第二个对象相同的属性值）
+51. [combine](https://www.30secondsofcode.org/js/s/combine)（合并两个对象数组，使用指定的键来匹配对象）
+52. [deepClone](https://www.30secondsofcode.org/js/s/deep-clone)（创建对象的深层克隆。 克隆基元，数组和对象，不包括类实例）
+53. [findKeys](https://www.30secondsofcode.org/js/s/find-keys)（在提供的对象中查找与给定值匹配的所有键）
+54. [truthCheckCollection](https://www.30secondsofcode.org/js/s/truth-check-collection)（检查判定函数对于集合的所有元素是否真实）
+55. [isEmpty](https://www.30secondsofcode.org/js/s/is-empty)（检查 a 值是否为空对象/集合，没有可枚举的属性或任何不视为集合的类型）
+56. [objectFromPairs](https://www.30secondsofcode.org/js/s/object-from-pairs)（根据给定的键值对创建对象）
+57. [objectToEntries](https://www.30secondsofcode.org/js/s/object-to-entries)（从一个对象创建一个键值对数组）
+58. [pluck](https://www.30secondsofcode.org/js/s/pluck)（将对象数组转换为与指定键对应的值数组）
+59. [isDeepFrozen](https://www.30secondsofcode.org/js/s/is-deep-frozen)（检查对象是否被深度冻结）
+60. [matches](https://www.30secondsofcode.org/js/s/matches)（比较两个对象以确定第一个对象是否包含与第二个对象相同的属性值）
+61. [objectToPairs](https://www.30secondsofcode.org/js/s/object-to-pairs)（从一个对象创建一个键值对数组）
+62. [checkProp](https://www.30secondsofcode.org/js/s/check-prop)（创建一个函数，该函数将为给定对象上的指定属性调用判定函数）
+63. [isPlainObject](https://www.30secondsofcode.org/js/s/is-plain-object)（检查提供的值是否是由 Object 构造函数创建的对象）
+64. [isObject](https://www.30secondsofcode.org/js/s/is-object)
+65. [isObjectLike](https://www.30secondsofcode.org/js/s/is-object-like)（检查值是否类似于对象）
+66. [shallowClone](https://www.30secondsofcode.org/js/s/shallow-clone)（创建对象的浅层克隆）
 
 #### 3）函数
 1. [了解 ES6 的扩展运算符和剩余参数](https://www.30secondsofcode.org/blog/s/javascript-spread-rest-syntax)
