@@ -10,16 +10,116 @@
 #### 2）对象
 
 #### 3）函数
+1. [了解 ES6 的扩展运算符和剩余参数](https://www.30secondsofcode.org/blog/s/javascript-spread-rest-syntax)
+2. [如何使用记忆函数？](https://www.30secondsofcode.org/blog/s/javascript-memoization)
+3. [如何实现单例？](https://www.30secondsofcode.org/blog/s/javascript-singleton-proxy)（使用Proxy对象在JavaScript中实现单例）
+4. [了解JavaScript中的高阶函数](https://www.30secondsofcode.org/blog/s/javascript-higher-order-functions)
+5. [将JavaScript生成器函数用于范围](https://www.30secondsofcode.org/blog/s/javascript-range-generator)（使用JavaScript ES6生成器和迭代器在数字范围内进行迭代）
+6. [异步JavaScript备忘单](https://www.30secondsofcode.org/blog/s/async-javascript-cheatsheet)（了解有关Promise和异步JavaScript所需的所有知识）
+7. [了解JavaScript中的“ this”关键字](https://www.30secondsofcode.org/blog/s/javascript-this)（了解它在不同情况下的工作方式并正确使用它）
+8. [如何使用布尔函数？](https://www.30secondsofcode.org/blog/s/javascript-boolean-function)
+9. [什么是JavaScript闭包？](https://www.30secondsofcode.org/blog/s/javascript-closures)（学习和理解闭包（JavaScript编程的核心概念）并升级代码）
+10. [pipeAsyncFunctions](https://www.30secondsofcode.org/js/s/pipe-async-functions)（对异步功能执行从左到右的功能组合）
+11. [converge](https://www.30secondsofcode.org/js/s/converge)（接受一个聚合函数和一个分支函数列表，将分支函数的结果作为参数传递给聚合函数）
+12. [rearg](https://www.30secondsofcode.org/js/s/rearg)（创建一个函数，该函数调用提供的函数，其参数根据指定的索引排列）
+13. [JavaScript构造函数返回什么？](https://www.30secondsofcode.org/blog/s/javascript-return-constructor)
+14. [cycleGenerator](https://www.30secondsofcode.org/js/s/cycle-generator)（创建一个生成器，无限循环遍历给定数组）
+15. [debouncePromise](https://www.30secondsofcode.org/js/s/debounce-promise)（创建一个防抖动的函数，该函数返回一个 Promise，但是将调用提供的函数的时间延迟到从上一次调用它起至少经过了ms毫秒。 在此期间返回的所有 Promise 将返回相同的数据）
+16. [functions](https://www.30secondsofcode.org/js/s/functions)（从对象自己的（并且可以继承）可枚举的属性中获取函数属性名称的数组）
+17. [runPromisesInSeries](https://www.30secondsofcode.org/js/s/run-promises-in-series)（连续执行一系列 Promise）
+18. [call()、apply() 和 bind()](https://www.30secondsofcode.org/blog/s/javascript-function-call-apply-bind)
+19. [bindAll](https://www.30secondsofcode.org/js/s/bind-all)（将对象的方法绑定到对象本身，覆盖现有方法）
+20. [mostPerformant](https://www.30secondsofcode.org/js/s/most-performant)（返回执行最快的函数数组中的函数索引）
+21. [once](https://www.30secondsofcode.org/js/s/once)（确保一个函数仅被调用一次）
+22. [overArgs](https://www.30secondsofcode.org/js/s/over-args)（创建一个函数，该函数调用提供的函数并转换其参数）
+23. [pipeFunctions](https://www.30secondsofcode.org/js/s/pipe-functions)（执行从左到右的功能合成）
+24. [spreadOver](https://www.30secondsofcode.org/js/s/spread-over)（接受可变参数函数，并返回接受参数数组的函数）
+25. [throttle](https://www.30secondsofcode.org/js/s/throttle)（创建一个限制的函数，每等待一个毫秒最多只能调用一次提供的函数）
+26. [uncurry](https://www.30secondsofcode.org/js/s/uncurry)（取消对深度 n 的函数）
+27. [unfold](https://www.30secondsofcode.org/js/s/unfold)（使用迭代器函数和初始值构建数组）
+28. [chainAsync](https://www.30secondsofcode.org/js/s/chain-async)（链接异步函数）
+29. [repeatGenerator](https://www.30secondsofcode.org/js/s/repeat-generator)（创建一个生成器，无限期地重复给定值）
+30. [defer](https://www.30secondsofcode.org/js/s/defer)（推迟调用函数，直到清除当前调用堆栈）
+31. [memoize](https://www.30secondsofcode.org/js/s/memoize)（返回备注的（缓存的）函数）
+32. [bindKey](https://www.30secondsofcode.org/js/s/bind-key)（创建一个函数，该函数在对象的给定键处调用该方法，可以选择在参数的前面附加任何提供的参数）
+33. [isPromiseLike](https://www.30secondsofcode.org/js/s/is-promise-like)（检查对象是否看起来像一个 Promise）
+34. [ary](https://www.30secondsofcode.org/js/s/ary)（创建一个最多接受 n 个参数的函数，忽略任何其他参数）
+35. [compose](https://www.30secondsofcode.org/js/s/compose)（执行从右到左的功能组合）
+36. [composeRight](https://www.30secondsofcode.org/js/s/compose-right)（执行从左到右的功能组合）
+37. [juxt](https://www.30secondsofcode.org/js/s/juxt)（将几个函数作为参数并返回与这些函数并列的函数）
+38. [over](https://www.30secondsofcode.org/js/s/over)（创建一个函数，该函数使用接收到的参数调用每个提供的函数并返回结果）
+39. [sleep](https://www.30secondsofcode.org/js/s/sleep)（延迟异步功能的执行）
+40. [bind](https://www.30secondsofcode.org/js/s/bind)（创建一个在给定上下文中调用 fn 的函数，可以选择在参数之前添加任何其他提供的参数）
+41. [flip](https://www.30secondsofcode.org/js/s/flip)（将函数作为参数，然后使第一个参数成为最后一个参数）
+42. [generatorToArray](https://www.30secondsofcode.org/js/s/generator-to-array)（将生成器函数的输出转换为数组）
+43. [isAsyncFunction](https://www.30secondsofcode.org/js/s/is-async-function)（检查给定参数是否为异步函数）
+44. [isGeneratorFunction](https://www.30secondsofcode.org/js/s/is-generator-function)（检查给定参数是否为生成器函数）
+45. [promisify](https://www.30secondsofcode.org/js/s/promisify)（转换一个异步函数以返回一个 Promise）
+46. [nthArg](https://www.30secondsofcode.org/js/s/nth-arg)（创建一个函数以索引 n 获取参数）
+47. [partial](https://www.30secondsofcode.org/js/s/partial)（创建一个函数，该函数调用带有接收到的参数前面的部分内容的 fn）
+48. [partialRight](https://www.30secondsofcode.org/js/s/partial-right)（创建一个函数，该函数调用 fn 并在接收到的参数后附加部分）
+49. [delay](https://www.30secondsofcode.org/js/s/delay)（ms毫秒后调用提供的功能）
+50. [rangeGenerator](https://www.30secondsofcode.org/js/s/range-generator)（创建一个生成器，使用给定的步骤生成给定范围内的所有值）
+51. [coalesceFactory](https://www.30secondsofcode.org/js/s/coalesce-factory)（自定义合并函数，该函数根据给定的验证器返回第一个为真的参数）
+52. [collectInto](https://www.30secondsofcode.org/js/s/collect-into)（将接受数组的函数更改为可变函数）
+53. [generateItems](https://www.30secondsofcode.org/js/s/generate-items)（使用给定的函数生成具有给定数量的项的数组）
+54. [checkProp](https://www.30secondsofcode.org/js/s/check-prop)（创建一个函数，该函数将为给定对象上的指定属性执行回调函数）
+55. [curry](https://www.30secondsofcode.org/js/s/curry)（科里化一个函数）
+56. [debounce](https://www.30secondsofcode.org/js/s/debounce)（创建一个去抖动的函数，该函数会将调用提供的函数延迟到从上次调用该函数起至少经过了 ms 毫秒）
+57. [times](https://www.30secondsofcode.org/js/s/times)（遍历回调 n 次）
+58. [attempt](https://www.30secondsofcode.org/js/s/attempt)（尝试使用提供的参数调用函数，返回结果或捕获的错误对象）
+59. [call](https://www.30secondsofcode.org/js/s/call)（给定一个键和一组参数，在给定上下文时调用它们）
+60. [binary](https://www.30secondsofcode.org/js/s/binary)（创建一个最多接受两个参数的函数，忽略任何其他参数）
+61. [isFunction](https://www.30secondsofcode.org/js/s/is-function)（检查给定参数是否为函数）
+62. [complement](https://www.30secondsofcode.org/js/s/complement)（返回一个函数，该函数是给定函数 fn 的逻辑补码）
+63. [either](https://www.30secondsofcode.org/js/s/either)（检查是否有至少一个函数针对给定的一组参数返回 true）
+64. [functionName](https://www.30secondsofcode.org/js/s/function-name)（记录函数名称）
+65. [negate](https://www.30secondsofcode.org/js/s/negate)（否定判定函数的结果）
+66. [timeTaken](https://www.30secondsofcode.org/js/s/time-taken)（衡量功能执行所需的时间）
+67. [unary](https://www.30secondsofcode.org/js/s/unary)（创建一个函数，该函数最多接受一个参数，而忽略任何其他参数）
+68. [when](https://www.30secondsofcode.org/js/s/when)（返回一个函数，该函数接受一个参数，如果不正确，则运行回调，如果错误，则返回）
 
-#### 4）类型
+#### 4）Math
 
-#### 5）Math
+#### 5）类型
 
 #### 6）日期
+1. [formatDuration](https://www.30secondsofcode.org/js/s/format-duration)（返回人类可读格式的给定毫秒数）
+2. [如何在JavaScript中实现睡眠功能？](https://www.30secondsofcode.org/blog/s/javascript-sleep)（实现 sleep() 函数的所有不同方式）
+3. [addMinutesToDate](https://www.30secondsofcode.org/js/s/add-minutes-to-date)（从给定日期计算 n 分钟的日期，并返回其字符串的表示形式）
+4. [countWeekDaysBetween](https://www.30secondsofcode.org/js/s/count-week-days-between)（计算两个日期之间的工作日）
+5. [toISOStringWithTimezone](https://www.30secondsofcode.org/js/s/to-iso-string-with-timezone)（将日期转换为扩展的ISO格式（ISO 8601），包括时区偏移量）
+6. [isDateValid](https://www.30secondsofcode.org/js/s/is-date-valid)（检查是否可以根据给定的值创建有效的日期对象）
+7. [addWeekDays](https://www.30secondsofcode.org/js/s/add-week-days)（在添加给定的工作日后计算日期）
+8. [addDaysToDate](https://www.30secondsofcode.org/js/s/add-days-to-date)（计算给定日期后 n 天的日期，并返回其字符串的表示形式）
+9. [isISOString](https://www.30secondsofcode.org/js/s/is-iso-string)（检查给定的字符串在简化的扩展ISO格式（ISO 8601）中是否有效）
+10. [getColonTimeFromDate](https://www.30secondsofcode.org/js/s/get-colon-time-from-date)（从Date对象返回形式为 HH:MM:SS 的字符串）
+11. [quarterOfYear](https://www.30secondsofcode.org/js/s/quarter-of-year)（返回提供的日期所属的季度和年份）
+12. [dayOfYear](https://www.30secondsofcode.org/js/s/day-of-year)（从Date对象获取一年中的一天（范围为1-366的数字））
+13. [maxDate](https://www.30secondsofcode.org/js/s/max-date)（返回给定日期的最大值）
+14. [minDate](https://www.30secondsofcode.org/js/s/min-date)（返回给定日期的最小值）
+15. [dayName](https://www.30secondsofcode.org/js/s/day-name)（从 Date 对象获取工作日的名称）
+16. [daysAgo](https://www.30secondsofcode.org/js/s/days-ago)（计算从今天起 n 天前的日期，以字符串表示形式）
+17. [getMonthsDiffBetweenDates](https://www.30secondsofcode.org/js/s/get-months-diff-between-dates)（计算两个日期之间的差异（以月为单位））
+18. [tomorrow](https://www.30secondsofcode.org/js/s/tomorrow)（结果以字符串形式表示明天的日期）
+19. [yesterday](https://www.30secondsofcode.org/js/s/yesterday)（结果以字符串形式表示昨天的日期）
+20. [daysFromNow](https://www.30secondsofcode.org/js/s/days-from-now)（以字符串表示形式计算从今天开始的 n 天的日期）
+21. [getDaysDiffBetweenDates](https://www.30secondsofcode.org/js/s/get-days-diff-between-dates)（计算两个日期之间的差异（以天为单位））
+22. [getTimestamp](https://www.30secondsofcode.org/js/s/get-timestamp)（从 Date 对象获取 Unix 时间戳）
+23. [lastDateOfMonth](https://www.30secondsofcode.org/js/s/last-date-of-month)（返回给定日期月份的最后一个日期的字符串表示形式）
+24. [getMeridiemSuffixOfInteger](https://www.30secondsofcode.org/js/s/get-meridiem-suffix-of-integer)（将整数转换为带后缀的字符串，并根据其值添加am或pm）
+25. [fromTimestamp](https://www.30secondsofcode.org/js/s/from-timestamp)（从 Unix 时间戳创建 Date 对象）
+26. [isSameDate](https://www.30secondsofcode.org/js/s/is-same-date)（检查一个日期是否与另一个日期相同）
+27. [isLeapYear](https://www.30secondsofcode.org/js/s/is-leap-year)（检查给定年份是否为闰年）
+28. [isWeekday](https://www.30secondsofcode.org/js/s/is-weekday)（检查给定的日期是否是工作日）
+29. [isWeekend](https://www.30secondsofcode.org/js/s/is-weekend)（检查给定的日期是否是周末）
+30. [isAfterDate](https://www.30secondsofcode.org/js/s/is-after-date)（检查某个日期是否在另一个日期之后）
+31. [isBeforeDate](https://www.30secondsofcode.org/js/s/is-before-date)（检查日期是否在另一个日期之前）
+32. [isBetweenDates](https://www.30secondsofcode.org/js/s/is-between-dates)（检查日期是否在其他两个日期之间）
 
 #### 7）浏览器
 1. [如何检测Caps Lock大写键是否已启用？](https://www.30secondsofcode.org/blog/s/detect-caps-lock-is-on)
-2. [我可以使用箭头函数作为JavaScript中事件监听器的回调吗？](https://www.30secondsofcode.org/blog/s/javascript-arrow-function-event-listeners)
+2. [可以用箭头函数作为事件监听器的回调吗？](https://www.30secondsofcode.org/blog/s/javascript-arrow-function-event-listeners)
 3. [如何使用JavaScript将文本复制到剪贴板？](https://www.30secondsofcode.org/blog/s/copy-text-to-clipboard-with-javascript)
 4. [如何在不重新加载页面的情况下使用JavaScript修改URL？](https://www.30secondsofcode.org/blog/s/javascript-modify-url-without-reload)
 5. [Tip: 您可以将输入元素的值获取为数字](https://www.30secondsofcode.org/blog/s/javascript-value-as-number)
