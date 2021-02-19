@@ -1,8 +1,116 @@
-内容来自于国外的《[30 seconds of code](https://www.30secondsofcode.org)》，只翻译了其中的标题和简短描述，可对其做个整体了解，内容可用 Google 翻译，大体都能看懂。
+内容来自于国外的《[30 seconds of code](https://www.30secondsofcode.org)》，收录了 700 多个实用的代码片段。
+
+目前只翻译了标题和简短描述，可对该系列做个整体了解，点击标题可进入详细内容，使用 Google 翻译就能大体理解其含义。
 
 与 [Underscore.js](https://underscorejs.org/) 和 [Lodash.js](https://lodash.com/docs/) 不同，30 seconds of code 中的代码片段都是各自独立的，可直接引用，也更容易吸收学习。
 
 ## JavaScript
+#### 1）字符串
+
+#### 2）对象
+
+#### 3）函数
+
+#### 4）类型
+
+#### 5）Math
+
+#### 6）日期
+
+#### 7）浏览器
+1. [如何检测Caps Lock大写键是否已启用？](https://www.30secondsofcode.org/blog/s/detect-caps-lock-is-on)
+2. [我可以使用箭头函数作为JavaScript中事件监听器的回调吗？](https://www.30secondsofcode.org/blog/s/javascript-arrow-function-event-listeners)
+3. [如何使用JavaScript将文本复制到剪贴板？](https://www.30secondsofcode.org/blog/s/copy-text-to-clipboard-with-javascript)
+4. [如何在不重新加载页面的情况下使用JavaScript修改URL？](https://www.30secondsofcode.org/blog/s/javascript-modify-url-without-reload)
+5. [Tip: 您可以将输入元素的值获取为数字](https://www.30secondsofcode.org/blog/s/javascript-value-as-number)
+6. [getURLParameters](https://www.30secondsofcode.org/js/s/get-url-parameters)（创建一个包含当前URL参数的对象）
+7. [copyToClipboard](https://www.30secondsofcode.org/js/s/copy-to-clipboard)（将字符串复制到剪贴板，仅由于用户操作（即在 click 事件侦听器内部）而起作用）
+8. [hashBrowser](https://www.30secondsofcode.org/js/s/hash-browser)（使用SHA-256算法为值创建哈希值并返回一个 Promise 对象）
+9. [toHSLObject](https://www.30secondsofcode.org/js/s/to-hsl-object)（将 hsl() 颜色字符串转换为具有每种颜色值的对象）
+10. [toRGBObject](https://www.30secondsofcode.org/js/s/to-rgb-object)（将 rgb() 颜色字符串转换为具有每种颜色值的对象）
+11. [如何最多执行一次事件处理程序？](https://www.30secondsofcode.org/blog/s/javascript-listen-once)
+12. [changeLightness](https://www.30secondsofcode.org/js/s/change-lightness)（更改 hsl() 颜色字符串的亮度值）
+13. [parseCookie](https://www.30secondsofcode.org/js/s/parse-cookie)（解析HTTP Cookie头字符串，返回所有 Cookie 键值对的对象）
+14. [runAsync](https://www.30secondsofcode.org/js/s/run-async)（使用Web Worker在单独的线程中运行一个函数，从而允许长时间运行的函数不会阻塞UI）
+15. [了解JavaScript中的事件冒泡，捕获和委托](https://www.30secondsofcode.org/blog/s/javascript-event-bubbling-capturing-delegation)
+16. [renderElement](https://www.30secondsofcode.org/js/s/render-element)（在指定的 DOM 元素中呈现给定的 DOM 树）
+17. [serializeForm](https://www.30secondsofcode.org/js/s/serialize-form)（将一组表单元素编码为查询字符串）
+18. [Tip: 创建自己的查询选择器](https://www.30secondsofcode.org/blog/s/javascript-query-selector-shorthand)（是否曾经想创建自己的类似jquery的查询选择器的简写？ 可以这么做）
+19. [encodeURI() 和encodeURIComponent() 有什么区别？](https://www.30secondsofcode.org/blog/s/javascript-encodeuri-encodeuricomponent)
+20. [addMultipleListeners](https://www.30secondsofcode.org/js/s/add-multiple-events)（将具有相同处理程序的多个事件侦听器添加到元素中）
+21. [createEventHub](https://www.30secondsofcode.org/js/s/create-event-hub)（使用emit，on和off方法创建一个发布/订阅（发布-订阅）事件中心）
+22. [getSiblings](https://www.30secondsofcode.org/js/s/get-siblings)（返回一个包含给定元素的所有同级元素的数组）
+23. [arrayToHTMLList](https://www.30secondsofcode.org/js/s/array-to-html-list)（将给定的数组元素转换为\<li>标签，并将它们附加到给定 id 的列表中）
+24. [escapeHTML](https://www.30secondsofcode.org/js/s/escape-html)（转义用于HTML的字符串）
+25. [prefix](https://www.30secondsofcode.org/js/s/prefix)（自动添加 CSS 浏览器前缀）
+26. [Tip: 避免为空链接使用“ javascript：void(0)”](https://www.30secondsofcode.org/blog/s/javascript-void-links)
+27. [observeMutations](https://www.30secondsofcode.org/js/s/observe-mutations)（创建一个新的 MutationObserver 并为指定元素上的每个突变提供回调）
+28. [on](https://www.30secondsofcode.org/js/s/on)（将事件侦听器添加到具有事件委托功能的元素）
+29. [unescapeHTML](https://www.30secondsofcode.org/js/s/unescape-html)（转义转义的HTML字符）
+30. [cookies，localStorage 和 sessionStorage 之间有什么区别？](https://www.30secondsofcode.org/blog/s/cookies-local-storage-session)
+31. [getParentsUntil](https://www.30secondsofcode.org/js/s/get-parents-until)（查找元素的所有祖先，直到该元素与指定选择器匹配为止）
+32. [Tip: 最小化 DOM 访问](https://www.30secondsofcode.org/blog/s/javascript-store-dom-items)（提高使用DOM时JavaScript代码的性能）
+33. [formToObject](https://www.30secondsofcode.org/js/s/form-to-object)（将一组表单元素编码为一个对象）
+34. [toHSLArray](https://www.30secondsofcode.org/js/s/to-hsl-array)（将 hsl() 颜色字符串转换为值数组）
+35. [toRGBArray](https://www.30secondsofcode.org/js/s/to-rgb-array)（将 rgbl() 颜色字符串转换为值数组）
+36. [UUIDGeneratorBrowser](https://www.30secondsofcode.org/js/s/uuid-generator-browser)（在浏览器中生成 UUID）
+37. [Tip: 使用target =“ _ blank”时保护用户免受恶意网站的侵害](https://www.30secondsofcode.org/blog/s/javascript-target-blank)（在新选项卡中打开链接会附带一个安全漏洞）
+38. [getImages](https://www.30secondsofcode.org/js/s/get-images)（从一个元素中获取所有图像，并将它们放入数组中）
+39. [show](https://www.30secondsofcode.org/js/s/show)（显示所有指定的元素）
+40. [getElementsBiggerThanViewport](https://www.30secondsofcode.org/js/s/get-elements-bigger-than-viewport)（返回宽度大于视口宽度的 HTML 元素数组）
+41. [hide](https://www.30secondsofcode.org/js/s/hide)（隐藏所有指定的元素）
+42. [onScrollStop](https://www.30secondsofcode.org/js/s/on-scroll-stop)（用户停止滚动时运行回调）
+43. [nodeListToArray](https://www.30secondsofcode.org/js/s/node-list-to-array)（将 NodeList 转换为数组）
+44. [onClickOutside](https://www.30secondsofcode.org/js/s/on-click-outside)（每当用户单击指定元素之外时，运行回调）
+45. [recordAnimationFrames](https://www.30secondsofcode.org/js/s/record-animation-frames)（在每个动画帧上调用提供的回调）
+46. [getBaseURL](https://www.30secondsofcode.org/js/s/get-base-url)（获取当前URL，不带任何参数或片段标识符）
+47. [httpPost](https://www.30secondsofcode.org/js/s/http-post)（向传递的网址发出POST请求）
+48. [httpPut](https://www.30secondsofcode.org/js/s/http-put)（对传递的网址进行PUT请求）
+49. [httpsRedirect](https://www.30secondsofcode.org/js/s/https-redirect)（如果页面当前位于HTTP中，则将其重定向到HTTPS）
+50. [onUserInputChange](https://www.30secondsofcode.org/js/s/on-user-input-change)（每当用户输入类型更改（鼠标或触摸）时运行回调）
+51. [addStyles](https://www.30secondsofcode.org/js/s/add-styles)（将提供的样式添加到给定的元素）
+52. [getAncestors](https://www.30secondsofcode.org/js/s/get-ancestors)（返回从文档根到给定元素之间的所有祖先）
+53. [httpGet](https://www.30secondsofcode.org/js/s/http-get)（对传递的URL进行GET请求）
+54. [off](https://www.30secondsofcode.org/js/s/off)（从元素中删除事件监听器）
+55. [counter](https://www.30secondsofcode.org/js/s/counter)（为指定选择器创建具有指定范围，步长和持续时间的计数器）
+56. [isBrowser](https://www.30secondsofcode.org/js/s/is-browser)（确定当前运行时环境是否是浏览器，以便前端模块可以在服务器（节点）上运行而不会引发错误）
+57. [httpDelete](https://www.30secondsofcode.org/js/s/http-delete)（对传递的网址进行DELETE请求）
+58. [injectCSS](https://www.30secondsofcode.org/js/s/inject-css)（将给定的 CSS 代码注入当前文档）
+59. [listenOnce](https://www.30secondsofcode.org/js/s/listen-once)（将事件侦听器添加到仅在首次触发事件时运行回调的元素）
+60. [hasClass](https://www.30secondsofcode.org/js/s/has-class)（检查给定元素是否具有指定的类）
+61. [isAbsoluteURL](https://www.30secondsofcode.org/js/s/is-absolute-url)（检查给定的字符串是否是绝对URL）
+62. [scrollToTop](https://www.30secondsofcode.org/js/s/scroll-to-top)（平滑滚动到页面顶部）
+63. [detectLanguage](https://www.30secondsofcode.org/js/s/detect-language)（检测当前用户的首选语言）
+64. [smoothScroll](https://www.30secondsofcode.org/js/s/smooth-scroll)（平滑地将调用其的元素滚动到浏览器窗口的可见区域）
+65. [triggerEvent](https://www.30secondsofcode.org/js/s/trigger-event)（在给定元素上触发特定事件，可以选择传递自定义数据）
+66. [addClass](https://www.30secondsofcode.org/js/s/add-class)（将类添加到HTML元素中）
+67. [removeClass](https://www.30secondsofcode.org/js/s/remove-class)（从HTML元素中删除类）
+68. [serializeCookie](https://www.30secondsofcode.org/js/s/serialize-cookie)（将 Cookie 键值对序列化为 Set-Cookie 头字符串）
+69. [getStyle](https://www.30secondsofcode.org/js/s/get-style)（检索指定元素的CSS规则的值）
+70. [getVerticalOffset](https://www.30secondsofcode.org/js/s/get-vertical-offset)（查找从给定元素到文档顶部的距离）
+71. [toggleClass](https://www.30secondsofcode.org/js/s/toggle-class)（切换HTML元素的类）
+72. [createElement](https://www.30secondsofcode.org/js/s/create-element)（从字符串创建一个元素（不将其附加到文档中）如果给定的字符串包含多个元素，则仅返回第一个元素）
+73. [detectDeviceType](https://www.30secondsofcode.org/js/s/detect-device-type)（检测页面是在移动设备上还是在桌面上）
+74. [prefersDarkColorScheme](https://www.30secondsofcode.org/js/s/prefers-dark-color-scheme)（检查用户配色方案首选项是否为深色）
+75. [prefersLightColorScheme](https://www.30secondsofcode.org/js/s/prefers-light-color-scheme)（检查用户配色方案首选项是否为浅色）
+76. [redirect](https://www.30secondsofcode.org/js/s/redirect)（重定向到指定的URL）
+77. [setStyle](https://www.30secondsofcode.org/js/s/set-style)（为指定的HTML元素设置CSS规则的值）
+78. [currentURL](https://www.30secondsofcode.org/js/s/current-url)（返回当前URL）
+79. [getScrollPosition](https://www.30secondsofcode.org/js/s/get-scroll-position)（返回当前页面的滚动位置）
+80. [getSelectedText](https://www.30secondsofcode.org/js/s/get-selected-text)（获取当前选择的文本）
+81. [isLocalStorageEnabled](https://www.30secondsofcode.org/js/s/is-local-storage-enabled)（检查是否启用了 localStorage）
+82. [isSessionStorageEnabled](https://www.30secondsofcode.org/js/s/is-session-storage-enabled)（检查 sessionStorage 是否启用）
+83. [removeElement](https://www.30secondsofcode.org/js/s/remove-element)（从 DOM 中删除一个元素）
+84. [elementContains](https://www.30secondsofcode.org/js/s/element-contains)（检查父元素是否包含子元素）
+85. [elementIsVisibleInViewport](https://www.30secondsofcode.org/js/s/element-is-visible-in-viewport)（检查指定的元素在视口中是否可见）
+86. [fullscreen](https://www.30secondsofcode.org/js/s/fullscreen)（以全屏模式打开或关闭元素）
+87. [insertAfter](https://www.30secondsofcode.org/js/s/insert-after)（在指定元素的末尾插入HTML字符串）
+88. [insertBefore](https://www.30secondsofcode.org/js/s/insert-before)（在指定元素的开头之前插入HTML字符串）
+89. [supportsTouchEvents](https://www.30secondsofcode.org/js/s/supports-touch-events)（检查是否支持触摸事件）
+90. [getProtocol](https://www.30secondsofcode.org/js/s/get-protocol)（获取当前页面上正在使用的协议）
+91. [bottomVisible](https://www.30secondsofcode.org/js/s/bottom-visible)（检查页面底部是否可见）
+92. [elementIsFocused](https://www.30secondsofcode.org/js/s/element-is-focused)（检查给定元素是否聚焦）
+93. [isBrowserTabFocused](https://www.30secondsofcode.org/js/s/is-browser-tab-focused)（检查页面的浏览器选项卡是否聚焦）
 
 ## 数组技巧
 1. [uniqueElements](https://www.30secondsofcode.org/js/s/unique-elements)（查找数组中的所有唯一值）
@@ -139,20 +247,18 @@
 3. [isWritableStream](https://www.30secondsofcode.org/js/s/is-writable-stream)（检查给定的参数是否为可写流）
 4. [isReadableStream](https://www.30secondsofcode.org/js/s/is-readable-stream)（检查给定参数是否为可读流）
 5. [readFileLines](https://www.30secondsofcode.org/js/s/read-file-lines)（返回指定文件中的行数组）
-6. [UUIDGeneratorNode](https://www.30secondsofcode.org/js/s/uuid-generator-node)（在NodeJS中生成一个UUID）
-7. [isBrowser](https://www.30secondsofcode.org/js/s/is-browser)（确定当前运行时环境是否是浏览器，以便前端模块可以在服务器（节点）上运行而不会引发错误）
-8. [JSONToFile](https://www.30secondsofcode.org/js/s/json-to-file)（将JSON对象写入文件）
-9. [Tip: 使用Chrome开发人员工具调试 Node.js](https://www.30secondsofcode.org/blog/s/nodejs-chrome-debugging)
-10. [colorize](https://www.30secondsofcode.org/js/s/colorize)（在文本中添加特殊字符以在控制台中以彩色打印（与console.log()组合））
-11. [isNode](https://www.30secondsofcode.org/js/s/is-node)（确定当前运行时环境是否为Node.js）
-12. [isStream](https://www.30secondsofcode.org/js/s/is-stream)（检查给定参数是否为流）
-13. [hasFlags](https://www.30secondsofcode.org/js/s/has-flags)（检查当前进程的参数是否包含指定的标志）
-14. [btoa](https://www.30secondsofcode.org/js/s/btoa)（从String对象创建一个base-64编码的ASCII字符串，其中字符串中的每个字符都被视为二进制数据的字节）
-15. [untildify](https://www.30secondsofcode.org/js/s/untildify)（将波浪号路径转换为绝对路径）
-16. [isTravisCI](https://www.30secondsofcode.org/js/s/is-travis-ci)（检查当前环境是否为Travis CI）
-17. [atob](https://www.30secondsofcode.org/js/s/atob)（解码已使用base-64编码的数据字符串）
-18. [requireUncached](https://www.30secondsofcode.org/js/s/require-uncached)（从缓存中删除模块后加载模块（如果存在））
-19. [createDirIfNotExists](https://www.30secondsofcode.org/js/s/create-dir-if-not-exists)（创建目录（如果不存在））
+6. [JSONToFile](https://www.30secondsofcode.org/js/s/json-to-file)（将JSON对象写入文件）
+7. [Tip: 使用Chrome开发人员工具调试 Node.js](https://www.30secondsofcode.org/blog/s/nodejs-chrome-debugging)
+8. [colorize](https://www.30secondsofcode.org/js/s/colorize)（在文本中添加特殊字符以在控制台中以彩色打印（与console.log()组合））
+9. [isNode](https://www.30secondsofcode.org/js/s/is-node)（确定当前运行时环境是否为Node.js）
+10. [isStream](https://www.30secondsofcode.org/js/s/is-stream)（检查给定参数是否为流）
+11. [hasFlags](https://www.30secondsofcode.org/js/s/has-flags)（检查当前进程的参数是否包含指定的标志）
+12. [btoa](https://www.30secondsofcode.org/js/s/btoa)（从String对象创建一个base-64编码的ASCII字符串，其中字符串中的每个字符都被视为二进制数据的字节）
+13. [untildify](https://www.30secondsofcode.org/js/s/untildify)（将波浪号路径转换为绝对路径）
+14. [isTravisCI](https://www.30secondsofcode.org/js/s/is-travis-ci)（检查当前环境是否为Travis CI）
+15. [atob](https://www.30secondsofcode.org/js/s/atob)（解码已使用base-64编码的数据字符串）
+16. [requireUncached](https://www.30secondsofcode.org/js/s/require-uncached)（从缓存中删除模块后加载模块（如果存在））
+17. [createDirIfNotExists](https://www.30secondsofcode.org/js/s/create-dir-if-not-exists)（创建目录（如果不存在））
 
 ## React
 #### 1）Hooks
