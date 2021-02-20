@@ -6,301 +6,297 @@
 
 ## JavaScript
 #### 1）URL
-28. [URLJoin](https://www.30secondsofcode.org/js/s/url-join)（将所有给定的URL段连接在一起，然后规范化结果URL）
-34. [slugify](https://www.30secondsofcode.org/js/s/slugify)（将字符串转换为URL友好的段）
-12. [queryStringToObject](https://www.30secondsofcode.org/js/s/query-string-to-object)（从给定的查询字符串或URL生成对象）
+1. [URLJoin](https://www.30secondsofcode.org/js/s/url-join)（将所有给定的URL段连接在一起，然后规范化结果URL）
+2. [slugify](https://www.30secondsofcode.org/js/s/slugify)（将字符串转换为URL友好的段）
+3. [queryStringToObject](https://www.30secondsofcode.org/js/s/query-string-to-object)（从给定的查询字符串或URL生成对象）
 4. [如何在不重新加载页面的情况下使用JavaScript修改URL？](https://www.30secondsofcode.org/blog/s/javascript-modify-url-without-reload)
-6. [getURLParameters](https://www.30secondsofcode.org/js/s/get-url-parameters)（创建一个包含当前URL参数的对象）
-46. [getBaseURL](https://www.30secondsofcode.org/js/s/get-base-url)（获取当前URL，不带任何参数或片段标识符）
-61. [isAbsoluteURL](https://www.30secondsofcode.org/js/s/is-absolute-url)（检查给定的字符串是否是绝对URL）
+5. [getURLParameters](https://www.30secondsofcode.org/js/s/get-url-parameters)（创建一个包含当前URL参数的对象）
+6. [getBaseURL](https://www.30secondsofcode.org/js/s/get-base-url)（获取当前URL，不带任何参数或片段标识符）
+7. [isAbsoluteURL](https://www.30secondsofcode.org/js/s/is-absolute-url)（检查给定的字符串是否是绝对URL）
+8. [redirect](https://www.30secondsofcode.org/js/s/redirect)（重定向到指定的URL）
+9. [currentURL](https://www.30secondsofcode.org/js/s/current-url)（返回当前URL）
+10. [getProtocol](https://www.30secondsofcode.org/js/s/get-protocol)（获取当前页面上正在使用的协议）
 
-#### 1）字符串
+#### 2）字符串
 1. [如何将可迭代对象转换为数组？](https://www.30secondsofcode.org/blog/s/javascript-iterable-to-array)
-2. [JSONtoCSV](https://www.30secondsofcode.org/js/s/jso-nto-csv)（将对象数组转换为仅包含指定列的逗号分隔值（CSV）字符串）
-3. [CSVToJSON](https://www.30secondsofcode.org/js/s/csv-to-json)（将逗号分隔值（CSV）字符串转换为2D对象数组。字符串的第一行用作标题行）
-4. [正则表达式备忘单](https://www.30secondsofcode.org/blog/s/regexp-cheatsheet)
-5. [toTitleCase](https://www.30secondsofcode.org/js/s/to-title-case)（将字符串转换为标题的大小写）
-6. [6种JavaScript正则表达式功能](https://www.30secondsofcode.org/blog/s/6-javascript-regexp-tricks)
-7. [extendHex](https://www.30secondsofcode.org/js/s/extend-hex)（将 3 位数颜色代码扩展为 6 位数颜色代码）
-8. [mapString](https://www.30secondsofcode.org/js/s/map-string)（创建一个新字符串，其结果是在给定字符串中的每个字符上调用提供的函数）
-9. [toCamelCase](https://www.30secondsofcode.org/js/s/to-camel-case)（将字符串转换为驼峰式）
-10. [toSnakeCase](https://www.30secondsofcode.org/js/s/to-snake-case)（将字符串转换为蛇形）
-11. [isAnagram](https://www.30secondsofcode.org/js/s/is-anagram)（检查一个字符串是否是另一个字符串的字谜（不区分大小写，忽略空格，标点符号和特殊字符））
-12. [swapCase](https://www.30secondsofcode.org/js/s/swap-case)（创建一个字符串，将大写字符转换为小写，反之亦然）
-13. [arrayToCSV](https://www.30secondsofcode.org/js/s/array-to-csv)（将2D数组转换为逗号分隔值（CSV）字符串）
-14. [stringPermutations](https://www.30secondsofcode.org/js/s/string-permutations)（生成字符串的所有排列（包含重复项））
-15. [toKebabCase](https://www.30secondsofcode.org/js/s/to-kebab-case)（将字符串转换为烤肉串式）
-16. [words](https://www.30secondsofcode.org/js/s/words)（将给定的字符串转换为单词数组）
-17. [decapitalize](https://www.30secondsofcode.org/js/s/decapitalize)（将字符串的首字母大写）
-18. [hexToRGB](https://www.30secondsofcode.org/js/s/hex-to-rgb)（如果提供了 alpha 值，则将颜色代码转换为 rgb() 或 rgba() 字符串）
-19. [toRomanNumeral](https://www.30secondsofcode.org/js/s/to-roman-numeral)（将整数转换为其罗马数字表示形式。接受介于1和3999之间的值（包括两者））
-20. [reverseNumber](https://www.30secondsofcode.org/js/s/reverse-number)（倒数）
-21. [sortCharactersInString](https://www.30secondsofcode.org/js/s/sort-characters-in-string)（按字母顺序对字符串中的字符进行排序）
-22. [capitalize](https://www.30secondsofcode.org/js/s/capitalize)（大写字符串的第一个字母）
-23. [CSVToArray](https://www.30secondsofcode.org/js/s/csv-to-array)（将逗号分隔值（CSV）字符串转换为2D数组）
-24. [reverseString](https://www.30secondsofcode.org/js/s/reverse-string)（反转字符串）
-25. [size](https://www.30secondsofcode.org/js/s/size)（获取数组，对象或字符串的大小）
-26. [isEmpty](https://www.30secondsofcode.org/js/s/is-empty)（检查 a 值是否为空对象/集合，没有可枚举的属性或任何不视为集合的类型）
-27. [pluralize](https://www.30secondsofcode.org/js/s/pluralize)（根据输入的数字返回单词的单数或复数形式，并使用可选的字典（如果提供））
-29. [prettyBytes](https://www.30secondsofcode.org/js/s/pretty-bytes)（将以字节为单位的数字转换为人类可读的字符串）
-30. [randomAlphaNumeric](https://www.30secondsofcode.org/js/s/random-alpha-numeric)（生成具有指定长度的随机字符串）
-31. [RGBToHex](https://www.30secondsofcode.org/js/s/rgb-to-hex)（将 RGB 分量的值转换为十六进制颜色代码）
-32. [sample](https://www.30secondsofcode.org/js/s/sample)（从数组中获取随机元素）
+2. [正则表达式备忘单](https://www.30secondsofcode.org/blog/s/regexp-cheatsheet)
+3. [6种JavaScript正则表达式功能](https://www.30secondsofcode.org/blog/s/6-javascript-regexp-tricks)
+4. [JSONtoCSV](https://www.30secondsofcode.org/js/s/jso-nto-csv)（将对象数组转换为仅包含指定列的逗号分隔值（CSV）字符串）
+5. [CSVToJSON](https://www.30secondsofcode.org/js/s/csv-to-json)（将逗号分隔值（CSV）字符串转换为2D对象数组。字符串的第一行用作标题行）
+6. [arrayToCSV](https://www.30secondsofcode.org/js/s/array-to-csv)（将2D数组转换为逗号分隔值（CSV）字符串）
+7. [CSVToArray](https://www.30secondsofcode.org/js/s/csv-to-array)（将逗号分隔值（CSV）字符串转换为2D数组）
+11. [toTitleCase](https://www.30secondsofcode.org/js/s/to-title-case)（将字符串转换为标题的大小写）
+12. [toCamelCase](https://www.30secondsofcode.org/js/s/to-camel-case)（将字符串转换为驼峰式）
+13. [toSnakeCase](https://www.30secondsofcode.org/js/s/to-snake-case)（将字符串转换为蛇形）
+14. [toKebabCase](https://www.30secondsofcode.org/js/s/to-kebab-case)（将字符串转换为烤肉串式）
+15. [toRomanNumeral](https://www.30secondsofcode.org/js/s/to-roman-numeral)（将整数转换为其罗马数字表示形式。接受介于1和3999之间的值（包括两者））
+16. [toCharArray](https://www.30secondsofcode.org/js/s/to-char-array)（将字符串转换为字符数组）
+17. [toCurrency](https://www.30secondsofcode.org/js/s/to-currency)（接受数字并以指定的货币格式返回）
+18. [swapCase](https://www.30secondsofcode.org/js/s/swap-case)（创建一个字符串，将大写字符转换为小写，反之亦然）
+19. [decapitalize](https://www.30secondsofcode.org/js/s/decapitalize)（将字符串的首字母大写）
+20. [capitalize](https://www.30secondsofcode.org/js/s/capitalize)（大写字符串的第一个字母）
+21. [capitalizeEveryWord](https://www.30secondsofcode.org/js/s/capitalize-every-word)（将字符串中每个单词的首字母大写）
+22. [size](https://www.30secondsofcode.org/js/s/size)（获取数组，对象或字符串的大小）
+23. [mapString](https://www.30secondsofcode.org/js/s/map-string)（创建一个新字符串，其结果是在给定字符串中的每个字符上调用提供的函数）
+24. [stringPermutations](https://www.30secondsofcode.org/js/s/string-permutations)（生成字符串的所有排列（包含重复项））
+25. [words](https://www.30secondsofcode.org/js/s/words)（将给定的字符串转换为单词数组）
+26. [reverseNumber](https://www.30secondsofcode.org/js/s/reverse-number)（倒数）
+27. [sortCharactersInString](https://www.30secondsofcode.org/js/s/sort-characters-in-string)（按字母顺序对字符串中的字符进行排序）
+28. [reverseString](https://www.30secondsofcode.org/js/s/reverse-string)（反转字符串）
+29. [pluralize](https://www.30secondsofcode.org/js/s/pluralize)（根据输入的数字返回单词的单数或复数形式，并使用可选的字典（如果提供））
+30. [prettyBytes](https://www.30secondsofcode.org/js/s/pretty-bytes)（将以字节为单位的数字转换为人类可读的字符串）
+31. [sample](https://www.30secondsofcode.org/js/s/sample)（从数组中获取随机元素）
+32. [randomAlphaNumeric](https://www.30secondsofcode.org/js/s/random-alpha-numeric)（生成具有指定长度的随机字符串）
 33. [removeNonASCII](https://www.30secondsofcode.org/js/s/remove-non-ascii)（删除不可打印的ASCII字符）
-35. [wordWrap](https://www.30secondsofcode.org/js/s/word-wrap)（使用换行符将字符串包装为给定数量的字符）
-36. [capitalizeEveryWord](https://www.30secondsofcode.org/js/s/capitalize-every-word)（将字符串中每个单词的首字母大写）
-37. [escapeRegExp](https://www.30secondsofcode.org/js/s/escape-reg-exp)（转义要在正则表达式中使用的字符串）
-38. [normalizeLineEndings](https://www.30secondsofcode.org/js/s/normalize-line-endings)（规范化字符串中的行尾）
-39. [removeAccents](https://www.30secondsofcode.org/js/s/remove-accents)（从字符串中删除重音）
-40. [splitLines](https://www.30secondsofcode.org/js/s/split-lines)（将多行字符串拆分为行数组）
-41. [toCharArray](https://www.30secondsofcode.org/js/s/to-char-array)（将字符串转换为字符数组）
-42. [compactWhitespace](https://www.30secondsofcode.org/js/s/compact-whitespace)（压缩字符串中的空格）
-43. [mask](https://www.30secondsofcode.org/js/s/mask)（用指定的掩码字符替换除最后一个字符以外的所有字符）
-44. [removeWhitespace](https://www.30secondsofcode.org/js/s/remove-whitespace)（返回删除了空格的字符串）
-45. [expandTabs](https://www.30secondsofcode.org/js/s/expand-tabs)（将制表符转换为空格，其中每个制表符对应于计数空格）
-46. [isAlpha](https://www.30secondsofcode.org/js/s/is-alpha)（检查字符串是否仅包含字母字符）
-47. [isAlphaNumeric](https://www.30secondsofcode.org/js/s/is-alpha-numeric)（检查字符串是否仅包含字母数字字符）
-48. [stripHTMLTags](https://www.30secondsofcode.org/js/s/strip-html-tags)（从字符串中删除 HTML / XML 标签）
-49. [truncateStringAtWhitespace](https://www.30secondsofcode.org/js/s/truncate-string-at-whitespace)（将字符串截断到指定长度，并在可能的情况下使用空格）
-50. [byteSize](https://www.30secondsofcode.org/js/s/byte-size)（返回字符串的长度（以字节为单位））
-51. [fromCamelCase](https://www.30secondsofcode.org/js/s/from-camel-case)（从驼峰式转换字符串）
-52. [toCurrency](https://www.30secondsofcode.org/js/s/to-currency)（接受数字并以指定的货币格式返回）
-53. [containsWhitespace](https://www.30secondsofcode.org/js/s/contains-whitespace)（检查给定的字符串是否包含任何空格字符）
-54. [pad](https://www.30secondsofcode.org/js/s/pad)（如果字符串短于指定的长度，则在两侧用指定的字符填充字符串）
-55. [formatNumber](https://www.30secondsofcode.org/js/s/format-number)（使用本地号码格式顺序格式化号码）
-56. [indentString](https://www.30secondsofcode.org/js/s/indent-string)（缩进提供的字符串中的每一行）
-57. [truncateString](https://www.30secondsofcode.org/js/s/truncate-string)（将字符串截断到指定长度）
-58. [isString](https://www.30secondsofcode.org/js/s/is-string)（检查给定参数是否为字符串，仅适用于原始数据类型）
-59. [padNumber](https://www.30secondsofcode.org/js/s/pad-number)（将给定数字填充到指定长度）
-60. [isLowerCase](https://www.30secondsofcode.org/js/s/is-lower-case)（检查字符串是否为小写）
-61. [isUpperCase](https://www.30secondsofcode.org/js/s/is-upper-case)（检查字符串是否为大写）
+34. [wordWrap](https://www.30secondsofcode.org/js/s/word-wrap)（使用换行符将字符串包装为给定数量的字符）
+35. [escapeRegExp](https://www.30secondsofcode.org/js/s/escape-reg-exp)（转义要在正则表达式中使用的字符串）
+36. [normalizeLineEndings](https://www.30secondsofcode.org/js/s/normalize-line-endings)（规范化字符串中的行尾）
+37. [removeAccents](https://www.30secondsofcode.org/js/s/remove-accents)（从字符串中删除重音）
+38. [splitLines](https://www.30secondsofcode.org/js/s/split-lines)（将多行字符串拆分为行数组）
+39. [mask](https://www.30secondsofcode.org/js/s/mask)（用指定的掩码字符替换除最后一个字符以外的所有字符）
+40. [compactWhitespace](https://www.30secondsofcode.org/js/s/compact-whitespace)（压缩字符串中的空格）
+41. [removeWhitespace](https://www.30secondsofcode.org/js/s/remove-whitespace)（返回删除了空格的字符串）
+42. [expandTabs](https://www.30secondsofcode.org/js/s/expand-tabs)（将制表符转换为空格，其中每个制表符对应于计数空格）
+43. [containsWhitespace](https://www.30secondsofcode.org/js/s/contains-whitespace)（检查给定的字符串是否包含任何空格字符）
+44. [stripHTMLTags](https://www.30secondsofcode.org/js/s/strip-html-tags)（从字符串中删除 HTML / XML 标签）
+45. [byteSize](https://www.30secondsofcode.org/js/s/byte-size)（返回字符串的长度（以字节为单位））
+46. [fromCamelCase](https://www.30secondsofcode.org/js/s/from-camel-case)（从驼峰式转换字符串）
+47. [pad](https://www.30secondsofcode.org/js/s/pad)（如果字符串短于指定的长度，则在两侧用指定的字符填充字符串）
+48. [padNumber](https://www.30secondsofcode.org/js/s/pad-number)（将给定数字填充到指定长度）
+49. [truncateString](https://www.30secondsofcode.org/js/s/truncate-string)（将字符串截断到指定长度）
+50. [truncateStringAtWhitespace](https://www.30secondsofcode.org/js/s/truncate-string-at-whitespace)（将字符串截断到指定长度，并在可能的情况下使用空格）
+51. [formatNumber](https://www.30secondsofcode.org/js/s/format-number)（使用本地号码格式顺序格式化号码）
+52. [indentString](https://www.30secondsofcode.org/js/s/indent-string)（缩进提供的字符串中的每一行）
+53. [isLowerCase](https://www.30secondsofcode.org/js/s/is-lower-case)（检查字符串是否为小写）
+54. [isUpperCase](https://www.30secondsofcode.org/js/s/is-upper-case)（检查字符串是否为大写）
+55. [isAnagram](https://www.30secondsofcode.org/js/s/is-anagram)（检查一个字符串是否是另一个字符串的字谜（不区分大小写，忽略空格，标点符号和特殊字符））
+56. [isEmpty](https://www.30secondsofcode.org/js/s/is-empty)（检查 a 值是否为空对象/集合，没有可枚举的属性或任何不视为集合的类型）
+57. [isAlpha](https://www.30secondsofcode.org/js/s/is-alpha)（检查字符串是否仅包含字母字符）
+58. [isAlphaNumeric](https://www.30secondsofcode.org/js/s/is-alpha-numeric)（检查字符串是否仅包含字母数字字符）
+59. [isString](https://www.30secondsofcode.org/js/s/is-string)（检查给定参数是否为字符串，仅适用于原始数据类型）
 
-#### 2）对象
+#### 3）对象
 1. [代码剖析-循环，数组 Reduce 和链式](https://www.30secondsofcode.org/blog/s/code-anatomy-chaining-reduce-for-loop)
 2. [什么是迭代器？在哪里可以使用它们？](https://www.30secondsofcode.org/blog/s/javascript-iterators)
 3. [for ... in，for ... of和forEach之间有什么区别？](https://www.30secondsofcode.org/blog/s/javascript-for-in-for-of-foreach)
-4. [如何克隆对象？](https://www.30secondsofcode.org/blog/s/javascript-shallow-deep-clone)（了解JavaScript如何处理可变数据（例如对象和数组），并了解浅层克隆和深层克隆的工作方式）
-5. [get](https://www.30secondsofcode.org/js/s/get)（从对象检索给定选择器指示的一组属性）
-6. [如何使用解构赋值语法？](https://www.30secondsofcode.org/blog/s/javascript-destructuring-assignment)
-7. [renameKeys](https://www.30secondsofcode.org/js/s/rename-keys)（用提供的值替换多个对象键的名称）
-8. [如何深度冻结对象？](https://www.30secondsofcode.org/blog/s/javascript-deep-freeze-object)（了解可变性在JavaScript中的工作原理，其对对象的应用程序以及如何正确冻结它们以使其不可变）
-9. [compactObject](https://www.30secondsofcode.org/js/s/compact-object)（从对象或数组中深度删除所有假值）
-10. [countBy](https://www.30secondsofcode.org/js/s/count-by)（根据给定的函数对数组的元素进行分组，并返回每组中元素的计数）
-11. [groupBy](https://www.30secondsofcode.org/js/s/group-by)（根据给定函数对数组的元素进行分组）
-13. [deepMapKeys](https://www.30secondsofcode.org/js/s/deep-map-keys)（深度映射对象的键）
-14. [mapKeys](https://www.30secondsofcode.org/js/s/map-keys)（使用提供的函数映射对象的键，生成一个新对象）
-15. [mapObject](https://www.30secondsofcode.org/js/s/map-object)（使用函数将数组的值映射到对象）
-16. [mapValues](https://www.30secondsofcode.org/js/s/map-values)（使用提供的函数映射对象的值，并使用相同的键生成一个新对象）
-17. [omitBy](https://www.30secondsofcode.org/js/s/omit-by)（省略与给定函数为其返回falsy的对象的键对应的键值对）
-18. [pickBy](https://www.30secondsofcode.org/js/s/pick-by)（创建一个对象，该对象由属性组成，给定的函数返回 true）
-19. [flattenObject](https://www.30secondsofcode.org/js/s/flatten-object)（使用键的路径扁平化对象）
-20. [invertKeyValues](https://www.30secondsofcode.org/js/s/invert-key-values)（反转对象的键值对，而无需对其进行突变）
-21. [partition](https://www.30secondsofcode.org/js/s/partition)（将元素分为两个数组，具体取决于每个元素提供的函数的真实性）
-22. [deepGet](https://www.30secondsofcode.org/js/s/deep-get)（根据 keys 数组获取嵌套 JSON 对象中的目标值）
-23. [dig](https://www.30secondsofcode.org/js/s/dig)（根据给定的键获取嵌套 JSON 对象中的目标值）
-24. [frequencies](https://www.30secondsofcode.org/js/s/frequencies)（创建一个对象，将数组的唯一值作为键，并将其频率作为值）
-25. [functions](https://www.30secondsofcode.org/js/s/functions)（从对象自己的（并且可以继承）可枚举的属性中获取函数属性名称的数组）
-26. [hasKey](https://www.30secondsofcode.org/js/s/has-key)（检查目标值是否存在于 JSON 对象中）
-27. [nest](https://www.30secondsofcode.org/js/s/nest)（以递归方式将彼此链接的对象嵌套在一个平面数组中）
-28. [omit](https://www.30secondsofcode.org/js/s/omit)（从对象中省略与给定键对应的键值对）
-29. [orderBy](https://www.30secondsofcode.org/js/s/order-by)（按属性和顺序对对象数组进行排序）
-30. [pick](https://www.30secondsofcode.org/js/s/pick)（从对象中选择与给定键对应的键值对）
-31. [walkThrough](https://www.30secondsofcode.org/js/s/walk-through)（创建一个生成器，遍历给定对象的所有键）
-32. [findKey](https://www.30secondsofcode.org/js/s/find-key)（查找满足所提供测试功能的第一个键。 否则返回undefined）
-33. [findLastKey](https://www.30secondsofcode.org/js/s/find-last-key)（查找满足所提供测试功能的最后一个键。 否则返回undefined）
-34. [forOwn](https://www.30secondsofcode.org/js/s/for-own)（遍历对象的所有自身属性，为每个对象运行一个回调）
-35. [forOwnRight](https://www.30secondsofcode.org/js/s/for-own-right)（反向迭代对象的所有自身属性，为每个对象运行一个回调）
-36. [merge](https://www.30secondsofcode.org/js/s/merge)（通过两个或多个对象的组合创建一个新对象）
-37. [objectToQueryString](https://www.30secondsofcode.org/js/s/object-to-query-string)（从给定对象的键值对生成查询字符串）
-38. [orderWith](https://www.30secondsofcode.org/js/s/order-with)（根据提供的顺序数组，按属性排序对象的数组）
-39. [partitionBy](https://www.30secondsofcode.org/js/s/partition-by)（将 fn 应用于数组中的每个值，每次提供的函数返回新值时将其拆分）
-40. [stringifyCircularJSON](https://www.30secondsofcode.org/js/s/stringify-circular-json)（将包含循环引用的 JSON 对象序列化为 JSON 格式）
-41. [toPairs](https://www.30secondsofcode.org/js/s/to-pairs)（从对象或其他可迭代对象创建键值对数组的数组）
-42. [transform](https://www.30secondsofcode.org/js/s/transform)（对一个累加器和对象中的每个键应用一个函数（从左到右））
-43. [unflattenObject](https://www.30secondsofcode.org/js/s/unflatten-object)（使用键的路径展开对象）
-44. [formToObject](https://www.30secondsofcode.org/js/s/form-to-object)（将一组表单元素编码为一个对象）
-45. [lowercaseKeys](https://www.30secondsofcode.org/js/s/lowercase-keys)（从指定的对象创建一个新的对象，其中所有键都小写）
-46. [deepFreeze](https://www.30secondsofcode.org/js/s/deep-freeze)（深度冻结对象）
-47. [defaults](https://www.30secondsofcode.org/js/s/defaults)（为未定义对象中的所有属性分配默认值）
-48. [zipObject](https://www.30secondsofcode.org/js/s/zip-object)（将属性与值，给定的有效属性标识符数组和值数组相关联）
-49. [equals](https://www.30secondsofcode.org/js/s/equals)（在两个值之间进行深度比较以确定它们是否等效）
-50. [matchesWith](https://www.30secondsofcode.org/js/s/matches-with)（根据提供的函数比较两个对象，以确定第一个对象是否包含与第二个对象相同的属性值）
-51. [combine](https://www.30secondsofcode.org/js/s/combine)（合并两个对象数组，使用指定的键来匹配对象）
-52. [deepClone](https://www.30secondsofcode.org/js/s/deep-clone)（创建对象的深层克隆。 克隆基元，数组和对象，不包括类实例）
-53. [findKeys](https://www.30secondsofcode.org/js/s/find-keys)（在提供的对象中查找与给定值匹配的所有键）
-54. [truthCheckCollection](https://www.30secondsofcode.org/js/s/truth-check-collection)（检查判定函数对于集合的所有元素是否真实）
-55. [isEmpty](https://www.30secondsofcode.org/js/s/is-empty)（检查 a 值是否为空对象/集合，没有可枚举的属性或任何不视为集合的类型）
-56. [objectFromPairs](https://www.30secondsofcode.org/js/s/object-from-pairs)（根据给定的键值对创建对象）
-57. [objectToEntries](https://www.30secondsofcode.org/js/s/object-to-entries)（从一个对象创建一个键值对数组）
-58. [pluck](https://www.30secondsofcode.org/js/s/pluck)（将对象数组转换为与指定键对应的值数组）
-59. [isDeepFrozen](https://www.30secondsofcode.org/js/s/is-deep-frozen)（检查对象是否被深度冻结）
-60. [matches](https://www.30secondsofcode.org/js/s/matches)（比较两个对象以确定第一个对象是否包含与第二个对象相同的属性值）
-61. [objectToPairs](https://www.30secondsofcode.org/js/s/object-to-pairs)（从一个对象创建一个键值对数组）
-62. [checkProp](https://www.30secondsofcode.org/js/s/check-prop)（创建一个函数，该函数将为给定对象上的指定属性调用判定函数）
+4. [forOwn](https://www.30secondsofcode.org/js/s/for-own)（遍历对象的所有自身属性，为每个对象运行一个回调）
+5. [forOwnRight](https://www.30secondsofcode.org/js/s/for-own-right)（反向迭代对象的所有自身属性，为每个对象运行一个回调）
+6. [如何克隆对象？](https://www.30secondsofcode.org/blog/s/javascript-shallow-deep-clone)（了解JavaScript如何处理可变数据（例如对象和数组），并了解浅层克隆和深层克隆的工作方式）
+7. [shallowClone](https://www.30secondsofcode.org/js/s/shallow-clone)（创建对象的浅层克隆）
+8. [deepClone](https://www.30secondsofcode.org/js/s/deep-clone)（创建对象的深层克隆。 克隆基元，数组和对象，不包括类实例）
+9. [如何使用解构赋值语法？](https://www.30secondsofcode.org/blog/s/javascript-destructuring-assignment)
+10. [如何深度冻结对象？](https://www.30secondsofcode.org/blog/s/javascript-deep-freeze-object)（了解可变性在JavaScript中的工作原理，其对对象的应用程序以及如何正确冻结它们以使其不可变）
+11. [deepFreeze](https://www.30secondsofcode.org/js/s/deep-freeze)（深度冻结对象）
+12. [get](https://www.30secondsofcode.org/js/s/get)（从对象检索给定选择器指示的一组属性）
+13. [deepGet](https://www.30secondsofcode.org/js/s/deep-get)（根据 keys 数组获取嵌套 JSON 对象中的目标值）
+14. [renameKeys](https://www.30secondsofcode.org/js/s/rename-keys)（用提供的值替换多个对象键的名称）
+15. [compactObject](https://www.30secondsofcode.org/js/s/compact-object)（从对象或数组中深度删除所有假值）
+16. [countBy](https://www.30secondsofcode.org/js/s/count-by)（根据给定的函数对数组的元素进行分组，并返回每组中元素的计数）
+17. [groupBy](https://www.30secondsofcode.org/js/s/group-by)（根据给定函数对数组的元素进行分组）
+18. [omitBy](https://www.30secondsofcode.org/js/s/omit-by)（省略与给定函数为其返回falsy的对象的键对应的键值对）
+19. [pickBy](https://www.30secondsofcode.org/js/s/pick-by)（创建一个对象，该对象由属性组成，给定的函数返回 true）
+20. [partitionBy](https://www.30secondsofcode.org/js/s/partition-by)（将 fn 应用于数组中的每个值，每次提供的函数返回新值时将其拆分）
+21. [orderBy](https://www.30secondsofcode.org/js/s/order-by)（按属性和顺序对对象数组进行排序）
+22. [orderWith](https://www.30secondsofcode.org/js/s/order-with)（根据提供的顺序数组，按属性排序对象的数组）
+23. [deepMapKeys](https://www.30secondsofcode.org/js/s/deep-map-keys)（深度映射对象的键）
+24. [mapKeys](https://www.30secondsofcode.org/js/s/map-keys)（使用提供的函数映射对象的键，生成一个新对象）
+25. [mapObject](https://www.30secondsofcode.org/js/s/map-object)（使用函数将数组的值映射到对象）
+26. [mapValues](https://www.30secondsofcode.org/js/s/map-values)（使用提供的函数映射对象的值，并使用相同的键生成一个新对象）
+27. [flattenObject](https://www.30secondsofcode.org/js/s/flatten-object)（使用键的路径扁平化对象）
+28. [unflattenObject](https://www.30secondsofcode.org/js/s/unflatten-object)（使用键的路径展开对象）
+29. [formToObject](https://www.30secondsofcode.org/js/s/form-to-object)（将一组表单元素编码为一个对象）
+30. [zipObject](https://www.30secondsofcode.org/js/s/zip-object)（将属性与值，给定的有效属性标识符数组和值数组相关联）
+31. [invertKeyValues](https://www.30secondsofcode.org/js/s/invert-key-values)（反转对象的键值对，而无需对其进行突变）
+32. [partition](https://www.30secondsofcode.org/js/s/partition)（将元素分为两个数组，具体取决于每个元素提供的函数的真实性）
+33. [dig](https://www.30secondsofcode.org/js/s/dig)（根据给定的键获取嵌套 JSON 对象中的目标值）
+34. [stringifyCircularJSON](https://www.30secondsofcode.org/js/s/stringify-circular-json)（将包含循环引用的 JSON 对象序列化为 JSON 格式）
+35. [hasKey](https://www.30secondsofcode.org/js/s/has-key)（检查目标值是否存在于 JSON 对象中）
+36. [frequencies](https://www.30secondsofcode.org/js/s/frequencies)（创建一个对象，将数组的唯一值作为键，并将其频率作为值）
+37. [functions](https://www.30secondsofcode.org/js/s/functions)（从对象自己的（并且可以继承）可枚举的属性中获取函数属性名称的数组）
+38. [defaults](https://www.30secondsofcode.org/js/s/defaults)（为未定义对象中的所有属性分配默认值）
+39. [nest](https://www.30secondsofcode.org/js/s/nest)（以递归方式将彼此链接的对象嵌套在一个平面数组中）
+40. [omit](https://www.30secondsofcode.org/js/s/omit)（从对象中省略与给定键对应的键值对）
+41. [pick](https://www.30secondsofcode.org/js/s/pick)（从对象中选择与给定键对应的键值对）
+42. [pluck](https://www.30secondsofcode.org/js/s/pluck)（将对象数组转换为与指定键对应的值数组）
+43. [walkThrough](https://www.30secondsofcode.org/js/s/walk-through)（创建一个生成器，遍历给定对象的所有键）
+44. [findKey](https://www.30secondsofcode.org/js/s/find-key)（查找满足所提供测试功能的第一个键。 否则返回undefined）
+45. [findLastKey](https://www.30secondsofcode.org/js/s/find-last-key)（查找满足所提供测试功能的最后一个键，否则返回 undefined）
+46. [merge](https://www.30secondsofcode.org/js/s/merge)（通过两个或多个对象的组合创建一个新对象）
+47. [combine](https://www.30secondsofcode.org/js/s/combine)（合并两个对象数组，使用指定的键来匹配对象）
+48. [toPairs](https://www.30secondsofcode.org/js/s/to-pairs)（从对象或其他可迭代对象创建键值对数组的数组）
+49. [transform](https://www.30secondsofcode.org/js/s/transform)（对一个累加器和对象中的每个键应用一个函数（从左到右））
+50. [lowercaseKeys](https://www.30secondsofcode.org/js/s/lowercase-keys)（从指定的对象创建一个新的对象，其中所有键都小写）
+51. [findKeys](https://www.30secondsofcode.org/js/s/find-keys)（在提供的对象中查找与给定值匹配的所有键）
+52. [truthCheckCollection](https://www.30secondsofcode.org/js/s/truth-check-collection)（检查判定函数对于集合的所有元素是否为真）
+53. [objectToQueryString](https://www.30secondsofcode.org/js/s/object-to-query-string)（从给定对象的键值对生成查询字符串）
+54. [objectFromPairs](https://www.30secondsofcode.org/js/s/object-from-pairs)（根据给定的键值对创建对象）
+55. [objectToEntries](https://www.30secondsofcode.org/js/s/object-to-entries)（从一个对象创建一个键值对数组）
+56. [objectToPairs](https://www.30secondsofcode.org/js/s/object-to-pairs)（从一个对象创建一个键值对数组）
+57. [matches](https://www.30secondsofcode.org/js/s/matches)（比较两个对象以确定第一个对象是否包含与第二个对象相同的属性值）
+58. [matchesWith](https://www.30secondsofcode.org/js/s/matches-with)（根据提供的函数比较两个对象，以确定第一个对象是否包含与第二个对象相同的属性值）
+59. [checkProp](https://www.30secondsofcode.org/js/s/check-prop)（创建一个函数，该函数将为给定对象上的指定属性调用判定函数）
+60. [equals](https://www.30secondsofcode.org/js/s/equals)（在两个值之间进行深度比较以确定它们是否等效）
+61. [isDeepFrozen](https://www.30secondsofcode.org/js/s/is-deep-frozen)（检查对象是否被深度冻结）
+62. [isEmpty](https://www.30secondsofcode.org/js/s/is-empty)（检查 a 值是否为空对象/集合，没有可枚举的属性或任何不视为集合的类型）
 63. [isPlainObject](https://www.30secondsofcode.org/js/s/is-plain-object)（检查提供的值是否是由 Object 构造函数创建的对象）
 64. [isObject](https://www.30secondsofcode.org/js/s/is-object)
 65. [isObjectLike](https://www.30secondsofcode.org/js/s/is-object-like)（检查值是否类似于对象）
-66. [shallowClone](https://www.30secondsofcode.org/js/s/shallow-clone)（创建对象的浅层克隆）
 
-#### 3）函数
+#### 4）函数
 1. [了解 ES6 的扩展运算符和剩余参数](https://www.30secondsofcode.org/blog/s/javascript-spread-rest-syntax)
 2. [如何使用记忆函数？](https://www.30secondsofcode.org/blog/s/javascript-memoization)
-3. [如何实现单例？](https://www.30secondsofcode.org/blog/s/javascript-singleton-proxy)（使用Proxy对象在JavaScript中实现单例）
-4. [了解JavaScript中的高阶函数](https://www.30secondsofcode.org/blog/s/javascript-higher-order-functions)
-5. [将JavaScript生成器函数用于范围](https://www.30secondsofcode.org/blog/s/javascript-range-generator)（使用JavaScript ES6生成器和迭代器在数字范围内进行迭代）
-6. [异步JavaScript备忘单](https://www.30secondsofcode.org/blog/s/async-javascript-cheatsheet)（了解有关Promise和异步JavaScript所需的所有知识）
-7. [了解JavaScript中的“ this”关键字](https://www.30secondsofcode.org/blog/s/javascript-this)（了解它在不同情况下的工作方式并正确使用它）
-8. [如何使用布尔函数？](https://www.30secondsofcode.org/blog/s/javascript-boolean-function)
-9. [什么是JavaScript闭包？](https://www.30secondsofcode.org/blog/s/javascript-closures)（学习和理解闭包（JavaScript编程的核心概念）并升级代码）
-10. [pipeAsyncFunctions](https://www.30secondsofcode.org/js/s/pipe-async-functions)（对异步功能执行从左到右的功能组合）
-11. [converge](https://www.30secondsofcode.org/js/s/converge)（接受一个聚合函数和一个分支函数列表，将分支函数的结果作为参数传递给聚合函数）
-12. [rearg](https://www.30secondsofcode.org/js/s/rearg)（创建一个函数，该函数调用提供的函数，其参数根据指定的索引排列）
-13. [JavaScript构造函数返回什么？](https://www.30secondsofcode.org/blog/s/javascript-return-constructor)
-14. [cycleGenerator](https://www.30secondsofcode.org/js/s/cycle-generator)（创建一个生成器，无限循环遍历给定数组）
-15. [debouncePromise](https://www.30secondsofcode.org/js/s/debounce-promise)（创建一个防抖动的函数，该函数返回一个 Promise，但是将调用提供的函数的时间延迟到从上一次调用它起至少经过了ms毫秒。 在此期间返回的所有 Promise 将返回相同的数据）
-16. [functions](https://www.30secondsofcode.org/js/s/functions)（从对象自己的（并且可以继承）可枚举的属性中获取函数属性名称的数组）
-17. [runPromisesInSeries](https://www.30secondsofcode.org/js/s/run-promises-in-series)（连续执行一系列 Promise）
+3. [memoize](https://www.30secondsofcode.org/js/s/memoize)（返回备注的（缓存的）函数）
+4. [如何实现单例？](https://www.30secondsofcode.org/blog/s/javascript-singleton-proxy)（使用Proxy对象在JavaScript中实现单例）
+5. [了解JavaScript中的高阶函数](https://www.30secondsofcode.org/blog/s/javascript-higher-order-functions)
+6. [将JavaScript生成器函数用于范围](https://www.30secondsofcode.org/blog/s/javascript-range-generator)（使用JavaScript ES6生成器和迭代器在数字范围内进行迭代）
+7. [cycleGenerator](https://www.30secondsofcode.org/js/s/cycle-generator)（创建一个生成器，无限循环遍历给定数组）
+8. [repeatGenerator](https://www.30secondsofcode.org/js/s/repeat-generator)（创建一个生成器，无限期地重复给定值）
+9. [generatorToArray](https://www.30secondsofcode.org/js/s/generator-to-array)（将生成器函数的输出转换为数组）
+10. [rangeGenerator](https://www.30secondsofcode.org/js/s/range-generator)（创建一个生成器，使用给定的步骤生成给定范围内的所有值）
+11. [unfold](https://www.30secondsofcode.org/js/s/unfold)（使用迭代器函数和初始值构建数组）
+12. [异步JavaScript备忘单](https://www.30secondsofcode.org/blog/s/async-javascript-cheatsheet)（了解有关Promise和异步JavaScript所需的所有知识）
+13. [chainAsync](https://www.30secondsofcode.org/js/s/chain-async)（链接异步函数）
+14. [了解JavaScript中的“ this”关键字](https://www.30secondsofcode.org/blog/s/javascript-this)（了解它在不同情况下的工作方式并正确使用它）
+15. [如何使用布尔函数？](https://www.30secondsofcode.org/blog/s/javascript-boolean-function)
+16. [什么是JavaScript闭包？](https://www.30secondsofcode.org/blog/s/javascript-closures)（学习和理解闭包（JavaScript编程的核心概念）并升级代码）
+17. [JavaScript构造函数返回什么？](https://www.30secondsofcode.org/blog/s/javascript-return-constructor)
 18. [call()、apply() 和 bind()](https://www.30secondsofcode.org/blog/s/javascript-function-call-apply-bind)
-19. [bindAll](https://www.30secondsofcode.org/js/s/bind-all)（将对象的方法绑定到对象本身，覆盖现有方法）
-20. [mostPerformant](https://www.30secondsofcode.org/js/s/most-performant)（返回执行最快的函数数组中的函数索引）
-21. [once](https://www.30secondsofcode.org/js/s/once)（确保一个函数仅被调用一次）
-22. [overArgs](https://www.30secondsofcode.org/js/s/over-args)（创建一个函数，该函数调用提供的函数并转换其参数）
-23. [pipeFunctions](https://www.30secondsofcode.org/js/s/pipe-functions)（执行从左到右的功能合成）
-24. [spreadOver](https://www.30secondsofcode.org/js/s/spread-over)（接受可变参数函数，并返回接受参数数组的函数）
-25. [throttle](https://www.30secondsofcode.org/js/s/throttle)（创建一个限制的函数，每等待一个毫秒最多只能调用一次提供的函数）
-26. [uncurry](https://www.30secondsofcode.org/js/s/uncurry)（取消对深度 n 的函数）
-27. [unfold](https://www.30secondsofcode.org/js/s/unfold)（使用迭代器函数和初始值构建数组）
-28. [chainAsync](https://www.30secondsofcode.org/js/s/chain-async)（链接异步函数）
-29. [repeatGenerator](https://www.30secondsofcode.org/js/s/repeat-generator)（创建一个生成器，无限期地重复给定值）
-30. [defer](https://www.30secondsofcode.org/js/s/defer)（推迟调用函数，直到清除当前调用堆栈）
-31. [memoize](https://www.30secondsofcode.org/js/s/memoize)（返回备注的（缓存的）函数）
-32. [bindKey](https://www.30secondsofcode.org/js/s/bind-key)（创建一个函数，该函数在对象的给定键处调用该方法，可以选择在参数的前面附加任何提供的参数）
-33. [isPromiseLike](https://www.30secondsofcode.org/js/s/is-promise-like)（检查对象是否看起来像一个 Promise）
-34. [ary](https://www.30secondsofcode.org/js/s/ary)（创建一个最多接受 n 个参数的函数，忽略任何其他参数）
-35. [compose](https://www.30secondsofcode.org/js/s/compose)（执行从右到左的功能组合）
-36. [composeRight](https://www.30secondsofcode.org/js/s/compose-right)（执行从左到右的功能组合）
-37. [juxt](https://www.30secondsofcode.org/js/s/juxt)（将几个函数作为参数并返回与这些函数并列的函数）
-38. [over](https://www.30secondsofcode.org/js/s/over)（创建一个函数，该函数使用接收到的参数调用每个提供的函数并返回结果）
-39. [sleep](https://www.30secondsofcode.org/js/s/sleep)（延迟异步功能的执行）
-40. [bind](https://www.30secondsofcode.org/js/s/bind)（创建一个在给定上下文中调用 fn 的函数，可以选择在参数之前添加任何其他提供的参数）
-41. [flip](https://www.30secondsofcode.org/js/s/flip)（将函数作为参数，然后使第一个参数成为最后一个参数）
-42. [generatorToArray](https://www.30secondsofcode.org/js/s/generator-to-array)（将生成器函数的输出转换为数组）
-43. [isAsyncFunction](https://www.30secondsofcode.org/js/s/is-async-function)（检查给定参数是否为异步函数）
-44. [isGeneratorFunction](https://www.30secondsofcode.org/js/s/is-generator-function)（检查给定参数是否为生成器函数）
-45. [promisify](https://www.30secondsofcode.org/js/s/promisify)（转换一个异步函数以返回一个 Promise）
-46. [nthArg](https://www.30secondsofcode.org/js/s/nth-arg)（创建一个函数以索引 n 获取参数）
-47. [partial](https://www.30secondsofcode.org/js/s/partial)（创建一个函数，该函数调用带有接收到的参数前面的部分内容的 fn）
-48. [partialRight](https://www.30secondsofcode.org/js/s/partial-right)（创建一个函数，该函数调用 fn 并在接收到的参数后附加部分）
-49. [delay](https://www.30secondsofcode.org/js/s/delay)（ms毫秒后调用提供的功能）
-50. [rangeGenerator](https://www.30secondsofcode.org/js/s/range-generator)（创建一个生成器，使用给定的步骤生成给定范围内的所有值）
-51. [coalesceFactory](https://www.30secondsofcode.org/js/s/coalesce-factory)（自定义合并函数，该函数根据给定的验证器返回第一个为真的参数）
-52. [collectInto](https://www.30secondsofcode.org/js/s/collect-into)（将接受数组的函数更改为可变函数）
-53. [generateItems](https://www.30secondsofcode.org/js/s/generate-items)（使用给定的函数生成具有给定数量的项的数组）
-54. [checkProp](https://www.30secondsofcode.org/js/s/check-prop)（创建一个函数，该函数将为给定对象上的指定属性执行回调函数）
-55. [curry](https://www.30secondsofcode.org/js/s/curry)（科里化一个函数）
-56. [debounce](https://www.30secondsofcode.org/js/s/debounce)（创建一个去抖动的函数，该函数会将调用提供的函数延迟到从上次调用该函数起至少经过了 ms 毫秒）
-57. [times](https://www.30secondsofcode.org/js/s/times)（遍历回调 n 次）
-58. [attempt](https://www.30secondsofcode.org/js/s/attempt)（尝试使用提供的参数调用函数，返回结果或捕获的错误对象）
-59. [call](https://www.30secondsofcode.org/js/s/call)（给定一个键和一组参数，在给定上下文时调用它们）
-60. [binary](https://www.30secondsofcode.org/js/s/binary)（创建一个最多接受两个参数的函数，忽略任何其他参数）
-61. [isFunction](https://www.30secondsofcode.org/js/s/is-function)（检查给定参数是否为函数）
-62. [complement](https://www.30secondsofcode.org/js/s/complement)（返回一个函数，该函数是给定函数 fn 的逻辑补码）
-63. [either](https://www.30secondsofcode.org/js/s/either)（检查是否有至少一个函数针对给定的一组参数返回 true）
-64. [functionName](https://www.30secondsofcode.org/js/s/function-name)（记录函数名称）
-65. [negate](https://www.30secondsofcode.org/js/s/negate)（否定判定函数的结果）
-66. [timeTaken](https://www.30secondsofcode.org/js/s/time-taken)（衡量功能执行所需的时间）
-67. [unary](https://www.30secondsofcode.org/js/s/unary)（创建一个函数，该函数最多接受一个参数，而忽略任何其他参数）
-68. [when](https://www.30secondsofcode.org/js/s/when)（返回一个函数，该函数接受一个参数，如果不正确，则运行回调，如果错误，则返回）
+19. [call](https://www.30secondsofcode.org/js/s/call)（给定一个键和一组参数，在给定上下文时调用它们）
+20. [bind](https://www.30secondsofcode.org/js/s/bind)（创建一个在给定上下文中调用 fn 的函数，可以选择在参数之前添加任何其他提供的参数）
+21. [bindAll](https://www.30secondsofcode.org/js/s/bind-all)（将对象的方法绑定到对象本身，覆盖现有方法）
+22. [bindKey](https://www.30secondsofcode.org/js/s/bind-key)（创建一个函数，该函数在对象的给定键处调用该方法，可以选择在参数的前面附加任何提供的参数）
+23. [pipeAsyncFunctions](https://www.30secondsofcode.org/js/s/pipe-async-functions)（对异步功能执行从左到右的功能组合）
+24. [pipeFunctions](https://www.30secondsofcode.org/js/s/pipe-functions)（执行从左到右的功能合成）
+25. [converge](https://www.30secondsofcode.org/js/s/converge)（接受一个聚合函数和一个分支函数列表，将分支函数的结果作为参数传递给聚合函数）
+26. [rearg](https://www.30secondsofcode.org/js/s/rearg)（创建一个函数，该函数调用提供的函数，其参数根据指定的索引排列）
+27. [functions](https://www.30secondsofcode.org/js/s/functions)（从对象自己的（并且可以继承）可枚举的属性中获取函数属性名称的数组）
+28. [runPromisesInSeries](https://www.30secondsofcode.org/js/s/run-promises-in-series)（连续执行一系列 Promise）
+29. [promisify](https://www.30secondsofcode.org/js/s/promisify)（转换一个异步函数以返回一个 Promise）
+30. [mostPerformant](https://www.30secondsofcode.org/js/s/most-performant)（返回执行最快的函数数组中的函数索引）
+31. [once](https://www.30secondsofcode.org/js/s/once)（确保一个函数仅被调用一次）
+32. [overArgs](https://www.30secondsofcode.org/js/s/over-args)（创建一个函数，该函数调用提供的函数并转换其参数）
+33. [spreadOver](https://www.30secondsofcode.org/js/s/spread-over)（接受可变参数函数，并返回接受参数数组的函数）
+34. [throttle](https://www.30secondsofcode.org/js/s/throttle)（创建一个限制的函数，每等待一个毫秒最多只能调用一次提供的函数）
+35. [debounce](https://www.30secondsofcode.org/js/s/debounce)（创建一个去抖动的函数，该函数会将调用提供的函数延迟到从上次调用该函数起至少经过了 ms 毫秒）
+36. [debouncePromise](https://www.30secondsofcode.org/js/s/debounce-promise)（创建一个防抖动的函数，该函数返回一个 Promise，但是将调用提供的函数的时间延迟到从上一次调用它起至少经过了ms毫秒。在此期间返回的所有 Promise 将返回相同的数据）
+37. [defer](https://www.30secondsofcode.org/js/s/defer)（推迟调用函数，直到清除当前调用堆栈）
+38. [sleep](https://www.30secondsofcode.org/js/s/sleep)（延迟异步功能的执行）
+39. [delay](https://www.30secondsofcode.org/js/s/delay)（ms毫秒后调用提供的功能）
+40. [compose](https://www.30secondsofcode.org/js/s/compose)（执行从右到左的功能组合）
+41. [composeRight](https://www.30secondsofcode.org/js/s/compose-right)（执行从左到右的功能组合）
+42. [partial](https://www.30secondsofcode.org/js/s/partial)（创建一个函数，该函数调用带有接收到的参数前面的部分内容的 fn）
+43. [partialRight](https://www.30secondsofcode.org/js/s/partial-right)（创建一个函数，该函数调用 fn 并在接收到的参数后附加部分）
+44. [uncurry](https://www.30secondsofcode.org/js/s/uncurry)（取消对深度 n 的函数）
+45. [ary](https://www.30secondsofcode.org/js/s/ary)（创建一个最多接受 n 个参数的函数，忽略任何其他参数）
+46. [juxt](https://www.30secondsofcode.org/js/s/juxt)（将几个函数作为参数并返回与这些函数并列的函数）
+47. [over](https://www.30secondsofcode.org/js/s/over)（创建一个函数，该函数使用接收到的参数调用每个提供的函数并返回结果）
+48. [flip](https://www.30secondsofcode.org/js/s/flip)（将函数作为参数，然后使第一个参数成为最后一个参数）
+49. [nthArg](https://www.30secondsofcode.org/js/s/nth-arg)（创建一个函数以索引 n 获取参数）
+50. [coalesceFactory](https://www.30secondsofcode.org/js/s/coalesce-factory)（自定义合并函数，该函数根据给定的验证器返回第一个为真的参数）
+51. [collectInto](https://www.30secondsofcode.org/js/s/collect-into)（将接受数组的函数更改为可变函数）
+52. [generateItems](https://www.30secondsofcode.org/js/s/generate-items)（使用给定的函数生成具有给定数量的项的数组）
+53. [checkProp](https://www.30secondsofcode.org/js/s/check-prop)（创建一个函数，该函数将为给定对象上的指定属性执行回调函数）
+54. [curry](https://www.30secondsofcode.org/js/s/curry)（科里化一个函数）
+55. [times](https://www.30secondsofcode.org/js/s/times)（遍历回调 n 次）
+56. [timeTaken](https://www.30secondsofcode.org/js/s/time-taken)（衡量功能执行所需的时间）
+57. [attempt](https://www.30secondsofcode.org/js/s/attempt)（尝试使用提供的参数调用函数，返回结果或捕获的错误对象）
+58. [binary](https://www.30secondsofcode.org/js/s/binary)（创建一个最多接受两个参数的函数，忽略任何其他参数）
+59. [complement](https://www.30secondsofcode.org/js/s/complement)（返回一个函数，该函数是给定函数 fn 的逻辑补码）
+60. [either](https://www.30secondsofcode.org/js/s/either)（检查是否有至少一个函数针对给定的一组参数返回 true）
+61. [negate](https://www.30secondsofcode.org/js/s/negate)（否定判定函数的结果）
+62. [functionName](https://www.30secondsofcode.org/js/s/function-name)（记录函数名称）
+63. [unary](https://www.30secondsofcode.org/js/s/unary)（创建一个函数，该函数最多接受一个参数，而忽略任何其他参数）
+64. [when](https://www.30secondsofcode.org/js/s/when)（返回一个函数，该函数接受一个参数，如果不正确，则运行回调，如果错误，则返回）
+65. [isPromiseLike](https://www.30secondsofcode.org/js/s/is-promise-like)（检查对象是否看起来像一个 Promise）
+66. [isAsyncFunction](https://www.30secondsofcode.org/js/s/is-async-function)（检查给定参数是否为异步函数）
+67. [isGeneratorFunction](https://www.30secondsofcode.org/js/s/is-generator-function)（检查给定参数是否为生成器函数）
+68. [isFunction](https://www.30secondsofcode.org/js/s/is-function)（检查给定参数是否为函数）
 
-#### 4）Math
-1. [sumPower](https://www.30secondsofcode.org/js/s/sum-power)（计算从开始到结束（包括两个端点）的所有数字的幂和）
-2. [averageBy](https://www.30secondsofcode.org/js/s/average-by)（使用提供的函数将每个元素映射到一个值后，计算数组的平均值）
-3. [sumBy](https://www.30secondsofcode.org/js/s/sum-by)（使用提供的函数将每个元素映射到值后，计算数组的总和）
-4. [cartesianProduct](https://www.30secondsofcode.org/js/s/cartesian-product)（计算两个数组的笛卡尔积）
-5. [digitize](https://www.30secondsofcode.org/js/s/digitize)（将数字转换为数字数组，必要时删除其符号）
-6. [accumulate](https://www.30secondsofcode.org/js/s/accumulate)（创建一个部分和数组）
-7. [maxN](https://www.30secondsofcode.org/js/s/max-n)（从提供的数组中返回 n 个最大元素）
-8. [minN](https://www.30secondsofcode.org/js/s/min-n)（返回提供的数组中的 n 个最小元素）
-9. [sortedIndexBy](https://www.30secondsofcode.org/js/s/sorted-index-by)（根据提供的迭代器函数，找到应将值插入数组以保持其排序顺序的最低索引）
-10. [fibonacci](https://www.30secondsofcode.org/js/s/fibonacci)（生成一个包含斐波那契序列的数组，直到第 n 个项）
-11. [xProd](https://www.30secondsofcode.org/js/s/x-prod)（通过从数组中创建每个可能的对，在提供的两个数组中创建一个新数组）
-12. [maxBy](https://www.30secondsofcode.org/js/s/max-by)（使用提供的函数将每个元素映射到一个值后，返回数组的最大值）
-13. [minBy](https://www.30secondsofcode.org/js/s/min-by)（使用提供的函数将每个元素映射到一个值后，返回数组的最小值）
-14. [randomIntArrayInRange](https://www.30secondsofcode.org/js/s/random-int-array-in-range)（生成指定范围内 n 个随机整数的数组）
-15. [sdbm](https://www.30secondsofcode.org/js/s/sdbm)（将输入字符串哈希为整数）
-16. [symmetricDifference](https://www.30secondsofcode.org/js/s/symmetric-difference)（返回两个数组之间的对称差，而不会过滤出重复的值）
-17. [standardDeviation](https://www.30secondsofcode.org/js/s/standard-deviation)（计算数字数组的标准差）
-18. [weightedAverage](https://www.30secondsofcode.org/js/s/weighted-average)（计算两个或多个数字的加权平均值）
-19. [uniqueSymmetricDifference](https://www.30secondsofcode.org/js/s/unique-symmetric-difference)（返回两个数组之间的唯一对称差异，不包含两个数组中的重复值）
-20. [percentile](https://www.30secondsofcode.org/js/s/percentile)（计算给定数组中小于或等于给定值的数字的百分比）
-21. [prod](https://www.30secondsofcode.org/js/s/prod)（计算两个或多个数字/数组的乘积）
-22. [vectorAngle](https://www.30secondsofcode.org/js/s/vector-angle)（计算两个向量之间的角度（θ））
-23. [sortedIndex](https://www.30secondsofcode.org/js/s/sorted-index)（查找应将值插入数组以保持其排序顺序的最低索引）
-24. [average](https://www.30secondsofcode.org/js/s/average)（计算两个或多个数字的平均值）
-25. [median](https://www.30secondsofcode.org/js/s/median)（计算数字数组的中位数）
-26. [similarity](https://www.30secondsofcode.org/js/s/similarity)（返回同时出现在两个数组中的元素数组）
-27. [sum](https://www.30secondsofcode.org/js/s/sum)（计算两个或多个数字/数组的总和）
-28. [randomIntegerInRange](https://www.30secondsofcode.org/js/s/random-integer-in-range)（生成指定范围内的随机整数）
-29. [randomNumberInRange](https://www.30secondsofcode.org/js/s/random-number-in-range)（生成指定范围内的随机数）
-30. [HSBToRGB](https://www.30secondsofcode.org/js/s/hsb-to-rgb)（将 HSB 颜色元组转换为 RGB 格式）
-31. [HSLToRGB](https://www.30secondsofcode.org/js/s/hsl-to-rgb)（将 HSL 颜色元组转换为 RGB 格式）
-32. [randomHexColorCode](https://www.30secondsofcode.org/js/s/random-hex-color-code)（生成随机的十六进制颜色代码）
-33. [RGBToHSB](https://www.30secondsofcode.org/js/s/rgb-to-hsb)（将 RGB 颜色元组转换为 HSB 格式）
-34. [RGBToHSL](https://www.30secondsofcode.org/js/s/rgb-to-hsl)（将 RGB 颜色元组转换为 HSL 格式）
-35. [toOrdinalSuffix](https://www.30secondsofcode.org/js/s/to-ordinal-suffix)（接受数字并将其作为字符串返回，并带有正确的序号指示符后缀）
-36. [mapNumRange](https://www.30secondsofcode.org/js/s/map-num-range)（将数字从一个范围映射到另一个范围）
-37. [divmod](https://www.30secondsofcode.org/js/s/divmod)（返回由给定数字的商和余数组成的数组）
-38. [factorial](https://www.30secondsofcode.org/js/s/factorial)（计算数字的阶乘）
-39. [midpoint](https://www.30secondsofcode.org/js/s/midpoint)（计算两对 (x, y) 点之间的中点）
-40. [toDecimalMark](https://www.30secondsofcode.org/js/s/to-decimal-mark)（将数字转换为小数点格式的字符串）
-41. [validateNumber](https://www.30secondsofcode.org/js/s/validate-number)（检查给定值是否为数字）
-42. [distance](https://www.30secondsofcode.org/js/s/distance)（计算两点之间的距离）
-43. [isPrime](https://www.30secondsofcode.org/js/s/is-prime)（检查提供的整数是否为质数）
-44. [randomBoolean](https://www.30secondsofcode.org/js/s/random-boolean)（产生一个随机的布尔值）
-45. [round](https://www.30secondsofcode.org/js/s/round)（将数字四舍五入到指定位数）
-46. [clampNumber](https://www.30secondsofcode.org/js/s/clamp-number)（在指定区间内根据条件返回一个数字）
-47. [copySign](https://www.30secondsofcode.org/js/s/copy-sign)（返回第一个数字的绝对值，第二个的符号）
-48. [inRange](https://www.30secondsofcode.org/js/s/in-range)（检查给定数字是否在给定范围内）
-49. [isNegativeZero](https://www.30secondsofcode.org/js/s/is-negative-zero)（检查给定值是否等于负零（-0））
-50. [isNumber](https://www.30secondsofcode.org/js/s/is-number)（检查给定参数是否为数字）
-51. [logBase](https://www.30secondsofcode.org/js/s/log-base)（计算给定基数中给定数字的对数）
-52. [sumN](https://www.30secondsofcode.org/js/s/sum-n)（对 1 到 n 之间的所有数字求和）
-53. [isPowerOfTen](https://www.30secondsofcode.org/js/s/is-power-of-ten)（检查给定数字是否为10的幂）
-54. [nthRoot](https://www.30secondsofcode.org/js/s/nth-root)（计算给定数字的第 n 个根）
-55. [approximatelyEqual](https://www.30secondsofcode.org/js/s/approximately-equal)（检查两个数字是否彼此相等）
-56. [degreesToRads](https://www.30secondsofcode.org/js/s/degrees-to-rads)（将角度从度转换为弧度）
-57. [isDivisible](https://www.30secondsofcode.org/js/s/is-divisible)（检查第一个数字参数是否可被第二个参数整除）
-58. [isEven](https://www.30secondsofcode.org/js/s/is-even)（检查给定数字是否为偶数）
-59. [isOdd](https://www.30secondsofcode.org/js/s/is-odd)（检查给定数字是否为奇数）
-60. [isPowerOfTwo](https://www.30secondsofcode.org/js/s/is-power-of-two)（检查给定数字是否为 2 的幂）
-61. [radsToDegrees](https://www.30secondsofcode.org/js/s/rads-to-degrees)（将角度从弧度转换为度）
-62. [toSafeInteger](https://www.30secondsofcode.org/js/s/to-safe-integer)（将值转换为安全整数）
+#### 5）Math
+1. [sum](https://www.30secondsofcode.org/js/s/sum)（计算两个或多个数字/数组的总和）
+2. [sumN](https://www.30secondsofcode.org/js/s/sum-n)（对 1 到 n 之间的所有数字求和）
+3. [sumPower](https://www.30secondsofcode.org/js/s/sum-power)（计算从开始到结束（包括两个端点）的所有数字的幂和）
+4. [toOrdinalSuffix](https://www.30secondsofcode.org/js/s/to-ordinal-suffix)（接受数字并将其作为字符串返回，并带有正确的序号指示符后缀）
+5. [toDecimalMark](https://www.30secondsofcode.org/js/s/to-decimal-mark)（将数字转换为小数点格式的字符串）
+6. [toSafeInteger](https://www.30secondsofcode.org/js/s/to-safe-integer)（将值转换为安全整数）
+7. [averageBy](https://www.30secondsofcode.org/js/s/average-by)（使用提供的函数将每个元素映射到一个值后，计算数组的平均值）
+8. [sumBy](https://www.30secondsofcode.org/js/s/sum-by)（使用提供的函数将每个元素映射到值后，计算数组的总和）
+9. [maxBy](https://www.30secondsofcode.org/js/s/max-by)（使用提供的函数将每个元素映射到一个值后，返回数组的最大值）
+10. [minBy](https://www.30secondsofcode.org/js/s/min-by)（使用提供的函数将每个元素映射到一个值后，返回数组的最小值）
+11. [sortedIndexBy](https://www.30secondsofcode.org/js/s/sorted-index-by)（根据提供的迭代器函数，找到应将值插入数组以保持其排序顺序的最低索引）
+12. [digitize](https://www.30secondsofcode.org/js/s/digitize)（将数字转换为数字数组，必要时删除其符号）
+13. [accumulate](https://www.30secondsofcode.org/js/s/accumulate)（创建一个部分和数组）
+14. [maxN](https://www.30secondsofcode.org/js/s/max-n)（从提供的数组中返回 n 个最大元素）
+15. [minN](https://www.30secondsofcode.org/js/s/min-n)（返回提供的数组中的 n 个最小元素）
+16. [fibonacci](https://www.30secondsofcode.org/js/s/fibonacci)（生成一个包含斐波那契序列的数组，直到第 n 个项）
+17. [xProd](https://www.30secondsofcode.org/js/s/x-prod)（通过从数组中创建每个可能的对，在提供的两个数组中创建一个新数组）
+18. [sdbm](https://www.30secondsofcode.org/js/s/sdbm)（将输入字符串哈希为整数）
+19. [symmetricDifference](https://www.30secondsofcode.org/js/s/symmetric-difference)（返回两个数组之间的对称差，而不会过滤出重复的值）
+20. [uniqueSymmetricDifference](https://www.30secondsofcode.org/js/s/unique-symmetric-difference)（返回两个数组之间的唯一对称差异，不包含两个数组中的重复值）
+21. [cartesianProduct](https://www.30secondsofcode.org/js/s/cartesian-product)（计算两个数组的笛卡尔积）
+22. [standardDeviation](https://www.30secondsofcode.org/js/s/standard-deviation)（计算数字数组的标准差）
+23. [weightedAverage](https://www.30secondsofcode.org/js/s/weighted-average)（计算两个或多个数字的加权平均值）
+24. [percentile](https://www.30secondsofcode.org/js/s/percentile)（计算给定数组中小于或等于给定值的数字的百分比）
+25. [prod](https://www.30secondsofcode.org/js/s/prod)（计算两个或多个数字/数组的乘积）
+26. [sortedIndex](https://www.30secondsofcode.org/js/s/sorted-index)（查找应将值插入数组以保持其排序顺序的最低索引）
+27. [average](https://www.30secondsofcode.org/js/s/average)（计算两个或多个数字的平均值）
+28. [median](https://www.30secondsofcode.org/js/s/median)（计算数字数组的中位数）
+29. [factorial](https://www.30secondsofcode.org/js/s/factorial)（计算数字的阶乘）
+30. [logBase](https://www.30secondsofcode.org/js/s/log-base)（计算给定基数中给定数字的对数）
+31. [nthRoot](https://www.30secondsofcode.org/js/s/nth-root)（计算给定数字的第 n 个根）
+32. [vectorAngle](https://www.30secondsofcode.org/js/s/vector-angle)（计算两个向量之间的角度（θ））
+33. [midpoint](https://www.30secondsofcode.org/js/s/midpoint)（计算两对 (x, y) 点之间的中点）
+34. [distance](https://www.30secondsofcode.org/js/s/distance)（计算两点之间的距离）
+35. [round](https://www.30secondsofcode.org/js/s/round)（将数字四舍五入到指定位数）
+36. [similarity](https://www.30secondsofcode.org/js/s/similarity)（返回同时出现在两个数组中的元素数组）
+37. [randomIntArrayInRange](https://www.30secondsofcode.org/js/s/random-int-array-in-range)（生成指定范围内 n 个随机整数的数组）
+38. [randomIntegerInRange](https://www.30secondsofcode.org/js/s/random-integer-in-range)（生成指定范围内的随机整数）
+39. [randomNumberInRange](https://www.30secondsofcode.org/js/s/random-number-in-range)（生成指定范围内的随机数）
+40. [randomHexColorCode](https://www.30secondsofcode.org/js/s/random-hex-color-code)（生成随机的十六进制颜色代码）
+41. [randomBoolean](https://www.30secondsofcode.org/js/s/random-boolean)（产生一个随机的布尔值）
+46. [mapNumRange](https://www.30secondsofcode.org/js/s/map-num-range)（将数字从一个范围映射到另一个范围）
+47. [divmod](https://www.30secondsofcode.org/js/s/divmod)（返回由给定数字的商和余数组成的数组）
+48. [clampNumber](https://www.30secondsofcode.org/js/s/clamp-number)（在指定区间内根据条件返回一个数字）
+49. [copySign](https://www.30secondsofcode.org/js/s/copy-sign)（返回第一个数字的绝对值，第二个的符号）
+50. [degreesToRads](https://www.30secondsofcode.org/js/s/degrees-to-rads)（将角度从度转换为弧度）
+51. [radsToDegrees](https://www.30secondsofcode.org/js/s/rads-to-degrees)（将角度从弧度转换为度）
+52. [approximatelyEqual](https://www.30secondsofcode.org/js/s/approximately-equal)（检查两个数字是否彼此相等）
+53. [inRange](https://www.30secondsofcode.org/js/s/in-range)（检查给定数字是否在给定范围内）
+54. [validateNumber](https://www.30secondsofcode.org/js/s/validate-number)（检查给定值是否为数字）
+55. [isPowerOfTen](https://www.30secondsofcode.org/js/s/is-power-of-ten)（检查给定数字是否为10的幂）
+56. [isDivisible](https://www.30secondsofcode.org/js/s/is-divisible)（检查第一个数字参数是否可被第二个参数整除）
+57. [isEven](https://www.30secondsofcode.org/js/s/is-even)（检查给定数字是否为偶数）
+58. [isOdd](https://www.30secondsofcode.org/js/s/is-odd)（检查给定数字是否为奇数）
+59. [isPowerOfTwo](https://www.30secondsofcode.org/js/s/is-power-of-two)（检查给定数字是否为 2 的幂）
+60. [isNegativeZero](https://www.30secondsofcode.org/js/s/is-negative-zero)（检查给定值是否等于负零（-0））
+61. [isNumber](https://www.30secondsofcode.org/js/s/is-number)（检查给定参数是否为数字）
+62. [isPrime](https://www.30secondsofcode.org/js/s/is-prime)（检查提供的整数是否为质数）
 
-#### 5）类型
+#### 6）类型
 1. [如何使用布尔函数？](https://www.30secondsofcode.org/blog/s/javascript-boolean-function)
 2. [声明提升是指什么](https://www.30secondsofcode.org/blog/s/javascript-variable-hoisting)
 3. [如何使用可选的链接和无效合并？](https://www.30secondsofcode.org/blog/s/javascript-nullish-coalescing-optional-chaining)（ES2020 中的概念）
 4. [了解JavaScript变量和作用域](https://www.30secondsofcode.org/blog/s/javascript-variable-scope)
-5. [equals](https://www.30secondsofcode.org/js/s/equals)（在两个值之间进行深度比较以确定它们是否等效）
-6. [isDuplexStream](https://www.30secondsofcode.org/js/s/is-duplex-stream)
-7. [isWritableStream](https://www.30secondsofcode.org/js/s/is-writable-stream)
-8. [isEmpty](https://www.30secondsofcode.org/js/s/is-empty)
-9. [isPromiseLike](https://www.30secondsofcode.org/js/s/is-promise-like)（检查对象是否看起来像一个Promise）
-10. [isReadableStream](https://www.30secondsofcode.org/js/s/is-readable-stream)
-11. [相等运算符之间有什么区别？](https://www.30secondsofcode.org/blog/s/javascript-equality)
-12. [isAsyncFunction](https://www.30secondsofcode.org/js/s/is-async-function)
-13. [isGeneratorFunction](https://www.30secondsofcode.org/js/s/is-generator-function)
-14. [isArrayLike](https://www.30secondsofcode.org/js/s/is-array-like)（检查所提供的参数是否类似于数组（即可迭代））
-15. [isStream](https://www.30secondsofcode.org/js/s/is-stream)
-16. [coalesceFactory](https://www.30secondsofcode.org/js/s/coalesce-factory)
-17. [isValidJSON](https://www.30secondsofcode.org/js/s/is-valid-json)
-18. [is](https://www.30secondsofcode.org/js/s/is)（检查提供的值是否为指定类型）
-19. [getType](https://www.30secondsofcode.org/js/s/get-type)（返回值的本地类型）
-20. [isPlainObject](https://www.30secondsofcode.org/js/s/is-plain-object)（检查提供的值是否是由Object构造函数创建的对象）
-21. [isPrimitive](https://www.30secondsofcode.org/js/s/is-primitive)（检查传递的值是否为原始值）
-22. [castArray](https://www.30secondsofcode.org/js/s/cast-array)（如果提供的值不是一个，则将其强制转换为数组）
-23. [cloneRegExp](https://www.30secondsofcode.org/js/s/clone-reg-exp)（克隆正则表达式）
-24. [coalesce](https://www.30secondsofcode.org/js/s/coalesce)（返回第一个已定义的非空参数）
+5. [相等运算符之间有什么区别？](https://www.30secondsofcode.org/blog/s/javascript-equality)
+6. [equals](https://www.30secondsofcode.org/js/s/equals)（在两个值之间进行深度比较以确定它们是否等效）
+7. [coalesceFactory](https://www.30secondsofcode.org/js/s/coalesce-factory)
+8. [getType](https://www.30secondsofcode.org/js/s/get-type)（返回值的本地类型）
+9. [castArray](https://www.30secondsofcode.org/js/s/cast-array)（如果提供的值不是一个，则将其强制转换为数组）
+10. [cloneRegExp](https://www.30secondsofcode.org/js/s/clone-reg-exp)（克隆正则表达式）
+11. [coalesce](https://www.30secondsofcode.org/js/s/coalesce)（返回第一个已定义的非空参数）
+12. [is](https://www.30secondsofcode.org/js/s/is)（检查提供的值是否为指定类型）
+13. [isDuplexStream](https://www.30secondsofcode.org/js/s/is-duplex-stream)
+14. [isWritableStream](https://www.30secondsofcode.org/js/s/is-writable-stream)
+15. [isEmpty](https://www.30secondsofcode.org/js/s/is-empty)
+16. [isPromiseLike](https://www.30secondsofcode.org/js/s/is-promise-like)（检查对象是否看起来像一个Promise）
+17. [isReadableStream](https://www.30secondsofcode.org/js/s/is-readable-stream)
+18. [isAsyncFunction](https://www.30secondsofcode.org/js/s/is-async-function)
+19. [isGeneratorFunction](https://www.30secondsofcode.org/js/s/is-generator-function)
+20. [isArrayLike](https://www.30secondsofcode.org/js/s/is-array-like)（检查所提供的参数是否类似于数组（即可迭代））
+21. [isStream](https://www.30secondsofcode.org/js/s/is-stream)
+22. [isValidJSON](https://www.30secondsofcode.org/js/s/is-valid-json)
+23. [isPlainObject](https://www.30secondsofcode.org/js/s/is-plain-object)（检查提供的值是否是由Object构造函数创建的对象）
+24. [isPrimitive](https://www.30secondsofcode.org/js/s/is-primitive)（检查传递的值是否为原始值）
 25. [isFunction](https://www.30secondsofcode.org/js/s/is-function)
 26. [isObject](https://www.30secondsofcode.org/js/s/is-object)
 27. [isObjectLike](https://www.30secondsofcode.org/js/s/is-object-like)（检查值是否类似于对象）
@@ -312,130 +308,136 @@
 33. [isNull](https://www.30secondsofcode.org/js/s/is-null)
 34. [isUndefined](https://www.30secondsofcode.org/js/s/is-undefined)
 
-#### 6）日期
+#### 7）日期
 1. [formatDuration](https://www.30secondsofcode.org/js/s/format-duration)（返回人类可读格式的给定毫秒数）
-2. [如何在JavaScript中实现睡眠功能？](https://www.30secondsofcode.org/blog/s/javascript-sleep)（实现 sleep() 函数的所有不同方式）
-3. [addMinutesToDate](https://www.30secondsofcode.org/js/s/add-minutes-to-date)（从给定日期计算 n 分钟的日期，并返回其字符串的表示形式）
-4. [countWeekDaysBetween](https://www.30secondsofcode.org/js/s/count-week-days-between)（计算两个日期之间的工作日）
-5. [toISOStringWithTimezone](https://www.30secondsofcode.org/js/s/to-iso-string-with-timezone)（将日期转换为扩展的ISO格式（ISO 8601），包括时区偏移量）
-6. [isDateValid](https://www.30secondsofcode.org/js/s/is-date-valid)（检查是否可以根据给定的值创建有效的日期对象）
-7. [addWeekDays](https://www.30secondsofcode.org/js/s/add-week-days)（在添加给定的工作日后计算日期）
-8. [addDaysToDate](https://www.30secondsofcode.org/js/s/add-days-to-date)（计算给定日期后 n 天的日期，并返回其字符串的表示形式）
-9. [isISOString](https://www.30secondsofcode.org/js/s/is-iso-string)（检查给定的字符串在简化的扩展ISO格式（ISO 8601）中是否有效）
-10. [getColonTimeFromDate](https://www.30secondsofcode.org/js/s/get-colon-time-from-date)（从Date对象返回形式为 HH:MM:SS 的字符串）
-11. [quarterOfYear](https://www.30secondsofcode.org/js/s/quarter-of-year)（返回提供的日期所属的季度和年份）
-12. [dayOfYear](https://www.30secondsofcode.org/js/s/day-of-year)（从Date对象获取一年中的一天（范围为1-366的数字））
-13. [maxDate](https://www.30secondsofcode.org/js/s/max-date)（返回给定日期的最大值）
-14. [minDate](https://www.30secondsofcode.org/js/s/min-date)（返回给定日期的最小值）
-15. [dayName](https://www.30secondsofcode.org/js/s/day-name)（从 Date 对象获取工作日的名称）
-16. [daysAgo](https://www.30secondsofcode.org/js/s/days-ago)（计算从今天起 n 天前的日期，以字符串表示形式）
-17. [getMonthsDiffBetweenDates](https://www.30secondsofcode.org/js/s/get-months-diff-between-dates)（计算两个日期之间的差异（以月为单位））
-18. [tomorrow](https://www.30secondsofcode.org/js/s/tomorrow)（结果以字符串形式表示明天的日期）
-19. [yesterday](https://www.30secondsofcode.org/js/s/yesterday)（结果以字符串形式表示昨天的日期）
-20. [daysFromNow](https://www.30secondsofcode.org/js/s/days-from-now)（以字符串表示形式计算从今天开始的 n 天的日期）
-21. [getDaysDiffBetweenDates](https://www.30secondsofcode.org/js/s/get-days-diff-between-dates)（计算两个日期之间的差异（以天为单位））
-22. [getTimestamp](https://www.30secondsofcode.org/js/s/get-timestamp)（从 Date 对象获取 Unix 时间戳）
+2. [如何实现 sleep 功能？](https://www.30secondsofcode.org/blog/s/javascript-sleep)（实现 sleep() 函数的所有不同方式）
+3. [countWeekDaysBetween](https://www.30secondsofcode.org/js/s/count-week-days-between)（计算两个日期之间的工作日）
+4. [toISOStringWithTimezone](https://www.30secondsofcode.org/js/s/to-iso-string-with-timezone)（将日期转换为扩展的ISO格式（ISO 8601），包括时区偏移量）
+5. [addWeekDays](https://www.30secondsofcode.org/js/s/add-week-days)（在添加给定的工作日后计算日期）
+6. [addDaysToDate](https://www.30secondsofcode.org/js/s/add-days-to-date)（计算给定日期后 n 天的日期，并返回其字符串的表示形式）
+7. [addMinutesToDate](https://www.30secondsofcode.org/js/s/add-minutes-to-date)（从给定日期计算 n 分钟的日期，并返回其字符串的表示形式）
+8. [quarterOfYear](https://www.30secondsofcode.org/js/s/quarter-of-year)（返回提供的日期所属的季度和年份）
+9. [dayOfYear](https://www.30secondsofcode.org/js/s/day-of-year)（从Date对象获取一年中的一天（范围为1-366的数字））
+10. [daysFromNow](https://www.30secondsofcode.org/js/s/days-from-now)（以字符串表示形式计算从今天开始的 n 天的日期）
+11. [maxDate](https://www.30secondsofcode.org/js/s/max-date)（返回给定日期的最大值）
+12. [minDate](https://www.30secondsofcode.org/js/s/min-date)（返回给定日期的最小值）
+13. [dayName](https://www.30secondsofcode.org/js/s/day-name)（从 Date 对象获取工作日的名称）
+14. [daysAgo](https://www.30secondsofcode.org/js/s/days-ago)（计算从今天起 n 天前的日期，以字符串表示形式）
+15. [getColonTimeFromDate](https://www.30secondsofcode.org/js/s/get-colon-time-from-date)（从Date对象返回形式为 HH:MM:SS 的字符串）
+16. [getMonthsDiffBetweenDates](https://www.30secondsofcode.org/js/s/get-months-diff-between-dates)（计算两个日期之间的差异（以月为单位））
+17. [getDaysDiffBetweenDates](https://www.30secondsofcode.org/js/s/get-days-diff-between-dates)（计算两个日期之间的差异（以天为单位））
+18. [getMeridiemSuffixOfInteger](https://www.30secondsofcode.org/js/s/get-meridiem-suffix-of-integer)（将整数转换为带后缀的字符串，并根据其值添加am或pm）
+19. [getTimestamp](https://www.30secondsofcode.org/js/s/get-timestamp)（从 Date 对象获取 Unix 时间戳）
+20. [fromTimestamp](https://www.30secondsofcode.org/js/s/from-timestamp)（从 Unix 时间戳创建 Date 对象）
+21. [tomorrow](https://www.30secondsofcode.org/js/s/tomorrow)（结果以字符串形式表示明天的日期）
+22. [yesterday](https://www.30secondsofcode.org/js/s/yesterday)（结果以字符串形式表示昨天的日期）
 23. [lastDateOfMonth](https://www.30secondsofcode.org/js/s/last-date-of-month)（返回给定日期月份的最后一个日期的字符串表示形式）
-24. [getMeridiemSuffixOfInteger](https://www.30secondsofcode.org/js/s/get-meridiem-suffix-of-integer)（将整数转换为带后缀的字符串，并根据其值添加am或pm）
-25. [fromTimestamp](https://www.30secondsofcode.org/js/s/from-timestamp)（从 Unix 时间戳创建 Date 对象）
-26. [isSameDate](https://www.30secondsofcode.org/js/s/is-same-date)（检查一个日期是否与另一个日期相同）
-27. [isLeapYear](https://www.30secondsofcode.org/js/s/is-leap-year)（检查给定年份是否为闰年）
-28. [isWeekday](https://www.30secondsofcode.org/js/s/is-weekday)（检查给定的日期是否是工作日）
-29. [isWeekend](https://www.30secondsofcode.org/js/s/is-weekend)（检查给定的日期是否是周末）
-30. [isAfterDate](https://www.30secondsofcode.org/js/s/is-after-date)（检查某个日期是否在另一个日期之后）
-31. [isBeforeDate](https://www.30secondsofcode.org/js/s/is-before-date)（检查日期是否在另一个日期之前）
-32. [isBetweenDates](https://www.30secondsofcode.org/js/s/is-between-dates)（检查日期是否在其他两个日期之间）
+24. [isSameDate](https://www.30secondsofcode.org/js/s/is-same-date)（检查一个日期是否与另一个日期相同）
+25. [isLeapYear](https://www.30secondsofcode.org/js/s/is-leap-year)（检查给定年份是否为闰年）
+26. [isWeekday](https://www.30secondsofcode.org/js/s/is-weekday)（检查给定的日期是否是工作日）
+27. [isWeekend](https://www.30secondsofcode.org/js/s/is-weekend)（检查给定的日期是否是周末）
+28. [isAfterDate](https://www.30secondsofcode.org/js/s/is-after-date)（检查某个日期是否在另一个日期之后）
+29. [isBeforeDate](https://www.30secondsofcode.org/js/s/is-before-date)（检查日期是否在另一个日期之前）
+30. [isBetweenDates](https://www.30secondsofcode.org/js/s/is-between-dates)（检查日期是否在其他两个日期之间）
+31. [isDateValid](https://www.30secondsofcode.org/js/s/is-date-valid)（检查是否可以根据给定的值创建有效的日期对象）
+32. [isISOString](https://www.30secondsofcode.org/js/s/is-iso-string)（检查给定的字符串在简化的扩展ISO格式（ISO 8601）中是否有效）
 
-#### 7）浏览器
+#### 8）浏览器
 1. [如何检测Caps Lock大写键是否已启用？](https://www.30secondsofcode.org/blog/s/detect-caps-lock-is-on)
 2. [可以用箭头函数作为事件监听器的回调吗？](https://www.30secondsofcode.org/blog/s/javascript-arrow-function-event-listeners)
 3. [如何使用JavaScript将文本复制到剪贴板？](https://www.30secondsofcode.org/blog/s/copy-text-to-clipboard-with-javascript)
+4. [copyToClipboard](https://www.30secondsofcode.org/js/s/copy-to-clipboard)（将字符串复制到剪贴板，仅由于用户操作（即在 click 事件侦听器内部）而起作用）
 5. [Tip: 您可以将输入元素的值获取为数字](https://www.30secondsofcode.org/blog/s/javascript-value-as-number)
-7. [copyToClipboard](https://www.30secondsofcode.org/js/s/copy-to-clipboard)（将字符串复制到剪贴板，仅由于用户操作（即在 click 事件侦听器内部）而起作用）
-8. [hashBrowser](https://www.30secondsofcode.org/js/s/hash-browser)（使用SHA-256算法为值创建哈希值并返回一个 Promise 对象）
-9. [toHSLObject](https://www.30secondsofcode.org/js/s/to-hsl-object)（将 hsl() 颜色字符串转换为具有每种颜色值的对象）
-10. [toRGBObject](https://www.30secondsofcode.org/js/s/to-rgb-object)（将 rgb() 颜色字符串转换为具有每种颜色值的对象）
-11. [如何最多执行一次事件处理程序？](https://www.30secondsofcode.org/blog/s/javascript-listen-once)
-12. [changeLightness](https://www.30secondsofcode.org/js/s/change-lightness)（更改 hsl() 颜色字符串的亮度值）
-13. [parseCookie](https://www.30secondsofcode.org/js/s/parse-cookie)（解析HTTP Cookie头字符串，返回所有 Cookie 键值对的对象）
-14. [runAsync](https://www.30secondsofcode.org/js/s/run-async)（使用Web Worker在单独的线程中运行一个函数，从而允许长时间运行的函数不会阻塞UI）
-15. [了解JavaScript中的事件冒泡，捕获和委托](https://www.30secondsofcode.org/blog/s/javascript-event-bubbling-capturing-delegation)
-16. [renderElement](https://www.30secondsofcode.org/js/s/render-element)（在指定的 DOM 元素中呈现给定的 DOM 树）
-17. [serializeForm](https://www.30secondsofcode.org/js/s/serialize-form)（将一组表单元素编码为查询字符串）
-18. [Tip: 创建自己的查询选择器](https://www.30secondsofcode.org/blog/s/javascript-query-selector-shorthand)（是否曾经想创建自己的类似jquery的查询选择器的简写？ 可以这么做）
-19. [encodeURI() 和encodeURIComponent() 有什么区别？](https://www.30secondsofcode.org/blog/s/javascript-encodeuri-encodeuricomponent)
-20. [addMultipleListeners](https://www.30secondsofcode.org/js/s/add-multiple-events)（将具有相同处理程序的多个事件侦听器添加到元素中）
-21. [createEventHub](https://www.30secondsofcode.org/js/s/create-event-hub)（使用emit，on和off方法创建一个发布/订阅（发布-订阅）事件中心）
-22. [getSiblings](https://www.30secondsofcode.org/js/s/get-siblings)（返回一个包含给定元素的所有同级元素的数组）
-23. [arrayToHTMLList](https://www.30secondsofcode.org/js/s/array-to-html-list)（将给定的数组元素转换为\<li>标签，并将它们附加到给定 id 的列表中）
-24. [escapeHTML](https://www.30secondsofcode.org/js/s/escape-html)（转义用于HTML的字符串）
-25. [prefix](https://www.30secondsofcode.org/js/s/prefix)（自动添加 CSS 浏览器前缀）
-26. [Tip: 避免为空链接使用“ javascript：void(0)”](https://www.30secondsofcode.org/blog/s/javascript-void-links)
-27. [observeMutations](https://www.30secondsofcode.org/js/s/observe-mutations)（创建一个新的 MutationObserver 并为指定元素上的每个突变提供回调）
-28. [on](https://www.30secondsofcode.org/js/s/on)（将事件侦听器添加到具有事件委托功能的元素）
-29. [unescapeHTML](https://www.30secondsofcode.org/js/s/unescape-html)（转义转义的HTML字符）
-30. [cookies，localStorage 和 sessionStorage 之间有什么区别？](https://www.30secondsofcode.org/blog/s/cookies-local-storage-session)
-31. [getParentsUntil](https://www.30secondsofcode.org/js/s/get-parents-until)（查找元素的所有祖先，直到该元素与指定选择器匹配为止）
-32. [Tip: 最小化 DOM 访问](https://www.30secondsofcode.org/blog/s/javascript-store-dom-items)（提高使用DOM时JavaScript代码的性能）
-33. [formToObject](https://www.30secondsofcode.org/js/s/form-to-object)（将一组表单元素编码为一个对象）
-34. [toHSLArray](https://www.30secondsofcode.org/js/s/to-hsl-array)（将 hsl() 颜色字符串转换为值数组）
-35. [toRGBArray](https://www.30secondsofcode.org/js/s/to-rgb-array)（将 rgbl() 颜色字符串转换为值数组）
-36. [UUIDGeneratorBrowser](https://www.30secondsofcode.org/js/s/uuid-generator-browser)（在浏览器中生成 UUID）
-37. [Tip: 使用target =“ _ blank”时保护用户免受恶意网站的侵害](https://www.30secondsofcode.org/blog/s/javascript-target-blank)（在新选项卡中打开链接会附带一个安全漏洞）
-38. [getImages](https://www.30secondsofcode.org/js/s/get-images)（从一个元素中获取所有图像，并将它们放入数组中）
-39. [show](https://www.30secondsofcode.org/js/s/show)（显示所有指定的元素）
-40. [getElementsBiggerThanViewport](https://www.30secondsofcode.org/js/s/get-elements-bigger-than-viewport)（返回宽度大于视口宽度的 HTML 元素数组）
-41. [hide](https://www.30secondsofcode.org/js/s/hide)（隐藏所有指定的元素）
-42. [onScrollStop](https://www.30secondsofcode.org/js/s/on-scroll-stop)（用户停止滚动时运行回调）
-43. [nodeListToArray](https://www.30secondsofcode.org/js/s/node-list-to-array)（将 NodeList 转换为数组）
-44. [onClickOutside](https://www.30secondsofcode.org/js/s/on-click-outside)（每当用户单击指定元素之外时，运行回调）
-45. [recordAnimationFrames](https://www.30secondsofcode.org/js/s/record-animation-frames)（在每个动画帧上调用提供的回调）
-47. [httpPost](https://www.30secondsofcode.org/js/s/http-post)（向传递的网址发出POST请求）
-48. [httpPut](https://www.30secondsofcode.org/js/s/http-put)（对传递的网址进行PUT请求）
+6. [了解JavaScript中的事件冒泡，捕获和委托](https://www.30secondsofcode.org/blog/s/javascript-event-bubbling-capturing-delegation)
+7. [如何最多执行一次事件处理程序？](https://www.30secondsofcode.org/blog/s/javascript-listen-once)
+8. [addMultipleListeners](https://www.30secondsofcode.org/js/s/add-multiple-events)（将具有相同处理程序的多个事件侦听器添加到元素中）
+9. [createEventHub](https://www.30secondsofcode.org/js/s/create-event-hub)（使用emit，on和off方法创建一个发布/订阅（发布-订阅）事件中心）
+10. [on](https://www.30secondsofcode.org/js/s/on)（将事件侦听器添加到具有事件委托功能的元素）
+11. [off](https://www.30secondsofcode.org/js/s/off)（从元素中删除事件监听器）
+12. [listenOnce](https://www.30secondsofcode.org/js/s/listen-once)（将事件侦听器添加到仅在首次触发事件时运行回调的元素）
+13. [triggerEvent](https://www.30secondsofcode.org/js/s/trigger-event)（在给定元素上触发特定事件，可以选择传递自定义数据）
+14. [onClickOutside](https://www.30secondsofcode.org/js/s/on-click-outside)（每当用户单击指定元素之外时，运行回调）
+15. [onUserInputChange](https://www.30secondsofcode.org/js/s/on-user-input-change)（每当用户输入类型更改（鼠标或触摸）时运行回调）
+16. [supportsTouchEvents](https://www.30secondsofcode.org/js/s/supports-touch-events)（检查是否支持触摸事件）
+17. [cookies，localStorage 和 sessionStorage 之间有什么区别？](https://www.30secondsofcode.org/blog/s/cookies-local-storage-session)
+18. [parseCookie](https://www.30secondsofcode.org/js/s/parse-cookie)（解析HTTP Cookie头字符串，返回所有 Cookie 键值对的对象）
+19. [serializeCookie](https://www.30secondsofcode.org/js/s/serialize-cookie)（将 Cookie 键值对序列化为 Set-Cookie 头字符串）
+20. [runAsync](https://www.30secondsofcode.org/js/s/run-async)（使用Web Worker在单独的线程中运行一个函数，从而允许长时间运行的函数不会阻塞UI）
+21. [renderElement](https://www.30secondsofcode.org/js/s/render-element)（在指定的 DOM 元素中呈现给定的 DOM 树）
+22. [serializeForm](https://www.30secondsofcode.org/js/s/serialize-form)（将一组表单元素编码为查询字符串）
+23. [Tip: 创建自己的查询选择器](https://www.30secondsofcode.org/blog/s/javascript-query-selector-shorthand)（是否曾经想创建自己的类似jquery的查询选择器的简写？可以这么做）
+24. [encodeURI() 和encodeURIComponent() 有什么区别？](https://www.30secondsofcode.org/blog/s/javascript-encodeuri-encodeuricomponent)
+25. [getSiblings](https://www.30secondsofcode.org/js/s/get-siblings)（返回一个包含给定元素的所有同级元素的数组）
+26. [getImages](https://www.30secondsofcode.org/js/s/get-images)（从一个元素中获取所有图像，并将它们放入数组中）
+27. [getAncestors](https://www.30secondsofcode.org/js/s/get-ancestors)（返回从文档根到给定元素之间的所有祖先）
+28. [getElementsBiggerThanViewport](https://www.30secondsofcode.org/js/s/get-elements-bigger-than-viewport)（返回宽度大于视口宽度的 HTML 元素数组）
+29. [getSelectedText](https://www.30secondsofcode.org/js/s/get-selected-text)（获取当前选择的文本）
+30. [nodeListToArray](https://www.30secondsofcode.org/js/s/node-list-to-array)（将 NodeList 转换为数组）
+31. [arrayToHTMLList](https://www.30secondsofcode.org/js/s/array-to-html-list)（将给定的数组元素转换为\<li>标签，并将它们附加到给定 id 的列表中）
+32. [escapeHTML](https://www.30secondsofcode.org/js/s/escape-html)（转义用于HTML的字符串）
+33. [unescapeHTML](https://www.30secondsofcode.org/js/s/unescape-html)（转义转义的HTML字符）
+34. [Tip: 避免为空链接使用“ javascript：void(0)”](https://www.30secondsofcode.org/blog/s/javascript-void-links)
+35. [observeMutations](https://www.30secondsofcode.org/js/s/observe-mutations)（创建一个新的 MutationObserver 并为指定元素上的每个突变提供回调）
+36. [getParentsUntil](https://www.30secondsofcode.org/js/s/get-parents-until)（查找元素的所有祖先，直到该元素与指定选择器匹配为止）
+37. [Tip: 最小化 DOM 访问](https://www.30secondsofcode.org/blog/s/javascript-store-dom-items)（提高使用DOM时JavaScript代码的性能）
+38. [formToObject](https://www.30secondsofcode.org/js/s/form-to-object)（将一组表单元素编码为一个对象）
+39. [UUIDGeneratorBrowser](https://www.30secondsofcode.org/js/s/uuid-generator-browser)（在浏览器中生成 UUID）
+40. [hashBrowser](https://www.30secondsofcode.org/js/s/hash-browser)（使用 SHA-256 算法为值创建哈希值并返回一个 Promise 对象）
+41. [Tip: 使用target =“ _ blank”时保护用户免受恶意网站的侵害](https://www.30secondsofcode.org/blog/s/javascript-target-blank)（在新选项卡中打开链接会附带一个安全漏洞）
+42. [show](https://www.30secondsofcode.org/js/s/show)（显示所有指定的元素）
+43. [hide](https://www.30secondsofcode.org/js/s/hide)（隐藏所有指定的元素）
+44. [recordAnimationFrames](https://www.30secondsofcode.org/js/s/record-animation-frames)（在每个动画帧上调用提供的回调）
+45. [httpGet](https://www.30secondsofcode.org/js/s/http-get)（对传递的URL进行GET请求）
+46. [httpPost](https://www.30secondsofcode.org/js/s/http-post)（向传递的网址发出POST请求）
+47. [httpPut](https://www.30secondsofcode.org/js/s/http-put)（对传递的网址进行PUT请求）
+48. [httpDelete](https://www.30secondsofcode.org/js/s/http-delete)（对传递的网址进行DELETE请求）
 49. [httpsRedirect](https://www.30secondsofcode.org/js/s/https-redirect)（如果页面当前位于HTTP中，则将其重定向到HTTPS）
-50. [onUserInputChange](https://www.30secondsofcode.org/js/s/on-user-input-change)（每当用户输入类型更改（鼠标或触摸）时运行回调）
-51. [addStyles](https://www.30secondsofcode.org/js/s/add-styles)（将提供的样式添加到给定的元素）
-52. [getAncestors](https://www.30secondsofcode.org/js/s/get-ancestors)（返回从文档根到给定元素之间的所有祖先）
-53. [httpGet](https://www.30secondsofcode.org/js/s/http-get)（对传递的URL进行GET请求）
-54. [off](https://www.30secondsofcode.org/js/s/off)（从元素中删除事件监听器）
-55. [counter](https://www.30secondsofcode.org/js/s/counter)（为指定选择器创建具有指定范围，步长和持续时间的计数器）
-56. [isBrowser](https://www.30secondsofcode.org/js/s/is-browser)（确定当前运行时环境是否是浏览器，以便前端模块可以在服务器（节点）上运行而不会引发错误）
-57. [httpDelete](https://www.30secondsofcode.org/js/s/http-delete)（对传递的网址进行DELETE请求）
-58. [injectCSS](https://www.30secondsofcode.org/js/s/inject-css)（将给定的 CSS 代码注入当前文档）
-59. [listenOnce](https://www.30secondsofcode.org/js/s/listen-once)（将事件侦听器添加到仅在首次触发事件时运行回调的元素）
-60. [hasClass](https://www.30secondsofcode.org/js/s/has-class)（检查给定元素是否具有指定的类）
-62. [scrollToTop](https://www.30secondsofcode.org/js/s/scroll-to-top)（平滑滚动到页面顶部）
-63. [detectLanguage](https://www.30secondsofcode.org/js/s/detect-language)（检测当前用户的首选语言）
-64. [smoothScroll](https://www.30secondsofcode.org/js/s/smooth-scroll)（平滑地将调用其的元素滚动到浏览器窗口的可见区域）
-65. [triggerEvent](https://www.30secondsofcode.org/js/s/trigger-event)（在给定元素上触发特定事件，可以选择传递自定义数据）
-66. [addClass](https://www.30secondsofcode.org/js/s/add-class)（将类添加到HTML元素中）
-67. [removeClass](https://www.30secondsofcode.org/js/s/remove-class)（从HTML元素中删除类）
-68. [serializeCookie](https://www.30secondsofcode.org/js/s/serialize-cookie)（将 Cookie 键值对序列化为 Set-Cookie 头字符串）
-69. [getStyle](https://www.30secondsofcode.org/js/s/get-style)（检索指定元素的CSS规则的值）
-70. [getVerticalOffset](https://www.30secondsofcode.org/js/s/get-vertical-offset)（查找从给定元素到文档顶部的距离）
-71. [toggleClass](https://www.30secondsofcode.org/js/s/toggle-class)（切换HTML元素的类）
-72. [createElement](https://www.30secondsofcode.org/js/s/create-element)（从字符串创建一个元素（不将其附加到文档中）如果给定的字符串包含多个元素，则仅返回第一个元素）
-73. [detectDeviceType](https://www.30secondsofcode.org/js/s/detect-device-type)（检测页面是在移动设备上还是在桌面上）
-74. [prefersDarkColorScheme](https://www.30secondsofcode.org/js/s/prefers-dark-color-scheme)（检查用户配色方案首选项是否为深色）
-75. [prefersLightColorScheme](https://www.30secondsofcode.org/js/s/prefers-light-color-scheme)（检查用户配色方案首选项是否为浅色）
-76. [redirect](https://www.30secondsofcode.org/js/s/redirect)（重定向到指定的URL）
-77. [setStyle](https://www.30secondsofcode.org/js/s/set-style)（为指定的HTML元素设置CSS规则的值）
-78. [currentURL](https://www.30secondsofcode.org/js/s/current-url)（返回当前URL）
-79. [getScrollPosition](https://www.30secondsofcode.org/js/s/get-scroll-position)（返回当前页面的滚动位置）
-80. [getSelectedText](https://www.30secondsofcode.org/js/s/get-selected-text)（获取当前选择的文本）
-81. [isLocalStorageEnabled](https://www.30secondsofcode.org/js/s/is-local-storage-enabled)（检查是否启用了 localStorage）
-82. [isSessionStorageEnabled](https://www.30secondsofcode.org/js/s/is-session-storage-enabled)（检查 sessionStorage 是否启用）
-83. [removeElement](https://www.30secondsofcode.org/js/s/remove-element)（从 DOM 中删除一个元素）
-84. [elementContains](https://www.30secondsofcode.org/js/s/element-contains)（检查父元素是否包含子元素）
-85. [elementIsVisibleInViewport](https://www.30secondsofcode.org/js/s/element-is-visible-in-viewport)（检查指定的元素在视口中是否可见）
-86. [fullscreen](https://www.30secondsofcode.org/js/s/fullscreen)（以全屏模式打开或关闭元素）
-87. [insertAfter](https://www.30secondsofcode.org/js/s/insert-after)（在指定元素的末尾插入HTML字符串）
-88. [insertBefore](https://www.30secondsofcode.org/js/s/insert-before)（在指定元素的开头之前插入HTML字符串）
-89. [supportsTouchEvents](https://www.30secondsofcode.org/js/s/supports-touch-events)（检查是否支持触摸事件）
-90. [getProtocol](https://www.30secondsofcode.org/js/s/get-protocol)（获取当前页面上正在使用的协议）
-91. [bottomVisible](https://www.30secondsofcode.org/js/s/bottom-visible)（检查页面底部是否可见）
-92. [elementIsFocused](https://www.30secondsofcode.org/js/s/element-is-focused)（检查给定元素是否聚焦）
-93. [isBrowserTabFocused](https://www.30secondsofcode.org/js/s/is-browser-tab-focused)（检查页面的浏览器选项卡是否聚焦）
+50. [counter](https://www.30secondsofcode.org/js/s/counter)（为指定选择器创建具有指定范围，步长和持续时间的计数器）
+51. [scrollToTop](https://www.30secondsofcode.org/js/s/scroll-to-top)（平滑滚动到页面顶部）
+52. [getScrollPosition](https://www.30secondsofcode.org/js/s/get-scroll-position)（返回当前页面的滚动位置）
+53. [onScrollStop](https://www.30secondsofcode.org/js/s/on-scroll-stop)（用户停止滚动时运行回调）
+54. [smoothScroll](https://www.30secondsofcode.org/js/s/smooth-scroll)（平滑地将调用其的元素滚动到浏览器窗口的可见区域）
+55. [detectLanguage](https://www.30secondsofcode.org/js/s/detect-language)（检测当前用户的首选语言）
+56. [hasClass](https://www.30secondsofcode.org/js/s/has-class)（检查给定元素是否具有指定的类）
+57. [addClass](https://www.30secondsofcode.org/js/s/add-class)（将类添加到HTML元素中）
+58. [removeClass](https://www.30secondsofcode.org/js/s/remove-class)（从HTML元素中删除类）
+59. [toggleClass](https://www.30secondsofcode.org/js/s/toggle-class)（切换HTML元素的类）
+60. [prefix](https://www.30secondsofcode.org/js/s/prefix)（自动添加 CSS 浏览器前缀）
+61. [injectCSS](https://www.30secondsofcode.org/js/s/inject-css)（将给定的 CSS 代码注入当前文档）
+62. [addStyles](https://www.30secondsofcode.org/js/s/add-styles)（将提供的样式添加到给定的元素）
+63. [setStyle](https://www.30secondsofcode.org/js/s/set-style)（为指定的HTML元素设置CSS规则的值）
+64. [getStyle](https://www.30secondsofcode.org/js/s/get-style)（检索指定元素的CSS规则的值）
+65. [getVerticalOffset](https://www.30secondsofcode.org/js/s/get-vertical-offset)（查找从给定元素到文档顶部的距离）
+66. [createElement](https://www.30secondsofcode.org/js/s/create-element)（从字符串创建一个元素（不将其附加到文档中）如果给定的字符串包含多个元素，则仅返回第一个元素）
+67. [removeElement](https://www.30secondsofcode.org/js/s/remove-element)（从 DOM 中删除一个元素）
+68. [detectDeviceType](https://www.30secondsofcode.org/js/s/detect-device-type)（检测页面是在移动设备上还是在桌面上）
+69. [fullscreen](https://www.30secondsofcode.org/js/s/fullscreen)（以全屏模式打开或关闭元素）
+70. [bottomVisible](https://www.30secondsofcode.org/js/s/bottom-visible)（检查页面底部是否可见）
+71. [insertAfter](https://www.30secondsofcode.org/js/s/insert-after)（在指定元素的末尾插入HTML字符串）
+72. [insertBefore](https://www.30secondsofcode.org/js/s/insert-before)（在指定元素的开头之前插入HTML字符串）
+73. [elementContains](https://www.30secondsofcode.org/js/s/element-contains)（检查父元素是否包含子元素）
+74. [elementIsVisibleInViewport](https://www.30secondsofcode.org/js/s/element-is-visible-in-viewport)（检查指定的元素在视口中是否可见）
+75. [elementIsFocused](https://www.30secondsofcode.org/js/s/element-is-focused)（检查给定元素是否聚焦）
+76. [isBrowserTabFocused](https://www.30secondsofcode.org/js/s/is-browser-tab-focused)（检查页面的浏览器选项卡是否聚焦）
+77. [isBrowser](https://www.30secondsofcode.org/js/s/is-browser)（确定当前运行时环境是否是浏览器，以便前端模块可以在服务器（节点）上运行而不会引发错误）
+78. [isLocalStorageEnabled](https://www.30secondsofcode.org/js/s/is-local-storage-enabled)（检查是否启用了 localStorage）
+79. [isSessionStorageEnabled](https://www.30secondsofcode.org/js/s/is-session-storage-enabled)（检查 sessionStorage 是否启用）
+
+#### 9）颜色
+1. [prefersDarkColorScheme](https://www.30secondsofcode.org/js/s/prefers-dark-color-scheme)（检查用户配色方案首选项是否为深色）
+2. [prefersLightColorScheme](https://www.30secondsofcode.org/js/s/prefers-light-color-scheme)（检查用户配色方案首选项是否为浅色）
+3. [toHSLObject](https://www.30secondsofcode.org/js/s/to-hsl-object)（将 hsl() 颜色字符串转换为具有每种颜色值的对象）
+4. [toRGBObject](https://www.30secondsofcode.org/js/s/to-rgb-object)（将 rgb() 颜色字符串转换为具有每种颜色值的对象）
+5. [changeLightness](https://www.30secondsofcode.org/js/s/change-lightness)（更改 hsl() 颜色字符串的亮度值）
+6. [toHSLArray](https://www.30secondsofcode.org/js/s/to-hsl-array)（将 hsl() 颜色字符串转换为值数组）
+7. [toRGBArray](https://www.30secondsofcode.org/js/s/to-rgb-array)（将 rgbl() 颜色字符串转换为值数组）
+8. [extendHex](https://www.30secondsofcode.org/js/s/extend-hex)（将 3 位数颜色代码扩展为 6 位数颜色代码）
+9. [hexToRGB](https://www.30secondsofcode.org/js/s/hex-to-rgb)（如果提供了 alpha 值，则将颜色代码转换为 rgb() 或 rgba() 字符串）
+10. [RGBToHex](https://www.30secondsofcode.org/js/s/rgb-to-hex)（将 RGB 分量的值转换为十六进制颜色代码）
+11. [HSBToRGB](https://www.30secondsofcode.org/js/s/hsb-to-rgb)（将 HSB 颜色元组转换为 RGB 格式）
+12. [HSLToRGB](https://www.30secondsofcode.org/js/s/hsl-to-rgb)（将 HSL 颜色元组转换为 RGB 格式）
+13. [RGBToHSB](https://www.30secondsofcode.org/js/s/rgb-to-hsb)（将 RGB 颜色元组转换为 HSB 格式）
+14. [RGBToHSL](https://www.30secondsofcode.org/js/s/rgb-to-hsl)（将 RGB 颜色元组转换为 HSL 格式）
 
 ## 数组技巧
 1. [uniqueElements](https://www.30secondsofcode.org/js/s/unique-elements)（查找数组中的所有唯一值）
