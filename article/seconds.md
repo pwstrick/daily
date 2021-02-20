@@ -5,6 +5,15 @@
 与 [Underscore.js](https://underscorejs.org/) 和 [Lodash.js](https://lodash.com/docs/) 不同，30 seconds of code 中的代码片段都是各自独立的，可直接引用，也更容易吸收学习。
 
 ## JavaScript
+#### 1）URL
+28. [URLJoin](https://www.30secondsofcode.org/js/s/url-join)（将所有给定的URL段连接在一起，然后规范化结果URL）
+34. [slugify](https://www.30secondsofcode.org/js/s/slugify)（将字符串转换为URL友好的段）
+12. [queryStringToObject](https://www.30secondsofcode.org/js/s/query-string-to-object)（从给定的查询字符串或URL生成对象）
+4. [如何在不重新加载页面的情况下使用JavaScript修改URL？](https://www.30secondsofcode.org/blog/s/javascript-modify-url-without-reload)
+6. [getURLParameters](https://www.30secondsofcode.org/js/s/get-url-parameters)（创建一个包含当前URL参数的对象）
+46. [getBaseURL](https://www.30secondsofcode.org/js/s/get-base-url)（获取当前URL，不带任何参数或片段标识符）
+61. [isAbsoluteURL](https://www.30secondsofcode.org/js/s/is-absolute-url)（检查给定的字符串是否是绝对URL）
+
 #### 1）字符串
 1. [如何将可迭代对象转换为数组？](https://www.30secondsofcode.org/blog/s/javascript-iterable-to-array)
 2. [JSONtoCSV](https://www.30secondsofcode.org/js/s/jso-nto-csv)（将对象数组转换为仅包含指定列的逗号分隔值（CSV）字符串）
@@ -33,13 +42,11 @@
 25. [size](https://www.30secondsofcode.org/js/s/size)（获取数组，对象或字符串的大小）
 26. [isEmpty](https://www.30secondsofcode.org/js/s/is-empty)（检查 a 值是否为空对象/集合，没有可枚举的属性或任何不视为集合的类型）
 27. [pluralize](https://www.30secondsofcode.org/js/s/pluralize)（根据输入的数字返回单词的单数或复数形式，并使用可选的字典（如果提供））
-28. [URLJoin](https://www.30secondsofcode.org/js/s/url-join)（将所有给定的URL段连接在一起，然后规范化结果URL）
 29. [prettyBytes](https://www.30secondsofcode.org/js/s/pretty-bytes)（将以字节为单位的数字转换为人类可读的字符串）
 30. [randomAlphaNumeric](https://www.30secondsofcode.org/js/s/random-alpha-numeric)（生成具有指定长度的随机字符串）
 31. [RGBToHex](https://www.30secondsofcode.org/js/s/rgb-to-hex)（将 RGB 分量的值转换为十六进制颜色代码）
 32. [sample](https://www.30secondsofcode.org/js/s/sample)（从数组中获取随机元素）
 33. [removeNonASCII](https://www.30secondsofcode.org/js/s/remove-non-ascii)（删除不可打印的ASCII字符）
-34. [slugify](https://www.30secondsofcode.org/js/s/slugify)（将字符串转换为URL友好的段）
 35. [wordWrap](https://www.30secondsofcode.org/js/s/word-wrap)（使用换行符将字符串包装为给定数量的字符）
 36. [capitalizeEveryWord](https://www.30secondsofcode.org/js/s/capitalize-every-word)（将字符串中每个单词的首字母大写）
 37. [escapeRegExp](https://www.30secondsofcode.org/js/s/escape-reg-exp)（转义要在正则表达式中使用的字符串）
@@ -80,7 +87,6 @@
 9. [compactObject](https://www.30secondsofcode.org/js/s/compact-object)（从对象或数组中深度删除所有假值）
 10. [countBy](https://www.30secondsofcode.org/js/s/count-by)（根据给定的函数对数组的元素进行分组，并返回每组中元素的计数）
 11. [groupBy](https://www.30secondsofcode.org/js/s/group-by)（根据给定函数对数组的元素进行分组）
-12. [queryStringToObject](https://www.30secondsofcode.org/js/s/query-string-to-object)（从给定的查询字符串或URL生成对象）
 13. [deepMapKeys](https://www.30secondsofcode.org/js/s/deep-map-keys)（深度映射对象的键）
 14. [mapKeys](https://www.30secondsofcode.org/js/s/map-keys)（使用提供的函数映射对象的键，生成一个新对象）
 15. [mapObject](https://www.30secondsofcode.org/js/s/map-object)（使用函数将数组的值映射到对象）
@@ -344,9 +350,7 @@
 1. [如何检测Caps Lock大写键是否已启用？](https://www.30secondsofcode.org/blog/s/detect-caps-lock-is-on)
 2. [可以用箭头函数作为事件监听器的回调吗？](https://www.30secondsofcode.org/blog/s/javascript-arrow-function-event-listeners)
 3. [如何使用JavaScript将文本复制到剪贴板？](https://www.30secondsofcode.org/blog/s/copy-text-to-clipboard-with-javascript)
-4. [如何在不重新加载页面的情况下使用JavaScript修改URL？](https://www.30secondsofcode.org/blog/s/javascript-modify-url-without-reload)
 5. [Tip: 您可以将输入元素的值获取为数字](https://www.30secondsofcode.org/blog/s/javascript-value-as-number)
-6. [getURLParameters](https://www.30secondsofcode.org/js/s/get-url-parameters)（创建一个包含当前URL参数的对象）
 7. [copyToClipboard](https://www.30secondsofcode.org/js/s/copy-to-clipboard)（将字符串复制到剪贴板，仅由于用户操作（即在 click 事件侦听器内部）而起作用）
 8. [hashBrowser](https://www.30secondsofcode.org/js/s/hash-browser)（使用SHA-256算法为值创建哈希值并返回一个 Promise 对象）
 9. [toHSLObject](https://www.30secondsofcode.org/js/s/to-hsl-object)（将 hsl() 颜色字符串转换为具有每种颜色值的对象）
@@ -386,7 +390,6 @@
 43. [nodeListToArray](https://www.30secondsofcode.org/js/s/node-list-to-array)（将 NodeList 转换为数组）
 44. [onClickOutside](https://www.30secondsofcode.org/js/s/on-click-outside)（每当用户单击指定元素之外时，运行回调）
 45. [recordAnimationFrames](https://www.30secondsofcode.org/js/s/record-animation-frames)（在每个动画帧上调用提供的回调）
-46. [getBaseURL](https://www.30secondsofcode.org/js/s/get-base-url)（获取当前URL，不带任何参数或片段标识符）
 47. [httpPost](https://www.30secondsofcode.org/js/s/http-post)（向传递的网址发出POST请求）
 48. [httpPut](https://www.30secondsofcode.org/js/s/http-put)（对传递的网址进行PUT请求）
 49. [httpsRedirect](https://www.30secondsofcode.org/js/s/https-redirect)（如果页面当前位于HTTP中，则将其重定向到HTTPS）
@@ -401,7 +404,6 @@
 58. [injectCSS](https://www.30secondsofcode.org/js/s/inject-css)（将给定的 CSS 代码注入当前文档）
 59. [listenOnce](https://www.30secondsofcode.org/js/s/listen-once)（将事件侦听器添加到仅在首次触发事件时运行回调的元素）
 60. [hasClass](https://www.30secondsofcode.org/js/s/has-class)（检查给定元素是否具有指定的类）
-61. [isAbsoluteURL](https://www.30secondsofcode.org/js/s/is-absolute-url)（检查给定的字符串是否是绝对URL）
 62. [scrollToTop](https://www.30secondsofcode.org/js/s/scroll-to-top)（平滑滚动到页面顶部）
 63. [detectLanguage](https://www.30secondsofcode.org/js/s/detect-language)（检测当前用户的首选语言）
 64. [smoothScroll](https://www.30secondsofcode.org/js/s/smooth-scroll)（平滑地将调用其的元素滚动到浏览器窗口的可见区域）
