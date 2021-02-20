@@ -440,18 +440,111 @@
 14. [RGBToHSL](https://www.30secondsofcode.org/js/s/rgb-to-hsl)（将 RGB 颜色元组转换为 HSL 格式）
 
 ## 数组技巧
-1. [uniqueElements](https://www.30secondsofcode.org/js/s/unique-elements)（查找数组中的所有唯一值）
-2. [compact](https://www.30secondsofcode.org/js/s/compact)（从数组中删除假值）
-3. [any](https://www.30secondsofcode.org/js/s/any)（检查所提供的回调函数是否对集合中的至少一个元素返回 true）
-4. [all](https://www.30secondsofcode.org/js/s/all)（检查所提供的回调函数是否对集合中的所有元素返回 true）
-5. [none](https://www.30secondsofcode.org/js/s/none)（检查提供的回调函数是否对集合中的所有元素返回 false）
-6. [difference](https://www.30secondsofcode.org/js/s/difference)（计算两个数组之间的差，并且不过滤重复值）
-7. [union](https://www.30secondsofcode.org/js/s/union)（计算两个数组的并集）
-8. [intersection](https://www.30secondsofcode.org/js/s/intersection)（计算两个数组的交集）
-9. [head](https://www.30secondsofcode.org/js/s/head)（返回数组的头）
-10. [tail](https://www.30secondsofcode.org/js/s/tail)（返回数组中除第一个元素外的所有元素）
-11. [last](https://www.30secondsofcode.org/js/s/last)（返回数组中的最后一个元素）
-12. [flatten](https://www.30secondsofcode.org/js/s/flatten)（将数组扁平化到指定深度）
+1. [any](https://www.30secondsofcode.org/js/s/any)（检查所提供的回调函数是否对集合中的至少一个元素返回 true）
+2. [all](https://www.30secondsofcode.org/js/s/all)（检查所提供的回调函数是否对集合中的所有元素返回 true）
+3. [allEqual](https://www.30secondsofcode.org/js/s/all-equal)（检查数组中的所有元素是否相等）
+4. [allEqualBy](https://www.30secondsofcode.org/js/s/all-equal-by)（根据提供的映射函数检查数组中的所有元素是否相等）
+5. [allUnique](https://www.30secondsofcode.org/js/s/all-unique)（检查数组中的所有元素是否唯一）
+6. [allUniqueBy](https://www.30secondsofcode.org/js/s/all-unique-by)（根据提供的映射函数检查数组中的所有元素是否唯一）
+7. [bifurcate](https://www.30secondsofcode.org/js/s/bifurcate)（根据给定过滤器数组的结果将值分为两组）
+8. [bifurcateBy](https://www.30secondsofcode.org/js/s/bifurcate-by)（根据给定过滤功能的结果将值分为两组）
+9. [chunk](https://www.30secondsofcode.org/js/s/chunk)（将数组分成指定大小的较小数组）
+10. [chunkIntoN](https://www.30secondsofcode.org/js/s/chunk-into-n)（将一个数组分成 n 个较小的数组）
+11. [countOccurrences](https://www.30secondsofcode.org/js/s/count-occurrences)（计算数组中某个值的出现次数）
+12. [compact](https://www.30secondsofcode.org/js/s/compact)（从数组中删除假值）
+13. [flatten](https://www.30secondsofcode.org/js/s/flatten)（将数组扁平化到指定深度）
+14. [deepFlatten](https://www.30secondsofcode.org/js/s/deep-flatten)（深度扁平化数组）
+15. [difference](https://www.30secondsofcode.org/js/s/difference)（计算两个数组之间的差，并且不过滤重复值）
+16. [differenceBy](https://www.30secondsofcode.org/js/s/difference-by)（将提供的函数应用于两个数组的每个元素后，返回两个数组之间的差）
+17. [differenceWith](https://www.30secondsofcode.org/js/s/difference-with)（从比较器函数未返回 true 的数组中筛选出所有值）
+18. [drop](https://www.30secondsofcode.org/js/s/drop)（创建一个新数组，从左侧删除 n 个元素）
+19. [dropRight](https://www.30secondsofcode.org/js/s/drop-right)（创建一个新数组，从右边删除 n 个元素）
+20. [dropRightWhile](https://www.30secondsofcode.org/js/s/drop-right-while)（从数组末尾删除元素，直到传递的函数返回 true，返回数组中剩余的元素）
+21. [dropWhile](https://www.30secondsofcode.org/js/s/drop-while)（删除数组中的元素，直到传递的函数返回 true，返回数组中剩余的元素）
+22. [equals](https://www.30secondsofcode.org/js/s/equals)（在两个值之间进行深度比较以确定它们是否等效）
+23. [everyNth](https://www.30secondsofcode.org/js/s/every-nth)（返回数组中的每个第 n 个元素）
+24. [filterNonUnique](https://www.30secondsofcode.org/js/s/filter-non-unique)（创建一个滤除非唯一值的数组）
+25. [filterNonUniqueBy](https://www.30secondsofcode.org/js/s/filter-non-unique-by)（根据提供的比较器函数，创建一个滤除非唯一值的数组）
+26. [filterUnique](https://www.30secondsofcode.org/js/s/filter-unique)（创建一个滤除唯一值的数组）
+27. [filterUniqueBy](https://www.30secondsofcode.org/js/s/filter-unique-by)（根据提供的比较器函数，创建一个过滤出唯一值的数组）
+28. [findLast](https://www.30secondsofcode.org/js/s/find-last)（查找提供的函数为其返回真的最后一个元素）
+29. [findLastIndex](https://www.30secondsofcode.org/js/s/find-last-index)（查找提供的函数为其返回真的最后一个元素的索引）
+30. [forEachRight](https://www.30secondsofcode.org/js/s/for-each-right)（从数组的最后一个元素开始，为每个数组元素执行一次提供的函数）
+31. [frequencies](https://www.30secondsofcode.org/js/s/frequencies)（创建一个对象，将数组的唯一值作为键，并将其频率作为值）
+32. [frozenSet](https://www.30secondsofcode.org/js/s/frozen-set)（创建一个冻结的Set对象）
+33. [hasDuplicates](https://www.30secondsofcode.org/js/s/has-duplicates)（检查数组中是否存在重复值）
+34. [haveSameContents](https://www.30secondsofcode.org/js/s/have-same-contents)（检查两个数组是否包含相同的元素，而不管顺序如何）
+35. [head](https://www.30secondsofcode.org/js/s/head)（返回数组的头）
+36. [tail](https://www.30secondsofcode.org/js/s/tail)（返回数组中除第一个元素外的所有元素）
+37. [last](https://www.30secondsofcode.org/js/s/last)（返回数组中的最后一个元素）
+38. [includesAll](https://www.30secondsofcode.org/js/s/includes-all)（检查值中的所有元素是否都包含在 arr 中）
+39. [includesAny](https://www.30secondsofcode.org/js/s/includes-any)（检查 arr 中是否包含至少一个值元素）
+40. [indexOfAll](https://www.30secondsofcode.org/js/s/index-of-all)（查找数组中的所有值索引。如果值永远不会出现，则返回一个空数组）
+41. [initial](https://www.30secondsofcode.org/js/s/initial)（返回数组中除最后一个元素外的所有元素）
+42. [initialize2DArray](https://www.30secondsofcode.org/js/s/initialize2-d-array)（初始化给定宽度，高度和值的 2D 数组）
+43. [initializeArrayWithRange](https://www.30secondsofcode.org/js/s/initialize-array-with-range)（初始化一个数组，该数组包含指定范围内的数字，其中开始和结束包含其共同差值步骤）
+44. [initializeArrayWithRangeRight](https://www.30secondsofcode.org/js/s/initialize-array-with-range-right)（初始化一个数组，该数组包含指定范围内的数字（反向），其中开始和结束包含其共同差值步骤）
+45. [initializeArrayWithValues](https://www.30secondsofcode.org/js/s/initialize-array-with-values)（用指定的值初始化并填充数组）
+46. [initializeNDArray](https://www.30secondsofcode.org/js/s/initialize-nd-array)（创建具有给定值的 n 维数组）
+47. [insertAt](https://www.30secondsofcode.org/js/s/insert-at)（突变原始数组以在给定索引之后插入给定值）
+48. [union](https://www.30secondsofcode.org/js/s/union)（计算两个数组的并集）
+49. [unionBy](https://www.30secondsofcode.org/js/s/union-by)（在将提供的函数应用于两个数组的每个元素后，至少返回一次存在于两个数组中的每个数组）
+50. [unionWith](https://www.30secondsofcode.org/js/s/union-with)（使用提供的比较器函数，至少返回一次存在于两个数组中的每个元素）
+51. [intersection](https://www.30secondsofcode.org/js/s/intersection)（计算两个数组的交集）
+52. [intersectionBy](https://www.30secondsofcode.org/js/s/intersection-by)（将提供的函数应用于两个数组的每个元素后，返回两个数组中存在的元素）
+53. [intersectionWith](https://www.30secondsofcode.org/js/s/intersection-with)（使用提供的比较器函数，返回两个数组中都存在的元素）
+54. [isContainedIn](https://www.30secondsofcode.org/js/s/is-contained-in)（检查第一个数组的元素是否包含在第二个数组中，而不管顺序如何）
+55. [isDisjoint](https://www.30secondsofcode.org/js/s/is-disjoint)（检查两个可迭代对象是否不相交（没有通用值））
+56. [isSorted](https://www.30secondsofcode.org/js/s/is-sorted)（检查数字数组是否已排序）
+57. [join](https://www.30secondsofcode.org/js/s/join)（将数组的所有元素连接到一个字符串中并返回此字符串。使用分隔符和结尾分隔符）
+58. [longestItem](https://www.30secondsofcode.org/js/s/longest-item)（接受任意数量的可迭代对象或具有 length 属性的对象，并返回最长的一个）
+59. [mergeSortedArrays](https://www.30secondsofcode.org/js/s/merge-sorted-arrays)（将两个排序的数组合并为一个）
+60. [mostFrequent](https://www.30secondsofcode.org/js/s/most-frequent)（返回数组中最频繁的元素）
+61. [none](https://www.30secondsofcode.org/js/s/none)（检查提供的回调函数是否对集合中的所有元素返回 false）
+62. [nthElement](https://www.30secondsofcode.org/js/s/nth-element)（返回数组的第 n 个元素）
+63. [offset](https://www.30secondsofcode.org/js/s/offset)（将指定数量的元素移动到数组的末尾）
+64. [pull](https://www.30secondsofcode.org/js/s/pull)（突变原始数组以滤除指定的值）
+65. [pullAtIndex](https://www.30secondsofcode.org/js/s/pull-at-index)（突变原始数组以滤除指定索引处的值。返回移除的元素）
+66. [pullAtValue](https://www.30secondsofcode.org/js/s/pull-at-value)（突变原始数组以滤除指定的值。返回移除的元素）
+67. [pullBy](https://www.30secondsofcode.org/js/s/pull-by)（根据给定的迭代器函数，对原始数组进行突变以滤除指定的值）
+68. [reducedFilter](https://www.30secondsofcode.org/js/s/reduced-filter)（根据条件过滤对象数组，同时也过滤掉未指定的键）
+69. [reduceSuccessive](https://www.30secondsofcode.org/js/s/reduce-successive)（对一个累加器和数组中的每个元素（从左到右）应用一个函数，返回一个连续减小值的数组）
+70. [reduceWhich](https://www.30secondsofcode.org/js/s/reduce-which)（应用提供的函数设置比较规则后，返回数组的最小值/最大值）
+71. [reject](https://www.30secondsofcode.org/js/s/reject)（根据判定函数过滤数组的值，仅返回判定函数返回 false 的值）
+72. [remove](https://www.30secondsofcode.org/js/s/remove)（通过删除给定函数为其返回 false 的元素来对数组进行突变）
+73. [sample](https://www.30secondsofcode.org/js/s/sample)（从数组中获取随机元素）
+74. [sampleSize](https://www.30secondsofcode.org/js/s/sample-size)（从数组中获取唯一键处的 n 个随机元素，最大为数组的大小）
+75. [weightedSample](https://www.30secondsofcode.org/js/s/weighted-sample)（使用提供的权重作为每个元素的概率从数组中获取随机元素）
+76. [shank](https://www.30secondsofcode.org/js/s/shank)（具有与 Array.prototype.splice() 相同的功能，但是返回一个新数组，而不是对原始数组进行突变）
+77. [shuffle](https://www.30secondsofcode.org/js/s/shuffle)（随机化数组值的顺序，返回一个新数组）
+78. [similarity](https://www.30secondsofcode.org/js/s/similarity)（返回同时出现在两个数组中的元素数组）
+79. [sortedIndex](https://www.30secondsofcode.org/js/s/sorted-index)（查找应将值插入数组以保持其排序顺序的最低索引）
+80. [sortedIndexBy](https://www.30secondsofcode.org/js/s/sorted-index-by)（根据提供的迭代器函数，找到应将值插入数组以保持其排序顺序的最低索引）
+81. [sortedLastIndex](https://www.30secondsofcode.org/js/s/sorted-last-index)（查找应将值插入数组以保持其排序顺序的最高索引）
+82. [sortedLastIndexBy](https://www.30secondsofcode.org/js/s/sorted-last-index-by)（基于提供的迭代器函数，找到一个值，该值应插入到数组中以保持其排序顺序的最高索引）
+83. [stableSort](https://www.30secondsofcode.org/js/s/stable-sort)（对数组执行稳定的排序，当项的值相同时保留项的初始索引）
+84. [subSet](https://www.30secondsofcode.org/js/s/sub-set)（检查第一个可迭代对象是否是第二个可迭代对象的子集，不包括重复值）
+85. [superSet](https://www.30secondsofcode.org/js/s/super-set)（检查第一个可迭代对象是否是第二个可迭代对象的超集，不包括重复值）
+86. [symmetricDifference](https://www.30secondsofcode.org/js/s/symmetric-difference)（返回两个数组之间的对称差，而不过滤掉重复的值）
+87. [symmetricDifferenceBy](https://www.30secondsofcode.org/js/s/symmetric-difference-by)（将提供的函数应用于两个数组的每个数组元素后，返回两个数组之间的对称差）
+88. [symmetricDifferenceWith](https://www.30secondsofcode.org/js/s/symmetric-difference-with)（使用提供的函数作为比较器，返回两个数组之间的对称差）
+89. [take](https://www.30secondsofcode.org/js/s/take)（创建一个数组，其中从开头删除了 n 个元素）
+90. [takeRight](https://www.30secondsofcode.org/js/s/take-right)（创建一个从末尾删除 n 个元素的数组）
+91. [takeRightUntil](https://www.30secondsofcode.org/js/s/take-right-until)（从数组末尾删除元素，直到传递的函数返回 true。返回移除的元素）
+92. [takeRightWhile](https://www.30secondsofcode.org/js/s/take-right-while)（从数组末尾删除元素，直到传递的函数返回 false。返回移除的元素）
+93. [takeUntil](https://www.30secondsofcode.org/js/s/take-until)（删除数组中的元素，直到传递的函数返回 true。返回移除的元素）
+94. [takeWhile](https://www.30secondsofcode.org/js/s/take-while)（删除数组中的元素，直到传递的函数返回 false。返回移除的元素）
+95. [toHash](https://www.30secondsofcode.org/js/s/to-hash)（Reduces a given array-like into a value hash (keyed data store)）
+96. [uniqueElements](https://www.30secondsofcode.org/js/s/unique-elements)（查找数组中的所有唯一值）
+97. [uniqueElementsBy](https://www.30secondsofcode.org/js/s/unique-elements-by)（根据提供的比较器函数查找数组的所有唯一值）
+98. [uniqueElementsByRight](https://www.30secondsofcode.org/js/s/unique-elements-by-right)（从右侧开始，根据提供的比较器函数查找数组的所有唯一值）
+99. [uniqueSymmetricDifference](https://www.30secondsofcode.org/js/s/unique-symmetric-difference)（返回两个数组之间的唯一对称差异，不包含两个数组中的重复值）
+100. [unzip](https://www.30secondsofcode.org/js/s/unzip)（创建一个数组数组，将 zip 产生的数组中的元素取消分组）
+101. [unzipWith](https://www.30secondsofcode.org/js/s/unzip-with)（创建一个元素数组，将 zip 产生的数组中的元素取消分组并应用提供的函数）
+102. [without](https://www.30secondsofcode.org/js/s/without)（筛选出具有指定值之一的数组元素）
+103. [zip](https://www.30secondsofcode.org/js/s/zip)（创建一个元素数组，根据元素在原始数组中的位置进行分组）
+104. [zipObject](https://www.30secondsofcode.org/js/s/zip-object)（将属性与值，给定的有效属性标识符数组和值数组相关联）
+105. [zipWith](https://www.30secondsofcode.org/js/s/zip-with)（创建一个元素数组，根据原始数组中的位置进行分组，并使用函数指定应如何组合分组的值）
 
 ## 算法
 1. [kMeans](https://www.30secondsofcode.org/js/s/k-means)（使用 k-means 聚类算法将给定数据分组为 k 个聚类）
@@ -570,22 +663,22 @@
 
 ## Node.js
 1. [hashNode](https://www.30secondsofcode.org/js/s/hash-node)（使用SHA-256算法为值创建哈希并返回一个 Promise 对象）
-5. [readFileLines](https://www.30secondsofcode.org/js/s/read-file-lines)（返回指定文件中的行数组）
-6. [JSONToFile](https://www.30secondsofcode.org/js/s/json-to-file)（将JSON对象写入文件）
-7. [Tip: 使用Chrome开发人员工具调试 Node.js](https://www.30secondsofcode.org/blog/s/nodejs-chrome-debugging)
-8. [colorize](https://www.30secondsofcode.org/js/s/colorize)（在文本中添加特殊字符以在控制台中以彩色打印（与console.log()组合））
-12. [btoa](https://www.30secondsofcode.org/js/s/btoa)（从String对象创建一个base-64编码的ASCII字符串，其中字符串中的每个字符都被视为二进制数据的字节）
-13. [untildify](https://www.30secondsofcode.org/js/s/untildify)（将波浪号路径转换为绝对路径）
-11. [hasFlags](https://www.30secondsofcode.org/js/s/has-flags)（检查当前进程的参数是否包含指定的标志）
-14. [isTravisCI](https://www.30secondsofcode.org/js/s/is-travis-ci)（检查当前环境是否为Travis CI）
-15. [atob](https://www.30secondsofcode.org/js/s/atob)（解码已使用base-64编码的数据字符串）
-16. [requireUncached](https://www.30secondsofcode.org/js/s/require-uncached)（从缓存中删除模块后加载模块（如果存在））
-17. [createDirIfNotExists](https://www.30secondsofcode.org/js/s/create-dir-if-not-exists)（创建目录（如果不存在））
-2. [isDuplexStream](https://www.30secondsofcode.org/js/s/is-duplex-stream)（检查给定的参数是否为双工（可读和可写）流）
-3. [isWritableStream](https://www.30secondsofcode.org/js/s/is-writable-stream)（检查给定的参数是否为可写流）
-4. [isReadableStream](https://www.30secondsofcode.org/js/s/is-readable-stream)（检查给定参数是否为可读流）
-9. [isNode](https://www.30secondsofcode.org/js/s/is-node)（确定当前运行时环境是否为Node.js）
-10. [isStream](https://www.30secondsofcode.org/js/s/is-stream)（检查给定参数是否为流）
+2. [readFileLines](https://www.30secondsofcode.org/js/s/read-file-lines)（返回指定文件中的行数组）
+3. [JSONToFile](https://www.30secondsofcode.org/js/s/json-to-file)（将JSON对象写入文件）
+4. [Tip: 使用Chrome开发人员工具调试 Node.js](https://www.30secondsofcode.org/blog/s/nodejs-chrome-debugging)
+5. [colorize](https://www.30secondsofcode.org/js/s/colorize)（在文本中添加特殊字符以在控制台中以彩色打印（与console.log()组合））
+6. [btoa](https://www.30secondsofcode.org/js/s/btoa)（从String对象创建一个base-64编码的ASCII字符串，其中字符串中的每个字符都被视为二进制数据的字节）
+7. [untildify](https://www.30secondsofcode.org/js/s/untildify)（将波浪号路径转换为绝对路径）
+8. [hasFlags](https://www.30secondsofcode.org/js/s/has-flags)（检查当前进程的参数是否包含指定的标志）
+9. [isTravisCI](https://www.30secondsofcode.org/js/s/is-travis-ci)（检查当前环境是否为Travis CI）
+10. [atob](https://www.30secondsofcode.org/js/s/atob)（解码已使用base-64编码的数据字符串）
+11. [requireUncached](https://www.30secondsofcode.org/js/s/require-uncached)（从缓存中删除模块后加载模块（如果存在））
+12. [createDirIfNotExists](https://www.30secondsofcode.org/js/s/create-dir-if-not-exists)（创建目录（如果不存在））
+13. [isDuplexStream](https://www.30secondsofcode.org/js/s/is-duplex-stream)（检查给定的参数是否为双工（可读和可写）流）
+14. [isWritableStream](https://www.30secondsofcode.org/js/s/is-writable-stream)（检查给定的参数是否为可写流）
+15. [isReadableStream](https://www.30secondsofcode.org/js/s/is-readable-stream)（检查给定参数是否为可读流）
+16. [isNode](https://www.30secondsofcode.org/js/s/is-node)（确定当前运行时环境是否为Node.js）
+17. [isStream](https://www.30secondsofcode.org/js/s/is-stream)（检查给定参数是否为流）
 
 ## React
 #### 1）Hooks
