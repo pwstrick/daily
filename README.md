@@ -20,6 +20,7 @@
 13. [Node.js（20道）](https://github.com/pwstrick/daily/blob/master/interview/nodejs.md)
 14. [TypeScript（15道）](https://github.com/pwstrick/daily/blob/master/interview/ts.md)
 15. [Vue（42道）](https://github.com/pwstrick/daily/blob/master/interview/vue.md)
+16. [30 seconds of code](https://github.com/pwstrick/daily/blob/master/article/seconds.md)（短小精悍的代码片段，适合白板面试）
 
 ## 文章集锦
 分享与面试相关的文章，不定期更新。
@@ -31,7 +32,6 @@
 * [GitHub或网络上优秀的面试项目](https://github.com/pwstrick/daily/blob/master/article/github.md)（题量众多，内容饱满）
 * [设计模式之美](https://github.com/pwstrick/daily/blob/master/article/pattern.md)
 * [浏览器原理](https://github.com/pwstrick/daily/blob/master/article/browser.md)
-* [30 seconds of code](https://github.com/pwstrick/daily/blob/master/article/seconds.md)（实用而简短的代码片段）
 
 ## 算法
 算法包括用一句话描述的算法思路，LeetCode中的题目出现频率以及刷题列表（包含思路和实现）。
