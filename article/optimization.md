@@ -15,6 +15,7 @@
 14. [2020前端性能优化清单](https://cloud.tencent.com/developer/article/1621632)
 15. [最强前端性能优化，Google已经为你准备好了](https://zhuanlan.zhihu.com/p/67134654)
 16. [拯救你的年底KPI：前端性能优化](https://juejin.cn/post/6911472693405548557)
+17. [这些前端性能优化的知识我从来不告诉别人](https://juejin.cn/post/6970987477133705252)
 
 ## JavaScript
 1. [图片预加载与懒加载](https://www.cnblogs.com/strick/p/5372694.html)
