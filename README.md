@@ -83,7 +83,7 @@
 * [Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)（[前端开发者手册2019](https://www.yuque.com/ysfe/ykx/fedhb)）  
 * 下图引用自[roadmap.sh](https://roadmap.sh/frontend)。
 
-<img src="https://github.com/pwstrick/daily/raw/master/assets/img/skill/2020.png" />
+<img src="https://github.com/pwstrick/daily/raw/master/assets/img/skill/2021.png" />
 
 ## 欢迎打赏
 <img src="https://github.com/pwstrick/daily/raw/master/assets/img/pay.png" width="300" />
