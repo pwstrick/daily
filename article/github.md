@@ -33,6 +33,7 @@
 32. [前端年后面试真题](https://bitable.feishu.cn/app8Ok6k9qafpMkgyRbfgxeEnet?from=logout&table=tblEnSV2PNAajtWE&view=vewJHSwJVd)
 33. [前端算法进阶](https://github.com/sisterAn/JavaScript-Algorithms)
 34. [国内低代码平台](https://github.com/taowen/awesome-lowcode)
+35. [前端面试秘籍](https://github.com/yisainan/web-interview)
 
 ## 英文
 1. [Awesome JavaScript Interviews（优秀的JavaScript面试）](https://github.com/rohan-paul/Awesome-JavaScript-Interviews)
