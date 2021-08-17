@@ -17,6 +17,8 @@
 16. [拯救你的年底KPI：前端性能优化](https://juejin.cn/post/6911472693405548557)
 17. [这些前端性能优化的知识我从来不告诉别人](https://juejin.cn/post/6970987477133705252)
 18. [腾讯企鹅辅导 H5 性能极致优化](https://juejin.cn/post/6994383328182796295)
+19. [渲染性能优化的全局视角，教你做的比别人好](https://mp.weixin.qq.com/s/lHeSXC963L7hIDKo18HR8w)
+20. [浏览器前端优化](http://jinlong.github.io/2017/05/08/optimising-the-front-end-for-the-browser/)
 
 ## JavaScript
 1. [图片预加载与懒加载](https://www.cnblogs.com/strick/p/5372694.html)
