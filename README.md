@@ -54,7 +54,7 @@
 <img src="https://github.com/pwstrick/daily/raw/master/assets/img/cover/how-to-prepare-in-interview.png" width="200" />
 </p>
 
-## 英语单词
+## 英语学习
 
 单词来源于《计算机专业英语（第3版）》。
 
@@ -62,6 +62,8 @@
 * [附录中的专业英语词汇表](https://github.com/pwstrick/daily/blob/master/book/computer/2.md)
 
 <img src="https://github.com/pwstrick/daily/raw/master/assets/img/cover/computer-en-cover.jpg" />
+
+* [English level up tips for Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese)
 
 ## 前端躬行记
 古语云：“纸上得来终觉浅，绝知此事要躬行”。的确，不管看了多少本书，如果自己不实践，那么就很难领会其中的精髓。为此，开辟了《[前端躬行记](https://www.kancloud.cn/pwstrick/fe-questions/1094971)》系列，包括ES6、React、Vue.js、TypeScript和利器等，将相关知识系统的记录下来，以便自己翻阅，也希望能帮助到广大网友。
@@ -81,6 +83,7 @@
 
 ## 前端技能图谱
 * [Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)（[前端开发者手册2019](https://www.yuque.com/ysfe/ykx/fedhb)）  
+* [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev)
 * 下图引用自[roadmap.sh](https://roadmap.sh/frontend)。
 
 <img src="https://github.com/pwstrick/daily/raw/master/assets/img/skill/2021.png" />
