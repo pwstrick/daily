@@ -151,6 +151,8 @@
 
 [《软件测试的艺术》](https://book.douban.com/subject/10549782/) 
 
+[《单元测试的艺术(第2版)》](https://book.douban.com/subject/25934516/) 
+
 ## 面试
 [《剑指Offer：名企面试官精讲典型编程题》](https://book.douban.com/subject/27008702/) [书摘](https://www.cnblogs.com/strick/p/9908591.html)
 
@@ -251,6 +253,8 @@
 [《工匠精神》](https://book.douban.com/subject/24502209/) [书摘](https://www.cnblogs.com/strick/p/6388058.html)
 
 [《重构 改善既有代码的设计》](https://book.douban.com/subject/4262627/)
+
+[《重构 改善既有代码的设计(第2版)》](https://book.douban.com/subject/30468597/)[书摘](https://www.cnblogs.com/strick/p/15164236.html)
 
 [《程序员的思维修炼》](https://book.douban.com/subject/5372651/)  
 
