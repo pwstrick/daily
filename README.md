@@ -83,6 +83,7 @@
 我还建立了一个微信前端交流群，如要进群，可在加好友后和我说一下。
 
 ## 前端技能图谱
+* [前端知识图谱](https://f2e.tech/)（在线）
 * [Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)（[前端开发者手册2019](https://www.yuque.com/ysfe/ykx/fedhb)）  
 * [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev)（讲座：[理解现代Web开发](https://2017.jsconfchina.com/files/02-modern-web-dev-dexteryy.pdf)）
 * 下图引用自[roadmap.sh](https://roadmap.sh/frontend)。
