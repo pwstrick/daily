@@ -46,6 +46,8 @@
 7. [Tech Interview Handbook（技术面试手册）](https://yangshun.github.io/tech-interview-handbook)
 8. [Build your own React（自制React库）](https://pomb.us/build-your-own-react/)
 9. [Awesome Canvas（Canvas示例和文章清单）](https://github.com/raphamorim/awesome-canvas)
+10. [330 React Interview Questions](https://dev.to/aviyel/300-react-interview-questions-4dag)
+11. [List of 1000 JavaScript Interview Questions](https://github.com/sudheerj/javascript-interview-questions)
 
 ## 网盘
 1. [前端面试资料合集（有些资料略老，可选择性阅读）](https://pan.baidu.com/s/160pw7WI0AtfD-vmsC_i_XA) 【密码：a7em】
