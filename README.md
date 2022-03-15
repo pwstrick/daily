@@ -88,7 +88,7 @@
 * [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev)（讲座：[理解现代Web开发](https://2017.jsconfchina.com/files/02-modern-web-dev-dexteryy.pdf)）
 * 下图引用自[roadmap.sh](https://roadmap.sh/frontend)。
 
-<img src="https://github.com/pwstrick/daily/raw/master/assets/img/skill/2021.png" />
+<img src="https://github.com/pwstrick/daily/raw/master/assets/img/skill/2022.png" />
 
 ## 欢迎打赏
 <img src="https://github.com/pwstrick/daily/raw/master/assets/img/pay.png" width="300" />
