@@ -35,6 +35,7 @@
 34. [国内低代码平台](https://github.com/taowen/awesome-lowcode)
 35. [前端面试秘籍](https://github.com/yisainan/web-interview)
 36. [剑指前端Offer](http://febook.hzfe.org/awesome-interview/)
+37. [反向面试](https://github.com/yifeikong/reverse-interview-zh)
 
 ## 英文
 1. [Awesome JavaScript Interviews（优秀的JavaScript面试）](https://github.com/rohan-paul/Awesome-JavaScript-Interviews)
