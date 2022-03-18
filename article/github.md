@@ -53,14 +53,5 @@
 
 ## 网盘
 1. [前端面试资料合集（有些资料略老，可选择性阅读）](https://pan.baidu.com/s/160pw7WI0AtfD-vmsC_i_XA) 【密码：a7em】
-2. [算法面试通关40讲](https://pan.baidu.com/s/1dzZGeMNzYnu6QHT98u9r8g)【密码：jwh1】
-3. [前端跳槽面试必备技巧](https://pan.baidu.com/s/1DOmX9Mw_5sT4ihgZyMyrQA)【密码：dcpx】
-4. [Vue.js 源码全方位深入解析](https://pan.baidu.com/s/1DLqo2duKOqerLuJHiLb1iQ)【密码：uddj】
-5. [Javascript 设计模式系统讲解与应用](https://pan.baidu.com/s/1tIGQLiO3sd9QW90I885POQ)【密码：2v36】
-6. [直通BAT算法精讲](https://pan.baidu.com/s/18UsVNaS-5CODJJit92u7JQ)【密码：xqaw】
-7. [前端JavaScript高级面试](https://pan.baidu.com/s/1uZgDjffF-9fuUGBRnwVP6g)【密码：j7b7】
-8. [全面系统讲解CSS 工作应用+面试一步搞定](https://pan.baidu.com/s/1hDIsltZypo-gXbfjaghdTA)【密码：11w3】
-9. [前端JavaScript面试技巧全套](https://pan.baidu.com/s/1cPPxgW20SAF9mcIOjsctBA)【密码：iq34】
-10. [让你页面速度飞起来 - Web前端性能优化](https://pan.baidu.com/s/1JSVUBPLm6CPRnFsg3f0Smw)【密码：3hkf】
-11. [HTTP协议原理](https://pan.baidu.com/s/1Qu5ciq3gfiZuzBsmdo4nIQ)【密码：iaw4】
+
 
