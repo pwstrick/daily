@@ -53,6 +53,7 @@
 13. [roadmap.sh（前端学习路线图）](https://roadmap.sh/)
 14. [type Challenges（TypeScript 类型体操姿势合集）](https://github.com/type-challenges/type-challenges)
 15. [React Interview Questions & Answers（React面试问题和解答）](https://github.com/sudheerj/reactjs-interview-questions)
+16. [Favorite JavaScript Utilities in single line of code! No more!（一行JavaScript代码）](https://1loc.dev)
 
 ## 网盘
 1. [前端面试资料合集（有些资料略老，可选择性阅读）](https://pan.baidu.com/s/160pw7WI0AtfD-vmsC_i_XA) 【密码：a7em】
