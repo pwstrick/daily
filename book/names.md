@@ -261,6 +261,8 @@
 
 [《程序员的思维修炼》](https://book.douban.com/subject/5372651/)  
 
+[《开发者布道手册》](https://jimmysong.io/developer-advocacy-handbook/)
+
 ## 少儿编程
 [《动手玩转Scratch2.0编程》](https://book.douban.com/subject/26658602/) [书摘](https://www.cnblogs.com/strick/p/9929604.html)
 
