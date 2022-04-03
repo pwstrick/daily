@@ -20,6 +20,7 @@
 19. [渲染性能优化的全局视角，教你做的比别人好](https://mp.weixin.qq.com/s/lHeSXC963L7hIDKo18HR8w)
 20. [浏览器前端优化](http://jinlong.github.io/2017/05/08/optimising-the-front-end-for-the-browser/)
 21. [前端运行时动画性能监控](https://jelly.jd.com/article/601fc77d61dbb7014cff31b1)
+22. [2021前端性能优化清单](https://limoon7.github.io/2021/01/07/FE%E6%80%A7%E8%83%BDcheckList/)
 
 ## JavaScript
 1. [图片预加载与懒加载](https://www.cnblogs.com/strick/p/5372694.html)
