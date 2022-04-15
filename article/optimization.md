@@ -21,6 +21,8 @@
 20. [浏览器前端优化](http://jinlong.github.io/2017/05/08/optimising-the-front-end-for-the-browser/)
 21. [前端运行时动画性能监控](https://jelly.jd.com/article/601fc77d61dbb7014cff31b1)
 22. [2021前端性能优化清单](https://limoon7.github.io/2021/01/07/FE%E6%80%A7%E8%83%BDcheckList/)
+23. [得物AppH5秒开优化实战](https://mp.weixin.qq.com/s/23ZFPK4CaCkinwpZ3SG9Rw)
+24. [9大高性能优化经验总结](https://mp.weixin.qq.com/s/BkHuI4qJKJfmpBe_C2QRUA)
 
 ## JavaScript
 1. [图片预加载与懒加载](https://www.cnblogs.com/strick/p/5372694.html)
