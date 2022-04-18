@@ -37,6 +37,7 @@
 36. [剑指前端Offer](http://febook.hzfe.org/awesome-interview/)
 37. [反向面试](https://github.com/yifeikong/reverse-interview-zh)
 38. [深入理解Node.js：核心思想与源码分析](https://yjhjstz.gitbooks.io/deep-into-node/content/)
+39. [JavaScript开发者应懂的33个概念](https://github.com/stephentian/33-js-concepts)
 
 ## 英文
 1. [Awesome JavaScript Interviews（优秀的JavaScript面试）](https://github.com/rohan-paul/Awesome-JavaScript-Interviews)
