@@ -23,6 +23,7 @@
 22. [2021前端性能优化清单](https://limoon7.github.io/2021/01/07/FE%E6%80%A7%E8%83%BDcheckList/)
 23. [得物AppH5秒开优化实战](https://mp.weixin.qq.com/s/23ZFPK4CaCkinwpZ3SG9Rw)
 24. [9大高性能优化经验总结](https://mp.weixin.qq.com/s/BkHuI4qJKJfmpBe_C2QRUA)
+25. [性能分析优化的道与术](https://mp.weixin.qq.com/s/Lixpj7quoylmn07gYw0jxA)
 
 ## JavaScript
 1. [图片预加载与懒加载](https://www.cnblogs.com/strick/p/5372694.html)
