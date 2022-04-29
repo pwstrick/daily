@@ -58,6 +58,13 @@
 16. [Favorite JavaScript Utilities in single line of code! No more!（一行JavaScript代码）](https://1loc.dev)
 17. [study is wonderful 数学、算法、计算机等学习视频](https://github.com/xioacd99/study-is-wonderful)
 
+## Node.js
+1. [Nodejs技术栈](https://github.com/qufei1993/Nodejs-Roadmap)
+2. [Node.js Best Practices（Node.js最佳实践）](https://github.com/goldbergyoni/nodebestpractices)
+3. [深入理解 Node.js：核心思想与源码分析](https://github.com/yjhjstz/deep-into-node)
+4. [node elm](https://github.com/bailicangdu/node-elm)
+5. [awesome nodejs](https://github.com/sindresorhus/awesome-nodejs)
+
 ## 网盘
 1. [前端面试资料合集（有些资料略老，可选择性阅读）](https://pan.baidu.com/s/160pw7WI0AtfD-vmsC_i_XA) 【密码：a7em】
 
