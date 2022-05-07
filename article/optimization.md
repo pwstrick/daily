@@ -25,6 +25,7 @@
 24. [9大高性能优化经验总结](https://mp.weixin.qq.com/s/BkHuI4qJKJfmpBe_C2QRUA)
 25. [性能分析优化的道与术](https://mp.weixin.qq.com/s/Lixpj7quoylmn07gYw0jxA)
 26. [边缘渲染提速](https://juejin.cn/post/7002151207762395172/)
+27. [Web页面全链路性能优化指南](https://mp.weixin.qq.com/s/wJxj5QbOHwH9cKmqU5eSQw)
 
 ## JavaScript
 1. [图片预加载与懒加载](https://www.cnblogs.com/strick/p/5372694.html)
