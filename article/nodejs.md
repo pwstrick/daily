@@ -1,6 +1,6 @@
 ## 源码
 1. [Node.js流源码解读之可读流](https://juejin.cn/post/7070827961443680269)
-2. [青梅煮酒，聊聊zlib压缩](https://juejin.cn/post/7072218345138831390/)
+2. [青梅煮酒，聊聊zlib压缩](https://juejin.cn/post/7081931728717086751)
 3. [nodejs源码分析](https://www.zhihu.com/column/c_1094251741922619392)
 4. [深入解析require源码，知其根，洞其源](https://juejin.cn/post/7083291899821293581)
 5. [Node.js的底层原理](https://juejin.cn/post/7008504029277847565)
