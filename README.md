@@ -28,10 +28,12 @@
 * [2019年](https://github.com/pwstrick/daily/blob/master/article/2019.md)
 * [2020年](https://github.com/pwstrick/daily/blob/master/article/2020.md)
 * [2021年](https://github.com/pwstrick/daily/blob/master/article/2021.md)
+* [2022年](https://github.com/pwstrick/daily/blob/master/article/2022.md)
 * [前端优化](https://github.com/pwstrick/daily/blob/master/article/optimization.md)
 * [GitHub或网络上优秀的面试项目](https://github.com/pwstrick/daily/blob/master/article/github.md)（题量众多，内容饱满）
 * [设计模式之美](https://github.com/pwstrick/daily/blob/master/article/pattern.md)
 * [浏览器原理](https://github.com/pwstrick/daily/blob/master/article/browser.md)
+* [Node.js深层分析](https://github.com/pwstrick/daily/blob/master/article/nodejs.md)
 
 ## 算法
 算法包括用一句话描述的算法思路，LeetCode中的题目出现频率以及刷题列表（包含思路和实现）。
