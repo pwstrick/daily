@@ -36,6 +36,7 @@
 5. [100万个成员的数组取第一个和最后一个有性能差距吗?](https://juejin.im/post/5d75a5266fb9a06b1a56b137)
 6. [讲讲PWA](https://segmentfault.com/a/1190000012353473)
 7. [你以为什么是perfomance之前端基础性能监测](https://juejin.im/post/5e26c8cf5188254d9032a62c)
+8. [图片压缩、加载和格式选择](https://zoo.team/article/images-compress)
 
 ## React
 1. [浅谈React性能优化的方向](https://juejin.im/post/5d045350f265da1b695d5bf2)
@@ -61,3 +62,5 @@
 ## 工具
 1. [WebPageTest系列](https://www.cnblogs.com/strick/category/980651.html)
 2. [SEO Speed Mobile测试](https://varvy.com/)
+
+
