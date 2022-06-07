@@ -18,6 +18,7 @@
 5. [想学Node.js，stream先有必要搞清楚](https://juejin.cn/post/6844903891083984910)
 6. [Node.js process 模块解读](https://juejin.cn/post/6844903614784225287)
 7. [多文件 Stream 合并，串行和并发两种模式实现](https://mp.weixin.qq.com/s/E_wgJQJJ8jCSO5jdkz_Evg)
+8. [NodeJs进阶开发、性能优化指南](https://juejin.cn/post/7095354780079357966)
 
 ## 框架
 1. [Nest.js 的 AOP 架构的好处，你感受到了么？](https://juejin.cn/post/7076431946834214925)
