@@ -5,6 +5,7 @@
 4. [深入解析require源码，知其根，洞其源](https://juejin.cn/post/7083291899821293581)
 5. [Node.js的底层原理](https://juejin.cn/post/7008504029277847565)
 6. [libuv源码分析](https://www.zhihu.com/column/c_1094553212761309184)
+7. [浅析 path 常用工具函数源码](https://www.zoo.team/article/path-tool)
 
 ## 实战
 1. [Node开发实践总结-定时脚本的设计与实现](https://juejin.cn/post/6914213540572168205)
