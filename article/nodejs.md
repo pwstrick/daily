@@ -10,6 +10,7 @@
 ## 实战
 1. [Node开发实践总结-定时脚本的设计与实现](https://juejin.cn/post/6914213540572168205)
 2. [Node.js 实战指南](https://juejin.cn/column/7078168448228360228)
+3. [如何利用 Nodejs 监听文件夹](https://github.com/ascoders/weekly/blob/master/%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF/59.%E7%B2%BE%E8%AF%BB%E3%80%8A%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8%20Nodejs%20%E7%9B%91%E5%90%AC%E6%96%87%E4%BB%B6%E5%A4%B9%E3%80%8B.md)
 
 ## 进阶
 1. [NodeJs进阶——流（Stream）](https://juejin.cn/post/7077511716564631566)
@@ -27,3 +28,4 @@
 ## V8
 1. [重学JS-1.3-知识点：V8引擎](https://juejin.cn/post/7072673619398098981)
 2. [v8源码分析](https://www.zhihu.com/column/c_1131561628650512384)
+3. [V8 引擎 Lazy Parsing](https://github.com/ascoders/weekly/blob/master/%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF/100.%E7%B2%BE%E8%AF%BB%E3%80%8AV8%20%E5%BC%95%E6%93%8E%20Lazy%20Parsing%E3%80%8B.md)
