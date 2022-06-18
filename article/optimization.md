@@ -63,5 +63,5 @@
 ## 工具
 1. [WebPageTest系列](https://www.cnblogs.com/strick/category/980651.html)
 2. [SEO Speed Mobile测试](https://varvy.com/)
-
+3. [数据库全量SQL分析与审计系统性能优化之旅](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651769043&idx=1&sn=06214b6b59b894cf504a50ed4aacc02a)
 
