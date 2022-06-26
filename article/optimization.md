@@ -59,6 +59,7 @@
 ## 网络
 1. [前端性能优化的另一种方式——HTTP2.0](https://www.cnblogs.com/strick/p/5658280.html)
 2. [从优化到面试装逼指南——网络系列](https://juejin.im/post/5defb2866fb9a01631780d29)
+3. [爱奇艺海外 App 网络优化实践](https://mp.weixin.qq.com/s/9qcuwu75gtdHvH1rJQGirw)
 
 ## 工具
 1. [WebPageTest系列](https://www.cnblogs.com/strick/category/980651.html)
