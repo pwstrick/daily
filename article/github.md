@@ -39,6 +39,7 @@
 38. [深入理解Node.js：核心思想与源码分析](https://yjhjstz.gitbooks.io/deep-into-node/content/)
 39. [JavaScript开发者应懂的33个概念](https://github.com/stephentian/33-js-concepts)
 40. [前端精读周刊](https://github.com/ascoders/weekly)
+41. [Vue.js 在线挑战平台](https://cn-vuejs-challenges.netlify.app)
 
 ## 英文
 1. [Awesome JavaScript Interviews（优秀的JavaScript面试）](https://github.com/rohan-paul/Awesome-JavaScript-Interviews)
