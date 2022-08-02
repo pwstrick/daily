@@ -61,8 +61,14 @@
 2. [从优化到面试装逼指南——网络系列](https://juejin.im/post/5defb2866fb9a01631780d29)
 3. [爱奇艺海外 App 网络优化实践](https://mp.weixin.qq.com/s/9qcuwu75gtdHvH1rJQGirw)
 
+## SQL
+1. [数据库全量SQL分析与审计系统性能优化之旅](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651769043&idx=1&sn=06214b6b59b894cf504a50ed4aacc02a)
+2. [1.8w 字的 SQL 优化大全](https://mp.weixin.qq.com/s/Uvm_p5YuH3E8snDGnE8QLQ)
+3. [MySQL六十六问，两万字+五十图详解！有点六！](https://mp.weixin.qq.com/s/Q_uiKoNZW5Dgc7XFmM_8Qg)
+4. [MySQL索引背后的数据结构及算法原理](https://mp.weixin.qq.com/s/NUI0lzkTqKvlLnUx-nqvhQ)
+
 ## 工具
 1. [WebPageTest系列](https://www.cnblogs.com/strick/category/980651.html)
 2. [SEO Speed Mobile测试](https://varvy.com/)
-3. [数据库全量SQL分析与审计系统性能优化之旅](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651769043&idx=1&sn=06214b6b59b894cf504a50ed4aacc02a)
+
 
