@@ -11,6 +11,7 @@
 1. [Node开发实践总结-定时脚本的设计与实现](https://juejin.cn/post/6914213540572168205)
 2. [Node.js 实战指南](https://juejin.cn/column/7078168448228360228)
 3. [如何利用 Nodejs 监听文件夹](https://github.com/ascoders/weekly/blob/master/%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF/59.%E7%B2%BE%E8%AF%BB%E3%80%8A%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8%20Nodejs%20%E7%9B%91%E5%90%AC%E6%96%87%E4%BB%B6%E5%A4%B9%E3%80%8B.md)
+4. [Node.js 动态表格大文件下载实践](https://www.cnblogs.com/cangqinglang/p/15791494.html)
 
 ## 进阶
 1. [NodeJs进阶——流（Stream）](https://juejin.cn/post/7077511716564631566)
