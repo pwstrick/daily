@@ -28,6 +28,7 @@
 27. [Web页面全链路性能优化指南](https://mp.weixin.qq.com/s/wJxj5QbOHwH9cKmqU5eSQw)
 28. [Google 最新的性能优化方案，LCP 提升30%！](https://mp.weixin.qq.com/s/yn2t6wO_MI-mLC7EIQ1D1A)
 29. [前端性能优化之图片篇](https://mp.weixin.qq.com/s/FFg94-UIR73BslSPoMoyLg)
+30. [【译】Netflix 网页性能优化案例](https://juejin.cn/post/6844903711605538823)
 
 ## JavaScript
 1. [图片预加载与懒加载](https://www.cnblogs.com/strick/p/5372694.html)
