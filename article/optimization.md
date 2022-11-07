@@ -29,6 +29,7 @@
 28. [Google 最新的性能优化方案，LCP 提升30%！](https://mp.weixin.qq.com/s/yn2t6wO_MI-mLC7EIQ1D1A)
 29. [前端性能优化之图片篇](https://mp.weixin.qq.com/s/FFg94-UIR73BslSPoMoyLg)
 30. [【译】Netflix 网页性能优化案例](https://juejin.cn/post/6844903711605538823)
+31. [前端性能优化之旅](https://github.com/alienzhou/fe-performance-journey)
 
 ## JavaScript
 1. [图片预加载与懒加载](https://www.cnblogs.com/strick/p/5372694.html)
@@ -39,6 +40,7 @@
 6. [讲讲PWA](https://segmentfault.com/a/1190000012353473)
 7. [你以为什么是perfomance之前端基础性能监测](https://juejin.im/post/5e26c8cf5188254d9032a62c)
 8. [图片压缩、加载和格式选择](https://zoo.team/article/images-compress)
+9. [如何提升JSON.stringify()的性能？](https://zhuanlan.zhihu.com/p/68183339)
 
 ## React
 1. [浅谈React性能优化的方向](https://juejin.im/post/5d045350f265da1b695d5bf2)
