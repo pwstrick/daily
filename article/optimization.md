@@ -41,6 +41,7 @@
 7. [你以为什么是perfomance之前端基础性能监测](https://juejin.im/post/5e26c8cf5188254d9032a62c)
 8. [图片压缩、加载和格式选择](https://zoo.team/article/images-compress)
 9. [如何提升JSON.stringify()的性能？](https://zhuanlan.zhihu.com/p/68183339)
+10. [压缩 70% 下载流量 - 记一次店铺优化专项](https://juejin.cn/post/7160886262839115806)
 
 ## React
 1. [浅谈React性能优化的方向](https://juejin.im/post/5d045350f265da1b695d5bf2)
