@@ -51,6 +51,7 @@
 5. [React 优化技巧在 Web 版光线追踪里的应用(上)](https://juejin.cn/post/6909716626736676878)
 6. [React 优化技巧在 Web 版光线追踪里的应用(中)](https://juejin.cn/post/6911508764063432712)
 7. [React优化技巧在Web版光线追踪里的应用(下) ](https://juejin.cn/post/6913790120990769160)
+8. [React 性能优化的那些事儿](https://juejin.cn/post/7146846541846675492)
 
 ## Vue
 1. [提升90%加载速度——vuecli下的首屏性能优化](https://segmentfault.com/a/1190000019499007)
