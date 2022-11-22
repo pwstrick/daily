@@ -12,6 +12,10 @@
 2. [Node.js 实战指南](https://juejin.cn/column/7078168448228360228)
 3. [如何利用 Nodejs 监听文件夹](https://github.com/ascoders/weekly/blob/master/%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF/59.%E7%B2%BE%E8%AF%BB%E3%80%8A%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8%20Nodejs%20%E7%9B%91%E5%90%AC%E6%96%87%E4%BB%B6%E5%A4%B9%E3%80%8B.md)
 4. [Node.js 动态表格大文件下载实践](https://www.cnblogs.com/cangqinglang/p/15791494.html)
+5. [Node.js 安全最佳实践](https://mp.weixin.qq.com/s/2CBGgtja04NnOerpKfk0Ug)
+6. [用 Node.js 手写一个 DNS 服务器](https://mp.weixin.qq.com/s/Gl94ISY5N4BYyYmVT9-QFQ)
+7. [海量Node.js网关的架构设计与工程实践！](https://mp.weixin.qq.com/s/9t1gSxGbVFe0LteJwWOFyA)
+8. [Node.js 结合 MongoDB 实现字段级自动加密](https://mp.weixin.qq.com/s/X7JKiK59iu9i7iacWnjsJg)
 
 ## 进阶
 1. [NodeJs进阶——流（Stream）](https://juejin.cn/post/7077511716564631566)
@@ -25,8 +29,10 @@
 
 ## 框架
 1. [Nest.js 的 AOP 架构的好处，你感受到了么？](https://juejin.cn/post/7076431946834214925)
+2. [Koa 源码剖析](https://mp.weixin.qq.com/s/4DcRVTiivRuPrg57XVEZIg)
 
 ## V8
 1. [重学JS-1.3-知识点：V8引擎](https://juejin.cn/post/7072673619398098981)
 2. [v8源码分析](https://www.zhihu.com/column/c_1131561628650512384)
 3. [V8 引擎 Lazy Parsing](https://github.com/ascoders/weekly/blob/master/%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF/100.%E7%B2%BE%E8%AF%BB%E3%80%8AV8%20%E5%BC%95%E6%93%8E%20Lazy%20Parsing%E3%80%8B.md)
+4. [V8 引擎：基于类型推测的性能优化原理](https://mp.weixin.qq.com/s/YHD28SvIMTyJOTcj24wyuw)

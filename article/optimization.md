@@ -42,6 +42,7 @@
 8. [图片压缩、加载和格式选择](https://zoo.team/article/images-compress)
 9. [如何提升JSON.stringify()的性能？](https://zhuanlan.zhihu.com/p/68183339)
 10. [压缩 70% 下载流量 - 记一次店铺优化专项](https://juejin.cn/post/7160886262839115806)
+11. [V8 引擎：基于类型推测的性能优化原理](https://mp.weixin.qq.com/s/YHD28SvIMTyJOTcj24wyuw)
 
 ## React
 1. [浅谈React性能优化的方向](https://juejin.im/post/5d045350f265da1b695d5bf2)
