@@ -33,6 +33,7 @@
 16. [把前端监控做到极致](https://juejin.cn/post/6844903545733398536)
 17. [小公司自建前端监控埋点体系，证明可行](https://juejin.cn/post/6844904161562066958)
 18. [手刃前端监控系统](https://juejin.cn/post/6844903731918553102)
+19. [你只会用前端数据埋点 SDK 吗？](https://juejin.cn/post/7163046672874864676)
 
 ## 音视频
 1. [WebRTC基础实践](https://www.cnblogs.com/strick/p/16802072.html)
