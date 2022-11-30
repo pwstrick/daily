@@ -47,6 +47,7 @@
 9. [你未必知道的 WebRTC – 前世、今生、未来](https://juejin.cn/post/7024330947080388621)
 10. [从0搭建一个WebRTC，实现多房间多对多通话，并实现屏幕录制](https://juejin.cn/post/7129763930779418654)
 11. [Web 多媒体开发指南](https://juejin.cn/post/6844903922834866189)
+12. [WebRTC + Tensorflow.js 在运动健康类项目中的前端应用](https://juejin.cn/post/7171711316422295560)
 
 ## 调试
 1. [线上崩了？一招教你快速定位问题！](https://juejin.cn/post/7166031357418668040)
