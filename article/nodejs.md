@@ -16,6 +16,7 @@
 6. [用 Node.js 手写一个 DNS 服务器](https://mp.weixin.qq.com/s/Gl94ISY5N4BYyYmVT9-QFQ)
 7. [海量Node.js网关的架构设计与工程实践！](https://mp.weixin.qq.com/s/9t1gSxGbVFe0LteJwWOFyA)
 8. [Node.js 结合 MongoDB 实现字段级自动加密](https://mp.weixin.qq.com/s/X7JKiK59iu9i7iacWnjsJg)
+9. [Node 系统中定时任务的演化](https://mp.weixin.qq.com/s/LAXFhgVssZkP4cUnuoZnug)
 
 ## 进阶
 1. [NodeJs进阶——流（Stream）](https://juejin.cn/post/7077511716564631566)
