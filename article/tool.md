@@ -64,3 +64,4 @@
 2. [微前端的前世今生](https://mp.weixin.qq.com/s/90SYQG3zqRPA1D5ysLpPXg)
 3. [微前端方案 qiankun 只是更完善的 single-spa](https://mp.weixin.qq.com/s/HgEfI8JSFOwfjG4GAoaQJQ)
 4. [基于 iframe 的微前端框架 —— 擎天](https://mp.weixin.qq.com/s/Rohj17iy7qglDAjheo5aKw)
+5. [了解微前端，深入前端架构的前世今生](https://mp.weixin.qq.com/s/UetEZPco-dKDSwrtchVT7g)

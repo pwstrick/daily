@@ -31,6 +31,7 @@
 ## 框架
 1. [Nest.js 的 AOP 架构的好处，你感受到了么？](https://juejin.cn/post/7076431946834214925)
 2. [Koa 源码剖析](https://mp.weixin.qq.com/s/4DcRVTiivRuPrg57XVEZIg)
+3. [项目里没用过设计模式？看看 Nest.js 怎么用的](https://mp.weixin.qq.com/s/CKmevwy39MnpsseaH9SwrA)
 
 ## V8
 1. [重学JS-1.3-知识点：V8引擎](https://juejin.cn/post/7072673619398098981)
