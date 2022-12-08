@@ -56,6 +56,7 @@
 
 ## Vue
 1. [提升90%加载速度——vuecli下的首屏性能优化](https://segmentfault.com/a/1190000019499007)
+2. [优化 Vue 项目技巧合辑](https://www.smashingmagazine.com/2022/11/optimizing-vue-app)
 
 ## webpack
 1. [前端必懂的webpack优化](https://juejin.im/post/5d372851f265da1ba915bf78)
