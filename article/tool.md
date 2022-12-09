@@ -14,6 +14,7 @@
 13. [试着换个角度理解低代码平台设计的本质](https://juejin.cn/post/7122230894865154061)
 14. [InnerEye低代码大屏：低代码思源与实践](https://mp.weixin.qq.com/s/ag16I-mEWjzFWvKhMZbz8A)
 15. [低代码为什么没前途](https://mp.weixin.qq.com/s/NG_xQ-_8Gvl19k9yAUQB3A)
+16. [如何设计可视化搭建平台的组件商店？](https://mp.weixin.qq.com/s/GZRdac6hZjxZ2SmotSA_5Q)
 
 ## 监控
 1. [从零开始搞监控系统（1）——SDK](https://www.cnblogs.com/strick/p/14574492.html)
