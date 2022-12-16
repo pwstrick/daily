@@ -15,6 +15,7 @@
 14. [InnerEye低代码大屏：低代码思源与实践](https://mp.weixin.qq.com/s/ag16I-mEWjzFWvKhMZbz8A)
 15. [低代码为什么没前途](https://mp.weixin.qq.com/s/NG_xQ-_8Gvl19k9yAUQB3A)
 16. [如何设计可视化搭建平台的组件商店？](https://mp.weixin.qq.com/s/GZRdac6hZjxZ2SmotSA_5Q)
+17. [基于 LowCodeEngine 的调试能力建设与实践](https://mp.weixin.qq.com/s/H8KvEOylmzLPgIuuBO0S9w)
 
 ## 监控
 1. [从零开始搞监控系统（1）——SDK](https://www.cnblogs.com/strick/p/14574492.html)
@@ -36,6 +37,7 @@
 17. [小公司自建前端监控埋点体系，证明可行](https://juejin.cn/post/6844904161562066958)
 18. [手刃前端监控系统](https://juejin.cn/post/6844903731918553102)
 19. [你只会用前端数据埋点 SDK 吗？](https://juejin.cn/post/7163046672874864676)
+20. [字节跳动埋点数据流建设实践](https://mp.weixin.qq.com/s/SFSxr8yqv1Sh9Hf1CzKFnA)
 
 ## 音视频
 1. [WebRTC基础实践](https://www.cnblogs.com/strick/p/16802072.html)

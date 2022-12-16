@@ -30,6 +30,7 @@
 29. [前端性能优化之图片篇](https://mp.weixin.qq.com/s/FFg94-UIR73BslSPoMoyLg)
 30. [【译】Netflix 网页性能优化案例](https://juejin.cn/post/6844903711605538823)
 31. [前端性能优化之旅](https://github.com/alienzhou/fe-performance-journey)
+32. [驱动页面性能优化的3个有效策略](https://mp.weixin.qq.com/s/ZX0gmNau9hjmNbhFxmohVA)
 
 ## JavaScript
 1. [图片预加载与懒加载](https://www.cnblogs.com/strick/p/5372694.html)
