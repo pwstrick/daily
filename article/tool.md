@@ -61,6 +61,7 @@
 5. [会用 Performance 工具，就能深入理解 Event Loop](https://mp.weixin.qq.com/s/22tS74K5JQr1V98Q4DPqJg)
 6. [调试工具的通用原理：调试四要素](https://mp.weixin.qq.com/s/CNiYKhKm-8KGyqGfSAwkxg)
 7. [玩转 Chrome DevTools，定制自己的调试工具](https://mp.weixin.qq.com/s/zRfjX0u9ifXsbvJ6jz4Mdw)
+8. [Hybrid 远程调试的前世今生](https://mp.weixin.qq.com/s/rm_7vNNhd4WukjHRW0cl0w)
 
 ## 微前端
 1. [微前端如何做样式隔离？](https://mp.weixin.qq.com/s/AYI0FGFBOG1QAlbo5qVixQ)
