@@ -17,6 +17,7 @@
 7. [海量Node.js网关的架构设计与工程实践！](https://mp.weixin.qq.com/s/9t1gSxGbVFe0LteJwWOFyA)
 8. [Node.js 结合 MongoDB 实现字段级自动加密](https://mp.weixin.qq.com/s/X7JKiK59iu9i7iacWnjsJg)
 9. [Node 系统中定时任务的演化](https://mp.weixin.qq.com/s/LAXFhgVssZkP4cUnuoZnug)
+10. [JavaScript & Node.js testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
 
 ## 进阶
 1. [NodeJs进阶——流（Stream）](https://juejin.cn/post/7077511716564631566)
@@ -32,6 +33,7 @@
 1. [Nest.js 的 AOP 架构的好处，你感受到了么？](https://juejin.cn/post/7076431946834214925)
 2. [Koa 源码剖析](https://mp.weixin.qq.com/s/4DcRVTiivRuPrg57XVEZIg)
 3. [项目里没用过设计模式？看看 Nest.js 怎么用的](https://mp.weixin.qq.com/s/CKmevwy39MnpsseaH9SwrA)
+4. [The Most Popular Node.js Frameworks in 2022](https://stackdiary.com/node-js-frameworks/)
 
 ## V8
 1. [重学JS-1.3-知识点：V8引擎](https://juejin.cn/post/7072673619398098981)
