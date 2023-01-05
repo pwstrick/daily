@@ -18,6 +18,7 @@
 8. [Node.js 结合 MongoDB 实现字段级自动加密](https://mp.weixin.qq.com/s/X7JKiK59iu9i7iacWnjsJg)
 9. [Node 系统中定时任务的演化](https://mp.weixin.qq.com/s/LAXFhgVssZkP4cUnuoZnug)
 10. [JavaScript & Node.js testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
+11. [Node.js最佳实践](https://github.com/goldbergyoni/nodebestpractices)
 
 ## 进阶
 1. [NodeJs进阶——流（Stream）](https://juejin.cn/post/7077511716564631566)
