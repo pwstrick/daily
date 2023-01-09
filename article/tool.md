@@ -38,6 +38,7 @@
 18. [手刃前端监控系统](https://juejin.cn/post/6844903731918553102)
 19. [你只会用前端数据埋点 SDK 吗？](https://juejin.cn/post/7163046672874864676)
 20. [字节跳动埋点数据流建设实践](https://mp.weixin.qq.com/s/SFSxr8yqv1Sh9Hf1CzKFnA)
+21. [前端错误监控以及上报](https://juejin.cn/post/7185871994624147512)
 
 ## 音视频
 1. [WebRTC基础实践](https://www.cnblogs.com/strick/p/16802072.html)
@@ -69,3 +70,5 @@
 3. [微前端方案 qiankun 只是更完善的 single-spa](https://mp.weixin.qq.com/s/HgEfI8JSFOwfjG4GAoaQJQ)
 4. [基于 iframe 的微前端框架 —— 擎天](https://mp.weixin.qq.com/s/Rohj17iy7qglDAjheo5aKw)
 5. [了解微前端，深入前端架构的前世今生](https://mp.weixin.qq.com/s/UetEZPco-dKDSwrtchVT7g)
+6. [微前端究竟是什么？微前端核心技术揭秘！](https://mp.weixin.qq.com/s/u9F1IUJfsuJBseOsPIK5qQ)
+7. [关于微前端，你理解到究极奥义了么？](https://juejin.cn/post/7185863492820926523)

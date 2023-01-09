@@ -19,6 +19,7 @@
 9. [Node 系统中定时任务的演化](https://mp.weixin.qq.com/s/LAXFhgVssZkP4cUnuoZnug)
 10. [JavaScript & Node.js testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
 11. [Node.js最佳实践](https://github.com/goldbergyoni/nodebestpractices)
+12. [Node 实现在浏览器预览项目的所有图片](https://juejin.cn/post/7185438521807601721)
 
 ## 进阶
 1. [NodeJs进阶——流（Stream）](https://juejin.cn/post/7077511716564631566)
@@ -35,6 +36,7 @@
 2. [Koa 源码剖析](https://mp.weixin.qq.com/s/4DcRVTiivRuPrg57XVEZIg)
 3. [项目里没用过设计模式？看看 Nest.js 怎么用的](https://mp.weixin.qq.com/s/CKmevwy39MnpsseaH9SwrA)
 4. [The Most Popular Node.js Frameworks in 2022](https://stackdiary.com/node-js-frameworks/)
+5. [如何简单搭建一个类似egg.js的框架？](https://juejin.cn/post/7185207905195393081)
 
 ## V8
 1. [重学JS-1.3-知识点：V8引擎](https://juejin.cn/post/7072673619398098981)
