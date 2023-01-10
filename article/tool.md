@@ -72,3 +72,4 @@
 5. [了解微前端，深入前端架构的前世今生](https://mp.weixin.qq.com/s/UetEZPco-dKDSwrtchVT7g)
 6. [微前端究竟是什么？微前端核心技术揭秘！](https://mp.weixin.qq.com/s/u9F1IUJfsuJBseOsPIK5qQ)
 7. [关于微前端，你理解到究极奥义了么？](https://juejin.cn/post/7185863492820926523)
+8. [模块联邦在微前端架构中的实践](https://mp.weixin.qq.com/s/WXeUuUdgF_3djqBhh1siQA)
