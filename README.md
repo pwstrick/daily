@@ -25,12 +25,12 @@
 ## 文章集锦
 分享与面试和技术相关的文章，不定期更新。
 
-* [前端行为和性能监控脚本：shin-monitor](https://github.com/pwstrick/shin-monitor)
 * [2019年](https://github.com/pwstrick/daily/blob/master/article/2019.md)
 * [2020年](https://github.com/pwstrick/daily/blob/master/article/2020.md)
 * [2021年](https://github.com/pwstrick/daily/blob/master/article/2021.md)
 * [2022年](https://github.com/pwstrick/daily/blob/master/article/2022.md)
 * [2023年](https://github.com/pwstrick/daily/blob/master/article/2023.md)
+* [前端行为和性能监控脚本：shin-monitor](https://github.com/pwstrick/shin-monitor)
 * [前端优化](https://github.com/pwstrick/daily/blob/master/article/optimization.md)
 * [GitHub或网络上优秀的面试项目](https://github.com/pwstrick/daily/blob/master/article/github.md)（题量众多，内容饱满）
 * [设计模式之美](https://github.com/pwstrick/daily/blob/master/article/pattern.md)
