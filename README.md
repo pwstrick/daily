@@ -23,8 +23,9 @@
 16. [30 seconds of code](https://github.com/pwstrick/daily/blob/master/article/seconds.md)（短小精悍的代码片段，适合白板面试）
 
 ## 文章集锦
-分享与面试相关的文章，不定期更新。
+分享与面试和技术相关的文章，不定期更新。
 
+* [前端行为和性能监控脚本：shin-monitor](https://github.com/pwstrick/shin-monitor)
 * [2019年](https://github.com/pwstrick/daily/blob/master/article/2019.md)
 * [2020年](https://github.com/pwstrick/daily/blob/master/article/2020.md)
 * [2021年](https://github.com/pwstrick/daily/blob/master/article/2021.md)
