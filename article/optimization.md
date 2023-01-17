@@ -81,3 +81,4 @@
 
 ## 英文资料
 1. [2022 In Review: What’s New In Web Performance?](https://www.debugbear.com/blog/2022-in-web-performance)
+2. [Our top Core Web Vitals recommendations for 2023](https://web.dev/top-cwv-2023/)
