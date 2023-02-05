@@ -43,6 +43,7 @@
 23. [如何提升前端线上问题发现率？我们是这样做的](https://mp.weixin.qq.com/s/I1d00468g0Km1jPGsFN2hQ)
 24. [百亿业务流量-如何做好稳定性监控](https://mp.weixin.qq.com/s/iV5hkuC3KWgbgAQbPzDcbQ)
 25. [【干货】跨端体验度量的思考与实现（含直播回放）](https://mp.weixin.qq.com/s/2TQG2pt0-yo7no8slY0dcA)
+26. [字节前端监控实践](https://juejin.cn/post/7195496297150709821)
 
 ## 音视频
 1. [WebRTC基础实践](https://www.cnblogs.com/strick/p/16802072.html)
