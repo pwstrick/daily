@@ -1,3 +1,6 @@
+## 教程
+1. [ Node.js Basics ( v18.x )](https://github.com/learning-zone/nodejs-basics)
+
 ## 源码
 1. [Node.js流源码解读之可读流](https://juejin.cn/post/7070827961443680269)
 2. [青梅煮酒，聊聊zlib压缩](https://juejin.cn/post/7081931728717086751)
@@ -20,6 +23,7 @@
 10. [JavaScript & Node.js testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
 11. [Node.js最佳实践](https://github.com/goldbergyoni/nodebestpractices)
 12. [Node 实现在浏览器预览项目的所有图片](https://juejin.cn/post/7185438521807601721)
+13. [4 Common Mistakes Made by Node.js Developers](https://amplication.com/blog/4-common-mistakes-made-by-nodejs-developers)
 
 ## 进阶
 1. [NodeJs进阶——流（Stream）](https://juejin.cn/post/7077511716564631566)
