@@ -32,6 +32,7 @@
 31. [前端性能优化之旅](https://github.com/alienzhou/fe-performance-journey)
 32. [驱动页面性能优化的3个有效策略](https://mp.weixin.qq.com/s/ZX0gmNau9hjmNbhFxmohVA)
 33. [前端性能优化——首页资源压缩63%、白屏时间缩短86%](https://juejin.cn/post/7188894691356573754)
+34. [字节性能优化经验分享](https://mp.weixin.qq.com/s/ZfIWKRbF3Yq7sNFG2TsQFw)
 
 ## JavaScript
 1. [图片预加载与懒加载](https://www.cnblogs.com/strick/p/5372694.html)
