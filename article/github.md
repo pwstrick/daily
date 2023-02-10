@@ -62,6 +62,7 @@
 17. [study is wonderful 数学、算法、计算机等学习视频](https://github.com/xioacd99/study-is-wonderful)
 18. [programcreek（各类代码demo）](https://www.programcreek.com/)
 19. [You May Not Need Lodash or Underscore ](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)
+20. [You might not need jQuery](https://youmightnotneedjquery.com/)
 
 ## Node.js
 1. [Nodejs技术栈](https://github.com/qufei1993/Nodejs-Roadmap)
