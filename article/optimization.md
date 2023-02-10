@@ -70,6 +70,7 @@
 1. [前端性能优化的另一种方式——HTTP2.0](https://www.cnblogs.com/strick/p/5658280.html)
 2. [从优化到面试装逼指南——网络系列](https://juejin.im/post/5defb2866fb9a01631780d29)
 3. [爱奇艺海外 App 网络优化实践](https://mp.weixin.qq.com/s/9qcuwu75gtdHvH1rJQGirw)
+4. [Robin 讲 HTTP/3](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&__biz=MzU1NTEzOTM5Mw==&scene=1&album_id=2515159295169331201&count=3#wechat_redirect)
 
 ## SQL
 1. [数据库全量SQL分析与审计系统性能优化之旅](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651769043&idx=1&sn=06214b6b59b894cf504a50ed4aacc02a)
