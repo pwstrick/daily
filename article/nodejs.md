@@ -47,3 +47,4 @@
 2. [v8源码分析](https://www.zhihu.com/column/c_1131561628650512384)
 3. [V8 引擎 Lazy Parsing](https://github.com/ascoders/weekly/blob/master/%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF/100.%E7%B2%BE%E8%AF%BB%E3%80%8AV8%20%E5%BC%95%E6%93%8E%20Lazy%20Parsing%E3%80%8B.md)
 4. [V8 引擎：基于类型推测的性能优化原理](https://mp.weixin.qq.com/s/YHD28SvIMTyJOTcj24wyuw)
+5. [在线可视化 Node.js 内存分析工具](https://zhuanlan.zhihu.com/p/599903528)
