@@ -66,10 +66,11 @@
 5. [现代图片性能优化及体验优化指南 - 图片类型及 Picture 标签的使用](https://segmentfault.com/a/1190000043408039)
 6. [前端图片压缩方案](https://segmentfault.com/a/1190000043377981)
 
-## webpack
+## 构建
 1. [前端必懂的webpack优化](https://juejin.im/post/5d372851f265da1ba915bf78)
 2. [使用Webpack优化你的第三方库](https://juejin.im/post/5d3cfeaa518825720651913e)
 3. [Webpack优化——将你的构建效率提速翻倍](https://juejin.im/post/5d614dc96fb9a06ae3726b3e)
+4. [我修复了一个 Vite Bug，让我的项目首屏性能提高了 25%](https://juejin.cn/post/7166606179261480967)
 
 ## 网络
 1. [前端性能优化的另一种方式——HTTP2.0](https://www.cnblogs.com/strick/p/5658280.html)
@@ -83,7 +84,7 @@
 3. [MySQL六十六问，两万字+五十图详解！有点六！](https://mp.weixin.qq.com/s/Q_uiKoNZW5Dgc7XFmM_8Qg)
 4. [MySQL索引背后的数据结构及算法原理](https://mp.weixin.qq.com/s/NUI0lzkTqKvlLnUx-nqvhQ)
 
-## 工具
+## 实验室分析
 1. [WebPageTest系列](https://www.cnblogs.com/strick/category/980651.html)
 2. [SEO Speed Mobile测试](https://varvy.com/)
 
