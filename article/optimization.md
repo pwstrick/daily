@@ -31,6 +31,7 @@
 30. [驱动页面性能优化的3个有效策略](https://mp.weixin.qq.com/s/ZX0gmNau9hjmNbhFxmohVA)
 31. [前端性能优化——首页资源压缩63%、白屏时间缩短86%](https://juejin.cn/post/7188894691356573754)
 32. [字节性能优化经验分享](https://mp.weixin.qq.com/s/ZfIWKRbF3Yq7sNFG2TsQFw)
+33. [当面试官问我前端可以做的性能优化有哪些](https://juejin.cn/post/7194400984490049573)
 
 ## JavaScript
 1. [前端网络、JavaScript优化以及开发小技巧](https://www.cnblogs.com/strick/p/6228339.html)
@@ -43,6 +44,7 @@
 8. [压缩 70% 下载流量 - 记一次店铺优化专项](https://juejin.cn/post/7160886262839115806)
 9. [V8 引擎：基于类型推测的性能优化原理](https://mp.weixin.qq.com/s/YHD28SvIMTyJOTcj24wyuw)
 10. [面试官经常问的十个棘手的 JavaScript 问题](https://segmentfault.com/a/1190000043395435)
+11. [提高代码质量的 11 个高级 JavaScript 函数](https://juejin.cn/post/7198000226770370620)
 
 ## React
 1. [浅谈React性能优化的方向](https://juejin.im/post/5d045350f265da1b695d5bf2)
