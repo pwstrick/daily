@@ -46,6 +46,7 @@
 10. [面试官经常问的十个棘手的 JavaScript 问题](https://segmentfault.com/a/1190000043395435)
 11. [提高代码质量的 11 个高级 JavaScript 函数](https://juejin.cn/post/7198000226770370620)
 12. [Qwik-前端性能的终极方案？](https://juejin.cn/post/7169545700517085192)
+13. [Qwik.js框架是如何追求极致性能的?!](https://segmentfault.com/a/1190000042250628)
 
 ## React
 1. [浅谈React性能优化的方向](https://juejin.im/post/5d045350f265da1b695d5bf2)
