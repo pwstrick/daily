@@ -251,11 +251,11 @@
 ## 音视频
 [《FFmpeg原理》](https://ffmpeg.xianwaizhiyin.net/) 
 
-《FFmpeg音视频开发基础与实战》
+[《FFmpeg音视频开发基础与实战》](https://book.douban.com/subject/35731313/)
 
 [《WebRTC音视频实时互动技术原理、实战与源码分析》](https://book.douban.com/subject/35543112/)
 
-《FFmpeg入门详解 音视频原理及应用》[书摘](https://www.cnblogs.com/strick/p/16832080.html)
+[《FFmpeg入门详解 音视频原理及应用》](https://book.douban.com/subject/36095440/)[书摘](https://www.cnblogs.com/strick/p/16832080.html)
 
 ## 综合
 [《程序员健康指南》](https://book.douban.com/subject/25981248/) [书摘](https://www.cnblogs.com/strick/p/10836794.html)
