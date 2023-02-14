@@ -190,6 +190,8 @@
 
 [《Web前端性能优化》](https://book.douban.com/subject/35022948/)
 
+[《前端性能揭秘》](https://book.douban.com/subject/36096567/)
+
 ## 算法
 [《枕边算法书》](https://book.douban.com/subject/30163021/) [书摘](https://www.cnblogs.com/strick/p/9324530.html)
 
