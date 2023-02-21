@@ -61,6 +61,8 @@
 ## Vue
 1. [提升90%加载速度——vuecli下的首屏性能优化](https://segmentfault.com/a/1190000019499007)
 2. [优化 Vue 项目技巧合辑](https://www.smashingmagazine.com/2022/11/optimizing-vue-app)
+3. [性能优化之图片懒加载使用vue-lazyload或IntersectionObserver观察检测者](https://segmentfault.com/a/1190000043448015)
+4. [性能优化之使用vue-worker插件（基于Web Worker）开启多线程运算提高效率](https://segmentfault.com/a/1190000043411552)
 
 ## 图像
 1. [谈谈Web应用中的图片优化技巧及反思](https://segmentfault.com/a/1190000020047949)
