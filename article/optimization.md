@@ -63,6 +63,7 @@
 2. [优化 Vue 项目技巧合辑](https://www.smashingmagazine.com/2022/11/optimizing-vue-app)
 3. [性能优化之图片懒加载使用vue-lazyload或IntersectionObserver观察检测者](https://segmentfault.com/a/1190000043448015)
 4. [性能优化之使用vue-worker插件（基于Web Worker）开启多线程运算提高效率](https://segmentfault.com/a/1190000043411552)
+5. [vue3 table 性能优化，减少 85% 渲染耗时](https://juejin.cn/post/7194516447932973112)
 
 ## 图像
 1. [谈谈Web应用中的图片优化技巧及反思](https://segmentfault.com/a/1190000020047949)
