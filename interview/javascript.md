@@ -364,4 +364,5 @@ machine('ygy').waitFirst(5).do('eat').execute();
 149. [如何实现并发请求？](https://github.com/pwstrick/daily/issues/977)
 
 ## 思维导图
+
 ![JavaScript](https://github.com/pwstrick/daily/blob/master/assets/img/mind/JavaScript.png)
