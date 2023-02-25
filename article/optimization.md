@@ -72,6 +72,7 @@
 4. [图片压缩、加载和格式选择](https://zoo.team/article/images-compress)
 5. [现代图片性能优化及体验优化指南 - 图片类型及 Picture 标签的使用](https://segmentfault.com/a/1190000043408039)
 6. [前端图片压缩方案](https://segmentfault.com/a/1190000043377981)
+7. [现代图片性能优化及体验优化指南 - 缩放精细化展示及避免布局偏移、拉伸](https://juejin.cn/post/7203012367180185661)
 
 ## 构建
 1. [前端必懂的webpack优化](https://juejin.im/post/5d372851f265da1ba915bf78)
