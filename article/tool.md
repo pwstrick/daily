@@ -80,3 +80,4 @@
 7. [关于微前端，你理解到究极奥义了么？](https://juejin.cn/post/7185863492820926523)
 8. [模块联邦在微前端架构中的实践](https://mp.weixin.qq.com/s/WXeUuUdgF_3djqBhh1siQA)
 9. [为什么single-spa才是微前端的正确开发模式](https://mp.weixin.qq.com/s/RzNvq8t5_UFYcJZLBBF2XQ)
+10. [从零开始，一步步学习微前端](https://juejin.cn/post/7204723936914554937)

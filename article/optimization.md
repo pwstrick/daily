@@ -64,6 +64,8 @@
 3. [性能优化之图片懒加载使用vue-lazyload或IntersectionObserver观察检测者](https://segmentfault.com/a/1190000043448015)
 4. [性能优化之使用vue-worker插件（基于Web Worker）开启多线程运算提高效率](https://segmentfault.com/a/1190000043411552)
 5. [vue3 table 性能优化，减少 85% 渲染耗时](https://juejin.cn/post/7194516447932973112)
+6. [Vue.js关于父子组件数据双向绑定的思考以及四种实现方案](https://juejin.cn/post/7204735262961188921)
+7. [Vue-router从配置使用到实战操作再到首屏优化](https://juejin.cn/post/7204635326559797306)
 
 ## 图像
 1. [谈谈Web应用中的图片优化技巧及反思](https://segmentfault.com/a/1190000020047949)
@@ -73,6 +75,7 @@
 5. [现代图片性能优化及体验优化指南 - 图片类型及 Picture 标签的使用](https://segmentfault.com/a/1190000043408039)
 6. [前端图片压缩方案](https://segmentfault.com/a/1190000043377981)
 7. [现代图片性能优化及体验优化指南 - 缩放精细化展示及避免布局偏移、拉伸](https://juejin.cn/post/7203012367180185661)
+8. [现代图片性能优化及体验优化指南 - 懒加载及异步图像解码方案](https://juejin.cn/post/7204860462240170040)
 
 ## 构建
 1. [前端必懂的webpack优化](https://juejin.im/post/5d372851f265da1ba915bf78)
