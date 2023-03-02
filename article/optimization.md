@@ -57,6 +57,7 @@
 6. [React 优化技巧在 Web 版光线追踪里的应用(中)](https://juejin.cn/post/6911508764063432712)
 7. [React优化技巧在Web版光线追踪里的应用(下) ](https://juejin.cn/post/6913790120990769160)
 8. [React 性能优化的那些事儿](https://juejin.cn/post/7146846541846675492)
+9. [Lazy Loading with React–An Overview](https://www.syncfusion.com/blogs/post/lazy-loading-with-react-an-overview.aspx)
 
 ## Vue
 1. [提升90%加载速度——vuecli下的首屏性能优化](https://segmentfault.com/a/1190000019499007)
@@ -76,6 +77,7 @@
 6. [前端图片压缩方案](https://segmentfault.com/a/1190000043377981)
 7. [现代图片性能优化及体验优化指南 - 缩放精细化展示及避免布局偏移、拉伸](https://juejin.cn/post/7203012367180185661)
 8. [现代图片性能优化及体验优化指南 - 懒加载及异步图像解码方案](https://juejin.cn/post/7204860462240170040)
+9. [Learn Images](https://web.dev/learn/images/)
 
 ## 构建
 1. [前端必懂的webpack优化](https://juejin.im/post/5d372851f265da1ba915bf78)
@@ -102,4 +104,4 @@
 ## 英文资料
 1. [2022 In Review: What’s New In Web Performance?](https://www.debugbear.com/blog/2022-in-web-performance)
 2. [Our top Core Web Vitals recommendations for 2023](https://web.dev/top-cwv-2023/)
-3. [Learn Images](https://web.dev/learn/images/)
+3. [Tachyon，一个让页面导航更快的小脚本](https://fasterthanlight.net/)
