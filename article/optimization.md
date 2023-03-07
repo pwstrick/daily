@@ -84,6 +84,7 @@
 2. [使用Webpack优化你的第三方库](https://juejin.im/post/5d3cfeaa518825720651913e)
 3. [Webpack优化——将你的构建效率提速翻倍](https://juejin.im/post/5d614dc96fb9a06ae3726b3e)
 4. [我修复了一个 Vite Bug，让我的项目首屏性能提高了 25%](https://juejin.cn/post/7166606179261480967)
+5. [浅析 SplitChunksPlugin 及代码分割的意义](https://mp.weixin.qq.com/s/wZ0rqkZQ1XFbJBLG2aE7_Q)
 
 ## 网络
 1. [前端性能优化的另一种方式——HTTP2.0](https://www.cnblogs.com/strick/p/5658280.html)
@@ -91,6 +92,7 @@
 3. [爱奇艺海外 App 网络优化实践](https://mp.weixin.qq.com/s/9qcuwu75gtdHvH1rJQGirw)
 4. [Robin 讲 HTTP/3](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&__biz=MzU1NTEzOTM5Mw==&scene=1&album_id=2515159295169331201&count=3#wechat_redirect)
 5. [HTML性能优化-Prerender2.0机制解读](https://mp.weixin.qq.com/s/4y17EuEfeouxCnAdVTaC8w?scene=25#wechat_redirect)
+6. [HTTP 3.0彻底放弃TCP，TCP到底做错了什么？](https://mp.weixin.qq.com/s/7M9nxxrsVV8x8cUFzF5N3A)
 
 ## SQL
 1. [数据库全量SQL分析与审计系统性能优化之旅](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651769043&idx=1&sn=06214b6b59b894cf504a50ed4aacc02a)
