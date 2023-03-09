@@ -108,3 +108,4 @@
 1. [2022 In Review: What’s New In Web Performance?](https://www.debugbear.com/blog/2022-in-web-performance)
 2. [Our top Core Web Vitals recommendations for 2023](https://web.dev/top-cwv-2023/)
 3. [Tachyon，一个让页面导航更快的小脚本](https://fasterthanlight.net/)
+4. [为什么您需要了解网站的性能稳定状态（以及如何找到它）](https://www.speedcurve.com/blog/web-performance-poverty-line/)
