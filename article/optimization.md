@@ -73,11 +73,13 @@
 2. [前端性能优化之图片篇](https://mp.weixin.qq.com/s/FFg94-UIR73BslSPoMoyLg)
 3. [图片预加载与懒加载](https://www.cnblogs.com/strick/p/5372694.html)
 4. [图片压缩、加载和格式选择](https://zoo.team/article/images-compress)
-5. [现代图片性能优化及体验优化指南 - 图片类型及 Picture 标签的使用](https://segmentfault.com/a/1190000043408039)
-6. [前端图片压缩方案](https://segmentfault.com/a/1190000043377981)
-7. [现代图片性能优化及体验优化指南 - 缩放精细化展示及避免布局偏移、拉伸](https://juejin.cn/post/7203012367180185661)
-8. [现代图片性能优化及体验优化指南 - 懒加载及异步图像解码方案](https://juejin.cn/post/7204860462240170040)
-9. [Learn Images](https://web.dev/learn/images/)
+5. [前端图片压缩方案](https://segmentfault.com/a/1190000043377981)
+6. [Learn Images](https://web.dev/learn/images/)
+7. [现代图片性能优化及体验优化指南 - 图片类型及 Picture 标签的使用](https://segmentfault.com/a/1190000043408039)
+8. [现代图片性能优化及体验优化指南 - 响应式图片方案](https://juejin.cn/post/7202266382841495611)
+8. [现代图片性能优化及体验优化指南 - 缩放精细化展示及避免布局偏移、拉伸](https://juejin.cn/post/7203012367180185661)
+9. [现代图片性能优化及体验优化指南 - 懒加载及异步图像解码方案](https://juejin.cn/post/7204860462240170040)
+10. [现代图片性能优化及体验优化指南 - 图片资源的容错及可访问性处理](https://juejin.cn/post/7208571916155895864)
 
 ## 构建
 1. [前端必懂的webpack优化](https://juejin.im/post/5d372851f265da1ba915bf78)
