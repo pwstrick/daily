@@ -1,5 +1,6 @@
 ## 教程
-1. [ Node.js Basics ( v18.x )](https://github.com/learning-zone/nodejs-basics)
+1. [Node.js Basics ( v18.x )](https://github.com/learning-zone/nodejs-basics)
+2. [Node.js 最佳测试实践](https://github.com/goldbergyoni/javascript-testing-best-practices)
 
 ## 源码
 1. [Node.js流源码解读之可读流](https://juejin.cn/post/7070827961443680269)
