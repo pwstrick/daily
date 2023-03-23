@@ -1,6 +1,7 @@
 ## 教程
 1. [Node.js Basics ( v18.x )](https://github.com/learning-zone/nodejs-basics)
 2. [Node.js 最佳测试实践](https://github.com/goldbergyoni/javascript-testing-best-practices)
+3. [40 多个 Node.js 最佳实践列表和示例应用程序](https://github.com/testjavascript/nodejs-integration-tests-best-practices)
 
 ## 源码
 1. [Node.js流源码解读之可读流](https://juejin.cn/post/7070827961443680269)
@@ -42,6 +43,7 @@
 3. [项目里没用过设计模式？看看 Nest.js 怎么用的](https://mp.weixin.qq.com/s/CKmevwy39MnpsseaH9SwrA)
 4. [The Most Popular Node.js Frameworks in 2022](https://stackdiary.com/node-js-frameworks/)
 5. [如何简单搭建一个类似egg.js的框架？](https://juejin.cn/post/7185207905195393081)
+6. [Hyperstack：一个受 Rails 启发的 Node.js Web 框架](https://hyperstackjs.io/)
 
 ## V8
 1. [重学JS-1.3-知识点：V8引擎](https://juejin.cn/post/7072673619398098981)
