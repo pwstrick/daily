@@ -82,6 +82,8 @@
 9. [现代图片性能优化及体验优化指南 - 懒加载及异步图像解码方案](https://juejin.cn/post/7204860462240170040)
 10. [现代图片性能优化及体验优化指南 - 图片资源的容错及可访问性处理](https://juejin.cn/post/7208571916155895864)
 11. [前端加载超大图片(100M以上)实现秒开解决方案](https://juejin.cn/post/7212270321622106170)
+12. [The Ultimate Guide to Image Optimisation(图像优化终极指南)](https://calibreapp.com/blog/image-optimisation-guide)
+13. [Sharp 0.32.0，基于 Node.js 的高性能图像处理库](https://github.com/lovell/sharp)
 
 ## 构建
 1. [前端必懂的webpack优化](https://juejin.im/post/5d372851f265da1ba915bf78)
