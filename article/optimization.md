@@ -100,6 +100,8 @@
 5. [HTML性能优化-Prerender2.0机制解读](https://mp.weixin.qq.com/s/4y17EuEfeouxCnAdVTaC8w?scene=25#wechat_redirect)
 6. [HTTP 3.0彻底放弃TCP，TCP到底做错了什么？](https://mp.weixin.qq.com/s/7M9nxxrsVV8x8cUFzF5N3A)
 7. [淘宝HTTP3/QUIC技术演进与实践](https://mp.weixin.qq.com/s/uwMxy5v_uwQDCMAUWgWgPw)
+8. [Partytown.js，将第三方脚本从主线程中移出](https://github.com/BuilderIO/partytown)
+9. [Partytown 如何消除第三方脚本所带来的网站膨胀](https://juejin.cn/post/7140045936419405854)
 
 ## SQL
 1. [数据库全量SQL分析与审计系统性能优化之旅](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651769043&idx=1&sn=06214b6b59b894cf504a50ed4aacc02a)
