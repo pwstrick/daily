@@ -38,6 +38,7 @@
 * [浏览器原理](https://github.com/pwstrick/daily/blob/master/article/browser.md)
 * [Node.js深度分析](https://github.com/pwstrick/daily/blob/master/article/nodejs.md)
 * [前端工具技术](https://github.com/pwstrick/daily/blob/master/article/tool.md)
+* [优秀的 ChatGPT 命令](https://github.com/f/awesome-chatgpt-prompts)
 
 ## 算法
 算法包括用一句话描述的算法思路，LeetCode中的题目出现频率以及刷题列表（包含思路和实现）。
