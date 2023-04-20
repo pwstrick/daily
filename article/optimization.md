@@ -102,6 +102,8 @@
 7. [淘宝HTTP3/QUIC技术演进与实践](https://mp.weixin.qq.com/s/uwMxy5v_uwQDCMAUWgWgPw)
 8. [Partytown.js，将第三方脚本从主线程中移出](https://github.com/BuilderIO/partytown)
 9. [Partytown 如何消除第三方脚本所带来的网站膨胀](https://juejin.cn/post/7140045936419405854)
+10. [Understanding CSS preload and other resource hints（理解CSS 预加载和其他资源提示）](https://blog.logrocket.com/understanding-css-preload-other-resource-hints)
+11. [Optimizing resource loading with the Fetch Priority API（使用 Fetch Priority API 优化资源加载）](https://web.dev/fetch-priority/)
 
 ## SQL
 1. [数据库全量SQL分析与审计系统性能优化之旅](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651769043&idx=1&sn=06214b6b59b894cf504a50ed4aacc02a)
@@ -118,3 +120,5 @@
 2. [Our top Core Web Vitals recommendations for 2023](https://web.dev/top-cwv-2023/)
 3. [Tachyon，一个让页面导航更快的小脚本](https://fasterthanlight.net/)
 4. [为什么您需要了解网站的性能稳定状态（以及如何找到它）](https://www.speedcurve.com/blog/web-performance-poverty-line/)
+5. [Interaction to Next Paint (INP): What is it and How to Improve It（Next Paint (INP) 是什么以及如何改进它）](https://calibreapp.com/blog/interaction-to-next-paint)
+6. [Improve Largest Contentful Paint (LCP) by removing image transitions（通过消除图像过渡来改善 LCP）](https://performance.shopify.com/blogs/blog/improve-largest-contentful-paint-lcp-by-removing-image-transitions)
