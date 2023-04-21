@@ -5,4 +5,5 @@
 4. [优秀的 ChatGPT 命令](https://github.com/f/awesome-chatgpt-prompts)
 
 ## 工具
-1. [GPT-4 Poe](https://poe.com/GPT-4)
+1. [GPT-4 Poe](https://poe.com/GPT-4) 在线可用多种 AI
+2. [ChatDOC](https://chatdoc.com/) 上传文档后，可针对文档内容进行提问
