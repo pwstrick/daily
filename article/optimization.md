@@ -122,3 +122,4 @@
 4. [为什么您需要了解网站的性能稳定状态（以及如何找到它）](https://www.speedcurve.com/blog/web-performance-poverty-line/)
 5. [Interaction to Next Paint (INP): What is it and How to Improve It（Next Paint (INP) 是什么以及如何改进它）](https://calibreapp.com/blog/interaction-to-next-paint)
 6. [Improve Largest Contentful Paint (LCP) by removing image transitions（通过消除图像过渡来改善 LCP）](https://performance.shopify.com/blogs/blog/improve-largest-contentful-paint-lcp-by-removing-image-transitions)
+7. [JavaScript Optimization Techniques for Faster Website Load Times: An In-Depth Guide（JavaScript 优化技术深入指南）](https://blog.bitsrc.io/javascript-optimization-techniques-for-faster-website-load-times-an-in-depth-guide-cd2985194a07)
