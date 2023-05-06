@@ -42,6 +42,7 @@
 41. [Vue.js 在线挑战平台](https://cn-vuejs-challenges.netlify.app)
 42. [音视频流媒体权威资料整理](https://github.com/0voice/audio_video_streaming)
 43. [用 JavaScript 演示的 100 多种算法和数据结构](https://github.com/trekhleb/javascript-algorithms)
+44. [Awesome Resume](https://github.com/resumejob/awesome-resume)
 
 ## 英文
 1. [Awesome JavaScript Interviews（优秀的JavaScript面试）](https://github.com/rohan-paul/Awesome-JavaScript-Interviews)
