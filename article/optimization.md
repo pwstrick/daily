@@ -92,6 +92,7 @@
 3. [Webpack优化——将你的构建效率提速翻倍](https://juejin.im/post/5d614dc96fb9a06ae3726b3e)
 4. [我修复了一个 Vite Bug，让我的项目首屏性能提高了 25%](https://juejin.cn/post/7166606179261480967)
 5. [浅析 SplitChunksPlugin 及代码分割的意义](https://mp.weixin.qq.com/s/wZ0rqkZQ1XFbJBLG2aE7_Q)
+6. [我是如何把 Vite 的打包时间从 110s 优化到 25s 的](https://juejin.cn/post/7235818900818526265)
 
 ## 网络
 1. [前端性能优化的另一种方式——HTTP2.0](https://www.cnblogs.com/strick/p/5658280.html)

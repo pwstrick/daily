@@ -47,6 +47,7 @@
 25. [【干货】跨端体验度量的思考与实现（含直播回放）](https://mp.weixin.qq.com/s/2TQG2pt0-yo7no8slY0dcA)
 26. [字节前端监控实践](https://juejin.cn/post/7195496297150709821)
 27. [rrweb 实现原理介绍](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247503275&idx=1&sn=1f9e7a1486b98cbc25d4755fb02c8d29)
+28. [搭建自动化 Web 页面性能检测系统 —— 设计篇](https://www.cnblogs.com/dtux/p/17433983.html)
 
 ## 音视频
 1. [WebRTC基础实践](https://www.cnblogs.com/strick/p/16802072.html)
