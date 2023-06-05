@@ -64,6 +64,7 @@
 12. [WebRTC + Tensorflow.js 在运动健康类项目中的前端应用](https://juejin.cn/post/7171711316422295560)
 13. [深入浅出 WebRTC 传输协议](https://mp.weixin.qq.com/s/XMhSDABc74dpALIHrPPt7w)
 14. [WebRTC 屏幕分享深度解析](https://mp.weixin.qq.com/s/o9HE8eIpGsKo4YL90uQc3A)
+15. [Web Audio API实现简单变声效果](https://mp.weixin.qq.com/s/MuBqhyDUWbqU9p8e9LhdlQ)
 
 ## 调试
 1. [线上崩了？一招教你快速定位问题！](https://juejin.cn/post/7166031357418668040)
