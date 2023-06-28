@@ -34,6 +34,7 @@
 33. [当面试官问我前端可以做的性能优化有哪些](https://juejin.cn/post/7194400984490049573)
 34. [聊聊前端性能指标那些事儿](https://juejin.cn/post/7215386649676365883)
 35. [提升 Web 核心性能指标的 9 个建议](https://mp.weixin.qq.com/s/RVswilfm0MMOBGaMs_3b4g)
+36. [前端性能优化之页面加载](https://juejin.cn/post/7248509579124817981)
 
 ## JavaScript
 1. [前端网络、JavaScript优化以及开发小技巧](https://www.cnblogs.com/strick/p/6228339.html)

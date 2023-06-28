@@ -49,6 +49,7 @@
 27. [rrweb 实现原理介绍](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247503275&idx=1&sn=1f9e7a1486b98cbc25d4755fb02c8d29)
 28. [搭建自动化 Web 页面性能检测系统 —— 设计篇](https://www.cnblogs.com/dtux/p/17433983.html)
 29. [网易云音乐大前端监控体系（Corona）建设实践-开篇](https://mp.weixin.qq.com/s/gLVlCauJ3JbLxgrxFfZNXg)
+30. [不可不知的前端工程化—— 埋点&监控](https://juejin.cn/post/7247770501324996664)
 
 ## 音视频
 1. [WebRTC基础实践](https://www.cnblogs.com/strick/p/16802072.html)
