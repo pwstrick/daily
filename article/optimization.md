@@ -35,6 +35,8 @@
 34. [聊聊前端性能指标那些事儿](https://juejin.cn/post/7215386649676365883)
 35. [提升 Web 核心性能指标的 9 个建议](https://mp.weixin.qq.com/s/RVswilfm0MMOBGaMs_3b4g)
 36. [前端性能优化之页面加载](https://juejin.cn/post/7248509579124817981)
+37. [如何实现 H5 秒开？](https://juejin.cn/post/7249665163242307640)
+38. [从恋爱到前端性能优化](https://juejin.cn/post/7250639505527259173)
 
 ## JavaScript
 1. [前端网络、JavaScript优化以及开发小技巧](https://www.cnblogs.com/strick/p/6228339.html)
@@ -50,6 +52,7 @@
 11. [提高代码质量的 11 个高级 JavaScript 函数](https://juejin.cn/post/7198000226770370620)
 12. [Qwik-前端性能的终极方案？](https://juejin.cn/post/7169545700517085192)
 13. [Qwik.js框架是如何追求极致性能的?!](https://segmentfault.com/a/1190000042250628)
+14. [如何实现分片加载网络数据？让页面秒开无白屏！](https://juejin.cn/post/7249907952156721209)
 
 ## React
 1. [浅谈React性能优化的方向](https://juejin.im/post/5d045350f265da1b695d5bf2)
