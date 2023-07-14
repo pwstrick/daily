@@ -121,6 +121,7 @@
 ## 实验室分析
 1. [WebPageTest系列](https://www.cnblogs.com/strick/category/980651.html)
 2. [SEO Speed Mobile测试](https://varvy.com/)
+3. [我给项目加了性能守卫插件，同事叫我晚上别睡的太死](https://juejin.cn/post/7253331974051823675)
 
 ## 英文资料
 1. [2022 In Review: What’s New In Web Performance?](https://www.debugbear.com/blog/2022-in-web-performance)
@@ -130,3 +131,4 @@
 5. [Interaction to Next Paint (INP): What is it and How to Improve It（Next Paint (INP) 是什么以及如何改进它）](https://calibreapp.com/blog/interaction-to-next-paint)
 6. [Improve Largest Contentful Paint (LCP) by removing image transitions（通过消除图像过渡来改善 LCP）](https://performance.shopify.com/blogs/blog/improve-largest-contentful-paint-lcp-by-removing-image-transitions)
 7. [JavaScript Optimization Techniques for Faster Website Load Times: An In-Depth Guide（JavaScript 优化技术深入指南）](https://blog.bitsrc.io/javascript-optimization-techniques-for-faster-website-load-times-an-in-depth-guide-cd2985194a07)
+8. [In Defence of DOMContentLoaded（捍卫 DOMContentLoaded）](https://csswizardry.com/2023/07/in-defence-of-domcontentloaded/)

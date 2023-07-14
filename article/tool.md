@@ -18,6 +18,7 @@
 17. [基于 LowCodeEngine 的调试能力建设与实践](https://mp.weixin.qq.com/s/H8KvEOylmzLPgIuuBO0S9w)
 18. [一款好的低代码开发平台应该是什么样？](https://juejin.cn/post/7201050872573476925)
 19. [什么？低代码引擎可以开发应用了](https://mp.weixin.qq.com/s/dwi40gJjGBHW9MVpag5Oxg)
+20. [讲讲我做低代码平台这一年](https://juejin.cn/post/7254104833514618917)
 
 ## 监控
 1. [从零开始搞监控系统（1）——SDK](https://www.cnblogs.com/strick/p/14574492.html)
