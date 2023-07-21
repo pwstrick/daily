@@ -91,6 +91,7 @@
 12. [The Ultimate Guide to Image Optimisation(图像优化终极指南)](https://calibreapp.com/blog/image-optimisation-guide)
 13. [Sharp 0.32.0，基于 Node.js 的高性能图像处理库](https://github.com/lovell/sharp)
 14. [《现代图片性能优化及体验优化指南》全集](https://mp.weixin.qq.com/s/LN-fBf-RigSfS_XtU_19JQ)
+15. [前端加载超大图片实现秒开解决方案](https://mp.weixin.qq.com/s/uq5ygydlJO7HSZo8BfBctw)
 
 ## 构建
 1. [前端必懂的webpack优化](https://juejin.im/post/5d372851f265da1ba915bf78)
