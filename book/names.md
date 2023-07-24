@@ -282,7 +282,10 @@
 
 [《Nginx高性能Web服务器实战教程》](https://book.douban.com/subject/27129298/) 
 
-
+## 可视化
+[《更好的数据可视化指南》](https://book.douban.com/subject/36078030/)
+[《用图表说话 如何简单有效地做数据分析》](https://book.douban.com/subject/34909751/)
+
 ## 营销
 [《网络营销决胜武器(第2版)》](https://book.douban.com/subject/26415532/) [书摘](https://www.cnblogs.com/strick/p/9824965.html)
 
