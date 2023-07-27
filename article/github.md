@@ -73,6 +73,9 @@
 4. [node elm](https://github.com/bailicangdu/node-elm)
 5. [awesome nodejs](https://github.com/sindresorhus/awesome-nodejs)
 
+## 安全
+1. [31条API安全小贴士](https://github.com/inonshk/31-days-of-API-Security-Tips)
+
 ## 网盘
 1. [前端面试资料合集（有些资料略老，可选择性阅读）](https://pan.baidu.com/s/160pw7WI0AtfD-vmsC_i_XA) 【密码：a7em】
 
