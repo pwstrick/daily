@@ -214,6 +214,8 @@
 
 [《黑客攻防技术宝典 Web实战篇》](https://book.douban.com/subject/10793814/)
 
+[《API安全技术与实战》](https://book.douban.com/subject/35429043/)[书摘](https://www.cnblogs.com/strick/p/17593083.html)
+
 ## 设计模式
 [《JavaScript设计模式》](https://book.douban.com/subject/26589719/) [书摘](https://www.cnblogs.com/strick/p/5980539.html)
 
