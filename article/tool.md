@@ -51,6 +51,7 @@
 28. [搭建自动化 Web 页面性能检测系统 —— 设计篇](https://www.cnblogs.com/dtux/p/17433983.html)
 29. [网易云音乐大前端监控体系（Corona）建设实践-开篇](https://mp.weixin.qq.com/s/gLVlCauJ3JbLxgrxFfZNXg)
 30. [不可不知的前端工程化—— 埋点&监控](https://juejin.cn/post/7247770501324996664)
+31. [手把手教你完成前端性能建模](https://juejin.cn/post/7261284270496677948)
 
 ## 音视频
 1. [WebRTC基础实践](https://www.cnblogs.com/strick/p/16802072.html)
