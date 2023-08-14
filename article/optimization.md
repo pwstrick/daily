@@ -113,6 +113,7 @@
 9. [Partytown 如何消除第三方脚本所带来的网站膨胀](https://juejin.cn/post/7140045936419405854)
 10. [Understanding CSS preload and other resource hints（理解CSS 预加载和其他资源提示）](https://blog.logrocket.com/understanding-css-preload-other-resource-hints)
 11. [Optimizing resource loading with the Fetch Priority API（使用 Fetch Priority API 优化资源加载）](https://web.dev/fetch-priority/)
+12. [意外惊喜！浏览器缓存优化方案，让页面加载速度飙升48.5%！](https://juejin.cn/post/7220270978521333797)
 
 ## SQL
 1. [数据库全量SQL分析与审计系统性能优化之旅](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651769043&idx=1&sn=06214b6b59b894cf504a50ed4aacc02a)
