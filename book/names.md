@@ -155,6 +155,8 @@
 
 ## 产品
 [《幕后产品 : 打造突破式产品思维》](https://book.douban.com/subject/33396395/)[书摘](https://www.cnblogs.com/strick/p/15907508.html)
+[《产品思维：从新手到资深产品人》](https://book.douban.com/subject/33456375/)[书摘](https://www.cnblogs.com/strick/p/17628086.html)
+[《从需求到产品：0岁产品经理进阶之道》](https://book.douban.com/subject/30299955/)[书摘](https://www.cnblogs.com/strick/p/17636824.html)
 
 ## 面试
 [《剑指Offer：名企面试官精讲典型编程题》](https://book.douban.com/subject/27008702/) [书摘](https://www.cnblogs.com/strick/p/9908591.html)
