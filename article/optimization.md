@@ -74,6 +74,7 @@
 5. [vue3 table 性能优化，减少 85% 渲染耗时](https://juejin.cn/post/7194516447932973112)
 6. [Vue.js关于父子组件数据双向绑定的思考以及四种实现方案](https://juejin.cn/post/7204735262961188921)
 7. [Vue-router从配置使用到实战操作再到首屏优化](https://juejin.cn/post/7204635326559797306)
+8. [Vue 框架提升加载速度的优化思路](https://juejin.cn/post/7267576629295382528)
 
 ## 图像
 1. [谈谈Web应用中的图片优化技巧及反思](https://segmentfault.com/a/1190000020047949)
