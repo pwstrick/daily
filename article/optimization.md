@@ -38,7 +38,8 @@
 37. [如何实现 H5 秒开？](https://juejin.cn/post/7249665163242307640)
 38. [从恋爱到前端性能优化](https://juejin.cn/post/7250639505527259173)
 39. [毫秒级突破！腾讯技术团队是如何做前端性能优化的？](https://juejin.cn/post/7256674113002864701)
-
+40. [Fetch Priority 和优化LCP](https://mp.weixin.qq.com/s/rKjj_YF4nKfHTpJJczwKtg)
+41. [实践指南-前端性能提升 270%](https://mp.weixin.qq.com/s/i-VySols_FbPEpZJeSbCLw)
 
 ## JavaScript
 1. [前端网络、JavaScript优化以及开发小技巧](https://www.cnblogs.com/strick/p/6228339.html)
