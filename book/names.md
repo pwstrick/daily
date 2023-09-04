@@ -162,6 +162,10 @@
 
 [《从点子到产品：产品经理的价值观与方法论》](https://book.douban.com/subject/26927349/)[书摘](https://www.cnblogs.com/strick/p/17648424.html)
 
+[《数据分析思维 产品经理的成长笔记》](https://book.douban.com/subject/27175636/)
+
+[《高阶产品经理必修课 企业战略驱动下的数据体系搭建》](https://book.douban.com/subject/35678481/)
+
 ## 面试
 [《剑指Offer：名企面试官精讲典型编程题》](https://book.douban.com/subject/27008702/) [书摘](https://www.cnblogs.com/strick/p/9908591.html)
 
