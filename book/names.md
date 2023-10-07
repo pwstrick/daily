@@ -112,13 +112,15 @@
 
 [《狼书（卷2）：Node.js Web应用开发》](https://book.douban.com/subject/34933584/)
 
-[Node.js硬实战：115个核心技巧](https://book.douban.com/subject/26937390/)
+[《Node.js硬实战：115个核心技巧》](https://book.douban.com/subject/26937390/)
 
-[Node.js实战（第2版）](https://book.douban.com/subject/30288107/)
+[《Node.js实战（第2版）》](https://book.douban.com/subject/30288107/)
 
-[新时期的Node.js入门](https://book.douban.com/subject/30170564/)
+[《新时期的Node.js入门》](https://book.douban.com/subject/30170564/)
 
-[Node.js调试指南](https://book.douban.com/subject/30231489/)
+[《Node.js调试指南》](https://book.douban.com/subject/30231489/)
+
+[《KOA开发》](https://book.douban.com/subject/35771796/)
 
 ## 工具
 [《Fiddler调试权威指南》](https://book.douban.com/subject/25835263/)
@@ -226,6 +228,8 @@
 
 [《API安全技术与实战》](https://book.douban.com/subject/35429043/)[书摘](https://www.cnblogs.com/strick/p/17593083.html)
 
+[《Web应用程序安全》](https://book.douban.com/subject/35535835/)
+
 ## 设计模式
 [《JavaScript设计模式》](https://book.douban.com/subject/26589719/) [书摘](https://www.cnblogs.com/strick/p/5980539.html)
 
@@ -255,10 +259,12 @@
 [《图解网站分析：让流量倍增的网站优化方法》](https://book.douban.com/subject/26148605/) [书摘](https://www.cnblogs.com/strick/p/12287065.html)
 
 ## 编译
-[两周自制脚本语言](https://book.douban.com/subject/25908672/) [书摘](http://www.pwstrick.com/archives/717/)
+[《两周自制脚本语言》](https://book.douban.com/subject/25908672/) [书摘](http://www.pwstrick.com/archives/717/)
 
-## Redis
-[Redis实战](https://book.douban.com/subject/26612779/)
+## 数据库
+[《Redis实战》](https://book.douban.com/subject/26612779/)
+
+[《Elasticsearch数据搜索与分析实战》](https://book.douban.com/subject/36337628/)
 
 ## 音视频
 [《FFmpeg原理》](https://ffmpeg.xianwaizhiyin.net/) 
