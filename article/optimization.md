@@ -42,6 +42,7 @@
 41. [实践指南-前端性能提升 270%](https://mp.weixin.qq.com/s/i-VySols_FbPEpZJeSbCLw)
 42. [新一代 Web 预渲染技术！](https://mp.weixin.qq.com/s/M6wJN8jBLxnuSva-lw7-_A)
 43. [PC首页资源加载速度由8s降到2s的优化实践](https://www.cnblogs.com/vigourice/p/17689990.html)
+44. [如何实现 H5 秒开？](https://juejin.cn/post/7249665163242307640)
 
 ## JavaScript
 1. [前端网络、JavaScript优化以及开发小技巧](https://www.cnblogs.com/strick/p/6228339.html)
