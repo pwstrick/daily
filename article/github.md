@@ -72,6 +72,7 @@
 3. [深入理解 Node.js：核心思想与源码分析](https://github.com/yjhjstz/deep-into-node)
 4. [node elm](https://github.com/bailicangdu/node-elm)
 5. [awesome nodejs](https://github.com/sindresorhus/awesome-nodejs)
+6. [JavaScript安全指南](https://github.com/Tencent/secguide/blob/main/JavaScript%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97.md)
 
 ## 安全
 1. [31条API安全小贴士](https://github.com/inonshk/31-days-of-API-Security-Tips)
