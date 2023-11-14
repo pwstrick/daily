@@ -53,6 +53,7 @@
 30. [不可不知的前端工程化—— 埋点&监控](https://juejin.cn/post/7247770501324996664)
 31. [手把手教你完成前端性能建模](https://juejin.cn/post/7261284270496677948)
 32. [搭建sentry监控平台，实现前后端异常监控](https://juejin.cn/post/7275980024262443068)
+33. [Web前端监控的方案](https://juejin.cn/post/7285608128040206391)
 
 ## 音视频
 1. [WebRTC基础实践](https://www.cnblogs.com/strick/p/16802072.html)
