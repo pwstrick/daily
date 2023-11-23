@@ -55,6 +55,7 @@
 32. [搭建sentry监控平台，实现前后端异常监控](https://juejin.cn/post/7275980024262443068)
 33. [Web前端监控的方案](https://juejin.cn/post/7285608128040206391)
 34. [一文搞懂得物前端监控](https://mp.weixin.qq.com/s/ajq-eGu4DBLbHXEm2HGV8Q)
+35. [自己搭建前端监控？一定要进来看看这篇文章！！！](https://juejin.cn/post/7270028440036294711)
 
 ## 音视频
 1. [WebRTC基础实践](https://www.cnblogs.com/strick/p/16802072.html)
