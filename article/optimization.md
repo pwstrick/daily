@@ -142,3 +142,4 @@
 6. [Improve Largest Contentful Paint (LCP) by removing image transitions（通过消除图像过渡来改善 LCP）](https://performance.shopify.com/blogs/blog/improve-largest-contentful-paint-lcp-by-removing-image-transitions)
 7. [JavaScript Optimization Techniques for Faster Website Load Times: An In-Depth Guide（JavaScript 优化技术深入指南）](https://blog.bitsrc.io/javascript-optimization-techniques-for-faster-website-load-times-an-in-depth-guide-cd2985194a07)
 8. [In Defence of DOMContentLoaded（捍卫 DOMContentLoaded）](https://csswizardry.com/2023/07/in-defence-of-domcontentloaded/)
+9. [A faster web in 2024](https://rviscomi.dev/2023/11/a-faster-web-in-2024/)
