@@ -59,6 +59,7 @@
 12. [Qwik-前端性能的终极方案？](https://juejin.cn/post/7169545700517085192)
 13. [Qwik.js框架是如何追求极致性能的?!](https://segmentfault.com/a/1190000042250628)
 14. [如何实现分片加载网络数据？让页面秒开无白屏！](https://juejin.cn/post/7249907952156721209)
+15. [SPA 如何达到 SSR 一样的秒开效果？](https://mp.weixin.qq.com/s/EsriwdyM2zLK7qmshDFMVw)
 
 ## React
 1. [浅谈React性能优化的方向](https://juejin.im/post/5d045350f265da1b695d5bf2)
@@ -132,6 +133,7 @@
 1. [WebPageTest系列](https://www.cnblogs.com/strick/category/980651.html)
 2. [SEO Speed Mobile测试](https://varvy.com/)
 3. [我给项目加了性能守卫插件，同事叫我晚上别睡的太死](https://juejin.cn/post/7253331974051823675)
+4. [如何使用Chrome浏览器做前端页面性能分析](https://mp.weixin.qq.com/s/rYiB1pTo41TGF7RRy9JO-Q)
 
 ## 英文资料
 1. [2022 In Review: What’s New In Web Performance?](https://www.debugbear.com/blog/2022-in-web-performance)
