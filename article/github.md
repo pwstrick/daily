@@ -44,6 +44,7 @@
 43. [用 JavaScript 演示的 100 多种算法和数据结构](https://github.com/trekhleb/javascript-algorithms)
 44. [Awesome Resume](https://github.com/resumejob/awesome-resume)
 45. [被删的前端游乐场](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-optimization.html)
+46. [前端算法面试（高频题库&题目解析）](https://github.com/hovinghuang/fe-agorithm-interview)
 
 ## 英文
 1. [Awesome JavaScript Interviews（优秀的JavaScript面试）](https://github.com/rohan-paul/Awesome-JavaScript-Interviews)
