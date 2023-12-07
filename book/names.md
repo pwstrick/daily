@@ -122,6 +122,8 @@
 
 [《KOA开发》](https://book.douban.com/subject/35771796/)
 
+[《Node.js进阶之路》](https://book.douban.com/subject/26970060/)
+
 ## 工具
 [《Fiddler调试权威指南》](https://book.douban.com/subject/25835263/)
 
