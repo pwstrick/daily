@@ -147,3 +147,4 @@
 8. [In Defence of DOMContentLoaded（捍卫 DOMContentLoaded）](https://csswizardry.com/2023/07/in-defence-of-domcontentloaded/)
 9. [A faster web in 2024](https://rviscomi.dev/2023/11/a-faster-web-in-2024/)
 10. [图像优化新技术：SVG 短路处理](https://www.zachleat.com/web/svg-short-circuit)
+11. [INP 与用户体验真的有关系吗？](https://www.speedcurve.com/blog/INP-user-experience-correlation/)
