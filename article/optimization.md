@@ -44,6 +44,8 @@
 43. [PC首页资源加载速度由8s降到2s的优化实践](https://www.cnblogs.com/vigourice/p/17689990.html)
 44. [如何实现 H5 秒开？](https://juejin.cn/post/7249665163242307640)
 45. [最体系化的前端性能优化详解](https://juejin.cn/post/7268119060056129593)
+46. [前端性能监控，带你拿到正确的性能指标](https://juejin.cn/post/7223280402475089978)
+47. [两行 CSS 让长列表性能渲染提升 7 倍！](https://mp.weixin.qq.com/s/gpzQG4uJrqw4Gnkhp0vcPw)
 
 ## JavaScript
 1. [前端网络、JavaScript优化以及开发小技巧](https://www.cnblogs.com/strick/p/6228339.html)
@@ -101,6 +103,7 @@
 13. [Sharp 0.32.0，基于 Node.js 的高性能图像处理库](https://github.com/lovell/sharp)
 14. [《现代图片性能优化及体验优化指南》全集](https://mp.weixin.qq.com/s/LN-fBf-RigSfS_XtU_19JQ)
 15. [前端加载超大图片实现秒开解决方案](https://mp.weixin.qq.com/s/uq5ygydlJO7HSZo8BfBctw)
+16. [性能优化——图片压缩、加载和格式选择](https://mp.weixin.qq.com/s/FtaUER4Hv3RzCReKTqIRNQ)
 
 ## 构建
 1. [前端必懂的webpack优化](https://juejin.im/post/5d372851f265da1ba915bf78)
