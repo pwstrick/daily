@@ -134,6 +134,7 @@
 2. [1.8w 字的 SQL 优化大全](https://mp.weixin.qq.com/s/Uvm_p5YuH3E8snDGnE8QLQ)
 3. [MySQL六十六问，两万字+五十图详解！有点六！](https://mp.weixin.qq.com/s/Q_uiKoNZW5Dgc7XFmM_8Qg)
 4. [MySQL索引背后的数据结构及算法原理](https://mp.weixin.qq.com/s/NUI0lzkTqKvlLnUx-nqvhQ)
+5. [如何快速优化几千万数据量的订单表](https://www.cnblogs.com/fulongyuanjushi/p/17910420.html)
 
 ## 实验室分析
 1. [WebPageTest系列](https://www.cnblogs.com/strick/category/980651.html)
