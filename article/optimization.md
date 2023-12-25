@@ -75,6 +75,7 @@
 8. [React 性能优化的那些事儿](https://juejin.cn/post/7146846541846675492)
 9. [Lazy Loading with React–An Overview](https://www.syncfusion.com/blogs/post/lazy-loading-with-react-an-overview.aspx)
 10. [谷歌工程师分享前端性能优化，渐进式的极致艺术](https://www.leezhian.com/web/framework/optimize01)
+11. [卡顿减少 95% — 记一次React性能优化实践](https://juejin.cn/post/7314493192187265074)
 
 ## Vue
 1. [提升90%加载速度——vuecli下的首屏性能优化](https://segmentfault.com/a/1190000019499007)

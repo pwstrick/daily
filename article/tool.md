@@ -60,6 +60,7 @@
 37. [作为跨境电商团队，如何优化网站首屏性能](https://juejin.cn/post/7306017890074673167)
 38. [手写前端监控+页面性能监控](https://juejin.cn/post/7219669812158414903)
 39. [物前端巡检平台的建设和应用（建设篇）](https://juejin.cn/post/7234700513223213116)
+40. [前端监控sdk开发（二）js错误捕获](https://juejin.cn/post/7314937895038517286)
 
 ## 音视频
 1. [WebRTC基础实践](https://www.cnblogs.com/strick/p/16802072.html)
