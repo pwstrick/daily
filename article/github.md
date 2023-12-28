@@ -45,6 +45,7 @@
 44. [Awesome Resume](https://github.com/resumejob/awesome-resume)
 45. [被删的前端游乐场](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-optimization.html)
 46. [前端算法面试（高频题库&题目解析）](https://github.com/hovinghuang/fe-agorithm-interview)
+47. [多种编程语言实现 LeetCode](https://github.com/doocs/leetcode)
 
 ## 英文
 1. [Awesome JavaScript Interviews（优秀的JavaScript面试）](https://github.com/rohan-paul/Awesome-JavaScript-Interviews)
