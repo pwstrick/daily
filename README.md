@@ -30,6 +30,7 @@
 * [2021年](https://github.com/pwstrick/daily/blob/master/article/2021.md)
 * [2022年](https://github.com/pwstrick/daily/blob/master/article/2022.md)
 * [2023年](https://github.com/pwstrick/daily/blob/master/article/2023.md)
+* [2024年](https://github.com/pwstrick/daily/blob/master/article/2024.md)
 * [前端优化](https://github.com/pwstrick/daily/blob/master/article/optimization.md)
 * [前端猎奇周刊](https://www.zhihu.com/column/c_1611000947358019584)
 * [前端行为和性能监控脚本：shin-monitor](https://github.com/pwstrick/shin-monitor)
