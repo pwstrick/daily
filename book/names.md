@@ -75,6 +75,8 @@
 
 [《Vue.js权威指南》](https://book.douban.com/subject/26869340/)
 
+[《Vue.js设计与实现》](https://book.douban.com/subject/35768338/)[书摘](https://www.cnblogs.com/strick/p/17928450.html)
+
 ## TypeScript
 [《Learning TypeScript中文版》](https://book.douban.com/subject/26906857/)
 
@@ -267,6 +269,9 @@
 [《Redis实战》](https://book.douban.com/subject/26612779/)
 
 [《Elasticsearch数据搜索与分析实战》](https://book.douban.com/subject/36337628/)
+
+## AI
+[《Python深度学习》](https://book.douban.com/subject/36078304/)[书摘](https://www.cnblogs.com/strick/p/17956287.html)
 
 ## 音视频
 [《FFmpeg原理》](https://ffmpeg.xianwaizhiyin.net/) 
