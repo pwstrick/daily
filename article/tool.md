@@ -103,5 +103,8 @@
 9. [为什么single-spa才是微前端的正确开发模式](https://mp.weixin.qq.com/s/RzNvq8t5_UFYcJZLBBF2XQ)
 10. [从零开始，一步步学习微前端](https://juejin.cn/post/7204723936914554937)
 
+## 脚手架
+1. [Rust 赋能前端-开发一款属于你的前端脚手架](https://mp.weixin.qq.com/s/zDbMoldMFKj5WoLgnHG4Pw)
+
 ## 框架
 1. [动手构建一个框架来了解现代 JavaScript 框架的工作原理](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
