@@ -50,6 +50,7 @@
 49. [性能翻倍！京东亿级体量小程序优化实践](https://www.cnblogs.com/jingdongkeji/p/17927829.html)
 50. [性能优化系列之用户体验的优化方案（渲染层面）](https://juejin.cn/post/7315846848459440165)
 51. [TV端Web页面性能优化实践](https://mp.weixin.qq.com/s/e-LZsQVousHjwARksCL2kQ)
+52. [前端性能优化手册 - RoadMap](https://juejin.cn/post/7322677530469122111)
 
 ## JavaScript
 1. [前端网络、JavaScript优化以及开发小技巧](https://www.cnblogs.com/strick/p/6228339.html)

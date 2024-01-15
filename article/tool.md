@@ -63,6 +63,7 @@
 40. [前端监控sdk开发（二）js错误捕获](https://juejin.cn/post/7314937895038517286)
 41. [前端工程化—— 埋点&监控](https://juejin.cn/post/7265891728163667983)
 42. [埋点数据可视化的探索与实践](https://mp.weixin.qq.com/s/HvYOlEjqIr--prCuS7FkaA)
+43. [APM前端监控系统实践](https://juejin.cn/post/7282994347988582459)
 
 ## 音视频
 1. [WebRTC基础实践](https://www.cnblogs.com/strick/p/16802072.html)
