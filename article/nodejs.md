@@ -26,6 +26,7 @@
 11. [Node.js最佳实践](https://github.com/goldbergyoni/nodebestpractices)
 12. [Node 实现在浏览器预览项目的所有图片](https://juejin.cn/post/7185438521807601721)
 13. [4 Common Mistakes Made by Node.js Developers](https://amplication.com/blog/4-common-mistakes-made-by-nodejs-developers)
+14. [fsx 简介：JavaScript 的现代文件系统 API](https://mp.weixin.qq.com/s/KT8s5KXKf8mJRmtLRV7-fg)
 
 ## 进阶
 1. [NodeJs进阶——流（Stream）](https://juejin.cn/post/7077511716564631566)
