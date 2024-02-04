@@ -68,6 +68,7 @@
 13. [Qwik.js框架是如何追求极致性能的?!](https://segmentfault.com/a/1190000042250628)
 14. [如何实现分片加载网络数据？让页面秒开无白屏！](https://juejin.cn/post/7249907952156721209)
 15. [SPA 如何达到 SSR 一样的秒开效果？](https://mp.weixin.qq.com/s/EsriwdyM2zLK7qmshDFMVw)
+16. [两行CSS让页面提升了近7倍渲染性能！](https://mp.weixin.qq.com/s/xGJ4K6y4LRj2JYqN89Nc4w)
 
 ## React
 1. [浅谈React性能优化的方向](https://juejin.im/post/5d045350f265da1b695d5bf2)
@@ -148,6 +149,7 @@
 2. [SEO Speed Mobile测试](https://varvy.com/)
 3. [我给项目加了性能守卫插件，同事叫我晚上别睡的太死](https://juejin.cn/post/7253331974051823675)
 4. [如何使用Chrome浏览器做前端页面性能分析](https://mp.weixin.qq.com/s/rYiB1pTo41TGF7RRy9JO-Q)
+5. [3.40秒到231.84毫秒，我用Performance面板分析性能瓶颈全流程](https://juejin.cn/post/7272632260179542050)
 
 ## 体验优化
 1. [业务中后台用户体验优化方法论总结](https://juejin.cn/post/7319312761073958975)
