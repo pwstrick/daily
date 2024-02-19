@@ -51,6 +51,7 @@
 50. [性能优化系列之用户体验的优化方案（渲染层面）](https://juejin.cn/post/7315846848459440165)
 51. [TV端Web页面性能优化实践](https://mp.weixin.qq.com/s/e-LZsQVousHjwARksCL2kQ)
 52. [前端性能优化手册 - RoadMap](https://juejin.cn/post/7322677530469122111)
+53. [你这人能不能灵活点？前端代码简单优化一下？](https://juejin.cn/post/7309791510873784372)
 
 ## JavaScript
 1. [前端网络、JavaScript优化以及开发小技巧](https://www.cnblogs.com/strick/p/6228339.html)
