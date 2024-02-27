@@ -95,6 +95,7 @@
 8. [Vue 框架提升加载速度的优化思路](https://juejin.cn/post/7267576629295382528)
 9. [vite 打包中 \<link rel="modulepreload">的深入理解](https://juejin.cn/post/6961609946832044045)
 10. [前端页面秒开的关键 - 小白也能看懂的同构渲染原理和实现](https://juejin.cn/post/7289661061984501819)
+11. [Vue项目构建优化](https://mp.weixin.qq.com/s/9hfVQtHxqoNViXCKLX7jCg)
 
 ## 图像
 1. [谈谈Web应用中的图片优化技巧及反思](https://segmentfault.com/a/1190000020047949)
