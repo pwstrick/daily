@@ -54,6 +54,7 @@
 53. [你这人能不能灵活点？前端代码简单优化一下？](https://juejin.cn/post/7309791510873784372)
 54. [2024最新版：前端性能优化方案汇总](https://juejin.cn/post/7341267497428025344)
 55. [前端性能分析实践——以字节剪映web为例](https://juejin.cn/post/7208451786964598841)
+56. [性能优化：通用快照方案](https://mp.weixin.qq.com/s/JeSu3QIrlQPqhR6Uf6K6RA)
 
 ## JavaScript
 1. [前端网络、JavaScript优化以及开发小技巧](https://www.cnblogs.com/strick/p/6228339.html)
