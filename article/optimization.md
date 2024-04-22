@@ -128,6 +128,7 @@
 4. [我修复了一个 Vite Bug，让我的项目首屏性能提高了 25%](https://juejin.cn/post/7166606179261480967)
 5. [浅析 SplitChunksPlugin 及代码分割的意义](https://mp.weixin.qq.com/s/wZ0rqkZQ1XFbJBLG2aE7_Q)
 6. [我是如何把 Vite 的打包时间从 110s 优化到 25s 的](https://juejin.cn/post/7235818900818526265)
+7. [前端起dev从110秒减少到7秒, 开发体验大幅提升](https://juejin.cn/post/7339155841181515802)
 
 ## 网络
 1. [前端性能优化的另一种方式——HTTP2.0](https://www.cnblogs.com/strick/p/5658280.html)
