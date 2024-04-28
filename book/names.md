@@ -210,6 +210,8 @@
 
 [《大型网站性能优化实战：从前端、网络、CDN到后端、大促的全链路性能优化详解》](https://book.douban.com/subject/30437260/)
 
+[《可观测性工程》](https://book.douban.com/subject/36473660/) [书摘](https://www.cnblogs.com/strick/p/18146195)
+
 ## 算法
 [《枕边算法书》](https://book.douban.com/subject/30163021/) [书摘](https://www.cnblogs.com/strick/p/9324530.html)
 
@@ -321,6 +323,11 @@
 ## 架构
 
 [《程序员必读之软件架构》](https://book.douban.com/subject/26248182/)
+
+## 心理学
+[《社交网络 虚拟社会中的人际心理学》](https://book.douban.com/subject/36535202/)
+
+[《网络信任 在线社交心理与行为》](https://book.douban.com/subject/30310564/)
 
 ## 电子书
 
