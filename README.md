@@ -95,9 +95,9 @@
 * [Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)（[前端开发者手册2019](https://www.yuque.com/ysfe/ykx/fedhb)）  
 * [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev)（讲座：[理解现代Web开发](https://2017.jsconfchina.com/files/02-modern-web-dev-dexteryy.pdf)）
 * 下图引用自[roadmap.sh](https://roadmap.sh/frontend)。
-* 往期图可参考[2019](https://github.com/pwstrick/daily/raw/master/assets/img/skill/2019.png)、[2020](https://github.com/pwstrick/daily/raw/master/assets/img/skill/2020.png)、[2021](https://github.com/pwstrick/daily/raw/master/assets/img/skill/2021.png)、[2022](https://github.com/pwstrick/daily/raw/master/assets/img/skill/2022.png)
+* 往期图可参考[2019](https://github.com/pwstrick/daily/raw/master/assets/img/skill/2019.png)、[2020](https://github.com/pwstrick/daily/raw/master/assets/img/skill/2020.png)、[2021](https://github.com/pwstrick/daily/raw/master/assets/img/skill/2021.png)、[2022](https://github.com/pwstrick/daily/raw/master/assets/img/skill/2022.png)、、[2023](https://github.com/pwstrick/daily/raw/master/assets/img/skill/2023.png)
 
-<img src="https://github.com/pwstrick/daily/raw/master/assets/img/skill/2023.png" />
+<img src="https://github.com/pwstrick/daily/raw/master/assets/img/skill/2024.png" />
 
 ## 欢迎打赏
 <img src="https://github.com/pwstrick/daily/raw/master/assets/img/pay.png" width="300" />
