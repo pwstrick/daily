@@ -56,6 +56,7 @@
 55. [前端性能分析实践——以字节剪映web为例](https://juejin.cn/post/7208451786964598841)
 56. [性能优化：通用快照方案](https://mp.weixin.qq.com/s/JeSu3QIrlQPqhR6Uf6K6RA)
 57. [亿级流量高并发春晚互动前端技术揭秘](https://mp.weixin.qq.com/s/0rDuZCuBzTK_ReTZ_mrneQ)
+58. [前端性能优化](https://juejin.cn/post/7363830946908979239)
 
 ## JavaScript
 1. [前端网络、JavaScript优化以及开发小技巧](https://www.cnblogs.com/strick/p/6228339.html)
