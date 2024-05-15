@@ -75,6 +75,7 @@
 14. [如何实现分片加载网络数据？让页面秒开无白屏！](https://juejin.cn/post/7249907952156721209)
 15. [SPA 如何达到 SSR 一样的秒开效果？](https://mp.weixin.qq.com/s/EsriwdyM2zLK7qmshDFMVw)
 16. [两行CSS让页面提升了近7倍渲染性能！](https://mp.weixin.qq.com/s/xGJ4K6y4LRj2JYqN89Nc4w)
+17. [初探富文本之基于虚拟滚动的大型文档性能优化方案](https://juejin.cn/post/7368372944584294441)
 
 ## React
 1. [浅谈React性能优化的方向](https://juejin.im/post/5d045350f265da1b695d5bf2)
