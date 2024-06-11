@@ -58,6 +58,7 @@
 57. [亿级流量高并发春晚互动前端技术揭秘](https://mp.weixin.qq.com/s/0rDuZCuBzTK_ReTZ_mrneQ)
 58. [前端性能优化](https://juejin.cn/post/7363830946908979239)
 59. [前端到底要怎么去性能优化？](https://mp.weixin.qq.com/s/osp-YcbUjwUlxNP1vT9qhQ)
+60. [全栈体系全链路架构最佳实践优化方案落地实施](https://juejin.cn/post/7373488886460710964)
 
 ## JavaScript
 1. [前端网络、JavaScript优化以及开发小技巧](https://www.cnblogs.com/strick/p/6228339.html)
