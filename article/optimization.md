@@ -124,6 +124,7 @@
 15. [前端加载超大图片实现秒开解决方案](https://mp.weixin.qq.com/s/uq5ygydlJO7HSZo8BfBctw)
 16. [性能优化——图片压缩、加载和格式选择](https://mp.weixin.qq.com/s/FtaUER4Hv3RzCReKTqIRNQ)
 17. [5.25秒变0.023秒：小程序图片优化全攻略](https://mp.weixin.qq.com/s/Q5-IZYChQulNLaCRb7SBSw)
+18. [图片优化入门：前端工程师的图片效率指南](https://mp.weixin.qq.com/s/O3WjpMvSsxwZIQsxFoomqw)
 
 ## 构建
 1. [前端必懂的webpack优化](https://juejin.im/post/5d372851f265da1ba915bf78)
@@ -133,6 +134,7 @@
 5. [浅析 SplitChunksPlugin 及代码分割的意义](https://mp.weixin.qq.com/s/wZ0rqkZQ1XFbJBLG2aE7_Q)
 6. [我是如何把 Vite 的打包时间从 110s 优化到 25s 的](https://juejin.cn/post/7235818900818526265)
 7. [前端起dev从110秒减少到7秒, 开发体验大幅提升](https://juejin.cn/post/7339155841181515802)
+8. [前端性能优化：模块联邦-从入门到放弃](https://mp.weixin.qq.com/s/mNgQHSAla22LWy-uGkEWsg)
 
 ## 网络
 1. [前端性能优化的另一种方式——HTTP2.0](https://www.cnblogs.com/strick/p/5658280.html)
