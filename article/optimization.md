@@ -60,6 +60,7 @@
 59. [前端到底要怎么去性能优化？](https://mp.weixin.qq.com/s/osp-YcbUjwUlxNP1vT9qhQ)
 60. [全栈体系全链路架构最佳实践优化方案落地实施](https://juejin.cn/post/7373488886460710964)
 61. [3.40秒到231.84毫秒，我的前端性能瓶颈分析全流程](https://mp.weixin.qq.com/s/VtDxAJKFbN9CkdQMwf5N8Q)
+62. [前端如何体系化性能优化？](https://mp.weixin.qq.com/s/bRyQuEhhHCFdMMnsg0P9nQ)
 
 ## JavaScript
 1. [前端网络、JavaScript优化以及开发小技巧](https://www.cnblogs.com/strick/p/6228339.html)
@@ -92,6 +93,7 @@
 9. [Lazy Loading with React–An Overview](https://www.syncfusion.com/blogs/post/lazy-loading-with-react-an-overview.aspx)
 10. [谷歌工程师分享前端性能优化，渐进式的极致艺术](https://www.leezhian.com/web/framework/optimize01)
 11. [卡顿减少 95% — 记一次React性能优化实践](https://juejin.cn/post/7314493192187265074)
+12. [性能飙升50%，react-virtualized-list如何优化大数据集滚动渲染](https://juejin.cn/post/7375504338757845030)
 
 ## Vue
 1. [提升90%加载速度——vuecli下的首屏性能优化](https://segmentfault.com/a/1190000019499007)
