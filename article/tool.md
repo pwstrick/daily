@@ -69,6 +69,7 @@
 45. [Corona技术专题-网易云音乐大前端性能监控服务的设计与实现](https://juejin.cn/post/7356114363881160743)
 46. [前端服务监控原理与手写开源监控框架SDK](https://juejin.cn/post/7374265502669160482)
 47. [前端可观测性系统建设](https://mp.weixin.qq.com/s/oTGR73vxBUvsM45UkpB-Fw)
+48. [从实用角度浅析前端全链路质量监控中台技术方案](https://juejin.cn/post/7165111021806288927)
 
 ## 音视频
 1. [WebRTC基础实践](https://www.cnblogs.com/strick/p/16802072.html)
