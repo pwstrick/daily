@@ -172,7 +172,8 @@
 1. [业务中后台用户体验优化方法论总结](https://juejin.cn/post/7319312761073958975)
 2. [前端如何做好用户体验？](https://mp.weixin.qq.com/s/Zrz1jEd9kmePUwoe5DI4lg)
 3. [大厂实战！B端任务处理系统的体验优化流程总结](https://www.uisdc.com/tob-design-4)
-4.[B端常用交互方式的量化及优化实践和指引](https://mp.weixin.qq.com/s/GtGQqDvDzU6A-qtwNPKWqQ)
+4. [B端常用交互方式的量化及优化实践和指引](https://mp.weixin.qq.com/s/GtGQqDvDzU6A-qtwNPKWqQ)
+5. [网站加载速度与人类幸福感的心理学](https://juejin.cn/post/7335245199109799972)
 
 ## 英文资料
 1. [2022 In Review: What’s New In Web Performance?](https://www.debugbear.com/blog/2022-in-web-performance)
