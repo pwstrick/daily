@@ -188,3 +188,4 @@
 10. [图像优化新技术：SVG 短路处理](https://www.zachleat.com/web/svg-short-circuit)
 11. [INP 与用户体验真的有关系吗？](https://www.speedcurve.com/blog/INP-user-experience-correlation/)
 12. [Visualize Your Website's Render-Blocking Scripts](https://www.debugbear.com/blog/visualize-render-blocking-scripts)
+13. [网站性能心理学](https://www.speedcurve.com/web-performance-guide/the-psychology-of-web-performance/)
