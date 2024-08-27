@@ -72,6 +72,7 @@
 48. [从实用角度浅析前端全链路质量监控中台技术方案](https://juejin.cn/post/7165111021806288927)
 49. [监控都没做好，你还要可观测性](https://flashcat.cloud/blog/monitoring-first/)
 50. [京东企业业务前端监控实践](https://mp.weixin.qq.com/s/ROE8tg3ct1KBNavW5HO1fg)
+51. [浅谈前端性能优化之评估工具（一共 7 种）](https://mp.weixin.qq.com/s/bJLUmG1rJJnxPfguBwn0-Q)
 
 ## 音视频
 1. [WebRTC基础实践](https://www.cnblogs.com/strick/p/16802072.html)
