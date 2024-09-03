@@ -74,6 +74,7 @@
 50. [京东企业业务前端监控实践](https://mp.weixin.qq.com/s/ROE8tg3ct1KBNavW5HO1fg)
 51. [浅谈前端性能优化之评估工具（一共 7 种）](https://mp.weixin.qq.com/s/bJLUmG1rJJnxPfguBwn0-Q)
 52. [每一个前端，都要拥有属于自己的埋点库](https://juejin.cn/post/7377901375001198655)
+53. [埋点（前端）](https://juejin.cn/post/7369897767180877824)
 
 ## 音视频
 1. [WebRTC基础实践](https://www.cnblogs.com/strick/p/16802072.html)
