@@ -76,6 +76,7 @@
 52. [每一个前端，都要拥有属于自己的埋点库](https://juejin.cn/post/7377901375001198655)
 53. [埋点（前端）](https://juejin.cn/post/7369897767180877824)
 54. [浅析前端监控与埋点](https://juejin.cn/post/7400264313125470208)
+55. [原来前端错误上报这么简单！！](https://juejin.cn/post/7383955685368086562)
 
 ## 音视频
 1. [WebRTC基础实践](https://www.cnblogs.com/strick/p/16802072.html)
