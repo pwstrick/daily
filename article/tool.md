@@ -79,6 +79,7 @@
 55. [原来前端错误上报这么简单！！](https://juejin.cn/post/7383955685368086562)
 56. [B站前端错误监控实践](https://juejin.cn/post/7416282129451810867)
 57. [大家都该学学的埋点概念与使用](https://juejin.cn/post/7415911686929268788)
+58. [准确率89%，携程酒店大前端智能预警归因实践](https://mp.weixin.qq.com/s/Bs72Ghk_K9sqihzkZxSvqA)
 
 ## 音视频
 1. [WebRTC基础实践](https://www.cnblogs.com/strick/p/16802072.html)
