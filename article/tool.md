@@ -82,6 +82,7 @@
 58. [准确率89%，携程酒店大前端智能预警归因实践](https://mp.weixin.qq.com/s/Bs72Ghk_K9sqihzkZxSvqA)
 59. [关于前端稳定性建设的系统性思考](https://juejin.cn/post/7398511534736752674)
 60. [前端异常处理一站式详解](https://juejin.cn/post/7352661916387475494)
+61. [B站埋点分析平台的构建之路](https://www.bilibili.com/read/cv22600289/)
 
 ## 音视频
 1. [WebRTC基础实践](https://www.cnblogs.com/strick/p/16802072.html)
