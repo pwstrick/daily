@@ -139,6 +139,7 @@
 6. [我是如何把 Vite 的打包时间从 110s 优化到 25s 的](https://juejin.cn/post/7235818900818526265)
 7. [前端起dev从110秒减少到7秒, 开发体验大幅提升](https://juejin.cn/post/7339155841181515802)
 8. [前端性能优化：模块联邦-从入门到放弃](https://mp.weixin.qq.com/s/mNgQHSAla22LWy-uGkEWsg)
+9. [我把大型团队项目从 vite 前端迁移到了 rsbuild，收益如何？](https://juejin.cn/post/7425804396292325414)
 
 ## 网络
 1. [前端性能优化的另一种方式——HTTP2.0](https://www.cnblogs.com/strick/p/5658280.html)
