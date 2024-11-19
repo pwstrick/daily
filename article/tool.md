@@ -84,6 +84,7 @@
 60. [前端异常处理一站式详解](https://juejin.cn/post/7352661916387475494)
 61. [B站埋点分析平台的构建之路](https://www.bilibili.com/read/cv22600289/)
 62. [古茗是如何做前端数据中心的](https://juejin.cn/post/7319181157501026331)
+63. [前端埋点与监控最佳实践：从基础到全流程实现](https://juejin.cn/post/7435834760343060530)
 
 ## 音视频
 1. [WebRTC基础实践](https://www.cnblogs.com/strick/p/16802072.html)
