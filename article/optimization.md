@@ -47,20 +47,19 @@
 46. [前端性能监控，带你拿到正确的性能指标](https://juejin.cn/post/7223280402475089978)
 47. [两行 CSS 让长列表性能渲染提升 7 倍！](https://mp.weixin.qq.com/s/gpzQG4uJrqw4Gnkhp0vcPw)
 48. [满帮web页面首屏秒开解决之道](https://juejin.cn/post/7126339044203560997)
-49. [性能翻倍！京东亿级体量小程序优化实践](https://www.cnblogs.com/jingdongkeji/p/17927829.html)
-50. [性能优化系列之用户体验的优化方案（渲染层面）](https://juejin.cn/post/7315846848459440165)
-51. [TV端Web页面性能优化实践](https://mp.weixin.qq.com/s/e-LZsQVousHjwARksCL2kQ)
-52. [前端性能优化手册 - RoadMap](https://juejin.cn/post/7322677530469122111)
-53. [你这人能不能灵活点？前端代码简单优化一下？](https://juejin.cn/post/7309791510873784372)
-54. [2024最新版：前端性能优化方案汇总](https://juejin.cn/post/7341267497428025344)
-55. [前端性能分析实践——以字节剪映web为例](https://juejin.cn/post/7208451786964598841)
-56. [性能优化：通用快照方案](https://mp.weixin.qq.com/s/JeSu3QIrlQPqhR6Uf6K6RA)
-57. [亿级流量高并发春晚互动前端技术揭秘](https://mp.weixin.qq.com/s/0rDuZCuBzTK_ReTZ_mrneQ)
-58. [前端性能优化](https://juejin.cn/post/7363830946908979239)
-59. [前端到底要怎么去性能优化？](https://mp.weixin.qq.com/s/osp-YcbUjwUlxNP1vT9qhQ)
-60. [全栈体系全链路架构最佳实践优化方案落地实施](https://juejin.cn/post/7373488886460710964)
-61. [3.40秒到231.84毫秒，我的前端性能瓶颈分析全流程](https://mp.weixin.qq.com/s/VtDxAJKFbN9CkdQMwf5N8Q)
-62. [前端如何体系化性能优化？](https://mp.weixin.qq.com/s/bRyQuEhhHCFdMMnsg0P9nQ)
+49. [性能优化系列之用户体验的优化方案（渲染层面）](https://juejin.cn/post/7315846848459440165)
+50. [TV端Web页面性能优化实践](https://mp.weixin.qq.com/s/e-LZsQVousHjwARksCL2kQ)
+51. [前端性能优化手册 - RoadMap](https://juejin.cn/post/7322677530469122111)
+52. [你这人能不能灵活点？前端代码简单优化一下？](https://juejin.cn/post/7309791510873784372)
+53. [2024最新版：前端性能优化方案汇总](https://juejin.cn/post/7341267497428025344)
+54. [前端性能分析实践——以字节剪映web为例](https://juejin.cn/post/7208451786964598841)
+55. [性能优化：通用快照方案](https://mp.weixin.qq.com/s/JeSu3QIrlQPqhR6Uf6K6RA)
+56. [亿级流量高并发春晚互动前端技术揭秘](https://mp.weixin.qq.com/s/0rDuZCuBzTK_ReTZ_mrneQ)
+57. [前端性能优化](https://juejin.cn/post/7363830946908979239)
+58. [前端到底要怎么去性能优化？](https://mp.weixin.qq.com/s/osp-YcbUjwUlxNP1vT9qhQ)
+59. [全栈体系全链路架构最佳实践优化方案落地实施](https://juejin.cn/post/7373488886460710964)
+60. [3.40秒到231.84毫秒，我的前端性能瓶颈分析全流程](https://mp.weixin.qq.com/s/VtDxAJKFbN9CkdQMwf5N8Q)
+61. [前端如何体系化性能优化？](https://mp.weixin.qq.com/s/bRyQuEhhHCFdMMnsg0P9nQ)
 
 ## JavaScript
 1. [前端网络、JavaScript优化以及开发小技巧](https://www.cnblogs.com/strick/p/6228339.html)
@@ -81,6 +80,11 @@
 16. [两行CSS让页面提升了近7倍渲染性能！](https://mp.weixin.qq.com/s/xGJ4K6y4LRj2JYqN89Nc4w)
 17. [初探富文本之基于虚拟滚动的大型文档性能优化方案](https://juejin.cn/post/7368372944584294441)
 18. [云音乐桌面端 3.0 改版前端性能优化之旅](https://juejin.cn/post/7366203409189896244)
+
+## 小程序
+1. [性能翻倍！京东亿级体量小程序优化实践](https://www.cnblogs.com/jingdongkeji/p/17927829.html)
+2. [5.25秒变0.023秒：小程序图片优化全攻略](https://mp.weixin.qq.com/s/Q5-IZYChQulNLaCRb7SBSw)
+3. [货拉拉微信小程序体验优化总结](https://juejin.cn/post/7433989023112675338)
 
 ## React
 1. [浅谈React性能优化的方向](https://juejin.im/post/5d045350f265da1b695d5bf2)
@@ -128,8 +132,7 @@
 14. [《现代图片性能优化及体验优化指南》全集](https://mp.weixin.qq.com/s/LN-fBf-RigSfS_XtU_19JQ)
 15. [前端加载超大图片实现秒开解决方案](https://mp.weixin.qq.com/s/uq5ygydlJO7HSZo8BfBctw)
 16. [性能优化——图片压缩、加载和格式选择](https://mp.weixin.qq.com/s/FtaUER4Hv3RzCReKTqIRNQ)
-17. [5.25秒变0.023秒：小程序图片优化全攻略](https://mp.weixin.qq.com/s/Q5-IZYChQulNLaCRb7SBSw)
-18. [图片优化入门：前端工程师的图片效率指南](https://mp.weixin.qq.com/s/O3WjpMvSsxwZIQsxFoomqw)
+17. [图片优化入门：前端工程师的图片效率指南](https://mp.weixin.qq.com/s/O3WjpMvSsxwZIQsxFoomqw)
 
 ## 构建
 1. [前端必懂的webpack优化](https://juejin.im/post/5d372851f265da1ba915bf78)
