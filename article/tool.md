@@ -85,6 +85,8 @@
 61. [B站埋点分析平台的构建之路](https://www.bilibili.com/read/cv22600289/)
 62. [古茗是如何做前端数据中心的](https://juejin.cn/post/7319181157501026331)
 63. [前端埋点与监控最佳实践：从基础到全流程实现](https://juejin.cn/post/7435834760343060530)
+64. [我用埋点让老板安静](https://juejin.cn/post/7324334380373426227)
+65. [如何设计一个埋点SDK](https://juejin.cn/post/7080797016086806536)
 
 ## 音视频
 1. [WebRTC基础实践](https://www.cnblogs.com/strick/p/16802072.html)
