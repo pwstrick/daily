@@ -60,6 +60,7 @@
 59. [全栈体系全链路架构最佳实践优化方案落地实施](https://juejin.cn/post/7373488886460710964)
 60. [3.40秒到231.84毫秒，我的前端性能瓶颈分析全流程](https://mp.weixin.qq.com/s/VtDxAJKFbN9CkdQMwf5N8Q)
 61. [前端如何体系化性能优化？](https://mp.weixin.qq.com/s/bRyQuEhhHCFdMMnsg0P9nQ)
+62. [云音乐2023年报前端大揭秘](https://juejin.cn/post/7386254162335793186)
 
 ## JavaScript
 1. [前端网络、JavaScript优化以及开发小技巧](https://www.cnblogs.com/strick/p/6228339.html)
