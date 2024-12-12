@@ -81,6 +81,7 @@
 16. [两行CSS让页面提升了近7倍渲染性能！](https://mp.weixin.qq.com/s/xGJ4K6y4LRj2JYqN89Nc4w)
 17. [初探富文本之基于虚拟滚动的大型文档性能优化方案](https://juejin.cn/post/7368372944584294441)
 18. [云音乐桌面端 3.0 改版前端性能优化之旅](https://juejin.cn/post/7366203409189896244)
+19. [两个新的 JavaScript 提案，助你解决 ES 模块加载性能瓶颈！](https://mp.weixin.qq.com/s/Ia97gao_UIwWET-REZLdRA)
 
 ## 小程序
 1. [性能翻倍！京东亿级体量小程序优化实践](https://www.cnblogs.com/jingdongkeji/p/17927829.html)
