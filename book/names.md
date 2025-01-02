@@ -177,6 +177,10 @@
 
 [《写给大家看的设计书（第4版）》](https://book.douban.com/subject/26664522/)
 
+[《About Face 4: 交互设计精髓》](https://book.douban.com/subject/26642302/)
+
+[《设计心理学1 : 日常的设计》](https://book.douban.com/subject/26102860/)
+
 ## 面试
 [《剑指Offer：名企面试官精讲典型编程题》](https://book.douban.com/subject/27008702/) [书摘](https://www.cnblogs.com/strick/p/9908591.html)
 
