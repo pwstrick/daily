@@ -62,6 +62,7 @@
 61. [前端如何体系化性能优化？](https://mp.weixin.qq.com/s/bRyQuEhhHCFdMMnsg0P9nQ)
 62. [云音乐2023年报前端大揭秘](https://juejin.cn/post/7386254162335793186)
 63. [商业化大前端在性能优化领域的探索与实践](https://mp.weixin.qq.com/s/WjBqGugM9b-rXOGLWqPjHQ)
+64. [2024 年前端性能报告](https://mp.weixin.qq.com/s/PDv6PK8dDTREAsIp7ZJSSg)
 
 ## JavaScript
 1. [前端网络、JavaScript优化以及开发小技巧](https://www.cnblogs.com/strick/p/6228339.html)
