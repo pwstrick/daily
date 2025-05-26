@@ -64,6 +64,7 @@
 63. [商业化大前端在性能优化领域的探索与实践](https://mp.weixin.qq.com/s/WjBqGugM9b-rXOGLWqPjHQ)
 64. [2024 年前端性能报告](https://mp.weixin.qq.com/s/PDv6PK8dDTREAsIp7ZJSSg)
 65. [前端性能优化的几个大招（理论+实践，看完就是Leader水平）](https://juejin.cn/post/7468655596641976320)
+66. [性能优化，前端能做的不多](https://juejin.cn/post/7496052803417194506)
 
 ## JavaScript
 1. [前端网络、JavaScript优化以及开发小技巧](https://www.cnblogs.com/strick/p/6228339.html)
