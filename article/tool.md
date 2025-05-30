@@ -88,6 +88,7 @@
 64. [我用埋点让老板安静](https://juejin.cn/post/7324334380373426227)
 65. [如何设计一个埋点SDK](https://juejin.cn/post/7080797016086806536)
 66. [自己写的网站如何统计访问数据？一套轻量方案搞定 PV、UV 和停留时间](https://juejin.cn/post/7492609807136931892)
+67. [京东企业业务前端监控实践](https://juejin.cn/post/7400271712359186484)
 
 ## 音视频
 1. [WebRTC基础实践](https://www.cnblogs.com/strick/p/16802072.html)
