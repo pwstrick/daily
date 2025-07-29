@@ -87,6 +87,7 @@
 17. [初探富文本之基于虚拟滚动的大型文档性能优化方案](https://juejin.cn/post/7368372944584294441)
 18. [云音乐桌面端 3.0 改版前端性能优化之旅](https://juejin.cn/post/7366203409189896244)
 19. [两个新的 JavaScript 提案，助你解决 ES 模块加载性能瓶颈！](https://mp.weixin.qq.com/s/Ia97gao_UIwWET-REZLdRA)
+20. [从 2.3MB 到 280KB：我是如何给前端 JS「瘦」身的](https://juejin.cn/post/7530173503787434030)
 
 ## 小程序
 1. [性能翻倍！京东亿级体量小程序优化实践](https://www.cnblogs.com/jingdongkeji/p/17927829.html)
