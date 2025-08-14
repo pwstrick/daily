@@ -206,3 +206,5 @@
 11. [INP 与用户体验真的有关系吗？](https://www.speedcurve.com/blog/INP-user-experience-correlation/)
 12. [Visualize Your Website's Render-Blocking Scripts](https://www.debugbear.com/blog/visualize-render-blocking-scripts)
 13. [网站性能优化指南](https://www.speedcurve.com/web-performance-guide/the-psychology-of-web-performance/)
+14. [前端性能清单](https://crystallize.com/blog/frontend-performance-checklist)
+15. [如何监视单页应用程序性能](https://www.debugbear.com/blog/single-page-application-monitoring)
