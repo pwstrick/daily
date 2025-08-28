@@ -209,3 +209,5 @@
 13. [网站性能优化指南](https://www.speedcurve.com/web-performance-guide/the-psychology-of-web-performance/)
 14. [前端性能清单](https://crystallize.com/blog/frontend-performance-checklist)
 15. [如何监视单页应用程序性能](https://www.debugbear.com/blog/single-page-application-monitoring)
+16. [TTFB：超越服务器响应时间](https://www.smashingmagazine.com/2025/02/time-to-first-byte-beyond-server-response-time/)
+17. [解决LCP问题](https://www.smashingmagazine.com/2025/03/how-to-fix-largest-contentful-issues-with-subpart-analysis/)
