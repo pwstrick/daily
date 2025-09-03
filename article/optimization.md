@@ -173,6 +173,7 @@
 13. [前端性能优化：更高级的缓存策略](https://juejin.cn/post/7384242370223865897)
 14. [从 10 秒到 2 秒：设备端 300 张图片传输性能优化复盘：HTTP/2 多路复用](https://juejin.cn/post/7542505547670241315)
 15. [6 行 HTML，让应用瞬间“起飞”：Speculation Rules API 全解析](https://juejin.cn/post/7543056559796109346)
+16. [大前端技术栈的网络原理](https://juejin.cn/post/7508225657959268390)
 
 ## SQL
 1. [数据库全量SQL分析与审计系统性能优化之旅](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651769043&idx=1&sn=06214b6b59b894cf504a50ed4aacc02a)
