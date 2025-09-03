@@ -67,6 +67,7 @@
 66. [性能优化，前端能做的不多](https://juejin.cn/post/7496052803417194506)
 67. [百万PV落地页的（不正经）首屏优化方案](https://juejin.cn/post/7002175847478067237)
 68. [满帮微前端提效过程](https://juejin.cn/post/7534370442350886963)
+69. [性能优化保姆级指南](https://juejin.cn/post/7543132908779077642)
 
 ## JavaScript
 1. [前端网络、JavaScript优化以及开发小技巧](https://www.cnblogs.com/strick/p/6228339.html)
