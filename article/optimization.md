@@ -215,3 +215,6 @@
 15. [如何监视单页应用程序性能](https://www.debugbear.com/blog/single-page-application-monitoring)
 16. [TTFB：超越服务器响应时间](https://www.smashingmagazine.com/2025/02/time-to-first-byte-beyond-server-response-time/)
 17. [解决LCP问题](https://www.smashingmagazine.com/2025/03/how-to-fix-largest-contentful-issues-with-subpart-analysis/)
+
+## 团队管理
+1. [互联网技术一号位：别只盯代码，这 5 件事才是核心](https://mp.weixin.qq.com/s/DlVe6kzwegQF3xKKZqjdFg)
