@@ -156,6 +156,7 @@
 8. [前端性能优化：模块联邦-从入门到放弃](https://mp.weixin.qq.com/s/mNgQHSAla22LWy-uGkEWsg)
 9. [我把大型团队项目从 vite 前端迁移到了 rsbuild，收益如何？](https://juejin.cn/post/7425804396292325414)
 10. [用五天时间把一个百星项目用 Rust 重构，性能真的提升了 25 倍！](https://juejin.cn/post/7423915153789976587)
+11. [前端国际化适配提速 90%！](https://juejin.cn/post/7545799169839988788)
 
 ## 网络
 1. [前端性能优化的另一种方式——HTTP2.0](https://www.cnblogs.com/strick/p/5658280.html)
