@@ -181,6 +181,10 @@
 
 [《设计心理学1 : 日常的设计》](https://book.douban.com/subject/26102860/)
 
+[《用户体验定律：简单好用的产品设计法则》](https://book.douban.com/subject/36432561/)
+
+[《破茧成蝶 用户体验设计师的成长之路（第2版）》](https://book.douban.com/subject/35141848/)
+
 ## 面试
 [《剑指Offer：名企面试官精讲典型编程题》](https://book.douban.com/subject/27008702/) [书摘](https://www.cnblogs.com/strick/p/9908591.html)
 
