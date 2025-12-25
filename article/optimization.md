@@ -69,6 +69,7 @@
 68. [满帮微前端提效过程](https://juejin.cn/post/7534370442350886963)
 69. [性能优化保姆级指南](https://juejin.cn/post/7543132908779077642)
 70. [从 58MB 到 2.6MB：我是如何将 React 官网性能提升 95% 的](https://juejin.cn/post/7566820121459294214)
+71. [我救了一个网站，性能提升了1500 多倍](https://www.cnblogs.com/yupi/p/18961201)
 
 ## JavaScript
 1. [前端网络、JavaScript优化以及开发小技巧](https://www.cnblogs.com/strick/p/6228339.html)
