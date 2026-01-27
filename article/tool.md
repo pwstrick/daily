@@ -92,6 +92,7 @@
 68. [手把手带你写一个前端错误监控 SDK](https://juejin.cn/post/7580674010837549102)
 69. [断网、弱网、关页都不怕：前端日志上报怎么做到不丢包](https://juejin.cn/post/7596247009815412762)
 70. [前端指纹技术是如何实现的](https://juejin.cn/post/7596970073750552612)
+71. [学会Sentry监控后，现在都是后端背锅了](https://juejin.cn/post/7558382753269415936)
 
 ## 音视频
 1. [WebRTC基础实践](https://www.cnblogs.com/strick/p/16802072.html)
