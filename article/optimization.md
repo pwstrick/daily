@@ -146,6 +146,7 @@
 15. [前端加载超大图片实现秒开解决方案](https://mp.weixin.qq.com/s/uq5ygydlJO7HSZo8BfBctw)
 16. [性能优化——图片压缩、加载和格式选择](https://mp.weixin.qq.com/s/FtaUER4Hv3RzCReKTqIRNQ)
 17. [图片优化入门：前端工程师的图片效率指南](https://mp.weixin.qq.com/s/O3WjpMvSsxwZIQsxFoomqw)
+18. [前端性能杀手竟然不是JS?图片优化才是绝大多数人忽略的"降本增效"方案](https://juejin.cn/post/7604045354070638626)
 
 ## 构建
 1. [前端必懂的webpack优化](https://juejin.im/post/5d372851f265da1ba915bf78)
