@@ -94,6 +94,9 @@
 20. [从 2.3MB 到 280KB：我是如何给前端 JS「瘦」身的](https://juejin.cn/post/7530173503787434030)
 21. [Web 字体裁剪优化实践：把 42MB 字体包瘦到 1.6MB](https://juejin.cn/post/7543452646579716136)
 
+## Node
+1. [重塑站外体验：大众点评 M 站基于 Qwik.js 的重构实践](https://mp.weixin.qq.com/s/O6KxxxiVM1EossmC0MbcnQ)
+
 ## 小程序
 1. [性能翻倍！京东亿级体量小程序优化实践](https://www.cnblogs.com/jingdongkeji/p/17927829.html)
 2. [5.25秒变0.023秒：小程序图片优化全攻略](https://mp.weixin.qq.com/s/Q5-IZYChQulNLaCRb7SBSw)
